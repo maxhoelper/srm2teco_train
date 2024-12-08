@@ -1,0 +1,26370 @@
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class HumanEval_84_solveTest {
+
+    @Test
+    public void test_solve_Problem_4_e3e44349_db87_4246_8b66_2ba4f36b7e4e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d5ec8fe9_4462_4362_93bc_dee429a7885a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a1f11040_0d9a_434a_8719_36dbfde54b9a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_617f4992_65ab_45d6_9297_6c0e99636ce7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0bdb156d_a7d1_4a0b_b224_90b94a29aab6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fc5b6cab_31b6_42a8_ac85_0124ce6434e3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_60b16c7b_d07e_4667_8cd2_db3390e778ef() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3ad47dca_955d_4326_9315_f1e467150f1a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e4a8a255_c05d_48dd_a6c7_49ce82941efa() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3d05f388_58c9_461b_894c_ec8ed8122cf0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a39b2731_26e7_43ed_b871_85b541103cba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_58ed53ac_5c0d_4274_b9a4_af1a17074c99() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e7f41c6a_e9e2_4dec_a681_6ec4fb7e6c98() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bb003291_3e8b_42b5_8b0d_a0533b3893ca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_25fa547f_5901_4f82_a55a_d5d3df934c0c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e8c513e0_8dc4_4b1a_a6e1_27371f10ef6b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c6b0861e_9dea_4abd_b62f_c6a6596094ec() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b60f8d25_fcec_4bfa_b402_92aa115b247c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9927436e_691d_4791_a228_653b7bdf55c3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8d234b21_7f56_4c3c_aae8_461db45d9ab8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d952fd5a_e12e_40d1_ac92_2ed9ec070f1b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_854630e9_b43d_4a2c_87a6_6878854e25e5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b52beb03_34fe_4f8c_8582_dafbdc34531c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d45580b2_ff63_4242_a5b7_4f5a59f7dac6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_84ecf6e2_71ee_4c3d_9e2b_41f2e57d7b95() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3a8734bf_6c72_4c38_8d74_c2cfd2c16946() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_db3bb24d_ea57_4fc9_9912_61ab0af12bc4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4911a9ae_2d07_450e_b19b_6723efa6da3b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fc93a16a_8174_4666_a4d5_71eb20e739e1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_76bd112c_6765_4209_89cb_a5fa4b15a887() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2776a37b_e4cd_4cf0_91d1_0f626ff9413b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_63aec68e_3377_455c_a4ae_a4caa04d7c28() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_30d63167_daba_442c_b560_734d4440d100() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2771468f_ac1d_42da_a673_1e5861489a6c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b35ea664_fa6f_4334_8924_e1c718b80660() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c9f85ae2_bd6f_4706_8a4c_516cf087aeed() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_16759917_331c_408b_8828_521921cb610f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2347f6a6_bd41_4636_9126_7014acb37fe8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_611d836d_d7e5_43fa_b2ed_acf8828a6a0e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ee796cd8_3013_49c6_9989_a96744598910() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5ddc6dfe_631a_4ffb_aac3_f24cbfe390e0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_41b3e13f_d95c_4e44_b21f_7862b3278e97() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cf4e5357_4ffc_4958_b0fa_54e8dad8c0f0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_60360431_c618_41bb_b8ed_57db46664f77() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_49f268a9_fe9e_4fc8_b216_33bdd9fab269() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cd38baec_d7a6_4adf_8e44_7f8d81d93f5d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d4b087e5_e0a8_48b6_ac50_0888b1b4172d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8da1f089_65b6_4388_b259_c8b7ce4806a7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e67f2f75_5f66_420e_947b_e8a3c19d1381() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f82dc819_f963_4df0_a0a4_f51fe0be53f8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6cde2bdf_44ad_4e5c_9f99_4d2d7420cf7b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2ad3e68f_bde1_40a0_8a37_195e3ea87a13() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a7610c59_c213_43e6_bc97_0fe7b2b8da9d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_eb9988e2_7b65_419e_972e_5d7469ab00e8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_eeabb3c2_4499_4d80_817c_9539ed82826a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d60e3d2a_fb34_4804_83ee_df8492ad177e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_870140ea_e318_4822_923b_15df4bdea74d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_63579a64_0d71_4fa0_8d51_54165adbbfd2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_219a26f7_5455_4ab2_be89_37c8b77effba() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c5443caf_19ba_4229_9f4b_6b79a6bd7461() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2848c4b2_ee4d_4687_97db_1b50afb6ab18() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_21e223a1_9605_4858_b279_08cece165bc2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_382f483c_4965_4b87_94fb_a97f9bc602e0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_056c7de7_f231_4938_a43d_3d49b197cdd3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_83cce642_a771_412c_8aa9_c352b64df98b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a93ce020_51a0_47b6_8f26_aaa620d811fa() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_578be3b1_dbd4_4dcc_81f2_d782d12f5129() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_97b1ccf0_522d_44c2_b782_4a0a0e4c4774() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_46cf48e9_2531_449d_88e8_5b372dd3c89e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5a023810_631f_4be8_a192_13dd66a4030a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c9300e6b_2370_4a76_917a_d6d7a8d31224() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7209b92a_a001_4d67_9eed_e39e546be59c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_afea4287_eeb8_4b2d_8d48_34ffd8fbcd77() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b0389122_b348_472e_abe6_ddf35d2ffddb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b56db953_f1fa_4adf_9b10_868933e9a480() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_05cd8daf_a7ab_4aea_878e_0db615a2307e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c7b5f1c5_9fa6_48c2_93e3_be978f5f2e0c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3635f872_1dad_4e92_b119_84c496134713() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d0cbcb49_d89e_46bb_b0e0_71013c9a71cd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0c6ccff6_b10f_45e0_8a29_96dce432df83() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_db0b9fce_d4f4_4b08_a6af_2fc0efb04a98() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e5faaff4_dc8c_4401_829a_9f758df3b37b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_05e03e65_ee4e_4fc4_807b_374c8656b3c9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_521d7779_75eb_4c82_968a_8faa2c6d3fc5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8525487f_1e76_4036_93b2_8b75afbb97f4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cfe5127b_0a10_4086_84ab_d40b818fc363() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e66f38c5_2144_43b7_8e3a_f29030a5b529() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_efdbab4d_99e7_45e6_a1d3_7af7d9c91028() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6a6b2c9c_a8b7_4ac5_ac60_b8ff8ad58665() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b9dc33c3_fe0b_43f8_946d_cd7f31262916() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f576c2ae_6992_4c39_86c0_62a759899a83() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_716c7ed6_aa39_4891_b625_b247c38a749c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5e53cf19_2a24_4751_b6e0_8bfba0a9d884() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_84bce40f_154e_46af_8421_1155c03603d8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c84d44c4_edf7_4891_9ced_5df05a786912() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e7e98f08_0b90_4720_b83a_7f5a9698337c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5d6e07e5_4e56_4289_8797_e62897c5a88a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b11ea8b6_764e_4a2e_8721_064ad3388591() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8ec42a49_c605_495f_94d0_749f8faa271e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_17b4ace1_6db3_427f_93e8_44baa0fc6a5c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_199d2d16_a2e8_4ef6_8d5e_892844d6c5e0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e937a129_e82c_4805_a844_468a4b0fc8a5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e87abab8_2be4_415e_9cb9_db904fae9bb7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_34a96025_11de_4867_9ec7_711a3521cc72() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7a062090_e13b_4b80_a7b7_a33a8a3e5f6d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6af3040c_6459_4097_a9dd_ee2dd0fde212() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dce453dd_ae07_4ed9_9a3b_51d8d5b8789c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ef02c610_e954_45a8_8d8a_511551519b58() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3d0c7310_f0ee_4401_82a5_170a519e74ff() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2f54dbbe_12a8_43f9_a5e4_2afb1dcc420e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_01355e28_5634_4435_b750_6476d3a31537() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0ebb55e2_452b_4e7d_ba25_f521a7bcf631() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bdc8ebef_ae8b_4f31_81ef_a152b324176c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4de3cfe9_7c8d_4dc9_9f11_bb0a970169ba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_877d9c39_02df_4c41_931c_3cdcef2b8feb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_68358172_14d7_45b7_be5d_1ed9899460de() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9af5e23b_b678_43ce_8609_bcdc35fc5469() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1ab6f184_b7d5_46c1_a573_4e2fabe97d72() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_09fbf77a_1289_45da_8c1c_9cde928616d8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_83a68dff_02d4_4564_b2e7_6b0b9b8c09af() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ccf72955_65f6_4d67_adfd_910488951b5f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_823d8b0e_793a_42d2_ad6b_68370a935b5f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4e9dd11b_09c7_4b26_ba1e_dce086050fd6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_72adad05_46bf_49e8_ab9e_aafc84260a35() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3bdce906_309e_4daf_a157_4b27098375d3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5a64ed66_80d1_4801_93da_db3d119d2522() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b9e11aca_92b3_40ff_8b4e_7357d334a31b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_166cca02_4363_4b4a_99ad_1dfef8704e33() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9d4e2d41_7955_4696_afba_bedefd30e476() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3a7bfa78_4963_4ba7_ab74_e7449a618680() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1d07687e_1208_4ed8_88cc_9c1515007b39() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_74381ced_10ef_423b_898b_e9dbbb8cb3a4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b7ccfafe_0568_403a_865f_eaa60167726f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_85743404_5d9e_4ef9_9d75_b7978f985a67() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b5c1d943_1495_4d8a_911a_4f26d64c36bf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_870af6c2_1a0c_4b40_840e_d411fc7ad7f0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7cbe7968_7714_49c3_8768_9639d15e7ed9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3afe2816_60ed_4c28_a2f4_836ddce24bde() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5a6854d5_2eaf_44aa_9cd0_39065bf55280() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0e7bdcd7_38a5_42b9_9802_8004651a635d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9c7c8d2e_c88e_48d7_b77b_e74d120da27b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_19fdd5e9_6335_435a_b572_0291f524ef04() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6588a20f_7abd_4a1f_a4ae_25fc54333e8e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a7ba902d_003f_48ff_b48c_1ab4b2a30e68() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_77404844_daf3_4f59_a91c_1c0bce6a28b1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_afd09474_4cb2_49ff_a139_a1460eb4eb55() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_de8756a9_0df3_474d_8726_6131c660601c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c9f85ae2_bd6f_4706_8a4c_516cf087aeed() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_60b59c59_66bf_494c_b5e1_74b09ded87cb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e7fead4e_691b_4e8e_b29c_4dfc51232a4d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cc02b59e_7a17_4aec_a255_204e4f891903() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_49dc384e_c742_4412_89db_8b046a50387c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ed1a3e01_ed72_436f_b452_31f8c0dd14bc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2aef80b3_da6c_41b9_b078_a583564d94ca() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_716c7ed6_aa39_4891_b625_b247c38a749c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6781fd2c_4ccc_45a6_a13d_e72cb0050a51() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4de2f5b6_a1e4_4604_8502_5791b380eedc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_57922694_6c3a_441d_9461_b5decec46a9d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_876b572f_f445_4a2f_9d1f_c1f0c50a2c68() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_69c67cc4_1267_4cf6_a327_e7d1f37196a5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3635f872_1dad_4e92_b119_84c496134713() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ed81cda7_86dc_4a9f_8a29_bed0d4990acf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f524fff8_b687_4548_8c9b_d43ac3e62731() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ce902df4_55d1_43ca_8795_f314ee4bbbe5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e82d7384_76f6_4132_b774_3b86df0cbdd2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_08ede94f_aa8b_4875_93fe_b55c90a05b58() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_31c33e24_d818_4969_b02e_be64e88655b5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_90081ef5_f409_4a4f_85b1_a3d70cfc0edc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_85c17b1c_d111_40f2_8b0d_19a0e9800ed6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_534a5515_2bc3_483e_8e71_879e30269ba3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8e4670c3_351c_4b89_94e2_f4fa38ff7897() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dbca5dba_7ede_48ab_8115_40160a6705ae() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bde1bc62_416d_4235_8190_fd0d326cc860() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4abd5035_e8f1_4525_ada7_9613869563bb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1c084f13_9579_4fb6_9ea6_7ff274a50a19() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_841636b4_ca87_4b17_9481_e333105596d7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4e0955fa_7343_469e_9510_4221fbab4645() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1d0b4a1e_8893_44ec_ba9b_8e283722f141() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e7e98f08_0b90_4720_b83a_7f5a9698337c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c4c2a250_2b9d_44a7_9653_f4f30053b70c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0c9836d9_0cf0_4903_9fb6_61e85b4ac3d8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2a559702_54d4_4b37_9706_83a68820e1d2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0c355e74_3bf7_40d4_8421_76b83f1b51fa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2a559702_54d4_4b37_9706_83a68820e1d2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e7f41c6a_e9e2_4dec_a681_6ec4fb7e6c98() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_320d285c_803b_4f97_ab96_f2e4fe9717cc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b0c247f3_0801_4e3e_ac51_97f323c6c925() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_58f74614_475c_4e16_80fe_bffb26cbf4bf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ee796cd8_3013_49c6_9989_a96744598910() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_153c40b2_a604_4e40_b7b3_48b2b35fd2ff() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4e46a5c5_bf70_4466_9efa_c5cc21151a97() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5f2d3347_866d_4487_98a8_d0f5db34d6ce() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_92c6ea93_c4e5_4b71_b149_5982190f7233() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b06e1993_0c59_4fa6_a331_e1a0dca046b1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5781d895_7c60_45aa_b961_428ce8c36b36() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5be6bd48_d54d_4b96_b8bc_26237b31c319() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8b34aa48_c5ae_417e_885f_88c4e4e0b3f0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_928d1014_7217_4109_89cb_5dbf8604e6fe() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7590fad5_3667_4486_a115_f141c3a7e5d6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f1b3632d_b705_41d6_85e6_1586e3d72821() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_40b9e460_6fc9_4790_a1ff_a1cb77694ccc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e2a24609_0f8f_4304_9aff_94b6caa89edc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d10300d7_5417_4729_996e_5b17b57bbd4f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1ec98de4_52fb_4bf9_8001_d037b63299ee() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c4881bf0_e295_4536_86c7_a5529ae97731() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e1f56985_de3b_4416_aedb_d1880378ca43() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4e96b4ed_5040_4470_8d62_5a16be45ec78() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6baf4b4f_b8e1_4c3c_be5d_64601576deb3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bca4df27_f310_4f57_a072_fefe0d08ecd7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7619bf97_b24b_4fbd_93fe_3f4903fbab56() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_27b6628c_c599_48c9_a131_bf7c8618f86f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_75468566_e205_4e1a_af8e_a74654084722() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8b34aa48_c5ae_417e_885f_88c4e4e0b3f0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5db5d1c4_c531_47cf_a430_acc2083d99c4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f02665a5_8912_46c3_8a23_a672fb3220ed() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7324f1da_4434_4640_9b1e_dab480ba7e06() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c6b0861e_9dea_4abd_b62f_c6a6596094ec() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_34a96025_11de_4867_9ec7_711a3521cc72() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dc1b108a_3267_4fef_8946_a82e62292588() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3fd9ea5a_1ed3_425d_b43c_75ed58f2ab0b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_561fb849_1a44_4657_99b5_1281e802786f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_493db9bc_35dd_4c42_a992_ac00e1939168() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9d1fa8c2_aadc_4019_910c_a3bfb6cc66d6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4894401e_beff_4b34_8130_8425210085fe() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1a6ede5e_be4c_43ae_900f_f26d62c5feb0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e7e98f08_0b90_4720_b83a_7f5a9698337c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2848c4b2_ee4d_4687_97db_1b50afb6ab18() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7516328c_adbd_4efd_a769_ef9d34c8f1de() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7a0ba191_61ea_4af9_855b_89e2f676ef63() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d0368850_5322_4294_bdf6_86342fe74b1d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_892add6c_e19b_47aa_bfa6_a7b320e339b5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ceaa8847_4671_4586_bff0_6d83d813ef3d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8141d2fe_9576_4bdc_877c_e0746ad40995() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6183dba1_52e5_473e_baa7_afbc56030897() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_25ffee00_b61e_4085_8743_c22a59b26838() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_60b16c7b_d07e_4667_8cd2_db3390e778ef() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_869908fa_70f5_48bb_8b6d_2bb4c3e4bbbf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f1b3632d_b705_41d6_85e6_1586e3d72821() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c8e1bc08_c7b7_4ae5_b447_e70bc44e3881() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d2714e1c_55a9_44ef_9ac9_b5be428ac300() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_033dcf92_4fb4_4ab8_bc05_b346ff162ab7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_93072bcb_9af1_4686_ab34_4ab5865c73e7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_15a4e577_d428_4163_adc6_943281f05579() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_52e17eae_916e_42d2_828a_8f593bf28b1c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_26c73e04_f57c_46b9_9f44_b7b4d4e77185() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6c9f0c73_9ee8_41c1_92f0_a2f8f0a7acea() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e0911190_1824_4b97_a8db_40193b05f88d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d952fd5a_e12e_40d1_ac92_2ed9ec070f1b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6ec65ad3_f94f_457b_80b2_869b8ab32206() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_52e17eae_916e_42d2_828a_8f593bf28b1c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_153c40b2_a604_4e40_b7b3_48b2b35fd2ff() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0a4b2443_aeb1_4672_8e7f_700c02876a6d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7253e2f5_b704_4c12_b843_238e393f2046() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_40801ef7_c08e_400d_a8aa_9400f81306f4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a6ebd095_3de4_4704_9aab_45ee58c2255b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fe9ff6cd_7803_45c0_a680_4aea16b802cc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4675727c_f365_43d3_9ac6_3c614262a6b4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_76bd112c_6765_4209_89cb_a5fa4b15a887() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ba5c2945_1540_43c3_b359_42889579461d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2d047575_d311_40bf_a237_a9c091d4eacc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_441f3fe1_a2a2_444d_8402_47158597c3b3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6aae25ba_4522_4852_a9d9_568c1818810e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a7ed0c27_30dc_4ebb_9ab5_c9f103d48970() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6707b203_7cb7_4cf1_bcf9_a9ddea8beefc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d5750a10_f1b8_4aed_bbda_46084c457131() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4abd5035_e8f1_4525_ada7_9613869563bb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f5fdb420_e2c9_413d_95e2_542e5159db3b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_80f216e9_eef4_4751_a866_e1e00974aff4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_90760d29_766e_4627_a98f_eef612d43a55() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0591ab5d_1ef8_4c8f_99e3_992304521abc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f6126dd9_a01a_42a9_b086_b620008236ca() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_31702448_c3da_48b3_a998_ebdba9573399() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_88649dd8_3860_4746_9532_1464c92b83b9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_60b16c7b_d07e_4667_8cd2_db3390e778ef() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_991299a2_cc94_4eeb_9b9f_54aaaa34c0bc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ac1f0a0e_9fb5_4c6e_86fe_78559549e01a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_770d13d1_0e58_4ece_b9bf_240d25ba5030() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_342d0325_2f0c_42b2_b45a_b9b155b46e75() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3832c497_79ad_461a_851b_63e6ff37fbb6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_02b165cd_bdec_48f0_ab68_fe944d320cfb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a8a1f1e0_8380_48b1_aaa1_644b2618ef8c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e097fa44_e57e_4c4d_a033_7b473f37eecc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_54877a6c_6fb9_40ed_8956_ba0c207309a0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_268b4641_acda_4667_ba42_715a731ae47f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_401730ca_b939_4efa_8972_17f85dbaeafe() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_41fa8b58_f5cb_4460_9fc8_e7361cdec373() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b8c2969b_f051_4c66_8c75_65559365b746() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e9a438ee_8d37_4be7_9bdb_25943ee847ce() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d4070974_130f_4d64_829e_a91ae6e6066e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a7610c59_c213_43e6_bc97_0fe7b2b8da9d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_936e8be7_2f1b_4f15_9110_1a4075cca24f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c3f32e25_b867_43a7_acb1_b6d79c45dab4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_decdc51d_48cb_4521_bfbd_cb78fe014f4b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6183dba1_52e5_473e_baa7_afbc56030897() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_149250a6_a067_4c0d_8570_c47070d8647a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_637c5bfb_b7d2_47e4_bec6_f7c7f8a3c751() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_09fbf77a_1289_45da_8c1c_9cde928616d8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cf1934f4_9e19_43bd_8a33_75e59e8de2bd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_32894480_a3a3_4239_9675_3f51f91bad48() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fe956c1a_c231_44d4_a347_8427e2705235() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fa1c0d73_b70d_4794_a40c_cbcd5fa59e47() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3614be14_3b8a_4853_8318_ba848716c5f5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8ee0ecaa_77f5_4cd1_97aa_15d278b37a9e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a13c9acd_d22d_49b5_a339_e3426f34a606() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9def2459_94fc_46be_8fa8_c4944acd0379() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c149a030_c967_4c2a_863c_1538de8a54d2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a7ed0c27_30dc_4ebb_9ab5_c9f103d48970() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4032d204_b2ea_45ae_9673_efe38fabb02d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6db44e39_f16e_4c17_baec_78e5cc49b479() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cada834f_8ba7_4230_8fba_bc51c053bdc1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1ab6f184_b7d5_46c1_a573_4e2fabe97d72() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_052da31f_9e3f_4cc7_9a19_7c52c816f0e9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_003c2b19_9ecd_4323_aa2c_3e47b82e0f8f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8650f6d6_e319_4093_8760_2f627d2ae1e9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_da8cd9fd_bc7c_4385_82a7_d55c70f3c229() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e3ccb7cb_3a8f_4d56_a238_343fed007525() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2b564516_a422_487f_af83_39f27e6f0ce4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b40f7713_6106_401c_857d_7cfb5158c8a8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d6bcb074_b21a_42a8_9f7b_de8d82f24e90() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2371fc81_407d_4f5c_892f_8bdd556f6d76() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_60ec8529_ad82_4e8c_98c1_fb0f5e843f87() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_23df1872_4a5a_4c5c_bf32_364f111e416e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0016cbf1_52c7_4aad_a5e9_c4fb0d1d8d01() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_13bf755e_3cc7_4c8d_890f_5dfb928d25e2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cfd9e60b_369b_40ca_bfad_b32bc176bcd1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4cf228df_2e11_4b08_91ba_e839fe79d66e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_70053005_25db_41b1_83f6_6de573ac6982() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6af53518_90bc_4505_a7a8_8e3ddc233570() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_35b9fb25_afb8_45ad_ba30_d9ec8cb21c75() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9aeb183b_a332_452d_90f7_bde4c01b73f6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dd64a5af_1710_4a7c_875a_2e55b9585ddb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_eeae91bd_c19f_4b17_8a16_e7ca9b75e722() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_833afbfd_966c_4558_866f_b4634e377688() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_644ac71a_adbf_4739_a0f2_052d15b00239() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0ed70661_76a2_4e1d_9505_6e3d13b0dea7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e3f20077_d561_40b4_92fc_f9f0cd5b22c9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c6b870f9_c405_463b_a38c_9c2e6f2065ce() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_033dcf92_4fb4_4ab8_bc05_b346ff162ab7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_10ff09f3_2430_4bb5_8256_79f2d6a3a58e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_457a0b49_3230_4d4f_b9a2_b3b7fdd533b1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e3ccb7cb_3a8f_4d56_a238_343fed007525() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_32ff6ac5_e5cb_4089_9637_a0a7dbecb7f9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f8a27e1c_685a_4aae_84d2_cc3077f9ee8e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_72e21916_98cf_4792_8fce_9c528fc43a71() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_13c3e04a_1298_45c6_8fde_6883fa6622be() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5ed88978_9d7f_4700_9151_db25fe71ec60() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8f84b30d_3c3a_4e08_8bd0_4c96b1ec0579() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f7160945_6f17_48bd_bd6c_c35e90833918() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6ed0ab77_f0cc_4d84_b4af_42ef954019ab() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_323f9d8f_2f1e_4ff2_82a5_ac6c0da96729() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ece84a06_8625_4afc_ba8e_45b1ebec8f73() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_522ad007_1e79_49f2_9b6f_e15f52479b1a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7fae0030_ee8a_4f36_a49e_f7e21ef75eed() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_689c01ac_5ed8_415f_bba0_a6ac22fa1829() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e426675e_e8ec_4e05_b18a_f7227e80f218() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_85cf6cd7_f43e_45ad_b620_4e7e0d7d0fba() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_70d48889_bb91_4ac7_a743_d56fa7f5d67d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a7ba902d_003f_48ff_b48c_1ab4b2a30e68() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2b29352b_45e7_4a92_922a_1083c2f41133() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3bdce906_309e_4daf_a157_4b27098375d3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7b4eeea9_7364_4a84_818e_015146d2d2ff() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_02b165cd_bdec_48f0_ab68_fe944d320cfb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_104e3dfa_a98e_4fbb_a9da_db94e71e0ad6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8ec42a49_c605_495f_94d0_749f8faa271e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_37cbf1de_2435_40a2_a63a_5115477aeb98() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0e63f9ba_1bd1_4fa0_8e89_108bcdfd3eba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_78cf04a9_3dba_4206_a548_b97071b392a4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e201995d_066e_4df2_84f5_2d6b144e4d41() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3a7bfa78_4963_4ba7_ab74_e7449a618680() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_22683d4e_a2d6_49a7_bcd4_c41e0a98b337() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ae133d8b_9e2b_41ca_a381_ca714e8de5a6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3725f14d_fa9e_490d_ad77_f8de95485a98() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0d937edb_a2a2_4e22_8d39_72f712a036f4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_36a7eb1e_f113_4394_aad9_af53b85a0efb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f1afd8b8_78bc_4ce3_8950_129c17a1a4ef() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0ebb55e2_452b_4e7d_ba25_f521a7bcf631() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_de4a09bf_2e5e_45ae_9ec8_700009917e86() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2c6482b4_0670_44a3_8f13_c7e2c78faaba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5cee3fa9_63fa_4763_be9d_e9bdbf942af1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e8e2bb97_fb36_470f_a096_3c0342c07a5b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_55299706_9300_4758_9fad_a6c6ce8f57fa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ec74eb8d_5123_439f_bbd1_0adde4dd9a65() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ae133d8b_9e2b_41ca_a381_ca714e8de5a6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c1e757c4_4963_4a17_91be_36535c5f65a1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c364e481_2c7e_40db_9e4a_d80b0138840b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2cb80147_627c_4e00_a6d2_f7ff10b4c870() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e0911190_1824_4b97_a8db_40193b05f88d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b37a9333_9b52_4988_9d33_a3da55d85736() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_677bfd97_ed14_4795_8b84_f653646d0163() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7590fad5_3667_4486_a115_f141c3a7e5d6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3693d79b_c532_4a0f_a4bc_98a8a2aed2b8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b10a4c87_475a_426d_8b9f_b06bba3d5d77() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_978e4d6d_e516_44ae_9412_04211b2983b4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b60f8d25_fcec_4bfa_b402_92aa115b247c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2ad3e68f_bde1_40a0_8a37_195e3ea87a13() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9e272c09_5591_4949_9a93_5dec4a77c56f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5f7d4e8d_de56_47da_8f33_08e14691b60a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f5fdb420_e2c9_413d_95e2_542e5159db3b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5fdc294c_23c5_4f81_ab5e_f01360afbb94() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c8f2e053_e958_48cc_a64a_bfb609186378() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e0db2c96_e210_4235_8377_c04a9dce879a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bcc68e49_d709_4bf8_872a_2dfb96900c09() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0612d0f7_283e_4bca_9ea7_cba9081daa9a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_49f268a9_fe9e_4fc8_b216_33bdd9fab269() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f576c2ae_6992_4c39_86c0_62a759899a83() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8979fea0_ca5f_403f_b863_1d2ebbf17366() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f679c4a1_68d4_4427_889b_4ef98afa1e26() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e6272477_32b4_4653_a587_3cdf5ea0c81e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e82878af_f183_401c_afb3_6701862579de() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fecc4bf0_f336_49c8_ac6d_c47c0f884156() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_000075cf_efaf_4a93_ab07_02bf27f3b253() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d49a27b4_3d97_460c_87cc_c2d9e5e5a439() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a18604a9_9e0d_4d74_a9b9_8ec3751177cd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c5ad0707_9b67_4607_8864_4ca6a7120e06() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9d4e2d41_7955_4696_afba_bedefd30e476() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_46067277_6108_4d02_a364_8d87c78f17c4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fbf7e5be_d74b_43df_9263_31c98ef15e12() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_65edcd65_b7bf_4c42_82ed_ad1a75b3c342() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e4a8a255_c05d_48dd_a6c7_49ce82941efa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a4b57e2d_e490_4473_8358_e1293e688c8e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_446321df_7080_4bd4_a009_134538c6e01a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b8c44c5f_5f63_4b9c_ab85_068980233748() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2e77e0ca_aa33_40d6_8556_0890293706a2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_028d7cf0_010f_4721_b9c8_bfe7cdef9ed3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1cfd8c49_3222_4e4c_ba47_4c48a732c30a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1630288d_8003_41f7_bbe9_8b7c5668e174() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ac1f0a0e_9fb5_4c6e_86fe_78559549e01a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dd543046_4d33_4f25_acb8_305b1bc3cbaf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6b935eb6_393b_4096_8b41_646bc8c441b9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dd1beaa9_3569_48de_8dbc_9e11788bc7af() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_217fbd48_75b5_4988_a14d_6539d43a1207() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_22068b8c_e1d9_42b2_b409_a7e534bbd46c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f7cd2ab6_8808_404e_9704_930a2f0d4f89() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_382f483c_4965_4b87_94fb_a97f9bc602e0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_71648411_553a_468a_8f6a_1b762091e22c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_60e8ba37_38c9_4070_97ca_8d9a6a090764() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a7421513_66de_4310_81cd_330ce895f6e7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c835bc49_da49_489d_921c_69600b77165a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8fc95f93_3c6e_4c4f_9a03_3144c025b174() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2aef80b3_da6c_41b9_b078_a583564d94ca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e3891ae0_4d49_48d6_8040_7f0761d8d493() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5a64fe61_7fa1_482e_a1f5_a9a4d562d0c8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8d234b21_7f56_4c3c_aae8_461db45d9ab8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fc5b6cab_31b6_42a8_ac85_0124ce6434e3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7324f1da_4434_4640_9b1e_dab480ba7e06() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_180d8c17_ae69_4003_a8d0_cae257bafd2b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1ca39176_bfe2_47a4_b45e_c414aad3cadd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_191e7c7c_6bfb_4829_ad30_823113aed418() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2b9f8a28_4575_4012_b0fa_a0f4a6c67206() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a470db42_18c4_4197_b8f5_6436d2686670() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3ddbd0c3_aa04_473a_b7d2_e3edbe43f5c5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b34f5115_719e_454e_864d_66f1ebdf8bff() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b914459b_07da_467e_849e_8ca3becd3ab5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_991299a2_cc94_4eeb_9b9f_54aaaa34c0bc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_920faaf2_6102_4085_a491_b34e5d3a9cb1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0dddfda9_6a07_4b81_bcfd_dcfc436fa133() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f90ebc84_0c08_476f_b1a8_9040f4ca9532() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ed666185_8b86_47cf_84f3_ecd7a3e23d94() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8979fea0_ca5f_403f_b863_1d2ebbf17366() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6ec65ad3_f94f_457b_80b2_869b8ab32206() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f278f8fc_62a3_4fd4_bbcb_bde4f239e099() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a20307a0_4c77_4725_8214_f06b04a12beb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a4fde44d_a539_4bb0_bb93_f0a922129783() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5cc987b4_7d85_4aaa_9038_c449ce0ccd90() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2f76c11d_e22f_4c26_bda4_b3a994aa1afd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2361af0d_621d_47ab_9e6a_25f7ea57315d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_554be604_44bd_4918_8b78_dac423c1084a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2a2eb014_d542_4ce0_b3af_67be7a1f65e1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_edfe38a7_4707_4138_af8f_c5838759b8a5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_22e55aec_b276_4639_aa34_e2e853d4f170() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_57922694_6c3a_441d_9461_b5decec46a9d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_90f68cc2_ac90_407a_accc_d535413fd050() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ffd642c1_7697_4a9a_8b6d_025ef391dcb0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_93072bcb_9af1_4686_ab34_4ab5865c73e7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ab3a5837_075d_4c37_bd72_0a0c80d20014() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0d2908a8_7c31_417e_a173_6a0278d3f160() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b3775fc0_cdec_48e5_8544_0b12aeb675a6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1c7a64c4_4fc2_4dae_9b56_80ec06a99318() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_24880b13_45ff_49c5_a396_6dcf337884d8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0d012999_e19c_43fb_8068_68cfee603a1a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_86c56c93_7160_4913_ba13_67ba48a26054() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_28e0137e_cdfe_4663_aec1_676117dddda0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d1cca2ad_cfad_4935_beb1_e50d76aeded5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f83ab228_5466_48aa_b826_aff44938f8e2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a26f959f_5f66_4586_886d_55767bc97e21() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5a863955_29a3_44a3_9fb6_51a51fdd8fcf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ed9a88f6_73b6_424b_9136_9762f05dbf99() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_177b7766_0d57_4b61_aad5_f253e5d1991d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_242c9b13_ba8d_4817_92aa_fa095e1cef28() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c5e8aa40_e3e4_4e67_9dda_b85214a6b326() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_31c33e24_d818_4969_b02e_be64e88655b5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cada834f_8ba7_4230_8fba_bc51c053bdc1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f03594d3_485c_4029_8343_1c1f63b6b3e4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0fa3cf0d_cbc4_4956_9fa1_4db3765d8e5e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_42bd0337_80f6_404b_b757_f8649030e93d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_efdbab4d_99e7_45e6_a1d3_7af7d9c91028() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3d19e69a_8abc_48c0_af48_96733d4d70c9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e2487cfe_d012_446c_8d24_5f0af9f0904e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0629c666_f6b2_4b6d_b6af_728a1e54c484() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1893a9d3_313d_46de_854e_9db2e87c52bb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9b2f83bb_e52b_4c92_9e5b_09153e33dd46() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_40505aac_94d5_4f3f_9473_e20685ed48ac() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2b564516_a422_487f_af83_39f27e6f0ce4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4ddb33d7_00c3_49d1_8e6f_fabbb3d07336() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2747cdb6_6615_4f48_a467_c36a46783624() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a2f004b1_e980_444a_a27e_9afe4edd2902() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a7f65431_753b_4118_8a64_1cfc8159c507() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e66f38c5_2144_43b7_8e3a_f29030a5b529() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0eaa8c60_4854_4e6e_a33a_5c29fc5c47dc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ac23a8e3_e21e_484a_bd55_43bb75b5a4e2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f7160945_6f17_48bd_bd6c_c35e90833918() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b06e1993_0c59_4fa6_a331_e1a0dca046b1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c2e2e9a8_8aa9_40f3_b2f3_d76b0cb054d1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e8c513e0_8dc4_4b1a_a6e1_27371f10ef6b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_41d5129f_128c_4eb5_bf25_3eccf6f056ef() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a7ed0c27_30dc_4ebb_9ab5_c9f103d48970() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8b3a08fc_7992_4042_9c3e_709f82e232a3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4e3c57dc_02c5_441d_bae3_12813e571f6e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7ab2d6b8_e683_4860_9807_9fd669471219() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ae5d4d38_e851_4996_9c30_f6ce7631ea8f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5c278fe6_acc2_48b3_ac4d_704ca9c4cdf9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7d912ee9_289e_4600_b643_1020a1f53479() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2798658a_c945_4197_9cd6_8b030259c0e8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_794bff1d_a536_4e52_8f26_6004d961eaab() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5c9b0d43_c244_43be_aca0_9e47f7502165() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1d651d77_b35a_4326_a7ee_e6fcfc020306() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c1e757c4_4963_4a17_91be_36535c5f65a1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_decdc51d_48cb_4521_bfbd_cb78fe014f4b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b52beb03_34fe_4f8c_8582_dafbdc34531c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dbfeafdf_be77_4254_b935_72ca798c497c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dca10049_0b74_4c25_9ec0_7b6bcbd7cd9d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_928d1014_7217_4109_89cb_5dbf8604e6fe() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_08894e98_f859_4d31_9b27_3f851c45027c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_53faca39_d614_4bdc_9ea9_17f7d553fe16() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_886d784c_2170_4f71_93e8_ae3e3bc417d5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_886d784c_2170_4f71_93e8_ae3e3bc417d5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3bdce906_309e_4daf_a157_4b27098375d3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_af32b1c9_e0cc_415b_8f4a_8604ee5bfdac() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3afe2816_60ed_4c28_a2f4_836ddce24bde() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1e8c1158_4987_4117_81b8_f7074f259e98() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9eadd6ed_f4c4_40aa_92c4_0775c1569e87() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e391593d_7b4f_4c16_93c5_14c697ee9a1f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2e7d7e9d_46a3_4537_925e_7986f99f8674() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ac23a8e3_e21e_484a_bd55_43bb75b5a4e2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8e6d746e_f1d7_4baf_b121_16f79f1c0e14() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_db618416_86df_4776_86ac_a843d92846a3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dc593ab3_6b1b_4d15_be05_c8895d4237c5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5c9b0d43_c244_43be_aca0_9e47f7502165() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4cf2db9a_f7a3_4925_b007_c72500481faf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_eeb7511a_7734_441e_bc88_b240d628d2c0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9b2f83bb_e52b_4c92_9e5b_09153e33dd46() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_91736fce_824b_4bc6_8c7e_200285c8e9d2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fc8826ee_3c04_4217_bf02_5a49ec953f06() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_05cd8daf_a7ab_4aea_878e_0db615a2307e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e1baebfe_92a7_47d5_9bf9_c8dfdc4c31e9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_60ec8529_ad82_4e8c_98c1_fb0f5e843f87() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_86c56c93_7160_4913_ba13_67ba48a26054() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_876b572f_f445_4a2f_9d1f_c1f0c50a2c68() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f1b3632d_b705_41d6_85e6_1586e3d72821() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9e63c08c_4c64_4db8_b4c3_8fd4d52f82f7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bfd006b4_42dd_4a3f_9956_397f4de7791e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b0389122_b348_472e_abe6_ddf35d2ffddb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d3f691d2_9242_47f4_9824_39c92ec10bb1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ad3fff70_21c2_4ebf_b10b_dd7f28b5ce75() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b45593d2_7b5f_4297_9335_23be748d89d4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_10f1908a_77e8_4b2f_9718_cbf3458ec0e5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_be6b3e6b_3d32_4554_8eb9_fa607eed73c4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b8f8ab51_689f_4416_8886_cc2c31ca3d86() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0b141865_7b6c_4e68_923a_ff77ca480170() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_87450759_31d0_41a5_b52e_0bf295cb5e98() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d59f251d_ed29_445d_8771_2461de99252a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_210544ab_e9bc_49b1_9b76_624e9ff64690() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_27e65240_9480_4bc5_b910_e06216716ce1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_050befa4_aeab_48d2_ae36_853b40a12d84() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5a6854d5_2eaf_44aa_9cd0_39065bf55280() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_57e389af_255c_4b1d_8f86_c6c1a665c4d2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cd0485ba_1984_476e_97a6_6a977a60c9b4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_72dae36a_acf4_4bda_89cd_8aeb49c258f8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c6161ac6_750c_4d70_893b_e456b8fedeb1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_94319fe0_071c_48c5_a6d8_1d9d18f04922() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_eb2a7b53_4c81_4401_80bd_1eecddfec722() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_db3a3b39_eaff_47dc_80e1_534af4b8d5cc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_17823e19_4e5e_452a_b4f8_b32c112eabca() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_de4a09bf_2e5e_45ae_9ec8_700009917e86() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4de3cfe9_7c8d_4dc9_9f11_bb0a970169ba() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5c278fe6_acc2_48b3_ac4d_704ca9c4cdf9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e67f2f75_5f66_420e_947b_e8a3c19d1381() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_17b4ace1_6db3_427f_93e8_44baa0fc6a5c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0ca0dac6_80da_492b_b40c_c4f49ea4a204() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cc8f7fb2_2a6d_4d2e_987d_1acf0224cfc8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b40f7713_6106_401c_857d_7cfb5158c8a8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_160aaa34_3f6c_40a9_b6f4_32f2031913e3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5fdc294c_23c5_4f81_ab5e_f01360afbb94() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ad668a93_3cf7_41c1_9832_b2fca796e75e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e62f79e3_9249_4cd0_8081_97d144750504() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b0c247f3_0801_4e3e_ac51_97f323c6c925() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b34f5115_719e_454e_864d_66f1ebdf8bff() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ed898627_c03d_47b7_b15c_729f2564dd53() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c634f8cd_ab43_4790_ae1e_f2ffe8b06d26() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_da599e92_7e0e_4bba_8d19_6dbd7ebea151() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_28e0137e_cdfe_4663_aec1_676117dddda0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5d1ccfc9_0253_4589_b863_649344697b8e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3dd53a6b_5f45_4123_b707_cf464ff63b4c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5b543cf7_5539_4615_a973_8104571a2fd7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_32894480_a3a3_4239_9675_3f51f91bad48() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c2e2e9a8_8aa9_40f3_b2f3_d76b0cb054d1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_801aeb9d_3731_433c_978d_46b8e8d9adf6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_52ffa5d0_43e2_4a83_a33f_6d21529fd111() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1511691b_6ac0_44b8_9090_e50c2960e1c8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9dd1b7da_a95b_406d_9078_37f9cabf23fa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b01d011e_c46d_4315_a03e_44de1c1b186c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_06f2fc64_20e7_41d3_851b_8852f8f92e7f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4e9dd11b_09c7_4b26_ba1e_dce086050fd6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5f274e2a_6cc2_43e8_8848_ff75fb0e4120() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_09fdbe6e_e2e6_46cd_906a_11504a0b1161() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0eaa8c60_4854_4e6e_a33a_5c29fc5c47dc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9ec31458_1103_452c_8539_5fc96469e7d4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d10300d7_5417_4729_996e_5b17b57bbd4f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2f90bf08_9ec9_4796_8bff_61fedce4f27f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0c66e230_1315_41f8_a83d_2de0e1b68550() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_be1b8ce3_d841_4ce2_b623_d21f22a42768() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d9d8e41e_5b4e_4aaf_a261_b886fbd67cb1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d60e3d2a_fb34_4804_83ee_df8492ad177e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5180b905_5245_4a1e_93bf_833a4006e743() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3b2dac19_5102_467a_935d_b64316cff8a7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7670039a_00a6_4cb4_8dc7_e4ff4773f331() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e74b1c42_61da_4911_8963_b4b922828eb3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a86fca48_f982_4988_8b2e_134ca7c668a7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_50bffa08_ae56_4519_97be_b7cb5fa121ec() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c2f2e066_d53d_4886_b9a5_61d3a5e0a086() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e4f2f4a8_d134_44b6_91f0_e27f15ef58c7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7cbd2c6f_750f_42e1_82b7_e8cb3653223b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_01806cbb_1d57_4c38_b692_62f7e5ebaaaf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d116aba1_8b45_4705_a92a_77c1ebaafa9e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9ab8524e_9108_498e_a2de_d78f44de4e46() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6ad4b734_f8ff_4667_958e_adc06e485752() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7ab2d6b8_e683_4860_9807_9fd669471219() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ab3a5837_075d_4c37_bd72_0a0c80d20014() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e30ac6fa_15bc_4ef9_b784_62f0e72ef8bd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ac1f0a0e_9fb5_4c6e_86fe_78559549e01a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b51cefcf_daf5_45fd_b69a_f6a50dde46c6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_833afbfd_966c_4558_866f_b4634e377688() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_785e6b1c_456b_4d6e_8540_bc4e7ebf4aa9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c4a12032_a206_4b1d_8fa9_e7f2dd1fd101() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_37cbf1de_2435_40a2_a63a_5115477aeb98() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_82bc8a1a_b077_48b6_92fb_84b89923004a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1412f519_be8a_4aa6_b039_a8e68a9d4420() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3d0c7310_f0ee_4401_82a5_170a519e74ff() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d7a9c789_ae0c_4907_84f6_24862ed9717f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_69859a70_8268_4931_a092_968040dd948f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c21b77ad_b9c1_4252_989d_c062bececd8e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e6da1e68_8915_4d1a_96a1_42d10ec03ce8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_46fa84a0_3e49_46be_a35e_a7d47e04b8b5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8cd810a0_88c7_4301_a326_936acbd3f67b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b37ac26e_435c_4046_bf0c_a837d8144d69() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_86b24a76_8761_4734_9b26_9691a561116e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c5443caf_19ba_4229_9f4b_6b79a6bd7461() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_23df1872_4a5a_4c5c_bf32_364f111e416e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_65503c5a_2999_4aa3_afe6_2ef4d3a14fd1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_82c093ad_26ee_48a2_9dee_7fa61ad3732f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5d76709e_1ed6_4823_877e_f9b9cbf459ec() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_47650ba6_84c6_44c4_b4df_10487573b087() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4dc7ebbb_0b4e_4941_8377_c8e41d687bc6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_07d29060_574f_47be_8307_f632f9e4977a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_89cf4a7d_bf65_4f18_9d5b_d150734fb50f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_242c9b13_ba8d_4817_92aa_fa095e1cef28() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ae348e2a_8ffe_4b27_9407_b0a2cba576d2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e8c513e0_8dc4_4b1a_a6e1_27371f10ef6b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1673c2ba_d035_4172_97d5_b899f6943896() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ece84a06_8625_4afc_ba8e_45b1ebec8f73() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4de2f5b6_a1e4_4604_8502_5791b380eedc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d44b4a3f_a79b_4266_9bc1_f991b0d5cb0e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_228a4520_19ec_4c85_9df5_bd5e32ee486c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7dddb567_c89c_4319_b5bd_f99f6eecda27() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_43d42353_12a8_4618_83f2_9d4dd827c37a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_238d1a9d_2b24_4a2d_824d_420f9e78a20d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f36d985a_f4d3_4a62_8ba0_f90899ba417b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6d0f9d04_e920_4a39_9960_ab56c67ac1bb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_85c17b1c_d111_40f2_8b0d_19a0e9800ed6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ad144f73_db5a_4fa3_b271_732fcd251e6f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a2d1059b_0526_4974_b41b_3ab96399a596() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7972f0b0_3fe2_4391_bc72_5c1e4b6c4bc5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_417e464c_bacb_4264_9f3a_854515982eec() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4b547d5c_3667_4623_a044_cbeb19c0a7d8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fd12bd9f_c978_4d69_bd3d_c25c6ea62f9c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5a789f8a_3454_4e02_a6e7_fdeb8ff15918() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3c4e69c0_2d17_4448_9213_1cda2f2f3aea() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_49ff1856_06a5_4fdc_947a_bcd8a2043440() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7589649f_15e6_442a_959f_9d4e9cae1783() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_521655cf_8c34_4dce_951c_e280925679eb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_84c0e941_af25_4efe_9508_c4254dd85e19() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_adf981f3_ae80_4747_9e75_a22e3515c84b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_aa7d93b1_7fc9_4a6e_a92a_2a22b05bf68a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d59f251d_ed29_445d_8771_2461de99252a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_42dc0ca5_f6c7_4457_a4b1_56105ffb101e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_783ec2ac_90f7_4c17_a529_4be9f42c467a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_920fa614_f61e_42f2_b08f_d3b76378959b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_242b1aa8_764c_4a37_80c5_b32b35304f4b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d966e5b6_2ada_456d_aa38_a17bfa8a24b9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_446321df_7080_4bd4_a009_134538c6e01a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_180d8c17_ae69_4003_a8d0_cae257bafd2b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9f78e521_e36d_4505_b6d8_ef54e0670aa1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8b34aa48_c5ae_417e_885f_88c4e4e0b3f0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c66b4a8d_5a02_4832_a406_eaa941373101() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_58ed53ac_5c0d_4274_b9a4_af1a17074c99() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_04b74067_36b1_4602_848d_bb038eab1ad5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3e40a42d_dd07_4611_8b33_b37e0927c7e1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ae5d4d38_e851_4996_9c30_f6ce7631ea8f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ef39669e_1668_49c4_b994_d41b94450b8d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_91a192fb_d8db_4baf_b925_cac0cab3f150() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_978e4d6d_e516_44ae_9412_04211b2983b4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a3df2828_d002_4db9_b2e6_85c11f69a5c0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0d6355ba_866e_40bb_974b_9bd399737711() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8000ae36_9c0a_4fc6_b640_125a37ba913b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_522ad007_1e79_49f2_9b6f_e15f52479b1a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a07e45a8_66ff_4059_9bc1_29c41eba0587() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bfc5c2ed_4f51_49f2_91cd_57ba83273157() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f5fdb420_e2c9_413d_95e2_542e5159db3b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2ed34edc_6126_4012_b9f6_77fb7962dc17() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c2e2e9a8_8aa9_40f3_b2f3_d76b0cb054d1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_92c6ea93_c4e5_4b71_b149_5982190f7233() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_32592cbe_0c60_4018_a8b5_70350c1303fd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_eb9988e2_7b65_419e_972e_5d7469ab00e8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_98a3522a_54b6_4fb5_966c_13591c626b9a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_af3686e7_1e5e_4a2e_803c_9b8da19ed217() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_446321df_7080_4bd4_a009_134538c6e01a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e4f2f4a8_d134_44b6_91f0_e27f15ef58c7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5779d1f4_4812_4219_8411_e3d070bb8852() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a13e32cf_8b9f_44ed_97f4_586cb78a3f1c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f03594d3_485c_4029_8343_1c1f63b6b3e4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e67a0afa_6c28_417e_9901_f09e8e8a7c34() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4f71d0e6_35b9_4bc9_810c_fdcba9e9ef69() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_75690b60_e649_4166_ba2e_4c5f320dcb45() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_30d63167_daba_442c_b560_734d4440d100() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c8010a6d_202a_4e3f_a436_337ca83c19c6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_be24cc5f_f96a_4cd6_876e_62aaab25d99e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f4530238_c5f9_4d93_ae2d_41029bfba07d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c66b4a8d_5a02_4832_a406_eaa941373101() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ed898627_c03d_47b7_b15c_729f2564dd53() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cdddf2dd_858b_48d8_8dad_55d2abc6d372() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_934f9a8b_8dc0_4252_9e18_4cb8bdd41bfb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2301aa94_2b8c_4604_941f_9063c5f7e93a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5a77b88f_2864_45d2_b212_367f63abbb42() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2a8b1c06_d8cc_4b3e_b097_c962e18ae584() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_14077084_cda6_41a6_9fb6_d66ee704ac7e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dca10049_0b74_4c25_9ec0_7b6bcbd7cd9d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1c7a64c4_4fc2_4dae_9b56_80ec06a99318() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_daa7cf61_33a9_488e_87e0_d43e81c5a922() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8dbd06c4_5618_4f19_b095_428b2c3bd5aa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ae5d4d38_e851_4996_9c30_f6ce7631ea8f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e7fead4e_691b_4e8e_b29c_4dfc51232a4d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1cfd8c49_3222_4e4c_ba47_4c48a732c30a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bdfa54ef_1315_48ac_8d89_784c44bf581b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0b07d06d_8890_46bd_86be_858578eb02fb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4cc9eeb0_6f10_4e55_8bc8_41f07f26d85d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8a3dd05f_bb05_4c8f_a3b0_1be283849cd0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e5a83e26_39a2_4312_8bb5_ee5ebfd6f0b8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6f9cf012_64ad_417b_b6b9_0c3ff87d7ddc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5d76709e_1ed6_4823_877e_f9b9cbf459ec() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6ac405cd_70cd_4c78_8aca_8ccbd2468169() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d75a10f4_737b_4a71_a0fc_da255e4875e7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a26f959f_5f66_4586_886d_55767bc97e21() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3bdce906_309e_4daf_a157_4b27098375d3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_122c1613_a95c_4e0b_a65d_f9dd6fef54f3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_da9ec55d_f738_4356_8591_198b5949648a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2a84a985_5b4a_4a96_a403_0102cb7a0d4a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a6eeb366_5e4b_44d5_8b83_85264dd0b12f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_228a4520_19ec_4c85_9df5_bd5e32ee486c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_56dbb67f_2dd6_4c0f_9d88_e2b65fe3490b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4c092ff0_ce1a_4f26_bf2a_9e4a74d07950() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_29750e74_9006_42cc_b700_a29b7edb9f49() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_450f8b75_b4a4_4c18_b7bd_6428454e45c6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5989f7bc_1486_46ff_8a55_43f95c17dc66() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7f40846f_2aff_4695_8d7a_0e799ce75bcd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_86fc1986_f789_4654_871b_cb943f671888() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ed4314cc_ac25_49c6_8385_ce6977b8e305() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a706a9f7_5836_4421_9f89_8880da385d5e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8b43fb30_917f_40ab_8595_47165679d263() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8da1f089_65b6_4388_b259_c8b7ce4806a7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_477696c6_2461_4254_8795_2a7d741d68d0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_df7a6b26_5910_477a_815f_0c3d0bb02c33() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4e96b4ed_5040_4470_8d62_5a16be45ec78() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4911a9ae_2d07_450e_b19b_6723efa6da3b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1de7933c_4c47_4af3_83d4_dda1b4880960() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1d07687e_1208_4ed8_88cc_9c1515007b39() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e53ec839_d313_4004_b5f9_b1dba3ad2064() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_033825d1_c213_4d66_afdb_d0f111ff5468() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4a86f74f_1bf9_48cc_9b75_01ac622c980c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a6ebd095_3de4_4704_9aab_45ee58c2255b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dbca5dba_7ede_48ab_8115_40160a6705ae() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_898d8ebe_4e3d_4a8d_903b_9e00358966eb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4ea8dfe6_01b4_4f8e_8bdf_e2f954ca5dba() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a28514e3_2c98_41c6_9f03_8d80bb603786() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f612006c_e28c_44e3_b7c2_2333f93fea10() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fdc20c7e_1305_424e_93ef_a81e69c146ca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_268b4641_acda_4667_ba42_715a731ae47f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ca876d32_a9cb_4cb0_972c_8bfe477cef01() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e364bf03_6885_4688_880c_ea0693f2e321() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7d912ee9_289e_4600_b643_1020a1f53479() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c0fcaa15_97a1_4e96_aca0_851e8a243268() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_aaa5973c_696c_411d_a5dd_a0a33f0c91b7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e74b1c42_61da_4911_8963_b4b922828eb3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3ad47dca_955d_4326_9315_f1e467150f1a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f6126dd9_a01a_42a9_b086_b620008236ca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7f0e6b3e_10fb_46f5_8227_59e604798710() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2b0dbd2e_935a_486c_927b_f8a1c1d95bd8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d1b76965_7fe0_4285_b513_e97cba1db78f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_05cd8daf_a7ab_4aea_878e_0db615a2307e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_82ff1f82_7e55_4c32_98cb_e87b7b97b972() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5d244c63_5655_4171_8412_455c07000d1c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a561ce37_4de4_4fe1_869f_49a5119b4fc7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_623aead3_5d73_44ce_841e_e97fd63f566e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0cf71e20_8ecf_4631_ac5e_ca124816f639() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c9ebbb35_eda7_4182_89b9_00e2d1e8ee07() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2acde3fd_a797_45c9_ac42_c3213a218251() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d0368850_5322_4294_bdf6_86342fe74b1d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dc593ab3_6b1b_4d15_be05_c8895d4237c5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b72e6a93_ba4a_4756_8e67_74f359f37497() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6ac405cd_70cd_4c78_8aca_8ccbd2468169() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_06f2fc64_20e7_41d3_851b_8852f8f92e7f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2776a37b_e4cd_4cf0_91d1_0f626ff9413b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9af370f5_f5c7_47a3_b550_19aa81323369() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_680abb1c_e695_4802_b09b_b2c54685a5fe() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b361917f_28d5_41b1_ba7d_456af158e276() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c8010a6d_202a_4e3f_a436_337ca83c19c6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_192073e4_5702_4e5d_be59_fe30bf1a6902() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c75773b3_7801_42b4_9bde_aa4d4e76458c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4c1fb965_fd0a_45ab_a371_c6e12efe79e8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f7e7f94c_480b_49c0_868d_0270260d5fac() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a32347a6_6453_45d1_9cf2_0f4438516e2e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8ee0ecaa_77f5_4cd1_97aa_15d278b37a9e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_daa7cf61_33a9_488e_87e0_d43e81c5a922() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2c027b68_89eb_498d_afdb_bfc7709ea328() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c7328179_33ed_400d_b282_f9347ee1e988() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_41dd1f33_36a6_429b_8c76_87ed2d4c2de3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3789a624_54d6_46ea_9159_138dd7b6e1e7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_050befa4_aeab_48d2_ae36_853b40a12d84() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d9ca8513_df0a_486d_856c_f85596ea7978() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cd3c5a2f_d700_41e1_abb2_a428c1abddca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dca11249_c8f5_42fd_a381_82050307e94b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8000ae36_9c0a_4fc6_b640_125a37ba913b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_106ce381_b207_4848_8fd0_6d504f95b52e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fa1c0d73_b70d_4794_a40c_cbcd5fa59e47() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b29ec02a_d8a6_4c1e_931f_589db266afc5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_49282ea9_e9a9_4acc_b4cf_f8778f3c6dc1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b60f8d25_fcec_4bfa_b402_92aa115b247c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7972f0b0_3fe2_4391_bc72_5c1e4b6c4bc5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ed81cda7_86dc_4a9f_8a29_bed0d4990acf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_36e5af90_c5c4_4623_bc4e_a2d71bd97fe8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f5bb52c3_cafc_4d2d_bc92_e105eb78df4c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a547b98e_4c26_4c59_87aa_b2c1dcbd372d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_176ca1f0_23b3_4f0e_b0e4_3393c6d30b9d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_efdbab4d_99e7_45e6_a1d3_7af7d9c91028() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c5ad0707_9b67_4607_8864_4ca6a7120e06() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4dab4a66_037f_4740_9fe0_3771b14b5c04() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6db838d6_0d9d_426c_88aa_99ea4c409d02() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_48679853_707c_4afe_b438_51d4b93855e4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0a5e68d2_c174_498e_be07_e82314bcf6f9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7791ad00_e54d_494a_9f14_c051fb332230() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_be421587_9d71_4449_a1e8_6b24ea34b0ea() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e3891ae0_4d49_48d6_8040_7f0761d8d493() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_19fdd5e9_6335_435a_b572_0291f524ef04() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3e4aab4e_6498_4273_8f86_1ed53769628b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fc2aff92_3478_467a_a91e_5de31fc48933() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2c027b68_89eb_498d_afdb_bfc7709ea328() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_60b59c59_66bf_494c_b5e1_74b09ded87cb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_db3a3b39_eaff_47dc_80e1_534af4b8d5cc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b3775fc0_cdec_48e5_8544_0b12aeb675a6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9e5d743a_c7a8_4197_8cf9_bce4a91050e7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8e523445_24b8_4488_907f_9a4e49b0e5a9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fd12bd9f_c978_4d69_bd3d_c25c6ea62f9c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1bc127db_3920_4c08_a1f9_32046f852fb0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_98aac7df_f458_4d33_b54a_ef139624d476() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_37b64f29_5b91_4015_8ab8_61ed778edc30() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_809280f1_a6aa_4bf6_aae0_8bb113afcd1d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f5f22bd4_1f53_4ef6_a525_dc2b0de5b0f2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b41a7108_cec4_4ae4_8b0d_45582bb1cee3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ad144f73_db5a_4fa3_b271_732fcd251e6f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_58f74614_475c_4e16_80fe_bffb26cbf4bf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_85e7697c_72b6_42ff_939c_b9e72dc93692() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c2eb1daa_b8b9_420e_b9ec_102619d45054() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b72e6a93_ba4a_4756_8e67_74f359f37497() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_512f60a8_3925_45a5_85ec_147d2ffbfd9b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1009206b_642f_4f30_a159_77a1314aa268() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_db880125_d248_4b54_a192_bc01f908d9f5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7ad07ee4_1fb9_4404_919a_0a5afff2482d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_030928c2_04a2_498c_920b_1bef91bc6ed8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4597079a_2234_4c3f_9b22_70f267c30111() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6a2a0243_9d71_416c_aa55_0085d552fbb6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7d8681bb_1465_4262_8b23_8d0346c19a2a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a3dbe683_fd88_4697_8377_8c2fca6d7416() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f03594d3_485c_4029_8343_1c1f63b6b3e4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bcc68e49_d709_4bf8_872a_2dfb96900c09() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_623aead3_5d73_44ce_841e_e97fd63f566e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_db3803a0_c2b7_4885_8a22_3e1e699dd89a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f83ab228_5466_48aa_b826_aff44938f8e2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_460e157a_d389_4fd5_92c8_f6078749fe03() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d1129091_1559_4c4b_8719_638f1292355e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b56db953_f1fa_4adf_9b10_868933e9a480() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2ad3e68f_bde1_40a0_8a37_195e3ea87a13() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8e135395_51dd_437d_a52c_e7514648aaaa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6b935eb6_393b_4096_8b41_646bc8c441b9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7eedc3d4_461f_435c_a6d7_315e897f598e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3097c109_ee60_4212_b634_8c7ad3c4fa90() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0924b29e_35eb_41ec_9c4a_e45a9f7135eb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d67d42d9_7b7f_44a6_a99b_432a894b4034() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_22e55aec_b276_4639_aa34_e2e853d4f170() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0e63f9ba_1bd1_4fa0_8e89_108bcdfd3eba() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f5fdb420_e2c9_413d_95e2_542e5159db3b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_50bc71f8_d36d_4f9a_8a37_2e977ea96737() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2acde3fd_a797_45c9_ac42_c3213a218251() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_823d8b0e_793a_42d2_ad6b_68370a935b5f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_03ac92ba_0b2f_454b_9df5_8dc451b76304() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_50d5d4ee_e13d_4ea1_842f_ade1047f8b83() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_44a3873e_f327_4153_ac29_6b8df18bd00d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8f1a0347_0c54_4633_9710_0b23568a035f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f7dd0983_5585_40a6_8234_160d8ef3dab9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fa1c0d73_b70d_4794_a40c_cbcd5fa59e47() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_870af6c2_1a0c_4b40_840e_d411fc7ad7f0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bacb2d25_1dc4_41d9_b6aa_e5918f2a3310() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d8701226_09f5_4f7f_b68e_27fbd90bfeeb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d16de670_3a2c_44a5_ba87_dbaaca06f6a6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a2d1059b_0526_4974_b41b_3ab96399a596() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0d860402_e50f_4c5c_b4fd_9fcf8259e233() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f91c7d1a_cc95_46a5_b6fd_cabb48d77246() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7d146a08_34e5_4835_a177_6f92b9ba9bee() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a3063239_2056_4fa4_b128_d9c4078c0442() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b51cefcf_daf5_45fd_b69a_f6a50dde46c6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_83a68dff_02d4_4564_b2e7_6b0b9b8c09af() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5d6e07e5_4e56_4289_8797_e62897c5a88a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0b07d06d_8890_46bd_86be_858578eb02fb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_33e427ed_455f_4f16_a9a3_5191567a773b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d116aba1_8b45_4705_a92a_77c1ebaafa9e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f82dc819_f963_4df0_a0a4_f51fe0be53f8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f7160945_6f17_48bd_bd6c_c35e90833918() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_da4a00b9_f41d_4731_8ca3_e4183025a9de() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_de4a09bf_2e5e_45ae_9ec8_700009917e86() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cd63d82c_d177_4b80_b247_61a746df9e05() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_84a72ded_90c4_41fd_96bc_5cc0c7b79b48() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a32347a6_6453_45d1_9cf2_0f4438516e2e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e06cf363_d976_4336_a9b6_79db7c4b2480() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f48b4774_a5cd_4db0_9632_e3faf1dddf31() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_92a44857_8816_425f_8f25_1cfe75b5ba76() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4eb720a0_8510_4fb7_b5aa_34a503bd8a1a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4afdb87e_1632_4c0d_ba1e_145ce35e0ccf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_383d6aca_c8c7_4f21_a43a_6f40141ce3f6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_84a72ded_90c4_41fd_96bc_5cc0c7b79b48() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c6161ac6_750c_4d70_893b_e456b8fedeb1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b1fcc095_623a_4581_85aa_bbef6ad42248() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2e19dd00_2daf_43df_b00c_181a291f7e46() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d4070974_130f_4d64_829e_a91ae6e6066e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e7aa25a2_6a59_4f27_9fe3_4a72266acb16() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5a6e7a61_170f_4c5f_b01d_beeb7f8f0a10() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4032d204_b2ea_45ae_9673_efe38fabb02d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6e4afb90_d603_46f1_aadd_2f1e95981f0d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_85037cd5_7a46_431c_8458_9d73aa59fbf1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ebeab66d_10df_49b3_a41a_c30e45cda400() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_01b3038d_3850_4b02_8deb_db5137c5b7eb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2798658a_c945_4197_9cd6_8b030259c0e8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c9300e6b_2370_4a76_917a_d6d7a8d31224() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2dd2737b_5fd5_4faa_bbcb_c198a837a256() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2771468f_ac1d_42da_a673_1e5861489a6c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_77de42c7_25cc_4571_b9c3_7bd1a6806b7b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b9a01495_3e69_4162_99a8_1127e236567c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_39e25a35_a17d_43b9_b390_b0f36fc97b15() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0a6b0e47_4b43_481c_b377_3a31aff6251d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3da9a41c_5d57_4a4a_82fc_24cdcebabd9d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_27916cc0_63bd_497c_9cf4_4a3ab85b4b64() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_41fa8b58_f5cb_4460_9fc8_e7361cdec373() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e241ebd9_2353_48da_9e1e_13ebe8628cf6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f679c4a1_68d4_4427_889b_4ef98afa1e26() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f19e70ef_e2dc_4eda_bb8b_f8b6e8755338() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_450f8b75_b4a4_4c18_b7bd_6428454e45c6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5969c875_f09c_4695_8fba_cf2e0975e2e0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dca10049_0b74_4c25_9ec0_7b6bcbd7cd9d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b7cf80b7_a79c_467b_a0e6_200b15ac948f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a26f959f_5f66_4586_886d_55767bc97e21() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8604201c_7f37_4e6e_8bc8_39fe54d0171e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a5b250eb_8c3f_407e_8b0e_aee0f935623e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e53ec839_d313_4004_b5f9_b1dba3ad2064() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ac461370_5ca0_463e_8b03_cf8d50e44cba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_76bd112c_6765_4209_89cb_a5fa4b15a887() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9af328aa_7be1_4e40_a8e3_36a9f0823f44() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b361917f_28d5_41b1_ba7d_456af158e276() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7906cf26_b8b7_4737_8349_59d5ca7995a0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fc93a16a_8174_4666_a4d5_71eb20e739e1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_55613c72_59b5_4ba3_bef2_befbac75b846() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9dd1b7da_a95b_406d_9078_37f9cabf23fa() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_635dee22_0408_44a1_a1b3_e54a19bfff2b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9c7c8d2e_c88e_48d7_b77b_e74d120da27b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bbd53792_bcfb_4902_b017_17189547088d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3a5b5db9_b265_46b0_b796_cc93c6830bab() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_06a441e4_e84e_4819_9bb4_d08591127fc1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8f1a0347_0c54_4633_9710_0b23568a035f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_63aec68e_3377_455c_a4ae_a4caa04d7c28() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ad82708e_746c_43d5_a74e_3863cb8b708e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c49aaab8_daa0_414f_a1c0_681f8538da52() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_14a53142_61e0_47a8_a9c5_e0714a1c8030() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_187d59fc_a4ae_430f_a865_7d41c698377a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7f27f79c_1121_4a3c_b131_54ac01732602() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3bd04dfb_8287_4ba7_ab5f_3f5266a9221f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7942b73e_f35a_49a5_9d66_230ea5d51dbd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1fe5ce9f_a39b_4ee9_ad7e_6791aa2dd7e1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ed6281d8_0f24_48fc_a8b1_501356ca7924() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e3ccb7cb_3a8f_4d56_a238_343fed007525() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_40801ef7_c08e_400d_a8aa_9400f81306f4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d9208085_6bd3_48aa_855d_db14aeb1c906() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ed1a3e01_ed72_436f_b452_31f8c0dd14bc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e53ec839_d313_4004_b5f9_b1dba3ad2064() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_54debf3f_84a5_4505_bfe8_a36ac7908d88() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6197b68d_8880_4240_b724_046e695654f5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_32592cbe_0c60_4018_a8b5_70350c1303fd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d141d0fa_4ff3_46cb_92d4_52edf4a921a0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_320d285c_803b_4f97_ab96_f2e4fe9717cc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5ec7be8f_9d1d_4ba6_8694_a51a24f059d6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_31c33e24_d818_4969_b02e_be64e88655b5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_db0b9fce_d4f4_4b08_a6af_2fc0efb04a98() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_edfd428a_3d2f_41cc_b9c2_14d230be723a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_637d07d8_5ed3_4a92_aba4_f8759346be1b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c3f32e25_b867_43a7_acb1_b6d79c45dab4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c8e1bc08_c7b7_4ae5_b447_e70bc44e3881() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a285c27e_2eee_4f73_9ad6_0bc810ab1a25() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1556fd9c_0a4a_46cc_944e_9d9c694efb9d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6ae6dad0_3c59_485a_b48a_93ffab269385() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c2f2e066_d53d_4886_b9a5_61d3a5e0a086() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e0db2c96_e210_4235_8377_c04a9dce879a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_94189314_b2e6_4af7_91d0_509bfe8c943a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5bb802f3_1b07_4504_8c5f_b9f7c4cc7afa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3f52e14e_e5ec_4b94_98f5_64de0dabffa3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_96ad6c6d_d864_4878_875a_76af89f8f760() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5425eaa0_c48a_4c91_b2e0_7f3480fd9635() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e4ddf7e4_96ae_4afe_8b3e_58a389e97e2f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b5c1d943_1495_4d8a_911a_4f26d64c36bf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c29037ca_7aa9_48e5_9f3d_be0569e4213e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9621072c_3cb9_4341_82b7_bccf250dad86() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c2e2e9a8_8aa9_40f3_b2f3_d76b0cb054d1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a3dbe683_fd88_4697_8377_8c2fca6d7416() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d92edaf4_4090_4345_a97d_24e3a2784ead() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9f78e521_e36d_4505_b6d8_ef54e0670aa1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3e4fc91c_0a97_4d04_8c4f_e309e7165a86() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_017dca52_6cf0_4c68_8db9_31f6abc27ac4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9f6a608a_0c5b_4fde_99fc_e09696f1c261() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_89203d83_30cf_4e23_9c72_53ce6bfaa01a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ebeab66d_10df_49b3_a41a_c30e45cda400() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6247a86f_327a_4ea8_a165_6c23395e8d9f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3725c8d4_34c5_4766_8cd4_e526e7c5da49() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_18530aca_9dee_41b3_8b9a_be6fe13ebc17() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6af53518_90bc_4505_a7a8_8e3ddc233570() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_401730ca_b939_4efa_8972_17f85dbaeafe() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_159e3041_53ed_435a_a7cc_e1916c85959f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_61f47e68_cf6a_4bf3_8b8f_1f539ad3e2d9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_84ee0b47_eed7_421f_9de7_2024b21a613c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ffd642c1_7697_4a9a_8b6d_025ef391dcb0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ed1a3e01_ed72_436f_b452_31f8c0dd14bc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_347af688_1427_404d_bd64_1aa9d13656f3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cc02b59e_7a17_4aec_a255_204e4f891903() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d088e43a_ff6a_4b27_bbc9_5d95b57e9840() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5a64fe61_7fa1_482e_a1f5_a9a4d562d0c8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cdfd6084_c668_43ab_b72f_9b752cc86093() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fbf7e5be_d74b_43df_9263_31c98ef15e12() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_192073e4_5702_4e5d_be59_fe30bf1a6902() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ae6b5d2c_92d9_44e5_9497_63edb8f01e14() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0a5e68d2_c174_498e_be07_e82314bcf6f9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9c7c8d2e_c88e_48d7_b77b_e74d120da27b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_99ff8122_3a04_4a3a_947e_a4ba14c3ecf0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_10444953_60cf_471c_aec0_c834b13e3713() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_49dc384e_c742_4412_89db_8b046a50387c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dc1b108a_3267_4fef_8946_a82e62292588() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9abb6df5_8259_4705_97e6_9ee2ac58b446() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cf7d8d7b_401c_43d8_88a3_2f7e6c10659e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_374a0a7e_f9b6_4b10_bbb8_09e1c00e38eb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_77ea69c1_c45d_42dd_8ee6_d573ace0d56c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5ed88978_9d7f_4700_9151_db25fe71ec60() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_379dc318_aa0e_49c9_8100_61f5021437eb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0e168dda_29ba_496b_a4b4_639707f3369e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b0f0fbd0_e441_4dc3_986b_e6c9cf07c8a1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ea7d1a73_0940_4006_aaa8_1ef0e8348a12() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4c092ff0_ce1a_4f26_bf2a_9e4a74d07950() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a049792a_d33a_40a1_b116_9b41e6f2d712() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3614be14_3b8a_4853_8318_ba848716c5f5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7de466a9_de86_4a2a_90c6_515c666dc2e6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9f6a608a_0c5b_4fde_99fc_e09696f1c261() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b914459b_07da_467e_849e_8ca3becd3ab5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ea707ae8_f6eb_42ec_8d04_cfd0e0fe8ea1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b35ea664_fa6f_4334_8924_e1c718b80660() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_08894e98_f859_4d31_9b27_3f851c45027c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_87450759_31d0_41a5_b52e_0bf295cb5e98() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f02665a5_8912_46c3_8a23_a672fb3220ed() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7619bf97_b24b_4fbd_93fe_3f4903fbab56() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ef6aa02b_0247_4a7b_ac0e_8b4298730925() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_826da1fc_8228_43dd_b116_cd060e61cff2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e49e8c38_ec4b_4eff_92f7_350ddc92a7c4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f1713f71_5321_4c6b_9fb9_8defda1b0963() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e3f20077_d561_40b4_92fc_f9f0cd5b22c9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_166cca02_4363_4b4a_99ad_1dfef8704e33() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7cbe7968_7714_49c3_8768_9639d15e7ed9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_158abc18_6938_4852_81be_f6f8ced51a05() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7bbdb6a5_aeac_4a74_b057_0547238b39f7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_daa7cf61_33a9_488e_87e0_d43e81c5a922() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_443c3921_b8ff_46f2_8355_ef3b1b3edc69() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3d05f388_58c9_461b_894c_ec8ed8122cf0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3789a624_54d6_46ea_9159_138dd7b6e1e7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_81d85d93_6039_49ee_8cb8_cdb10c420ac6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9e272c09_5591_4949_9a93_5dec4a77c56f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9d4e2d41_7955_4696_afba_bedefd30e476() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0924b29e_35eb_41ec_9c4a_e45a9f7135eb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4f71d0e6_35b9_4bc9_810c_fdcba9e9ef69() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7f40846f_2aff_4695_8d7a_0e799ce75bcd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fab47ecc_224f_4c41_9b52_23cd5640cf2c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_27916cc0_63bd_497c_9cf4_4a3ab85b4b64() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5394b580_2616_42e7_9c5f_68813de28d9e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_af3686e7_1e5e_4a2e_803c_9b8da19ed217() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_99a8dd0b_94e4_4de7_a33e_cbf80d73d8bc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_46bf8a02_f418_4510_8484_3369f2f00479() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e6150682_1162_43f7_b75c_c7276af2fc43() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4e12065a_7fe8_4120_8f2a_4d0d4ddd17b4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a932eb98_343a_4dd1_ab43_92a1a74ed682() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_55299706_9300_4758_9fad_a6c6ce8f57fa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bacb2d25_1dc4_41d9_b6aa_e5918f2a3310() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5b6737e1_ddd2_41f1_9b70_79d5a27358b6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_104e3dfa_a98e_4fbb_a9da_db94e71e0ad6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_26514496_61d8_4fb1_afac_91a3e6f009ba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_17e6b65f_394f_49a6_8faf_9b76606095cb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1972221c_c15e_481a_8b52_d099edf6588e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dbea8310_8905_4632_af64_0f9a7ad575d7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9af370f5_f5c7_47a3_b550_19aa81323369() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1d07687e_1208_4ed8_88cc_9c1515007b39() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_03ef3e21_bf35_4817_9483_70f3d125e80a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5e53cf19_2a24_4751_b6e0_8bfba0a9d884() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f83ab228_5466_48aa_b826_aff44938f8e2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7bb91d0a_b67b_4e7d_b36b_5814ea845399() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_138b1809_0b23_4050_88cb_59d05d31f8d7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_64cfbbf3_2735_4599_9791_449679164398() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1556fd9c_0a4a_46cc_944e_9d9c694efb9d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d57ffa8b_652d_47bd_be5c_773e1ff80445() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7f34d0ea_5eef_4373_b9ee_fc7042a7dbca() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_49282ea9_e9a9_4acc_b4cf_f8778f3c6dc1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b0f0fbd0_e441_4dc3_986b_e6c9cf07c8a1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d355194f_1dfc_4d81_bf2b_a8566b45e425() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_37215873_2e50_4ec7_aafd_e3ff5e76654f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_be2eb6ee_6b7b_4f60_9041_fca5d62faa28() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d290b61d_1838_4426_85ab_59b1bbdcd6cf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_06f2fc64_20e7_41d3_851b_8852f8f92e7f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e5faaff4_dc8c_4401_829a_9f758df3b37b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5bef5ede_1835_48ab_9ed3_ca991c981a7a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e8e2bb97_fb36_470f_a096_3c0342c07a5b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_25ecae8a_7bd3_44e2_9a27_aa77b40df710() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_26514496_61d8_4fb1_afac_91a3e6f009ba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ce902df4_55d1_43ca_8795_f314ee4bbbe5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bdc8ebef_ae8b_4f31_81ef_a152b324176c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f411ceb8_322b_4096_899e_0cced4e2eab1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_328220d3_1266_4cd1_8c2d_04c97f832c36() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_23febd94_2dcd_42d5_91c6_2f3f507d3117() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3ef82d83_c1d8_4720_846c_551db9a1fce6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cd38a4de_4c9d_43ef_8aab_2f11a0814216() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ea8c41d3_b295_4a25_8c00_58f6dc956b76() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6ad4b734_f8ff_4667_958e_adc06e485752() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_225306f8_b226_4eba_af69_7cd1daefaa5d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7d0ae76c_fcdf_4cba_8583_fe64d227613e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4dab4a66_037f_4740_9fe0_3771b14b5c04() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_01355e28_5634_4435_b750_6476d3a31537() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5ec7be8f_9d1d_4ba6_8694_a51a24f059d6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b8a7e92d_aa10_43c1_9a6d_0191b29283ab() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9c093847_1c67_48b4_ad49_dd8487068edb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9910d2ff_c88a_48ae_b406_e6a1c72711ef() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_320d285c_803b_4f97_ab96_f2e4fe9717cc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fc8826ee_3c04_4217_bf02_5a49ec953f06() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_124d3367_3ec5_4812_975e_fd69dc302698() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_18237ab4_8461_4db9_9d3f_1d8e8e230b30() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_637d07d8_5ed3_4a92_aba4_f8759346be1b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_eb2a7b53_4c81_4401_80bd_1eecddfec722() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c6b29d67_ca51_47d3_8834_a86e21b38d06() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8979fea0_ca5f_403f_b863_1d2ebbf17366() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a549bc35_fc58_4bbb_a9be_7614edacabc7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_05cd8daf_a7ab_4aea_878e_0db615a2307e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cd82209e_cdca_45fd_b75d_93f943cb2653() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_13bf755e_3cc7_4c8d_890f_5dfb928d25e2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f2775a71_999b_4020_ab87_302a8130772f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_77edbad0_e5c6_4319_b957_6346135d2d4d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cbdd53f1_3220_4027_a898_ac93802b0818() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_72e21916_98cf_4792_8fce_9c528fc43a71() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cc8f7fb2_2a6d_4d2e_987d_1acf0224cfc8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_41d5129f_128c_4eb5_bf25_3eccf6f056ef() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3da9a41c_5d57_4a4a_82fc_24cdcebabd9d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6ad4b734_f8ff_4667_958e_adc06e485752() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_833afbfd_966c_4558_866f_b4634e377688() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7ad7167d_07e0_4b23_a53c_540ca623996d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_98c8717e_9a9e_43d8_a090_00e8492461c6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3ddbd0c3_aa04_473a_b7d2_e3edbe43f5c5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_801aeb9d_3731_433c_978d_46b8e8d9adf6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a045530c_39e7_4358_9ff9_fea9a5dd2fbe() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_77edbad0_e5c6_4319_b957_6346135d2d4d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d3793231_135d_4526_9db6_a8d16a348f6a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_afd09474_4cb2_49ff_a139_a1460eb4eb55() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5e10287f_f1da_4a2e_8096_d1410d26e6ff() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5989f7bc_1486_46ff_8a55_43f95c17dc66() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bbd53792_bcfb_4902_b017_17189547088d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7f0e6b3e_10fb_46f5_8227_59e604798710() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6ec6fa70_f7c3_4e7a_830a_4afa17222246() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_83a68dff_02d4_4564_b2e7_6b0b9b8c09af() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b9dc33c3_fe0b_43f8_946d_cd7f31262916() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f88cd41f_fcac_4124_b013_48c7c87da2a5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_22683d4e_a2d6_49a7_bcd4_c41e0a98b337() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_eb936c61_c741_49d1_b98f_1b77f57b13a7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5fdc294c_23c5_4f81_ab5e_f01360afbb94() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_405ca544_8c0c_4e1b_bbff_ff6687d93ef3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d4127631_d5d4_4c05_bd8c_72279368e52e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_870af6c2_1a0c_4b40_840e_d411fc7ad7f0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3f52e14e_e5ec_4b94_98f5_64de0dabffa3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a7b8cc73_76a4_41ae_97fa_b533e4a394a7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_27e65240_9480_4bc5_b910_e06216716ce1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5c1d4d3d_e2aa_4663_a108_9460d136a985() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_57475d65_40c6_4579_b3bb_db076242463c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9e7cd49e_d39a_4aad_bf80_6cba24eab409() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f19e70ef_e2dc_4eda_bb8b_f8b6e8755338() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_40801ef7_c08e_400d_a8aa_9400f81306f4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e6272477_32b4_4653_a587_3cdf5ea0c81e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cc02b59e_7a17_4aec_a255_204e4f891903() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5e53cf19_2a24_4751_b6e0_8bfba0a9d884() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2c027b68_89eb_498d_afdb_bfc7709ea328() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1412f519_be8a_4aa6_b039_a8e68a9d4420() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3b2dac19_5102_467a_935d_b64316cff8a7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7286f08b_efe4_454d_a81f_6602dd928c10() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_37cbf1de_2435_40a2_a63a_5115477aeb98() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_59cf2d3d_da24_42bb_8164_fc5e080a486e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6e2e5707_5aed_4669_83ac_296b1ee015f4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c6b870f9_c405_463b_a38c_9c2e6f2065ce() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f7dd0983_5585_40a6_8234_160d8ef3dab9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_54877a6c_6fb9_40ed_8956_ba0c207309a0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_88649dd8_3860_4746_9532_1464c92b83b9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e49e8c38_ec4b_4eff_92f7_350ddc92a7c4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c039aa7c_76b3_49aa_841a_2303027f6099() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f52503e1_2aa2_4ecb_aa11_88c7081b09fd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_08894e98_f859_4d31_9b27_3f851c45027c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_da9ec55d_f738_4356_8591_198b5949648a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ed1a3e01_ed72_436f_b452_31f8c0dd14bc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_48d08ef3_f106_4f4f_8c51_6f8501f49977() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9e5d743a_c7a8_4197_8cf9_bce4a91050e7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3097c109_ee60_4212_b634_8c7ad3c4fa90() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b1d85ab2_76ab_42ad_bc5b_e42fc9b3330a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_49ff1856_06a5_4fdc_947a_bcd8a2043440() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cdfd6084_c668_43ab_b72f_9b752cc86093() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c3184075_2e46_4212_a462_fb0455a3bacf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7ad7167d_07e0_4b23_a53c_540ca623996d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2aef80b3_da6c_41b9_b078_a583564d94ca() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c2eb1daa_b8b9_420e_b9ec_102619d45054() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a2bea27b_c2d7_460c_a685_188fcfca80ed() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0eaa8c60_4854_4e6e_a33a_5c29fc5c47dc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b37f4e05_2384_45bc_8065_8bdaad9b05c1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e1ebe7ce_3778_4f55_b652_61abbbc7c27e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e9b693db_526b_4ec6_98f5_34206de510c5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ce902df4_55d1_43ca_8795_f314ee4bbbe5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3a413a44_8821_4a4c_847b_923acc53117d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5aa83338_e9d4_4594_bf05_492fe74a6bba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4fe3416c_43c8_4c14_a123_5e63ba5f96d0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b73dd62d_ae1e_4aa4_82d8_3b5222791ae2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2cb80147_627c_4e00_a6d2_f7ff10b4c870() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ce0f4ce9_ad87_469b_9eeb_90c45dd7b499() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c8f6899e_f12f_4afe_b7c1_2662b715a258() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0884f888_ca7c_450a_a8ce_c5bac91d165b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f9611b2a_fdf2_40bd_856e_b2cc6bbda01d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d3793231_135d_4526_9db6_a8d16a348f6a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7a4dd91c_6d8f_4daf_b98a_4bdad11f6026() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0ce7b556_7067_4283_a0be_c46736941a6e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ed4314cc_ac25_49c6_8385_ce6977b8e305() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cdddf2dd_858b_48d8_8dad_55d2abc6d372() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dca11249_c8f5_42fd_a381_82050307e94b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_794bff1d_a536_4e52_8f26_6004d961eaab() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d8701226_09f5_4f7f_b68e_27fbd90bfeeb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3a9c49c5_03e6_4a87_a43a_5551659b3958() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4cb9ff8d_f8da_4e8d_ac5c_ef60b2d229c0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dbca5dba_7ede_48ab_8115_40160a6705ae() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e9a438ee_8d37_4be7_9bdb_25943ee847ce() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_00a39bbd_57b1_4e24_8bea_48faf9bd18a4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4a619328_3ccd_4e3e_9fcd_7d3227bbdde0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e11927ee_a2e9_4a8d_b80f_8b8d2c804a9b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_561fb849_1a44_4657_99b5_1281e802786f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e3ccb7cb_3a8f_4d56_a238_343fed007525() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_21796c1f_9a10_402e_8717_ddc664fe5178() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6d0f9d04_e920_4a39_9960_ab56c67ac1bb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_54603d29_a5df_4d72_b842_a891440fc43d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_06a0730c_fa0b_4e25_b7e1_5ecfde1cfa0d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_aa60ec22_9854_49d3_aace_6af1fab8be05() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9aeb183b_a332_452d_90f7_bde4c01b73f6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_81d1d7f8_c932_46aa_bde1_91b08b300932() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_605d0389_8f8c_4cf0_8e3a_7988021377d3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cd38baec_d7a6_4adf_8e44_7f8d81d93f5d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cf0f74c7_1964_4f3a_8051_6b38efcdbabf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fab90d40_960a_4c0f_b7cd_62ff77a5f569() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_22068b8c_e1d9_42b2_b409_a7e534bbd46c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_21c82e66_82cd_4f3a_9df2_983f4c1cb7d7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d266b350_1efe_46e3_b523_2fea1c970d3c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e88bd9ae_d543_4292_bcdf_792495114b03() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2f54dbbe_12a8_43f9_a5e4_2afb1dcc420e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9816453e_a036_4e0e_92f3_60951f5d92ff() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b8a7e92d_aa10_43c1_9a6d_0191b29283ab() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a98e6da2_e9e9_4592_b621_85c029865ad2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_aa35ef7a_a882_4b24_bada_7e0e6df01204() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_eb936c61_c741_49d1_b98f_1b77f57b13a7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6a6b2c9c_a8b7_4ac5_ac60_b8ff8ad58665() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_87e7f954_1f9b_4e78_9eb8_e768d77b45b0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0b0ec8de_d66f_455b_b99f_34acd6b31dd2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f90ebc84_0c08_476f_b1a8_9040f4ca9532() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9af5e23b_b678_43ce_8609_bcdc35fc5469() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b7ccfafe_0568_403a_865f_eaa60167726f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_af32b1c9_e0cc_415b_8f4a_8604ee5bfdac() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c1940a3c_1f5b_473f_9aa1_3a4601ee9bf6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1657e30e_f429_47c2_a7ca_c61bd6bf2bed() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3d6ebee2_1e75_4c54_bafc_14ce254ca35a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9dd2d2f7_bcf4_4b01_93c0_41546e066287() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5c56a212_9074_4536_b459_a7ef60b0a249() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_623aead3_5d73_44ce_841e_e97fd63f566e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_89c27063_005f_474a_93ca_590fb1eda14e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_72e50f64_8c1b_4b41_857f_e2b9d7699861() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9e63c08c_4c64_4db8_b4c3_8fd4d52f82f7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_521d7779_75eb_4c82_968a_8faa2c6d3fc5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b60f8d25_fcec_4bfa_b402_92aa115b247c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f4230410_45ca_4e73_b3f2_d5c59cde144e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_34c0bf0d_2186_4c25_a274_d599d4513a62() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_89cf4a7d_bf65_4f18_9d5b_d150734fb50f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b525df2a_b42a_4d61_a7ff_091680eeea15() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a1f3dd4e_7e5b_427d_a22e_f8421034b494() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5db30d6b_aa42_45de_9bff_13acf6050036() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e7777c5b_014c_4496_bb5d_af998a73593c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ed6281d8_0f24_48fc_a8b1_501356ca7924() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_04615307_359f_4a2a_b0db_c79689d126bc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_70668337_89c5_4c62_83b6_0ecad086777a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_159e3041_53ed_435a_a7cc_e1916c85959f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9d673c1d_31e8_4539_9239_793947435095() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_08ede94f_aa8b_4875_93fe_b55c90a05b58() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7998b947_e18a_4c59_8823_a2426671b65d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_42bd0337_80f6_404b_b757_f8649030e93d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_14fe810f_dae4_4146_941e_af653d766940() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0ab288aa_ddf7_4c3b_b512_67055d2d71a1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c540b7c0_3b3e_4278_8d33_16f242333258() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_321d98a5_a9b4_47e7_afc4_230d5afd5fab() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e6272477_32b4_4653_a587_3cdf5ea0c81e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_98a3522a_54b6_4fb5_966c_13591c626b9a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_554be604_44bd_4918_8b78_dac423c1084a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8a0d970f_d135_4840_abff_68e7fe6e14d2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0a5e68d2_c174_498e_be07_e82314bcf6f9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_68bfaf81_ecbd_4115_b107_d331741458b0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f1713f71_5321_4c6b_9fb9_8defda1b0963() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_716842c8_0861_4bf8_b37d_f45189476fe7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4bc9d05d_0533_4bee_9df9_0380c3495f45() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_07d29060_574f_47be_8307_f632f9e4977a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_92c6ea93_c4e5_4b71_b149_5982190f7233() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_aa60ec22_9854_49d3_aace_6af1fab8be05() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5ee615ee_e674_41ad_8e73_da4a995d4b97() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_62eaadd9_b2c4_420e_ab0b_7fd17d085ddc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7785a2e6_45b6_4094_8f4d_9faf476b96f6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8488fabe_4b1f_4934_a4c0_e8deddd6f43a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4b547d5c_3667_4623_a044_cbeb19c0a7d8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a9ed8584_60c4_49c8_a3b5_8c4104a32730() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9cab5f24_49e6_4d7a_8489_e1698cdf62b6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ca876d32_a9cb_4cb0_972c_8bfe477cef01() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a5247d1d_e694_4cd2_b5ad_701e52dd900d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bcc68e49_d709_4bf8_872a_2dfb96900c09() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_905e0449_fed6_4fe9_bab5_5f4766e2ad58() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ea8c41d3_b295_4a25_8c00_58f6dc956b76() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a3dbe683_fd88_4697_8377_8c2fca6d7416() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0eb17a30_c33c_4966_8e1d_fb2d6f451c0f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b42d578d_48c3_4302_ac51_87bbb715da2c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_61f47e68_cf6a_4bf3_8b8f_1f539ad3e2d9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_424078f3_37aa_44b3_a686_95f784a081d9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_48ce2b83_0127_4189_b71a_1382bd8641a7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8a0d970f_d135_4840_abff_68e7fe6e14d2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fc0f18c7_cd95_433d_8eaa_76a235161160() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_383d6aca_c8c7_4f21_a43a_6f40141ce3f6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_55613c72_59b5_4ba3_bef2_befbac75b846() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_aac8b5c7_6951_44ab_899c_11a0d9f9da9e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_87e7c9e9_b1e4_4ea8_beb7_953bf4c845e9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d7a9c789_ae0c_4907_84f6_24862ed9717f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_54debf3f_84a5_4505_bfe8_a36ac7908d88() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b7ccfafe_0568_403a_865f_eaa60167726f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_27f83d59_67bd_43a2_a07d_c48a90b49bde() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_052da31f_9e3f_4cc7_9a19_7c52c816f0e9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2b29352b_45e7_4a92_922a_1083c2f41133() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_770d13d1_0e58_4ece_b9bf_240d25ba5030() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_97cc1eee_3f95_4942_a3eb_1f5761f25109() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_06a441e4_e84e_4819_9bb4_d08591127fc1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_689c01ac_5ed8_415f_bba0_a6ac22fa1829() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d681d0dd_3a65_44e1_bd4f_897bd57768f6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c7aa29e2_9679_4e57_bc0e_349af2274d56() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_68358172_14d7_45b7_be5d_1ed9899460de() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_841636b4_ca87_4b17_9481_e333105596d7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0c6ccff6_b10f_45e0_8a29_96dce432df83() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_82c3161c_fa49_422e_a00c_f866e85b8d41() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d0368850_5322_4294_bdf6_86342fe74b1d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fa1c0d73_b70d_4794_a40c_cbcd5fa59e47() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_056c7de7_f231_4938_a43d_3d49b197cdd3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_db3803a0_c2b7_4885_8a22_3e1e699dd89a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c6b29d67_ca51_47d3_8834_a86e21b38d06() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d16de670_3a2c_44a5_ba87_dbaaca06f6a6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bf0810f7_716d_4b98_bcfb_ca102c8bd4dc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_841636b4_ca87_4b17_9481_e333105596d7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1de7933c_4c47_4af3_83d4_dda1b4880960() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4563887f_7084_451e_83fc_58493cd50120() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_801aeb9d_3731_433c_978d_46b8e8d9adf6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c0484366_2e89_4ae9_af7e_d008685ac8dd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_826da1fc_8228_43dd_b116_cd060e61cff2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_10ff09f3_2430_4bb5_8256_79f2d6a3a58e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9927436e_691d_4791_a228_653b7bdf55c3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_56c2af15_5846_4fed_a7c3_86e1d260fef8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_afc6e84b_c07e_47d1_80d3_53cb77a6658e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d021b109_8e8d_4a5d_98ea_7606cef31db3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3289d476_4eae_4d13_bf86_9ff143ee4541() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_630c1318_5eca_4a4a_a731_d90a02cbb44c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_932d9e94_1b0a_4b87_9ad7_a8652d4a902d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ebeab66d_10df_49b3_a41a_c30e45cda400() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a6ebd095_3de4_4704_9aab_45ee58c2255b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4e88acb1_d259_4760_a742_ecac44847a61() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b35ea664_fa6f_4334_8924_e1c718b80660() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b29ec02a_d8a6_4c1e_931f_589db266afc5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2776a37b_e4cd_4cf0_91d1_0f626ff9413b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3e8133d7_3a64_4704_982c_b98f1eb22a0b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_846f3c08_73de_40df_be59_94b1a6ee6ab1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_30904752_01eb_4f7e_a8a9_906be0240e12() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a18604a9_9e0d_4d74_a9b9_8ec3751177cd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d3a3c39f_fb8c_40da_8e61_4dbf012348be() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9cb0a545_a47a_428d_abc2_ad72ebe7d5e0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_187d59fc_a4ae_430f_a865_7d41c698377a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1d4d64d9_9951_4c60_ae76_29a6c80d9f00() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d7198461_2ec1_4cbf_8e75_008eef9062d1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cdde6155_4a86_48b0_b782_d95d33bce85d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_66ef040d_bcbe_4dd9_ba6c_4c699946b087() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b34f5115_719e_454e_864d_66f1ebdf8bff() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_84ecf6e2_71ee_4c3d_9e2b_41f2e57d7b95() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d266b350_1efe_46e3_b523_2fea1c970d3c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a549bc35_fc58_4bbb_a9be_7614edacabc7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ffd642c1_7697_4a9a_8b6d_025ef391dcb0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5b63cdfa_9439_45ef_bc6e_6030ae8ba9cc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e5cbf74a_2645_41d1_b180_e73726dac6dc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e0208a63_4291_42eb_84f7_cb033c88bfd6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_58ed53ac_5c0d_4274_b9a4_af1a17074c99() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4ba1ba43_e575_4a2e_bff2_a71be4d2f302() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f6e084f1_aac1_4761_8136_8a68ce9a556f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a28514e3_2c98_41c6_9f03_8d80bb603786() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9ab8524e_9108_498e_a2de_d78f44de4e46() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b10ab2f8_edb7_46ce_9b26_e32b714fae69() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1af7170e_2362_4ee3_a629_b0c3bdcf9b23() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b9a01495_3e69_4162_99a8_1127e236567c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b0350ed3_3d90_49f8_b8d9_f7f6d0274a90() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e7e8cc0b_5333_415d_8b1b_c6d363c47635() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0fa3cf0d_cbc4_4956_9fa1_4db3765d8e5e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c3b689a1_fd41_4a44_af23_cd9ef8c24e40() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fecc4bf0_f336_49c8_ac6d_c47c0f884156() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_30d63167_daba_442c_b560_734d4440d100() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0faf3717_a4b6_44b7_b696_f390dbabef26() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a65b9cc5_43a2_4edb_8df3_94b40ed9d2d1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fc8e6e45_1b83_4a5d_8a74_3c50c4fc1747() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dca11249_c8f5_42fd_a381_82050307e94b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_02eaf3e9_522a_4635_88fb_2e74b684efe1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_92d34c26_1a17_43df_a5f7_d2c4fd7719a9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_85e7697c_72b6_42ff_939c_b9e72dc93692() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_58e9748a_f31d_4d12_a908_938bf6ef322c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3ed30ef2_373e_4216_9d45_3576af213e43() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_50bffa08_ae56_4519_97be_b7cb5fa121ec() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_77742de9_68f2_4c9b_bbad_c5ff7193c4cd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_33b9431c_9f78_4166_955a_bf0a0e25e9ab() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8e6d746e_f1d7_4baf_b121_16f79f1c0e14() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_57475d65_40c6_4579_b3bb_db076242463c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2371fc81_407d_4f5c_892f_8bdd556f6d76() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_809280f1_a6aa_4bf6_aae0_8bb113afcd1d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a932eb98_343a_4dd1_ab43_92a1a74ed682() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3da9a41c_5d57_4a4a_82fc_24cdcebabd9d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7a0ba191_61ea_4af9_855b_89e2f676ef63() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5aa83338_e9d4_4594_bf05_492fe74a6bba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d7198461_2ec1_4cbf_8e75_008eef9062d1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5c56a212_9074_4536_b459_a7ef60b0a249() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a169b7a3_3f74_4114_bd50_65cab6fb4278() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_696531a3_eb25_4d35_b502_2e65745782f4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8ee0ecaa_77f5_4cd1_97aa_15d278b37a9e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c8754b5c_a528_4945_b2e9_79b6f790242c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b62e484a_fe99_4b26_a6fc_274719c3994d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_321d98a5_a9b4_47e7_afc4_230d5afd5fab() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_017dca52_6cf0_4c68_8db9_31f6abc27ac4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5be6bd48_d54d_4b96_b8bc_26237b31c319() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f19e70ef_e2dc_4eda_bb8b_f8b6e8755338() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f1b3632d_b705_41d6_85e6_1586e3d72821() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_52e17eae_916e_42d2_828a_8f593bf28b1c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3e4fc91c_0a97_4d04_8c4f_e309e7165a86() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_15a4e577_d428_4163_adc6_943281f05579() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4e12065a_7fe8_4120_8f2a_4d0d4ddd17b4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a1c3b2b2_83df_4e4c_9fc6_f86019db9c9e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fab3661a_fda5_4172_97a5_bbc5a2f198a7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7062993a_ef5d_4885_b6cf_6500de5cef7f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8f54b894_c50b_4a98_bfc8_384c92786466() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b0389122_b348_472e_abe6_ddf35d2ffddb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_25fa547f_5901_4f82_a55a_d5d3df934c0c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dfb757ca_65c8_4ab3_811f_f58b975efcaf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a5f38f08_3291_481e_8017_d7a61dbc8973() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_611d836d_d7e5_43fa_b2ed_acf8828a6a0e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_de4a09bf_2e5e_45ae_9ec8_700009917e86() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_31c33e24_d818_4969_b02e_be64e88655b5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a80b2643_4d9f_4cc7_8c24_1e718aa81123() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0cef604b_034d_49fd_a779_61193fa02ff9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9169aad1_834b_4d25_a3f6_c3d4dd51c904() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5989f7bc_1486_46ff_8a55_43f95c17dc66() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_978e4d6d_e516_44ae_9412_04211b2983b4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2347f6a6_bd41_4636_9126_7014acb37fe8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9dca6c65_a37a_4a05_96fe_99d2d86884cb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4e12065a_7fe8_4120_8f2a_4d0d4ddd17b4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_28aa91e3_7fe6_4196_8b7b_6847ae926026() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d2a28ddc_126e_4076_ba2c_286038834009() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ed898627_c03d_47b7_b15c_729f2564dd53() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cdfd6084_c668_43ab_b72f_9b752cc86093() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_35b9fb25_afb8_45ad_ba30_d9ec8cb21c75() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c7217d39_221f_4402_9db4_9153a3222235() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_10ca07cf_0866_4520_8f8d_84cfab35eb59() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f83ab228_5466_48aa_b826_aff44938f8e2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_13bf755e_3cc7_4c8d_890f_5dfb928d25e2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0cef604b_034d_49fd_a779_61193fa02ff9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cdddf2dd_858b_48d8_8dad_55d2abc6d372() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3ddbd0c3_aa04_473a_b7d2_e3edbe43f5c5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_18237ab4_8461_4db9_9d3f_1d8e8e230b30() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3344aa26_d068_4590_bb92_144668c5d8b5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c49aaab8_daa0_414f_a1c0_681f8538da52() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6e4afb90_d603_46f1_aadd_2f1e95981f0d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_69c67cc4_1267_4cf6_a327_e7d1f37196a5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8dbd06c4_5618_4f19_b095_428b2c3bd5aa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e4a8a255_c05d_48dd_a6c7_49ce82941efa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5d41e961_1131_4f6d_a464_a3435a8d3b1b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d44b4a3f_a79b_4266_9bc1_f991b0d5cb0e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f313ec2c_cfd3_4f7a_af73_1faa81cc7f27() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c71101e2_b613_4814_bbae_7bd8b5316839() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9def2459_94fc_46be_8fa8_c4944acd0379() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_75468566_e205_4e1a_af8e_a74654084722() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2e1a6154_97c1_42dd_89a5_770e4ac49a03() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ce617b9f_6628_4d86_bf7a_6ed5ddd8c01a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0591ab5d_1ef8_4c8f_99e3_992304521abc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c84d44c4_edf7_4891_9ced_5df05a786912() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a7b8cc73_76a4_41ae_97fa_b533e4a394a7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5969c875_f09c_4695_8fba_cf2e0975e2e0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2e7d7e9d_46a3_4537_925e_7986f99f8674() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e976cfd7_2f81_42c9_80e5_0f63f9897191() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3789a624_54d6_46ea_9159_138dd7b6e1e7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_03e86434_6072_48dd_83a3_66d5ff196937() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_71c5f9c8_8f13_4f39_bb2f_8db84ba638e1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0ab288aa_ddf7_4c3b_b512_67055d2d71a1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fe303d81_3b1e_45f3_88eb_d861a9c68176() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e5a83e26_39a2_4312_8bb5_ee5ebfd6f0b8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6db22f95_4495_4054_8962_d2b4f75be606() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1657e30e_f429_47c2_a7ca_c61bd6bf2bed() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f4530238_c5f9_4d93_ae2d_41029bfba07d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e0208a63_4291_42eb_84f7_cb033c88bfd6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e4a4b9f3_c942_4de0_8a99_3c4e95545569() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8f84b30d_3c3a_4e08_8bd0_4c96b1ec0579() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_671818ef_058c_48ff_9e75_b504fd526767() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fd120cea_b059_40b9_8094_fc018b78a478() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bacb2d25_1dc4_41d9_b6aa_e5918f2a3310() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_05e03e65_ee4e_4fc4_807b_374c8656b3c9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c60287f0_be54_4a18_bee5_033fa1bb1947() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a17a39e6_b820_4ee2_87f6_1d38b5742a02() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5bb802f3_1b07_4504_8c5f_b9f7c4cc7afa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fdc20c7e_1305_424e_93ef_a81e69c146ca() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a72c76c2_da72_46ca_bc3a_b5ce4286f6a2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6e4afb90_d603_46f1_aadd_2f1e95981f0d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b536d9c1_4c56_4657_8f07_55e62819b6c8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9927436e_691d_4791_a228_653b7bdf55c3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dce453dd_ae07_4ed9_9a3b_51d8d5b8789c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5c85a9e9_fcb5_4b21_a3d4_732b7fe7b34b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_441f3fe1_a2a2_444d_8402_47158597c3b3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3e69d7e2_1300_410c_8ad9_af46996e6e8f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a9ed8584_60c4_49c8_a3b5_8c4104a32730() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e7883213_3755_417a_a174_7c8244229909() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a408023d_9054_4d76_b387_c2720e339c0b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5d23f58e_e165_421b_aac8_57dfe723297e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_19f08cae_67cc_4759_927a_98ae71af9775() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4c229120_e80d_4c40_8288_f07ce5fbda49() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_26514496_61d8_4fb1_afac_91a3e6f009ba() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ba5c2945_1540_43c3_b359_42889579461d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_533c4565_7489_48b0_b900_bdf5afa4b3a8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_91a192fb_d8db_4baf_b925_cac0cab3f150() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bfc5c2ed_4f51_49f2_91cd_57ba83273157() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3a88a8fc_b7e5_4936_b63f_7e1a986b1933() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c2f2e066_d53d_4886_b9a5_61d3a5e0a086() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cab7dbc9_a558_4ba6_847f_56bb79042afa() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8a3dd05f_bb05_4c8f_a3b0_1be283849cd0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_166cca02_4363_4b4a_99ad_1dfef8704e33() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f49c3dab_72a7_4af3_8aea_dbbb15154e8f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a23df5df_1522_4192_afee_e1c12dc1e8a5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_075a613e_2ed9_4bae_8f61_6a50756d6960() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_160aaa34_3f6c_40a9_b6f4_32f2031913e3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_25079f62_da62_4b2e_be11_7f4a08f55796() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d966e5b6_2ada_456d_aa38_a17bfa8a24b9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_06a0730c_fa0b_4e25_b7e1_5ecfde1cfa0d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_245655b2_a23e_468f_bc3d_5d1c971e3d6c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0e63f9ba_1bd1_4fa0_8e89_108bcdfd3eba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4a55d6af_5940_4473_9a06_94172f0759a5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b37ac26e_435c_4046_bf0c_a837d8144d69() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7670039a_00a6_4cb4_8dc7_e4ff4773f331() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ead14fd7_ff43_46fa_86c6_15e7fe032e1f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_03ac92ba_0b2f_454b_9df5_8dc451b76304() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cee8a412_2973_4a21_b782_d9954c47c88d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_870af6c2_1a0c_4b40_840e_d411fc7ad7f0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c7b5f1c5_9fa6_48c2_93e3_be978f5f2e0c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e6fbc915_7329_455b_96db_b67564f11793() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9abb6df5_8259_4705_97e6_9ee2ac58b446() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d67d42d9_7b7f_44a6_a99b_432a894b4034() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_465476a8_fb08_4463_9908_f0139dd8c26b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fe9ff6cd_7803_45c0_a680_4aea16b802cc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_37215873_2e50_4ec7_aafd_e3ff5e76654f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2140106c_0a03_44bc_82da_65de9c810ad2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cc8f7fb2_2a6d_4d2e_987d_1acf0224cfc8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_90216443_f3f8_4f1b_a96b_cac6fbb76404() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d681d0dd_3a65_44e1_bd4f_897bd57768f6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_57b5063c_e9cb_454f_ab99_5becfefb0b31() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e2a24609_0f8f_4304_9aff_94b6caa89edc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3843ddb9_c7b1_4520_bb99_7d36cd23e655() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e4f2f4a8_d134_44b6_91f0_e27f15ef58c7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0924b29e_35eb_41ec_9c4a_e45a9f7135eb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cd3c5a2f_d700_41e1_abb2_a428c1abddca() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cbc04dd1_d0d8_465d_b1d8_4ca9b7151000() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c42fd6d1_cd04_40d7_b238_a58b682ccb4b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f03594d3_485c_4029_8343_1c1f63b6b3e4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fc7be632_54fc_41e0_8905_29b451ba92c0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_24d3c494_c5fa_4a29_96a4_a2d88875b890() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d293c35f_a09a_433c_830c_74ca0f5049dd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2330e3fd_3ad1_420f_95fd_df70194c5f6e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_512f60a8_3925_45a5_85ec_147d2ffbfd9b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fc0f18c7_cd95_433d_8eaa_76a235161160() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0ffc16c0_2c8b_478b_97e9_bbeecbfeec1f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_72e21916_98cf_4792_8fce_9c528fc43a71() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3fd9ea5a_1ed3_425d_b43c_75ed58f2ab0b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_40d69783_69b6_465e_b79a_e8e7af6e1062() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_21796c1f_9a10_402e_8717_ddc664fe5178() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_854630e9_b43d_4a2c_87a6_6878854e25e5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e391593d_7b4f_4c16_93c5_14c697ee9a1f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8488fabe_4b1f_4934_a4c0_e8deddd6f43a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2a8b1c06_d8cc_4b3e_b097_c962e18ae584() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cd38a4de_4c9d_43ef_8aab_2f11a0814216() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a2d1059b_0526_4974_b41b_3ab96399a596() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d9ff719e_0dbc_4308_96d7_778e44e66031() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7906cf26_b8b7_4737_8349_59d5ca7995a0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5ddc6dfe_631a_4ffb_aac3_f24cbfe390e0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_87805c03_13c6_4bb6_86b9_c2f681808ca0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_72e21916_98cf_4792_8fce_9c528fc43a71() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_08eb3446_dc77_4c20_93aa_547a856a60e2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_401729f3_9213_4a30_8b33_c4592be2cd95() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5779d1f4_4812_4219_8411_e3d070bb8852() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3d6ebee2_1e75_4c54_bafc_14ce254ca35a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_457a0b49_3230_4d4f_b9a2_b3b7fdd533b1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_71648411_553a_468a_8f6a_1b762091e22c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1aeaac39_2c4e_445a_8913_2274e5c66406() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4de3cfe9_7c8d_4dc9_9f11_bb0a970169ba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_49e10952_6106_4669_98ed_59cac8f52adf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_91f29ccb_d942_402c_a200_76eb024fde7e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d59f251d_ed29_445d_8771_2461de99252a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e49e8c38_ec4b_4eff_92f7_350ddc92a7c4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c3184075_2e46_4212_a462_fb0455a3bacf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_23febd94_2dcd_42d5_91c6_2f3f507d3117() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d48e8829_c44f_4339_adf3_28525c72183f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a09241d8_47cb_4aca_854e_687834b5cf08() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_03ef3e21_bf35_4817_9483_70f3d125e80a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7972f0b0_3fe2_4391_bc72_5c1e4b6c4bc5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9e272c09_5591_4949_9a93_5dec4a77c56f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_920faaf2_6102_4085_a491_b34e5d3a9cb1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_63579a64_0d71_4fa0_8d51_54165adbbfd2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a20307a0_4c77_4725_8214_f06b04a12beb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0dddfda9_6a07_4b81_bcfd_dcfc436fa133() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_799de3dc_7c95_42e9_8c94_61a969679d0f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3344aa26_d068_4590_bb92_144668c5d8b5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3e69d7e2_1300_410c_8ad9_af46996e6e8f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8733aca5_ceb6_41fe_bf4e_7aa75e6c1ff5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cc02b59e_7a17_4aec_a255_204e4f891903() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_48679853_707c_4afe_b438_51d4b93855e4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a5bd5594_d84e_442f_8b82_0ec6dce44159() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cd9c6a2d_9456_4992_ae0c_6492340d64e5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5a863955_29a3_44a3_9fb6_51a51fdd8fcf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_180d8c17_ae69_4003_a8d0_cae257bafd2b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ffbd5ec6_3fe2_4f4c_bf30_e1f1aa2e913e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4390548e_f59a_4004_a579_dded9a951965() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4a55d6af_5940_4473_9a06_94172f0759a5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cf4e5357_4ffc_4958_b0fa_54e8dad8c0f0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_323f9d8f_2f1e_4ff2_82a5_ac6c0da96729() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ee796cd8_3013_49c6_9989_a96744598910() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4ff76a78_d5fb_475e_ba6f_1b7ffd5e1054() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b62e484a_fe99_4b26_a6fc_274719c3994d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5cc987b4_7d85_4aaa_9038_c449ce0ccd90() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1637f68b_b337_453b_8c70_9df628acdecd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b45593d2_7b5f_4297_9335_23be748d89d4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_db0b9fce_d4f4_4b08_a6af_2fc0efb04a98() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4b4464cc_7d71_4cab_8037_759e30104056() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0888c87e_36e8_4dda_8be8_00edff885c45() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2189b804_8595_49c7_9226_e3fa72ccafa0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2e77e0ca_aa33_40d6_8556_0890293706a2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c41d4f90_7a85_4a6a_8049_571de7ad37ae() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7590fad5_3667_4486_a115_f141c3a7e5d6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7785a2e6_45b6_4094_8f4d_9faf476b96f6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4eb720a0_8510_4fb7_b5aa_34a503bd8a1a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9bb5cb1e_0aba_480d_ad30_d0d23ca18507() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_521655cf_8c34_4dce_951c_e280925679eb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7253e2f5_b704_4c12_b843_238e393f2046() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7998b947_e18a_4c59_8823_a2426671b65d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_61de6bf2_c6f5_46f2_aff4_06e33bf77987() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e2c74c12_a5aa_4681_914f_18bf59be3ad8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_80972f5d_44d2_428d_add8_aee9e82f2816() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e44da8fe_cde3_4ce6_9b83_2d604d5998ec() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_18813ce3_17a4_4746_8aad_a233b8c70ede() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_82ff1f82_7e55_4c32_98cb_e87b7b97b972() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0b0ec8de_d66f_455b_b99f_34acd6b31dd2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_60ec8529_ad82_4e8c_98c1_fb0f5e843f87() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4894401e_beff_4b34_8130_8425210085fe() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_94559a8b_3627_4358_ac1f_c4802f17b00d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e82878af_f183_401c_afb3_6701862579de() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0eb17a30_c33c_4966_8e1d_fb2d6f451c0f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6f7a3c8c_1deb_4869_aba3_5851724eeb49() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7afe0a24_9fed_472d_b761_3ac9d1be7933() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_aea42a91_20b5_4c34_963c_7832ebe3e83d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_40284078_d7d4_427a_9be9_dd6cc8de28ef() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_898d8ebe_4e3d_4a8d_903b_9e00358966eb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_770e30f9_2bc6_4c20_b7d9_efea8c3e068c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7d146a08_34e5_4835_a177_6f92b9ba9bee() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_aa7d93b1_7fc9_4a6e_a92a_2a22b05bf68a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0888c87e_36e8_4dda_8be8_00edff885c45() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c8010a6d_202a_4e3f_a436_337ca83c19c6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_68bfaf81_ecbd_4115_b107_d331741458b0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9e5d743a_c7a8_4197_8cf9_bce4a91050e7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_55613c72_59b5_4ba3_bef2_befbac75b846() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2acde3fd_a797_45c9_ac42_c3213a218251() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7a0ba191_61ea_4af9_855b_89e2f676ef63() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_347af688_1427_404d_bd64_1aa9d13656f3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cada834f_8ba7_4230_8fba_bc51c053bdc1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4e3aa832_bc37_4fdc_813f_6361a2fe1090() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5a789f8a_3454_4e02_a6e7_fdeb8ff15918() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_770e30f9_2bc6_4c20_b7d9_efea8c3e068c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3ca46bed_83e8_4415_b0dc_61b32fe14747() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_15db006a_8245_42a1_84f1_30d457a137e9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7a5fc138_b684_4874_99eb_d09f57a3d3e2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3a9c49c5_03e6_4a87_a43a_5551659b3958() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_95d26016_ae37_45df_956d_b2fd4fee21c9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_41b0cb99_ca8b_47d7_bd32_dcc966aeb4fe() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_65edcd65_b7bf_4c42_82ed_ad1a75b3c342() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7a4dd91c_6d8f_4daf_b98a_4bdad11f6026() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_43ec8dc6_f4cf_49a8_8c59_5aa03e549db8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8b43fb30_917f_40ab_8595_47165679d263() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_47289acc_8eeb_4a03_bc89_8c1d6329f811() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_94559a8b_3627_4358_ac1f_c4802f17b00d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2c6482b4_0670_44a3_8f13_c7e2c78faaba() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e3bd0522_ef09_4548_9517_512020ecdb44() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ffbd5ec6_3fe2_4f4c_bf30_e1f1aa2e913e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8e135395_51dd_437d_a52c_e7514648aaaa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d9d8e41e_5b4e_4aaf_a261_b886fbd67cb1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e491c9c9_9ad0_4e2a_9f19_13b0329f48c6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_496c390b_054c_4de2_b498_0c2074c3bf3b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c8f6899e_f12f_4afe_b7c1_2662b715a258() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_82c3161c_fa49_422e_a00c_f866e85b8d41() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0de0bfd0_8883_4dcb_8fa7_4f079b13a51b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1bb0920d_32ae_4b7f_9e14_711dea342be7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3c4e69c0_2d17_4448_9213_1cda2f2f3aea() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_03e69afc_a569_4449_b27c_6b885737f072() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ec6641f7_7401_490b_bc7e_0c479d3d638e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_644ac71a_adbf_4739_a0f2_052d15b00239() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3402a067_89f6_4ac9_9bd7_2a98c1de8d66() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a9b6575c_1e4b_4d64_ac78_d31be8bbd388() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c6a7c61f_b0ad_4101_8734_4622f028090a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a72c76c2_da72_46ca_bc3a_b5ce4286f6a2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e495ffe0_e17d_41e3_b629_11ecb79b2fac() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b0372a00_f1e0_4267_93da_7c35faa061c3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bfa6bce6_d13a_43e4_a738_5a00330862d3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d0cbcb49_d89e_46bb_b0e0_71013c9a71cd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0d012999_e19c_43fb_8068_68cfee603a1a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_611d836d_d7e5_43fa_b2ed_acf8828a6a0e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bde1bc62_416d_4235_8190_fd0d326cc860() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3afe2816_60ed_4c28_a2f4_836ddce24bde() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_793f977e_b668_44cd_973f_562f4a042621() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_02826f02_2260_4f63_af35_43b2a5c6f5b1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_950e54c5_a284_49df_9efd_d35e45a0c728() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8a3dd05f_bb05_4c8f_a3b0_1be283849cd0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fc93a16a_8174_4666_a4d5_71eb20e739e1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_31702448_c3da_48b3_a998_ebdba9573399() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f6eb8e45_3e2a_44fe_9468_cd4ff957e2ef() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6ec65ad3_f94f_457b_80b2_869b8ab32206() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_401730ca_b939_4efa_8972_17f85dbaeafe() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9ab8524e_9108_498e_a2de_d78f44de4e46() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_443c3921_b8ff_46f2_8355_ef3b1b3edc69() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_04e058de_b469_4d57_b9d3_c11a0d9269a6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5bef5ede_1835_48ab_9ed3_ca991c981a7a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1893a9d3_313d_46de_854e_9db2e87c52bb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f6eb8e45_3e2a_44fe_9468_cd4ff957e2ef() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_10444953_60cf_471c_aec0_c834b13e3713() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6d9eae25_dc9d_410b_8108_4196194afa67() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8f1a0347_0c54_4633_9710_0b23568a035f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_33e427ed_455f_4f16_a9a3_5191567a773b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2bd24eeb_9021_4b94_b1c2_373b7905874e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3c8dfbde_4a96_40be_9521_2de53e7ed7b3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_30b22256_a5d3_4624_a321_26ef814a74dc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4ba1ba43_e575_4a2e_bff2_a71be4d2f302() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e7883213_3755_417a_a174_7c8244229909() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_60360431_c618_41bb_b8ed_57db46664f77() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_68425b6d_fe57_4bcf_86a7_417a89d6f7d7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a5349224_cf30_4f8e_905a_ce61407794ff() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e3e44349_db87_4246_8b66_2ba4f36b7e4e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9abb6df5_8259_4705_97e6_9ee2ac58b446() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_48fd054a_1042_43db_89e1_ee834f3d38ca() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_122c1613_a95c_4e0b_a65d_f9dd6fef54f3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ed666185_8b86_47cf_84f3_ecd7a3e23d94() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_34c0bf0d_2186_4c25_a274_d599d4513a62() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6cfa3f90_43e3_45c0_a566_c99e2049cee0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f5bb52c3_cafc_4d2d_bc92_e105eb78df4c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8a346118_4d96_49c6_bcdf_f6851b755f66() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1e5469ef_6d3e_4be3_af0f_e4877741fe4e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6d9eae25_dc9d_410b_8108_4196194afa67() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_659305be_4f2a_4df5_b1a5_2435213664e8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fe9ff6cd_7803_45c0_a680_4aea16b802cc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e364bf03_6885_4688_880c_ea0693f2e321() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e3891ae0_4d49_48d6_8040_7f0761d8d493() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_374a0a7e_f9b6_4b10_bbb8_09e1c00e38eb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6f9cf012_64ad_417b_b6b9_0c3ff87d7ddc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_88a57a04_5b57_4d2c_af25_8b2fde5b4154() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9def2459_94fc_46be_8fa8_c4944acd0379() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_977c30d6_1c93_474d_b4a4_12d4fc1a8587() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d088e43a_ff6a_4b27_bbc9_5d95b57e9840() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_36e5af90_c5c4_4623_bc4e_a2d71bd97fe8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a1f3dd4e_7e5b_427d_a22e_f8421034b494() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c0484366_2e89_4ae9_af7e_d008685ac8dd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e8e2bb97_fb36_470f_a096_3c0342c07a5b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e372eab5_f0bb_4c04_99a5_88635c68a3b5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c7217d39_221f_4402_9db4_9153a3222235() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e8a303df_adb3_492d_bbec_a457df73fd16() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3dd53a6b_5f45_4123_b707_cf464ff63b4c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e4ddf7e4_96ae_4afe_8b3e_58a389e97e2f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5be9ba82_3983_49a5_85d0_f55931aa6d25() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_328220d3_1266_4cd1_8c2d_04c97f832c36() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1f657f8c_0f28_4945_a96b_85c0c8adda02() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_637d07d8_5ed3_4a92_aba4_f8759346be1b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_522ad007_1e79_49f2_9b6f_e15f52479b1a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cb160040_5586_41d3_935e_13f835e533ec() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5ea9caec_2b46_4958_a37c_39305d55f444() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_498e1756_2295_4321_8bb9_d5427eceb7db() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fbad9a74_fa7a_4d8b_9365_183e69a1a07a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_43d42353_12a8_4618_83f2_9d4dd827c37a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_30c3f065_d335_435a_9f29_2335f192a60e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c52796ba_50c6_4926_a916_10aead6e24da() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_91e7c31e_b993_4999_8895_76612f0f2eeb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_04bf3e01_d507_4754_b3f2_c1175a33697a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c1940a3c_1f5b_473f_9aa1_3a4601ee9bf6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5f64f5e2_5cc3_487c_97fc_4ff33a667584() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d9dbe2e4_ca81_4569_bd4a_92fa038c3663() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0612d0f7_283e_4bca_9ea7_cba9081daa9a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5eee48ec_e092_4d2b_8299_12106885503a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_03e69afc_a569_4449_b27c_6b885737f072() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_800e5f67_1974_421d_82f2_3447174b5f76() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5d244c63_5655_4171_8412_455c07000d1c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4cf2db9a_f7a3_4925_b007_c72500481faf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_27916cc0_63bd_497c_9cf4_4a3ab85b4b64() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_37b64f29_5b91_4015_8ab8_61ed778edc30() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d681d0dd_3a65_44e1_bd4f_897bd57768f6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8fd61948_16f9_4f6d_9b8b_cc55f6ff9fdd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2b9f8a28_4575_4012_b0fa_a0f4a6c67206() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_373e30ea_6eba_46bb_a83a_dc8c2a67de02() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a23f9461_8700_45d4_a7e0_0f0c7682d5bc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_104e3dfa_a98e_4fbb_a9da_db94e71e0ad6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_18530aca_9dee_41b3_8b9a_be6fe13ebc17() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6cde2bdf_44ad_4e5c_9f99_4d2d7420cf7b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_eeabb3c2_4499_4d80_817c_9539ed82826a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bfd006b4_42dd_4a3f_9956_397f4de7791e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ef6aa02b_0247_4a7b_ac0e_8b4298730925() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f7c58cf3_b010_44c2_8fbe_313944049383() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7f381990_c04f_4abd_a0b8_a81010dd3af8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2a83120a_4087_4be5_9197_95de684b83d1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9afe5787_f0c8_46d3_b0cd_fa9333bf93c5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2fdef2f2_00c0_47e1_a503_440984070ceb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_21796c1f_9a10_402e_8717_ddc664fe5178() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a5073730_0ffd_4896_bf95_e82f7940a947() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4afdb87e_1632_4c0d_ba1e_145ce35e0ccf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3f52e14e_e5ec_4b94_98f5_64de0dabffa3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d2a28ddc_126e_4076_ba2c_286038834009() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_35b9fb25_afb8_45ad_ba30_d9ec8cb21c75() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_32894480_a3a3_4239_9675_3f51f91bad48() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_76558970_a0eb_4204_9fb3_4e3352e98ebd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d5ec8fe9_4462_4362_93bc_dee429a7885a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7f5d9487_f4a0_424c_b9b9_0d495167979f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_29501154_c35f_4c71_8dfb_acd9c4e21772() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bb003291_3e8b_42b5_8b0d_a0533b3893ca() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_39d03e77_1671_4d45_937b_f4d81b8d37ed() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4318dd7a_eb44_4b10_8061_ec40fe2e9a09() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b3b7d3b6_0255_4e0d_b7a2_a0f708e4edac() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a2f31716_e350_44ea_8b8b_431ce4134d1a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4ea8dfe6_01b4_4f8e_8bdf_e2f954ca5dba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_29750e74_9006_42cc_b700_a29b7edb9f49() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b01d011e_c46d_4315_a03e_44de1c1b186c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2c6482b4_0670_44a3_8f13_c7e2c78faaba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d9ff719e_0dbc_4308_96d7_778e44e66031() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5835248b_0f71_454b_b968_668c02762cab() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9198eca4_467c_4d5f_b4ad_ff39360c19f1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1426e3a6_e6f4_4b77_a27b_55da8f6e83c8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_853e3d3f_2011_4e85_93d0_5552bc5416da() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e5a83e26_39a2_4312_8bb5_ee5ebfd6f0b8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_be6b3e6b_3d32_4554_8eb9_fa607eed73c4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f7cd2ab6_8808_404e_9704_930a2f0d4f89() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_446321df_7080_4bd4_a009_134538c6e01a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c8754b5c_a528_4945_b2e9_79b6f790242c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_512f60a8_3925_45a5_85ec_147d2ffbfd9b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3d6ebee2_1e75_4c54_bafc_14ce254ca35a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1426e3a6_e6f4_4b77_a27b_55da8f6e83c8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d141d0fa_4ff3_46cb_92d4_52edf4a921a0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_932d9e94_1b0a_4b87_9ad7_a8652d4a902d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_793f977e_b668_44cd_973f_562f4a042621() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d21408fb_2994_4c3a_baf0_f9a3efee742c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f093c827_3c20_424e_9ccd_af2164e2b6e8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_24d3c494_c5fa_4a29_96a4_a2d88875b890() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c21b77ad_b9c1_4252_989d_c062bececd8e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d9dbe2e4_ca81_4569_bd4a_92fa038c3663() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c75773b3_7801_42b4_9bde_aa4d4e76458c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4f11d0bf_8288_46b8_9d27_c8a53c0990eb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cbc04dd1_d0d8_465d_b1d8_4ca9b7151000() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e66f38c5_2144_43b7_8e3a_f29030a5b529() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c3b689a1_fd41_4a44_af23_cd9ef8c24e40() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_61b2a357_c2c5_4c83_a555_581846dbb87c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_521d7779_75eb_4c82_968a_8faa2c6d3fc5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_77ea69c1_c45d_42dd_8ee6_d573ace0d56c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5e10287f_f1da_4a2e_8096_d1410d26e6ff() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a98e6da2_e9e9_4592_b621_85c029865ad2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7e25f278_40b6_4711_8281_20075b8b23ce() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_37cbf1de_2435_40a2_a63a_5115477aeb98() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4cb9ff8d_f8da_4e8d_ac5c_ef60b2d229c0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c1360afb_ad9f_4107_9145_36640ee2bcc5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ba0953e5_a7e9_4e7c_867c_bcffb962420c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d4b087e5_e0a8_48b6_ac50_0888b1b4172d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_617ab299_c5bf_4af4_8a27_882e9292a5a4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b10ab2f8_edb7_46ce_9b26_e32b714fae69() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_68358172_14d7_45b7_be5d_1ed9899460de() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6d4064a4_e2a1_4e96_9752_402e65f17e13() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_61de6bf2_c6f5_46f2_aff4_06e33bf77987() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_79f87bc9_fd62_4870_a2e8_c1115d82b2f4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e3bd0522_ef09_4548_9517_512020ecdb44() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8979fea0_ca5f_403f_b863_1d2ebbf17366() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_08ede94f_aa8b_4875_93fe_b55c90a05b58() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e37faec4_58c2_424e_bd5e_1c9832188b5e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_79f87bc9_fd62_4870_a2e8_c1115d82b2f4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ad909e13_ab51_4d3e_9d8f_77b404b2e1e8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_611d836d_d7e5_43fa_b2ed_acf8828a6a0e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8683a98a_4e4d_447e_9e9c_5f130c6cf611() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ca876d32_a9cb_4cb0_972c_8bfe477cef01() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cd63d82c_d177_4b80_b247_61a746df9e05() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_33b9431c_9f78_4166_955a_bf0a0e25e9ab() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1426099d_af26_4210_baaf_d8007845cb6d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7a0ba191_61ea_4af9_855b_89e2f676ef63() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1d07687e_1208_4ed8_88cc_9c1515007b39() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e976cfd7_2f81_42c9_80e5_0f63f9897191() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fab47ecc_224f_4c41_9b52_23cd5640cf2c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6707b203_7cb7_4cf1_bcf9_a9ddea8beefc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_39e25a35_a17d_43b9_b390_b0f36fc97b15() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6e2e5707_5aed_4669_83ac_296b1ee015f4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d1d08a9d_4ba7_4f84_8c8e_dcfa0c6f44a0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3843ddb9_c7b1_4520_bb99_7d36cd23e655() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7fae0030_ee8a_4f36_a49e_f7e21ef75eed() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_028d7cf0_010f_4721_b9c8_bfe7cdef9ed3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3a56337e_019c_473e_aa46_6d340b37c349() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6ae6dad0_3c59_485a_b48a_93ffab269385() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a72c76c2_da72_46ca_bc3a_b5ce4286f6a2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e74c5796_353d_4445_aeae_d80919ce04fb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_689c01ac_5ed8_415f_bba0_a6ac22fa1829() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7590fad5_3667_4486_a115_f141c3a7e5d6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7314038d_c38c_4a94_b33b_73c81db601b5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_91f29ccb_d942_402c_a200_76eb024fde7e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0e168dda_29ba_496b_a4b4_639707f3369e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0b0ec8de_d66f_455b_b99f_34acd6b31dd2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4ff76a78_d5fb_475e_ba6f_1b7ffd5e1054() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d293c35f_a09a_433c_830c_74ca0f5049dd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a6eeb366_5e4b_44d5_8b83_85264dd0b12f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6e997dfc_a6ce_4bd6_97c6_f11b8a1f8938() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_554be604_44bd_4918_8b78_dac423c1084a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f13cbd33_434a_463b_8d74_e1246c7daab5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a045530c_39e7_4358_9ff9_fea9a5dd2fbe() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c75773b3_7801_42b4_9bde_aa4d4e76458c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_03e69afc_a569_4449_b27c_6b885737f072() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_66ef040d_bcbe_4dd9_ba6c_4c699946b087() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0b07d06d_8890_46bd_86be_858578eb02fb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8a346118_4d96_49c6_bcdf_f6851b755f66() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cab7dbc9_a558_4ba6_847f_56bb79042afa() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_04e058de_b469_4d57_b9d3_c11a0d9269a6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3a5b5db9_b265_46b0_b796_cc93c6830bab() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a561ce37_4de4_4fe1_869f_49a5119b4fc7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_32ff6ac5_e5cb_4089_9637_a0a7dbecb7f9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a932eb98_343a_4dd1_ab43_92a1a74ed682() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c00becbc_6cfe_4c4e_b30c_3f7f4c742295() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1a9b9324_da0e_4b6b_b89e_288a67eb5740() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_496c390b_054c_4de2_b498_0c2074c3bf3b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_52e17eae_916e_42d2_828a_8f593bf28b1c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_39cbb725_638b_44f5_91dc_202fb09c9c0f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b0c247f3_0801_4e3e_ac51_97f323c6c925() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b18b3d82_7ac7_4a29_bcfe_ddfe6eb03c4d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_85037cd5_7a46_431c_8458_9d73aa59fbf1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_29750e74_9006_42cc_b700_a29b7edb9f49() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a2f004b1_e980_444a_a27e_9afe4edd2902() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_31702448_c3da_48b3_a998_ebdba9573399() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b1d85ab2_76ab_42ad_bc5b_e42fc9b3330a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4aecbefe_25d7_4084_bca6_e92dfc5d1e78() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_879cef98_94bd_4301_add7_e0c1810d12da() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4ddb33d7_00c3_49d1_8e6f_fabbb3d07336() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5969c875_f09c_4695_8fba_cf2e0975e2e0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6ac405cd_70cd_4c78_8aca_8ccbd2468169() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c736da94_f71c_47b1_92ad_cc70b8ea41e8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3e4aab4e_6498_4273_8f86_1ed53769628b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_87450759_31d0_41a5_b52e_0bf295cb5e98() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9bb5cb1e_0aba_480d_ad30_d0d23ca18507() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0d6355ba_866e_40bb_974b_9bd399737711() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fc8826ee_3c04_4217_bf02_5a49ec953f06() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e7777c5b_014c_4496_bb5d_af998a73593c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_aa60ec22_9854_49d3_aace_6af1fab8be05() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0fd46f4f_0c75_410f_8d2a_74d24cf63af1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0b07aa75_d17f_4011_9297_d3e7dce1bfe5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_84a72ded_90c4_41fd_96bc_5cc0c7b79b48() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6a4ac549_3ff0_4644_b750_cd95ab758d59() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9058d4d6_e260_4a1f_9172_1607b73d88a2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_959bf5f4_62f6_4740_8031_bda97ed30241() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b18b3d82_7ac7_4a29_bcfe_ddfe6eb03c4d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_98e16b23_a8f3_42f3_95f9_5f73967e999e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ac54451c_024c_48c7_8755_0ccc5554d219() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2c6482b4_0670_44a3_8f13_c7e2c78faaba() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_306b1bd3_8c8a_4c5b_8291_e4bdca0cd372() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c0484366_2e89_4ae9_af7e_d008685ac8dd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1c7a64c4_4fc2_4dae_9b56_80ec06a99318() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_77de42c7_25cc_4571_b9c3_7bd1a6806b7b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e064f4d7_d3e4_4e1b_a5e4_789eebc45165() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4675727c_f365_43d3_9ac6_3c614262a6b4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4e3c57dc_02c5_441d_bae3_12813e571f6e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f6aa33f7_a16d_463d_a1a7_452612c894b8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_87e7f954_1f9b_4e78_9eb8_e768d77b45b0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_eb936c61_c741_49d1_b98f_1b77f57b13a7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8683a98a_4e4d_447e_9e9c_5f130c6cf611() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_920fa614_f61e_42f2_b08f_d3b76378959b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_892add6c_e19b_47aa_bfa6_a7b320e339b5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_57cde96f_5104_4f23_a3af_1517c14113d6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_27b6628c_c599_48c9_a131_bf7c8618f86f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9afe5787_f0c8_46d3_b0cd_fa9333bf93c5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b3775fc0_cdec_48e5_8544_0b12aeb675a6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_056c7de7_f231_4938_a43d_3d49b197cdd3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_eb8ac582_85a7_4308_9700_a9e9208057dd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_030928c2_04a2_498c_920b_1bef91bc6ed8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f524fff8_b687_4548_8c9b_d43ac3e62731() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_88a57a04_5b57_4d2c_af25_8b2fde5b4154() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_50d5d4ee_e13d_4ea1_842f_ade1047f8b83() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_191e7c7c_6bfb_4829_ad30_823113aed418() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2347f6a6_bd41_4636_9126_7014acb37fe8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f97b288e_0213_49c4_902f_215f3fdce8c8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_58e9748a_f31d_4d12_a908_938bf6ef322c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7f5aba91_8a0e_421d_8045_3d220914511f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3344aa26_d068_4590_bb92_144668c5d8b5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_57475d65_40c6_4579_b3bb_db076242463c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0fad0d40_d006_4184_a2d2_eca131b7f610() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_29ecc1fe_4065_4d35_a167_6cc74a33c213() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5180b905_5245_4a1e_93bf_833a4006e743() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c5ad0707_9b67_4607_8864_4ca6a7120e06() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_238d1a9d_2b24_4a2d_824d_420f9e78a20d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c835bc49_da49_489d_921c_69600b77165a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5c278fe6_acc2_48b3_ac4d_704ca9c4cdf9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f7dd0983_5585_40a6_8234_160d8ef3dab9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_76911bab_8798_4ddc_994f_ea8deda8646f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_948ea09a_e4e1_4a7e_8f98_e2a888a3166b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b914459b_07da_467e_849e_8ca3becd3ab5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fbc411a9_0df4_40ef_b7cb_20e1f2dbdb9e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_99fbc0f6_dd4b_4846_84d3_ecbe35b6c25b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0d2908a8_7c31_417e_a173_6a0278d3f160() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a9b6575c_1e4b_4d64_ac78_d31be8bbd388() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_306b1bd3_8c8a_4c5b_8291_e4bdca0cd372() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c7aa29e2_9679_4e57_bc0e_349af2274d56() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2903c403_c0db_446e_8443_30427d651e26() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bfd006b4_42dd_4a3f_9956_397f4de7791e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_09fbf77a_1289_45da_8c1c_9cde928616d8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9ef15bf6_4147_4e9f_a0f8_13d0d7efe43b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1e8c1158_4987_4117_81b8_f7074f259e98() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_61c250fc_4ee0_49ff_b79f_e6c7d51fda45() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5be9ba82_3983_49a5_85d0_f55931aa6d25() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_325a84eb_3342_4829_9ad2_d5e91a9d8d10() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2140106c_0a03_44bc_82da_65de9c810ad2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_94559a8b_3627_4358_ac1f_c4802f17b00d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5d6e07e5_4e56_4289_8797_e62897c5a88a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_016b3e66_98d8_4e7d_8cae_52aa960dd907() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dd543046_4d33_4f25_acb8_305b1bc3cbaf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f4c397ec_8b67_4b95_acbb_e52e33c4cfe5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_62eaadd9_b2c4_420e_ab0b_7fd17d085ddc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b5ea972b_c7af_47cb_be4b_a6484abd3d70() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_502bfd81_a92a_4d78_b8eb_995fdbcb2f29() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d121cc7c_2c62_48ba_aa90_6e08f75c96b1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6fa8ec03_e4ea_4b91_ba2f_221fb0ec0da7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8ece48c6_220e_4bf2_ac85_faf880f4761a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c1360afb_ad9f_4107_9145_36640ee2bcc5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5db5d1c4_c531_47cf_a430_acc2083d99c4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_132a7810_a438_45ed_88ec_bbbc84f59a43() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ef0e4489_9e4d_4625_8a77_57f2c57a3f3f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a547b98e_4c26_4c59_87aa_b2c1dcbd372d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_02826f02_2260_4f63_af35_43b2a5c6f5b1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3d19e69a_8abc_48c0_af48_96733d4d70c9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a5247d1d_e694_4cd2_b5ad_701e52dd900d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4cf2db9a_f7a3_4925_b007_c72500481faf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5d6981a2_7c38_414e_bdb2_21e206b48a9a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a7f65431_753b_4118_8a64_1cfc8159c507() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e2c74c12_a5aa_4681_914f_18bf59be3ad8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f7160945_6f17_48bd_bd6c_c35e90833918() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0575a432_4ad6_47c1_98e4_4c9b0a92cc7b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2b564516_a422_487f_af83_39f27e6f0ce4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e7e8cc0b_5333_415d_8b1b_c6d363c47635() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_533c4565_7489_48b0_b900_bdf5afa4b3a8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_671818ef_058c_48ff_9e75_b504fd526767() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f0f1c124_0579_4263_afda_39c868b9b903() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4eb720a0_8510_4fb7_b5aa_34a503bd8a1a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a78eda02_d1bd_4b2d_acf6_f3152caec9cc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d3793231_135d_4526_9db6_a8d16a348f6a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_35b370b4_4cbc_41b6_bcf9_dffe5950116b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cfe5127b_0a10_4086_84ab_d40b818fc363() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a045530c_39e7_4358_9ff9_fea9a5dd2fbe() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_36a7eb1e_f113_4394_aad9_af53b85a0efb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ae133d8b_9e2b_41ca_a381_ca714e8de5a6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3ad47dca_955d_4326_9315_f1e467150f1a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0c355e74_3bf7_40d4_8421_76b83f1b51fa() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2140106c_0a03_44bc_82da_65de9c810ad2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_000075cf_efaf_4a93_ab07_02bf27f3b253() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9d1fa8c2_aadc_4019_910c_a3bfb6cc66d6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_443c3921_b8ff_46f2_8355_ef3b1b3edc69() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_33b9431c_9f78_4166_955a_bf0a0e25e9ab() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f7cd2ab6_8808_404e_9704_930a2f0d4f89() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_04b74067_36b1_4602_848d_bb038eab1ad5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0b141865_7b6c_4e68_923a_ff77ca480170() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_aad42042_d1f5_4373_8ba1_b70f2ac5f93e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2361af0d_621d_47ab_9e6a_25f7ea57315d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0016cbf1_52c7_4aad_a5e9_c4fb0d1d8d01() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_76911bab_8798_4ddc_994f_ea8deda8646f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_94319fe0_071c_48c5_a6d8_1d9d18f04922() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_43d42353_12a8_4618_83f2_9d4dd827c37a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_075a613e_2ed9_4bae_8f61_6a50756d6960() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5ed88978_9d7f_4700_9151_db25fe71ec60() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5e0cf089_52da_4d14_aea4_41f17d9d2017() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_85eeaf97_d8b5_4ecd_8ee4_63ce9309cf5c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2e90eb89_afec_4347_9bd4_358598abe47d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_73aa3049_887f_4349_9a2d_05c2ec6d3a46() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_770d13d1_0e58_4ece_b9bf_240d25ba5030() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3695530d_d247_4418_9c34_77c7decaa1ee() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a98e6da2_e9e9_4592_b621_85c029865ad2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e5faaff4_dc8c_4401_829a_9f758df3b37b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c21b77ad_b9c1_4252_989d_c062bececd8e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ff00eec3_cfe4_427e_a3f7_6159504d62e4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_03ef3e21_bf35_4817_9483_70f3d125e80a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8b966322_3bfa_4fdd_9332_c0e5ba0b277e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d088e43a_ff6a_4b27_bbc9_5d95b57e9840() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6320b3dc_ea58_4e86_8032_608405d639be() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d1b76965_7fe0_4285_b513_e97cba1db78f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_89e1f821_08d7_4225_953b_0e660562ca46() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cb7aa106_08ef_42ac_a2a7_138b24658341() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a547b98e_4c26_4c59_87aa_b2c1dcbd372d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_59cf2d3d_da24_42bb_8164_fc5e080a486e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_be1b8ce3_d841_4ce2_b623_d21f22a42768() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2330e3fd_3ad1_420f_95fd_df70194c5f6e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3e913d73_77b3_4b2f_9191_dd1c2e44f624() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f8a27e1c_685a_4aae_84d2_cc3077f9ee8e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cf0f74c7_1964_4f3a_8051_6b38efcdbabf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b8a7e92d_aa10_43c1_9a6d_0191b29283ab() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2e1a6154_97c1_42dd_89a5_770e4ac49a03() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f53b05a2_1e9a_40b3_bfa1_3dec6952865d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ee796cd8_3013_49c6_9989_a96744598910() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5cee3fa9_63fa_4763_be9d_e9bdbf942af1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7589649f_15e6_442a_959f_9d4e9cae1783() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0a6b0e47_4b43_481c_b377_3a31aff6251d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0ffc16c0_2c8b_478b_97e9_bbeecbfeec1f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_810d4361_9822_4c15_939c_0fa6e93380e5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_143e70ed_92bb_40a7_a66a_77d517acc8ad() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0629c666_f6b2_4b6d_b6af_728a1e54c484() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_49e10952_6106_4669_98ed_59cac8f52adf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e1baebfe_92a7_47d5_9bf9_c8dfdc4c31e9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_306b1bd3_8c8a_4c5b_8291_e4bdca0cd372() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c5443caf_19ba_4229_9f4b_6b79a6bd7461() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5e4d35cd_d92b_46a5_ac66_b2f152dba488() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_90760d29_766e_4627_a98f_eef612d43a55() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3e69d7e2_1300_410c_8ad9_af46996e6e8f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1f657f8c_0f28_4945_a96b_85c0c8adda02() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0ed70661_76a2_4e1d_9505_6e3d13b0dea7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_40505aac_94d5_4f3f_9473_e20685ed48ac() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b45ddd70_3ebf_419f_a705_42794a7e8493() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_00a39bbd_57b1_4e24_8bea_48faf9bd18a4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_06a441e4_e84e_4819_9bb4_d08591127fc1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ed666185_8b86_47cf_84f3_ecd7a3e23d94() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_306eb61a_3528_481e_8fb4_8073ff7cb7ac() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_68425b6d_fe57_4bcf_86a7_417a89d6f7d7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_afea4287_eeb8_4b2d_8d48_34ffd8fbcd77() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8525487f_1e76_4036_93b2_8b75afbb97f4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_716842c8_0861_4bf8_b37d_f45189476fe7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_74a5af7c_d6ef_4093_a497_d72d1b2e53cc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_68198528_368e_4e32_8d26_f9c10454b68b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9910d2ff_c88a_48ae_b406_e6a1c72711ef() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f7dd0983_5585_40a6_8234_160d8ef3dab9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5180b905_5245_4a1e_93bf_833a4006e743() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_01b3038d_3850_4b02_8deb_db5137c5b7eb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_424078f3_37aa_44b3_a686_95f784a081d9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0575a432_4ad6_47c1_98e4_4c9b0a92cc7b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e6150682_1162_43f7_b75c_c7276af2fc43() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_63aec68e_3377_455c_a4ae_a4caa04d7c28() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_14077084_cda6_41a6_9fb6_d66ee704ac7e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fff8af99_7bc9_4c3f_848b_f7462850d5b7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bbd53792_bcfb_4902_b017_17189547088d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_924a4901_810f_4d22_8015_1131c60af5d7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b14b90d9_d791_470e_b6b3_88265e38fa27() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b29ec02a_d8a6_4c1e_931f_589db266afc5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2776a37b_e4cd_4cf0_91d1_0f626ff9413b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c4a12032_a206_4b1d_8fa9_e7f2dd1fd101() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b1823659_8b52_4627_a00f_d830bbc9de3a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_197360a0_7d22_41e2_877e_5d4b2cace9cc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4b318949_5293_4c9a_8828_c5a4ac31c118() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6d0f9d04_e920_4a39_9960_ab56c67ac1bb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b92b6933_560f_4bd2_9233_de49826e7fa9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5db5d1c4_c531_47cf_a430_acc2083d99c4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e6150682_1162_43f7_b75c_c7276af2fc43() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_158abc18_6938_4852_81be_f6f8ced51a05() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_32592cbe_0c60_4018_a8b5_70350c1303fd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5a863955_29a3_44a3_9fb6_51a51fdd8fcf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ad3fff70_21c2_4ebf_b10b_dd7f28b5ce75() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4fe3416c_43c8_4c14_a123_5e63ba5f96d0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e9b693db_526b_4ec6_98f5_34206de510c5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fe303d81_3b1e_45f3_88eb_d861a9c68176() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d1cca2ad_cfad_4935_beb1_e50d76aeded5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c8d9cbd0_b284_4271_996b_dda1bbf5dcd7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9d4e2d41_7955_4696_afba_bedefd30e476() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a93ce020_51a0_47b6_8f26_aaa620d811fa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a1f11040_0d9a_434a_8719_36dbfde54b9a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_017dca52_6cf0_4c68_8db9_31f6abc27ac4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_14fe810f_dae4_4146_941e_af653d766940() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ffd642c1_7697_4a9a_8b6d_025ef391dcb0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9816453e_a036_4e0e_92f3_60951f5d92ff() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_92c96e6f_a1c4_4a33_aceb_2b95fe90a4fc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7f23190a_b643_4479_94e3_9c5154334021() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_29ecc1fe_4065_4d35_a167_6cc74a33c213() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_70668337_89c5_4c62_83b6_0ecad086777a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0faf3717_a4b6_44b7_b696_f390dbabef26() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_619ed810_1118_42ae_aa8f_b0e995e5fe44() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2301aa94_2b8c_4604_941f_9063c5f7e93a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_846f3c08_73de_40df_be59_94b1a6ee6ab1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a71dd8ff_853f_4eeb_aa10_2edb7da0b381() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2c027b68_89eb_498d_afdb_bfc7709ea328() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b030a2ab_9572_4add_bfc8_c09744dacc6c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ed898627_c03d_47b7_b15c_729f2564dd53() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_47289acc_8eeb_4a03_bc89_8c1d6329f811() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_71f65548_29a3_4839_b63e_84686a99fd26() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ae133d8b_9e2b_41ca_a381_ca714e8de5a6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7942b73e_f35a_49a5_9d66_230ea5d51dbd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a5bd5594_d84e_442f_8b82_0ec6dce44159() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_35b370b4_4cbc_41b6_bcf9_dffe5950116b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5d41e961_1131_4f6d_a464_a3435a8d3b1b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_08b64e91_6e77_4986_a6c9_3866592ef2f0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e1ebe7ce_3778_4f55_b652_61abbbc7c27e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_217fbd48_75b5_4988_a14d_6539d43a1207() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6baca28b_8307_44ca_9c6c_22b3951881d9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_99a8dd0b_94e4_4de7_a33e_cbf80d73d8bc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_02ba8001_cb28_4c28_8c70_607d52c96204() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b15fa766_1e4b_4840_995a_9786d1b20de9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7f23190a_b643_4479_94e3_9c5154334021() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3402a067_89f6_4ac9_9bd7_2a98c1de8d66() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3ef82d83_c1d8_4720_846c_551db9a1fce6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_41dd1f33_36a6_429b_8c76_87ed2d4c2de3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a549bc35_fc58_4bbb_a9be_7614edacabc7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8b966322_3bfa_4fdd_9332_c0e5ba0b277e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_98aac7df_f458_4d33_b54a_ef139624d476() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f9611b2a_fdf2_40bd_856e_b2cc6bbda01d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0f1d4ef9_20eb_4117_8964_79f8f75e2606() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b67ba75c_c10e_4eb9_b904_118259d38c0d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5a789f8a_3454_4e02_a6e7_fdeb8ff15918() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_65503c5a_2999_4aa3_afe6_2ef4d3a14fd1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a13c9acd_d22d_49b5_a339_e3426f34a606() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a285c27e_2eee_4f73_9ad6_0bc810ab1a25() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d290b61d_1838_4426_85ab_59b1bbdcd6cf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9c093847_1c67_48b4_ad49_dd8487068edb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_677bfd97_ed14_4795_8b84_f653646d0163() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5a77b88f_2864_45d2_b212_367f63abbb42() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c45958a6_db8b_43ac_a258_1a29ade1574e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c23ae046_1fe3_4f54_bbbb_f1422adda7b9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2600434e_10c0_4be9_a534_51f0926eaa7f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7dddb567_c89c_4319_b5bd_f99f6eecda27() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_df7a6b26_5910_477a_815f_0c3d0bb02c33() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_030928c2_04a2_498c_920b_1bef91bc6ed8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_87805c03_13c6_4bb6_86b9_c2f681808ca0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3725c8d4_34c5_4766_8cd4_e526e7c5da49() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_84c0e941_af25_4efe_9508_c4254dd85e19() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7324f1da_4434_4640_9b1e_dab480ba7e06() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_800e5f67_1974_421d_82f2_3447174b5f76() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a18604a9_9e0d_4d74_a9b9_8ec3751177cd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a86fca48_f982_4988_8b2e_134ca7c668a7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_131c1cf8_d95e_4927_a597_f99f535eac8c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d3f37109_d953_4ba9_8f48_0deb6b36bbb5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e372eab5_f0bb_4c04_99a5_88635c68a3b5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b15fa766_1e4b_4840_995a_9786d1b20de9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6a6b2c9c_a8b7_4ac5_ac60_b8ff8ad58665() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_619ed810_1118_42ae_aa8f_b0e995e5fe44() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_30b22256_a5d3_4624_a321_26ef814a74dc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0ab288aa_ddf7_4c3b_b512_67055d2d71a1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3e40a42d_dd07_4611_8b33_b37e0927c7e1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e67f2f75_5f66_420e_947b_e8a3c19d1381() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2a2eb014_d542_4ce0_b3af_67be7a1f65e1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2301aa94_2b8c_4604_941f_9063c5f7e93a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_87805c03_13c6_4bb6_86b9_c2f681808ca0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e6a84a21_f9b7_48f8_9246_3985b74a2a2d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_521d7779_75eb_4c82_968a_8faa2c6d3fc5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9c10269f_0118_4611_8d50_1241b25be609() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b5ea972b_c7af_47cb_be4b_a6484abd3d70() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1f657f8c_0f28_4945_a96b_85c0c8adda02() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9cab5f24_49e6_4d7a_8489_e1698cdf62b6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c4881bf0_e295_4536_86c7_a5529ae97731() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_84ee0b47_eed7_421f_9de7_2024b21a613c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8fc8f1bc_028e_46e5_a4bc_5d58d09eb399() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5751b7ce_b415_423d_b4f7_49a06bea0d59() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_49282ea9_e9a9_4acc_b4cf_f8778f3c6dc1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e0937f4e_adf3_43cb_a6e1_0e522013ab86() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dd7a14f6_a148_4b2d_86c5_520edce58e8e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3f65737b_5471_4e58_96c9_f2a4f44ac5f2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_07d29060_574f_47be_8307_f632f9e4977a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8f84b30d_3c3a_4e08_8bd0_4c96b1ec0579() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e66f38c5_2144_43b7_8e3a_f29030a5b529() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_808b796b_1f21_4d23_86e4_d7b69f8430dc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cc70edba_12f7_47e3_821a_bb5b9745d405() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a6cfc7b0_2eeb_4dae_a29b_58d77f768c4a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a7421513_66de_4310_81cd_330ce895f6e7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4cca2c54_0277_48e4_a4a5_852aa2541172() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_be24cc5f_f96a_4cd6_876e_62aaab25d99e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_72adad05_46bf_49e8_ab9e_aafc84260a35() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a71dd8ff_853f_4eeb_aa10_2edb7da0b381() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e2298b84_d428_475b_98c3_597f47a44134() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6320b3dc_ea58_4e86_8032_608405d639be() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d9ca8513_df0a_486d_856c_f85596ea7978() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bbc50b0f_1f86_4bd8_9e64_ba89642b6194() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_122c1613_a95c_4e0b_a65d_f9dd6fef54f3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3a56337e_019c_473e_aa46_6d340b37c349() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_35cc431a_7b81_4147_ad4e_d8d0e0554765() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_37f80cc6_d0c2_44cb_93e6_3b004561b264() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3b2dac19_5102_467a_935d_b64316cff8a7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8ee0ecaa_77f5_4cd1_97aa_15d278b37a9e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_201234f3_d556_49dc_8f67_1fdbd3264589() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b910979c_04ec_4d64_9ba2_5383f2a76865() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_306eb61a_3528_481e_8fb4_8073ff7cb7ac() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7ce67c3f_1039_4423_b108_0621b249980d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4ba1ba43_e575_4a2e_bff2_a71be4d2f302() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_357250bd_f4b0_4902_99f8_31d651b47e4a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_500c6299_9139_481b_af9c_ecfe73e71ad9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3dbb73d4_ad25_4eb0_83d7_60edd57d58e6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1af23a60_5953_4379_9662_a777fddc7d7f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d483aa9b_6f1b_4df5_9e16_195c07a27627() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_be2eb6ee_6b7b_4f60_9041_fca5d62faa28() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e46f2c65_1c39_41e5_a214_89a7957bffee() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_08eb3446_dc77_4c20_93aa_547a856a60e2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_18d4dc75_61eb_44a3_8382_185d1e66dc90() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9d32d5b2_05fe_4042_87c6_a5fc2e4ae07f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4c092ff0_ce1a_4f26_bf2a_9e4a74d07950() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_41dd1f33_36a6_429b_8c76_87ed2d4c2de3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_693e98ae_6b67_4d78_85c0_c0bbeaf063b8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3ca46bed_83e8_4415_b0dc_61b32fe14747() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e1f56985_de3b_4416_aedb_d1880378ca43() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0fd46f4f_0c75_410f_8d2a_74d24cf63af1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4fe3416c_43c8_4c14_a123_5e63ba5f96d0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_58f74614_475c_4e16_80fe_bffb26cbf4bf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9e272c09_5591_4949_9a93_5dec4a77c56f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_60e8ba37_38c9_4070_97ca_8d9a6a090764() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_512f60a8_3925_45a5_85ec_147d2ffbfd9b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_323f9d8f_2f1e_4ff2_82a5_ac6c0da96729() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fab90d40_960a_4c0f_b7cd_62ff77a5f569() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c149a030_c967_4c2a_863c_1538de8a54d2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f48b4774_a5cd_4db0_9632_e3faf1dddf31() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d209b3dd_37fa_4af6_959d_535b16c353f9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c8754b5c_a528_4945_b2e9_79b6f790242c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_176ca1f0_23b3_4f0e_b0e4_3393c6d30b9d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f396947a_8d18_4370_9011_2f64ca951012() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_65edcd65_b7bf_4c42_82ed_ad1a75b3c342() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_409d3254_2f09_40c2_bca0_1467e49b1fd7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_eb8ac582_85a7_4308_9700_a9e9208057dd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cd26aa3d_e5e4_4026_9af5_5e32940b767b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b14b90d9_d791_470e_b6b3_88265e38fa27() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_30c3f065_d335_435a_9f29_2335f192a60e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6da9fb6f_a261_4cb7_8c10_b3ada2e32c4d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_84ee0b47_eed7_421f_9de7_2024b21a613c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_71648411_553a_468a_8f6a_1b762091e22c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1ab6f184_b7d5_46c1_a573_4e2fabe97d72() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d49a27b4_3d97_460c_87cc_c2d9e5e5a439() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ce617b9f_6628_4d86_bf7a_6ed5ddd8c01a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_238d1a9d_2b24_4a2d_824d_420f9e78a20d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0e5a3dd9_5214_4566_9115_45dc63c83a80() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b8504a3b_f38b_4fc7_8512_e6d3ad208adb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_869908fa_70f5_48bb_8b6d_2bb4c3e4bbbf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0e413f54_628e_47d8_b0e2_ac42e7df97e6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_863b4095_4dd8_4596_a9fc_5b46cf24d8c2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_693e98ae_6b67_4d78_85c0_c0bbeaf063b8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_89e1f821_08d7_4225_953b_0e660562ca46() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f5f22bd4_1f53_4ef6_a525_dc2b0de5b0f2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8e02e2d4_a55e_474b_88cb_fcb401239e2d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7f948939_a58a_4988_bc8c_fd0b35fa0170() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7f829159_ad25_4388_a208_caf910019dd5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_245655b2_a23e_468f_bc3d_5d1c971e3d6c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7f829159_ad25_4388_a208_caf910019dd5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b030a2ab_9572_4add_bfc8_c09744dacc6c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_106ce381_b207_4848_8fd0_6d504f95b52e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_70053005_25db_41b1_83f6_6de573ac6982() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4bd5a8c7_8295_4b80_9d48_260fe6e9d57c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7062993a_ef5d_4885_b6cf_6500de5cef7f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0e5a3dd9_5214_4566_9115_45dc63c83a80() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_40d69783_69b6_465e_b79a_e8e7af6e1062() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_017dca52_6cf0_4c68_8db9_31f6abc27ac4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_770e30f9_2bc6_4c20_b7d9_efea8c3e068c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a818a0b9_6d1a_4afa_a717_d3903bf02733() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_977c30d6_1c93_474d_b4a4_12d4fc1a8587() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c42fd6d1_cd04_40d7_b238_a58b682ccb4b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bdfa54ef_1315_48ac_8d89_784c44bf581b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d57ffa8b_652d_47bd_be5c_773e1ff80445() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_23b118a2_bffc_46a9_b34c_86355a301643() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f101560d_355c_4aae_838c_195d9b7c3480() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fbf7e5be_d74b_43df_9263_31c98ef15e12() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0fa3cf0d_cbc4_4956_9fa1_4db3765d8e5e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_502bfd81_a92a_4d78_b8eb_995fdbcb2f29() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_033825d1_c213_4d66_afdb_d0f111ff5468() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ece84a06_8625_4afc_ba8e_45b1ebec8f73() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_14a53142_61e0_47a8_a9c5_e0714a1c8030() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7998b947_e18a_4c59_8823_a2426671b65d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d5ec8fe9_4462_4362_93bc_dee429a7885a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8affb6c8_2915_497b_b8a6_70dddd53fd72() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_22683d4e_a2d6_49a7_bcd4_c41e0a98b337() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7d146a08_34e5_4835_a177_6f92b9ba9bee() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5aa83338_e9d4_4594_bf05_492fe74a6bba() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_200d68b3_0e11_47dd_af49_7f796caaf98c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7de4c009_3908_428e_964a_be8aef4a011f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8e135395_51dd_437d_a52c_e7514648aaaa() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5f274e2a_6cc2_43e8_8848_ff75fb0e4120() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_003c2b19_9ecd_4323_aa2c_3e47b82e0f8f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c8e1bc08_c7b7_4ae5_b447_e70bc44e3881() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a169b7a3_3f74_4114_bd50_65cab6fb4278() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2a83120a_4087_4be5_9197_95de684b83d1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e491c9c9_9ad0_4e2a_9f19_13b0329f48c6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cd3c5a2f_d700_41e1_abb2_a428c1abddca() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4563887f_7084_451e_83fc_58493cd50120() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f9611b2a_fdf2_40bd_856e_b2cc6bbda01d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dbfeafdf_be77_4254_b935_72ca798c497c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_91f29ccb_d942_402c_a200_76eb024fde7e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7ad07ee4_1fb9_4404_919a_0a5afff2482d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c8f2e053_e958_48cc_a64a_bfb609186378() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fc7457f6_a6f3_4156_aa8d_f67ea470f386() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8cd810a0_88c7_4301_a326_936acbd3f67b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b8f3107e_6f24_4b4f_9429_0458c64adcfb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f679c4a1_68d4_4427_889b_4ef98afa1e26() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b14b90d9_d791_470e_b6b3_88265e38fa27() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e8f45306_f775_421f_bf12_d5db23a6ffe5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_aa7d93b1_7fc9_4a6e_a92a_2a22b05bf68a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0e7bdcd7_38a5_42b9_9802_8004651a635d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_29ecc1fe_4065_4d35_a167_6cc74a33c213() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b15fa766_1e4b_4840_995a_9786d1b20de9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f7e7f94c_480b_49c0_868d_0270260d5fac() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_75421ada_99ce_4107_94c3_23098a7b5b04() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b536d9c1_4c56_4657_8f07_55e62819b6c8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e88bd9ae_d543_4292_bcdf_792495114b03() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_578be3b1_dbd4_4dcc_81f2_d782d12f5129() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_87e7c9e9_b1e4_4ea8_beb7_953bf4c845e9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ffbd5ec6_3fe2_4f4c_bf30_e1f1aa2e913e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1fe5ce9f_a39b_4ee9_ad7e_6791aa2dd7e1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c60287f0_be54_4a18_bee5_033fa1bb1947() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_27b6628c_c599_48c9_a131_bf7c8618f86f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_799de3dc_7c95_42e9_8c94_61a969679d0f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a5b250eb_8c3f_407e_8b0e_aee0f935623e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ad144f73_db5a_4fa3_b271_732fcd251e6f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a4fde44d_a539_4bb0_bb93_f0a922129783() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_547aadc8_4695_40f8_af63_caaf0a600563() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4cca2c54_0277_48e4_a4a5_852aa2541172() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5c42ef20_9f9e_494e_b194_17e94d35af6d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cf355ee9_a7e3_4268_a500_bbedaba85df4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_457a0b49_3230_4d4f_b9a2_b3b7fdd533b1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_822513ae_c1bb_4a2f_aaf8_9811057101be() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_42dc0ca5_f6c7_4457_a4b1_56105ffb101e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_77404844_daf3_4f59_a91c_1c0bce6a28b1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7f0e6b3e_10fb_46f5_8227_59e604798710() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_32001da2_fa6d_4b72_9bbe_4e41121783e0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9d32d5b2_05fe_4042_87c6_a5fc2e4ae07f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6c9f0c73_9ee8_41c1_92f0_a2f8f0a7acea() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5bef5ede_1835_48ab_9ed3_ca991c981a7a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5751b7ce_b415_423d_b4f7_49a06bea0d59() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_441f3fe1_a2a2_444d_8402_47158597c3b3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5c9b0d43_c244_43be_aca0_9e47f7502165() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_15db006a_8245_42a1_84f1_30d457a137e9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bf0810f7_716d_4b98_bcfb_ca102c8bd4dc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5e53cf19_2a24_4751_b6e0_8bfba0a9d884() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a2bea27b_c2d7_460c_a685_188fcfca80ed() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a8a1f1e0_8380_48b1_aaa1_644b2618ef8c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_106ce381_b207_4848_8fd0_6d504f95b52e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5751b7ce_b415_423d_b4f7_49a06bea0d59() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_55299706_9300_4758_9fad_a6c6ce8f57fa() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e82d7384_76f6_4132_b774_3b86df0cbdd2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_41b3e13f_d95c_4e44_b21f_7862b3278e97() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ae4bfe9f_9c12_49b8_8267_98992bef6b09() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f112aef1_dc9c_4456_b327_737bb95edee1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_61f47e68_cf6a_4bf3_8b8f_1f539ad3e2d9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0e168dda_29ba_496b_a4b4_639707f3369e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_25079f62_da62_4b2e_be11_7f4a08f55796() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a408023d_9054_4d76_b387_c2720e339c0b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4e88acb1_d259_4760_a742_ecac44847a61() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2301aa94_2b8c_4604_941f_9063c5f7e93a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4c1fb965_fd0a_45ab_a371_c6e12efe79e8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ad82708e_746c_43d5_a74e_3863cb8b708e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d7cb4540_344a_46b7_b117_1cad47941b46() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4e96b4ed_5040_4470_8d62_5a16be45ec78() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_35cc431a_7b81_4147_ad4e_d8d0e0554765() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9cab5f24_49e6_4d7a_8489_e1698cdf62b6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3693d79b_c532_4a0f_a4bc_98a8a2aed2b8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5d23f58e_e165_421b_aac8_57dfe723297e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5d2ee892_8dd4_4844_b1e5_3f139ca98021() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_de80eea8_aedb_4d9b_af23_afb33926933a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_08894e98_f859_4d31_9b27_3f851c45027c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_022e9699_628b_427c_b4e5_23ec896fcb45() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c16ca385_9fa9_4651_9ec1_fe4d75dca78e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7f765306_d737_4e9f_a5ab_2619200e33fb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_504c313e_b02c_4e83_a83b_fddc8d617c5a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_41b0cb99_ca8b_47d7_bd32_dcc966aeb4fe() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f4c397ec_8b67_4b95_acbb_e52e33c4cfe5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a5f59f03_56c0_4e82_a98f_f1a5f888f5d4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c453ff64_d267_4c87_b241_ba159ea59a98() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d266b350_1efe_46e3_b523_2fea1c970d3c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_89bbc661_d8e1_4874_982f_bb48d68f70eb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_869908fa_70f5_48bb_8b6d_2bb4c3e4bbbf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2a84a985_5b4a_4a96_a403_0102cb7a0d4a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e5cbf74a_2645_41d1_b180_e73726dac6dc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ab3a5837_075d_4c37_bd72_0a0c80d20014() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_201234f3_d556_49dc_8f67_1fdbd3264589() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_61f625ef_3f3e_45a0_8fb1_9fe5046bc6e8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e6a84a21_f9b7_48f8_9246_3985b74a2a2d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e8a303df_adb3_492d_bbec_a457df73fd16() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1d0b4a1e_8893_44ec_ba9b_8e283722f141() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2e90eb89_afec_4347_9bd4_358598abe47d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_199d2d16_a2e8_4ef6_8d5e_892844d6c5e0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_de8756a9_0df3_474d_8726_6131c660601c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2371fc81_407d_4f5c_892f_8bdd556f6d76() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_afd09474_4cb2_49ff_a139_a1460eb4eb55() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_15a4e577_d428_4163_adc6_943281f05579() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2fc43b1a_0697_45e0_9651_c2c59cd573c5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c7328179_33ed_400d_b282_f9347ee1e988() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_24ae9dba_d8d8_4e40_868e_3479a4940267() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ff00eec3_cfe4_427e_a3f7_6159504d62e4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_00a39bbd_57b1_4e24_8bea_48faf9bd18a4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2f355b86_eaea_4622_8137_ea2f06b5580c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d1129091_1559_4c4b_8719_638f1292355e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_034f5330_09bf_4506_9da2_168bed9a4480() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c453ff64_d267_4c87_b241_ba159ea59a98() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5ee615ee_e674_41ad_8e73_da4a995d4b97() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1972221c_c15e_481a_8b52_d099edf6588e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cfc79a98_f8bb_477f_9315_488f0321a33c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4cb9ff8d_f8da_4e8d_ac5c_ef60b2d229c0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_53faca39_d614_4bdc_9ea9_17f7d553fe16() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_924a4901_810f_4d22_8015_1131c60af5d7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7e4eae6c_b852_4ce1_8938_981e17ee6aa2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7c7a355b_26df_44d0_9356_f4880bfc9d1f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_23c77d50_d585_4b43_beef_bd08b7fec5d9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_54603d29_a5df_4d72_b842_a891440fc43d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8733aca5_ceb6_41fe_bf4e_7aa75e6c1ff5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c6b0861e_9dea_4abd_b62f_c6a6596094ec() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_635dee22_0408_44a1_a1b3_e54a19bfff2b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bbc50b0f_1f86_4bd8_9e64_ba89642b6194() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_04615307_359f_4a2a_b0db_c79689d126bc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_37b64f29_5b91_4015_8ab8_61ed778edc30() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b42d578d_48c3_4302_ac51_87bbb715da2c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8e135395_51dd_437d_a52c_e7514648aaaa() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fc0f18c7_cd95_433d_8eaa_76a235161160() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c52796ba_50c6_4926_a916_10aead6e24da() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_892add6c_e19b_47aa_bfa6_a7b320e339b5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5835248b_0f71_454b_b968_668c02762cab() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_328220d3_1266_4cd1_8c2d_04c97f832c36() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3c8dfbde_4a96_40be_9521_2de53e7ed7b3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ef8a9d3f_11de_4c34_8d2f_ce54506ef8a1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f13cbd33_434a_463b_8d74_e1246c7daab5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e7e8cc0b_5333_415d_8b1b_c6d363c47635() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5eb4ba00_41ee_4e7a_bc98_e92e13b79636() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2cb07f22_22bb_4405_b0a3_1b86f2838cc8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_90081ef5_f409_4a4f_85b1_a3d70cfc0edc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d7a9c789_ae0c_4907_84f6_24862ed9717f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b8504a3b_f38b_4fc7_8512_e6d3ad208adb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_644ac71a_adbf_4739_a0f2_052d15b00239() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0fad0d40_d006_4184_a2d2_eca131b7f610() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dd1beaa9_3569_48de_8dbc_9e11788bc7af() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_98a3522a_54b6_4fb5_966c_13591c626b9a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ed9a88f6_73b6_424b_9136_9762f05dbf99() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6ed0ab77_f0cc_4d84_b4af_42ef954019ab() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_da8c41c2_1041_4b9f_873b_4a2f298211a6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d49a27b4_3d97_460c_87cc_c2d9e5e5a439() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0eb6419f_128f_4c82_badb_a022f01f3b4d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_da8c41c2_1041_4b9f_873b_4a2f298211a6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e74b1c42_61da_4911_8963_b4b922828eb3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d367e2f3_f225_4f6d_ae62_01b9bb082996() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_671fd9c4_3774_4e0f_9cc0_4b5a13b7fe3f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9058d4d6_e260_4a1f_9172_1607b73d88a2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5be9ba82_3983_49a5_85d0_f55931aa6d25() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f77c3b25_1dd3_4673_a701_e70cacfc77e4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dbea8310_8905_4632_af64_0f9a7ad575d7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c149a030_c967_4c2a_863c_1538de8a54d2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a17a39e6_b820_4ee2_87f6_1d38b5742a02() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b37f4e05_2384_45bc_8065_8bdaad9b05c1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f0f1c124_0579_4263_afda_39c868b9b903() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f0fd55f1_0503_4309_b55b_d8ca1d437600() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2a8b1c06_d8cc_4b3e_b097_c962e18ae584() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_465476a8_fb08_4463_9908_f0139dd8c26b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9ec31458_1103_452c_8539_5fc96469e7d4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4e88acb1_d259_4760_a742_ecac44847a61() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9c6a223c_dfe7_48f2_803e_c1355b3e3bf4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8e02e2d4_a55e_474b_88cb_fcb401239e2d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bc33b7ed_42ad_434a_93bd_f08b4656afa4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cc8f7fb2_2a6d_4d2e_987d_1acf0224cfc8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5d41e961_1131_4f6d_a464_a3435a8d3b1b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1637f68b_b337_453b_8c70_9df628acdecd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a09241d8_47cb_4aca_854e_687834b5cf08() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9e1f349f_e7c0_4e9d_8166_f62d4799f619() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2cb80147_627c_4e00_a6d2_f7ff10b4c870() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e74c5796_353d_4445_aeae_d80919ce04fb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_306eb61a_3528_481e_8fb4_8073ff7cb7ac() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ed9a88f6_73b6_424b_9136_9762f05dbf99() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_57e389af_255c_4b1d_8f86_c6c1a665c4d2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8ece48c6_220e_4bf2_ac85_faf880f4761a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d9ff719e_0dbc_4308_96d7_778e44e66031() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dc885162_06c4_45b7_8fa7_153f82c33220() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e30ac6fa_15bc_4ef9_b784_62f0e72ef8bd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a65b9cc5_43a2_4edb_8df3_94b40ed9d2d1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_40b9e460_6fc9_4790_a1ff_a1cb77694ccc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d209b3dd_37fa_4af6_959d_535b16c353f9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9aeb183b_a332_452d_90f7_bde4c01b73f6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8fd61948_16f9_4f6d_9b8b_cc55f6ff9fdd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9198eca4_467c_4d5f_b4ad_ff39360c19f1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_22683d4e_a2d6_49a7_bcd4_c41e0a98b337() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_00c4fb56_bf72_44cf_85b6_3cef07a70efa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9dd2d2f7_bcf4_4b01_93c0_41546e066287() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4bca5d46_10df_4a48_8a8c_615f10c2a04e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_95d26016_ae37_45df_956d_b2fd4fee21c9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8e523445_24b8_4488_907f_9a4e49b0e5a9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_27e65240_9480_4bc5_b910_e06216716ce1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_09fbf77a_1289_45da_8c1c_9cde928616d8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_220b13f9_4aa9_4dfb_80f4_974d6f57a391() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b37ac26e_435c_4046_bf0c_a837d8144d69() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_06a0730c_fa0b_4e25_b7e1_5ecfde1cfa0d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4597079a_2234_4c3f_9b22_70f267c30111() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b910979c_04ec_4d64_9ba2_5383f2a76865() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_498e1756_2295_4321_8bb9_d5427eceb7db() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3a413a44_8821_4a4c_847b_923acc53117d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4fe3416c_43c8_4c14_a123_5e63ba5f96d0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_131ab9ff_0713_46d3_ad3a_614ca614e86f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b7cf80b7_a79c_467b_a0e6_200b15ac948f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_689c01ac_5ed8_415f_bba0_a6ac22fa1829() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d7cb4540_344a_46b7_b117_1cad47941b46() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_029f616f_2082_4b53_87f7_1d9049295e00() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_68198528_368e_4e32_8d26_f9c10454b68b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b20f66b6_9066_4e32_8e68_eefb4b3f1f69() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_306eb61a_3528_481e_8fb4_8073ff7cb7ac() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_81d85d93_6039_49ee_8cb8_cdb10c420ac6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ce0f4ce9_ad87_469b_9eeb_90c45dd7b499() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3a9c49c5_03e6_4a87_a43a_5551659b3958() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c23ae046_1fe3_4f54_bbbb_f1422adda7b9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2d89b8ab_df37_4af3_b98c_2a994a75e6d9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_637d07d8_5ed3_4a92_aba4_f8759346be1b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_85e7697c_72b6_42ff_939c_b9e72dc93692() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d10300d7_5417_4729_996e_5b17b57bbd4f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f12a14a4_266a_4502_9fa6_98b26c67a487() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_22068b8c_e1d9_42b2_b409_a7e534bbd46c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_534a5515_2bc3_483e_8e71_879e30269ba3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1f36ef95_4b8f_4718_bebd_ce0af782366b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_29ecc1fe_4065_4d35_a167_6cc74a33c213() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4e88acb1_d259_4760_a742_ecac44847a61() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_99fbc0f6_dd4b_4846_84d3_ecbe35b6c25b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2798658a_c945_4197_9cd6_8b030259c0e8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8e523445_24b8_4488_907f_9a4e49b0e5a9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0ab288aa_ddf7_4c3b_b512_67055d2d71a1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_430dee36_e4f0_4267_b592_bd262b343dd2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_29501154_c35f_4c71_8dfb_acd9c4e21772() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1d4d64d9_9951_4c60_ae76_29a6c80d9f00() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9a45d477_689c_4fc6_88e9_11e159e423bd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_77acff30_25dc_4543_ad70_e05f9e2ba4d1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c45958a6_db8b_43ac_a258_1a29ade1574e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_27f83d59_67bd_43a2_a07d_c48a90b49bde() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f97b288e_0213_49c4_902f_215f3fdce8c8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8e02e2d4_a55e_474b_88cb_fcb401239e2d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_93ed1ef1_5495_4b7c_8f6a_172e05c49de5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_02eaf3e9_522a_4635_88fb_2e74b684efe1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_48690a92_ec59_45c6_bcc1_34a56543bd82() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c9300e6b_2370_4a76_917a_d6d7a8d31224() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5779d1f4_4812_4219_8411_e3d070bb8852() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c6b870f9_c405_463b_a38c_9c2e6f2065ce() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f48b4774_a5cd_4db0_9632_e3faf1dddf31() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_85c17b1c_d111_40f2_8b0d_19a0e9800ed6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3bd04dfb_8287_4ba7_ab5f_3f5266a9221f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fecc4bf0_f336_49c8_ac6d_c47c0f884156() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1c118a61_53b4_4824_aa35_c89cbf6da52a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2cb07f22_22bb_4405_b0a3_1b86f2838cc8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7589649f_15e6_442a_959f_9d4e9cae1783() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c9f85ae2_bd6f_4706_8a4c_516cf087aeed() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_69859a70_8268_4931_a092_968040dd948f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a5349224_cf30_4f8e_905a_ce61407794ff() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2b0dbd2e_935a_486c_927b_f8a1c1d95bd8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c1e757c4_4963_4a17_91be_36535c5f65a1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fc2aff92_3478_467a_a91e_5de31fc48933() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ceaa8847_4671_4586_bff0_6d83d813ef3d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c8754b5c_a528_4945_b2e9_79b6f790242c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_85eeaf97_d8b5_4ecd_8ee4_63ce9309cf5c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4e3aa832_bc37_4fdc_813f_6361a2fe1090() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_92d34c26_1a17_43df_a5f7_d2c4fd7719a9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ff00eec3_cfe4_427e_a3f7_6159504d62e4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a17a39e6_b820_4ee2_87f6_1d38b5742a02() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9dd2d2f7_bcf4_4b01_93c0_41546e066287() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f101560d_355c_4aae_838c_195d9b7c3480() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_46067277_6108_4d02_a364_8d87c78f17c4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_994ced4f_dafe_4274_84e0_2c5a661cda2b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_06f2fc64_20e7_41d3_851b_8852f8f92e7f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4911a9ae_2d07_450e_b19b_6723efa6da3b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_40801ef7_c08e_400d_a8aa_9400f81306f4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ea707ae8_f6eb_42ec_8d04_cfd0e0fe8ea1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_aa35ef7a_a882_4b24_bada_7e0e6df01204() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_25fa547f_5901_4f82_a55a_d5d3df934c0c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2f54dbbe_12a8_43f9_a5e4_2afb1dcc420e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_39cbb725_638b_44f5_91dc_202fb09c9c0f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9bb5cb1e_0aba_480d_ad30_d0d23ca18507() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e6da1e68_8915_4d1a_96a1_42d10ec03ce8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_15da2849_aab4_4b01_87ca_dae8c8250615() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d088e43a_ff6a_4b27_bbc9_5d95b57e9840() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_41fa8b58_f5cb_4460_9fc8_e7361cdec373() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_de8756a9_0df3_474d_8726_6131c660601c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cdde6155_4a86_48b0_b782_d95d33bce85d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f6aa33f7_a16d_463d_a1a7_452612c894b8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0f1d4ef9_20eb_4117_8964_79f8f75e2606() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_73aa3049_887f_4349_9a2d_05c2ec6d3a46() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_187560bc_bcbb_4aa9_8d51_89617fb8dc1a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0e413f54_628e_47d8_b0e2_ac42e7df97e6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_87da3261_c70a_4d87_a48f_8a5c12fbdaec() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_da8c41c2_1041_4b9f_873b_4a2f298211a6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_05e03e65_ee4e_4fc4_807b_374c8656b3c9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_39cbb725_638b_44f5_91dc_202fb09c9c0f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a09241d8_47cb_4aca_854e_687834b5cf08() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_158abc18_6938_4852_81be_f6f8ced51a05() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fcee3d83_8a5a_42ae_865c_f497022d748f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dc593ab3_6b1b_4d15_be05_c8895d4237c5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dfd5111d_5e60_49cf_8f15_750a88c48948() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_28aa91e3_7fe6_4196_8b7b_6847ae926026() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6b6cf337_3f71_4de2_b580_c054dad2824d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_05e03e65_ee4e_4fc4_807b_374c8656b3c9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6777b936_34e2_4209_8c71_1d374ee7dd89() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4bc9d05d_0533_4bee_9df9_0380c3495f45() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_adf981f3_ae80_4747_9e75_a22e3515c84b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b35ea664_fa6f_4334_8924_e1c718b80660() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8e91e693_a03d_4d79_b546_928653c6e193() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7732e4a2_b786_47c2_b6c1_8aac62ea0398() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a80b2643_4d9f_4cc7_8c24_1e718aa81123() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5989f7bc_1486_46ff_8a55_43f95c17dc66() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_89cf4a7d_bf65_4f18_9d5b_d150734fb50f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fc0f18c7_cd95_433d_8eaa_76a235161160() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c16ca385_9fa9_4651_9ec1_fe4d75dca78e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c4a12032_a206_4b1d_8fa9_e7f2dd1fd101() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7de466a9_de86_4a2a_90c6_515c666dc2e6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_617f4992_65ab_45d6_9297_6c0e99636ce7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7afbf40c_105d_4de4_be40_8f06132d2d56() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_73ae374a_a79d_423d_9461_bcaa825420db() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b10a4c87_475a_426d_8b9f_b06bba3d5d77() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_876b572f_f445_4a2f_9d1f_c1f0c50a2c68() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4a1ca3c7_79a0_458c_8a9a_63d08ce85f64() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3614be14_3b8a_4853_8318_ba848716c5f5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b41a7108_cec4_4ae4_8b0d_45582bb1cee3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5a77b88f_2864_45d2_b212_367f63abbb42() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_502bfd81_a92a_4d78_b8eb_995fdbcb2f29() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_97b1ccf0_522d_44c2_b782_4a0a0e4c4774() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dc885162_06c4_45b7_8fa7_153f82c33220() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4cf2db9a_f7a3_4925_b007_c72500481faf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d5750a10_f1b8_4aed_bbda_46084c457131() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7209b92a_a001_4d67_9eed_e39e546be59c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_73ae374a_a79d_423d_9461_bcaa825420db() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_619ed810_1118_42ae_aa8f_b0e995e5fe44() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dd7a14f6_a148_4b2d_86c5_520edce58e8e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5d4e1894_f810_45e9_844c_6a7f6e268da0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_870140ea_e318_4822_923b_15df4bdea74d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_977c30d6_1c93_474d_b4a4_12d4fc1a8587() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7dd4cc44_2289_486f_8e31_ced51eb9e0bb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_19fdd5e9_6335_435a_b572_0291f524ef04() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b01d011e_c46d_4315_a03e_44de1c1b186c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3ddbd0c3_aa04_473a_b7d2_e3edbe43f5c5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_98c8717e_9a9e_43d8_a090_00e8492461c6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_afd09474_4cb2_49ff_a139_a1460eb4eb55() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_78a3601f_d651_4840_bf77_92c06c1c20a8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d6bcb074_b21a_42a8_9f7b_de8d82f24e90() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7209b92a_a001_4d67_9eed_e39e546be59c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a285c27e_2eee_4f73_9ad6_0bc810ab1a25() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_794bff1d_a536_4e52_8f26_6004d961eaab() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c75773b3_7801_42b4_9bde_aa4d4e76458c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e391593d_7b4f_4c16_93c5_14c697ee9a1f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5f64f5e2_5cc3_487c_97fc_4ff33a667584() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7db76a1f_dbc6_49a4_8754_03e0ccf36a9d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e8c513e0_8dc4_4b1a_a6e1_27371f10ef6b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a818a0b9_6d1a_4afa_a717_d3903bf02733() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7f948939_a58a_4988_bc8c_fd0b35fa0170() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c9ebbb35_eda7_4182_89b9_00e2d1e8ee07() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f1f78be6_a384_4cb4_8a64_e440bb5d8390() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8a346118_4d96_49c6_bcdf_f6851b755f66() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_16759917_331c_408b_8828_521921cb610f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e74c5796_353d_4445_aeae_d80919ce04fb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5def7306_3f19_406f_a3f3_18b0a1e293a3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_86b6a7c8_2414_4374_a858_ca8fc78f73f0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c7328179_33ed_400d_b282_f9347ee1e988() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_619ed810_1118_42ae_aa8f_b0e995e5fe44() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b8504a3b_f38b_4fc7_8512_e6d3ad208adb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4b13c839_2194_473e_af7b_52dae0b26676() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_13bf755e_3cc7_4c8d_890f_5dfb928d25e2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ef8a9d3f_11de_4c34_8d2f_ce54506ef8a1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_48ce2b83_0127_4189_b71a_1382bd8641a7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9e1f349f_e7c0_4e9d_8166_f62d4799f619() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7286f08b_efe4_454d_a81f_6602dd928c10() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3695530d_d247_4418_9c34_77c7decaa1ee() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e11927ee_a2e9_4a8d_b80f_8b8d2c804a9b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_da599e92_7e0e_4bba_8d19_6dbd7ebea151() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3e40a42d_dd07_4611_8b33_b37e0927c7e1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5d2ee892_8dd4_4844_b1e5_3f139ca98021() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a8868f01_d50e_412a_91f6_155f10a0b930() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f7e7f94c_480b_49c0_868d_0270260d5fac() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5be6bd48_d54d_4b96_b8bc_26237b31c319() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ad3fff70_21c2_4ebf_b10b_dd7f28b5ce75() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8e523445_24b8_4488_907f_9a4e49b0e5a9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_80f216e9_eef4_4751_a866_e1e00974aff4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c5e8aa40_e3e4_4e67_9dda_b85214a6b326() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_02867d8a_b882_4a43_b640_ffdb5e291263() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_26c73e04_f57c_46b9_9f44_b7b4d4e77185() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1c77505d_6f88_47eb_95d6_407b2b8ccdcc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8488fabe_4b1f_4934_a4c0_e8deddd6f43a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_90ce0907_fc1f_4df9_b38d_3fc399c5f93b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b1d85ab2_76ab_42ad_bc5b_e42fc9b3330a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e2298b84_d428_475b_98c3_597f47a44134() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_493db9bc_35dd_4c42_a992_ac00e1939168() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5ee615ee_e674_41ad_8e73_da4a995d4b97() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b536d9c1_4c56_4657_8f07_55e62819b6c8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e4a4b9f3_c942_4de0_8a99_3c4e95545569() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f6aa33f7_a16d_463d_a1a7_452612c894b8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_46fa84a0_3e49_46be_a35e_a7d47e04b8b5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7589649f_15e6_442a_959f_9d4e9cae1783() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_138b1809_0b23_4050_88cb_59d05d31f8d7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_04e058de_b469_4d57_b9d3_c11a0d9269a6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b0372a00_f1e0_4267_93da_7c35faa061c3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_81d1d7f8_c932_46aa_bde1_91b08b300932() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cbdd53f1_3220_4027_a898_ac93802b0818() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1aeaac39_2c4e_445a_8913_2274e5c66406() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2903c403_c0db_446e_8443_30427d651e26() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_afea4287_eeb8_4b2d_8d48_34ffd8fbcd77() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d290b61d_1838_4426_85ab_59b1bbdcd6cf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5781d895_7c60_45aa_b961_428ce8c36b36() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_06a0730c_fa0b_4e25_b7e1_5ecfde1cfa0d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7a647976_acaa_4bb5_bd13_cfe83d85fe73() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cf1934f4_9e19_43bd_8a33_75e59e8de2bd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d355194f_1dfc_4d81_bf2b_a8566b45e425() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b15fa766_1e4b_4840_995a_9786d1b20de9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8923ae56_2fc6_4fe6_a657_ac14e2c2c545() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_783ec2ac_90f7_4c17_a529_4be9f42c467a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_430dee36_e4f0_4267_b592_bd262b343dd2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_719afc37_c328_42c3_8635_4400dab995bf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_83cce642_a771_412c_8aa9_c352b64df98b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bbd53792_bcfb_4902_b017_17189547088d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_822513ae_c1bb_4a2f_aaf8_9811057101be() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_aad42042_d1f5_4373_8ba1_b70f2ac5f93e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8d51fc33_6269_4a81_b67b_c11502b42221() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b41a7108_cec4_4ae4_8b0d_45582bb1cee3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2eb85a68_596f_4668_a9da_a56c9a46daa3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ead14fd7_ff43_46fa_86c6_15e7fe032e1f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e37faec4_58c2_424e_bd5e_1c9832188b5e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_90081ef5_f409_4a4f_85b1_a3d70cfc0edc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f6e084f1_aac1_4761_8136_8a68ce9a556f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_77404844_daf3_4f59_a91c_1c0bce6a28b1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ccf72955_65f6_4d67_adfd_910488951b5f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3afe2816_60ed_4c28_a2f4_836ddce24bde() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e62f79e3_9249_4cd0_8081_97d144750504() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_aac8b5c7_6951_44ab_899c_11a0d9f9da9e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e364bf03_6885_4688_880c_ea0693f2e321() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_552b0537_c48a_4b35_8b92_b51cc05da58e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c634f8cd_ab43_4790_ae1e_f2ffe8b06d26() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5eb4ba00_41ee_4e7a_bc98_e92e13b79636() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_959bf5f4_62f6_4740_8031_bda97ed30241() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ef0e4489_9e4d_4625_8a77_57f2c57a3f3f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1657e30e_f429_47c2_a7ca_c61bd6bf2bed() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4cc9eeb0_6f10_4e55_8bc8_41f07f26d85d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2848c4b2_ee4d_4687_97db_1b50afb6ab18() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6190b2cf_bf9b_47c7_850e_93e947d593fa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_220b13f9_4aa9_4dfb_80f4_974d6f57a391() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_680abb1c_e695_4802_b09b_b2c54685a5fe() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d121cc7c_2c62_48ba_aa90_6e08f75c96b1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d90d7967_9ee4_4f6b_b7aa_4c22bd37a04d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9816453e_a036_4e0e_92f3_60951f5d92ff() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b37a9333_9b52_4988_9d33_a3da55d85736() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b62e484a_fe99_4b26_a6fc_274719c3994d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_994ced4f_dafe_4274_84e0_2c5a661cda2b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d9ff719e_0dbc_4308_96d7_778e44e66031() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_75690b60_e649_4166_ba2e_4c5f320dcb45() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_630c1318_5eca_4a4a_a731_d90a02cbb44c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2189b804_8595_49c7_9226_e3fa72ccafa0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_568738f9_b297_4521_85e3_c22afa395ddd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1f0c11cd_00f3_4f90_bcd0_3ce8c5c2a293() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_09fdbe6e_e2e6_46cd_906a_11504a0b1161() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5d76709e_1ed6_4823_877e_f9b9cbf459ec() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_87da3261_c70a_4d87_a48f_8a5c12fbdaec() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_41fc1b47_e128_4398_a35f_29f35ff05139() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b37ac26e_435c_4046_bf0c_a837d8144d69() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7e4eae6c_b852_4ce1_8938_981e17ee6aa2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4597079a_2234_4c3f_9b22_70f267c30111() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c42fd6d1_cd04_40d7_b238_a58b682ccb4b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c00becbc_6cfe_4c4e_b30c_3f7f4c742295() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2a84a985_5b4a_4a96_a403_0102cb7a0d4a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e8d71c74_5a2f_42fd_a5df_3fa66492abbe() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ec6641f7_7401_490b_bc7e_0c479d3d638e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9169aad1_834b_4d25_a3f6_c3d4dd51c904() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a8868f01_d50e_412a_91f6_155f10a0b930() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e064f4d7_d3e4_4e1b_a5e4_789eebc45165() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b11ea8b6_764e_4a2e_8721_064ad3388591() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8e6d746e_f1d7_4baf_b121_16f79f1c0e14() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b0c247f3_0801_4e3e_ac51_97f323c6c925() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_aac8b5c7_6951_44ab_899c_11a0d9f9da9e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b18b3d82_7ac7_4a29_bcfe_ddfe6eb03c4d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_90216443_f3f8_4f1b_a96b_cac6fbb76404() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d9d8e41e_5b4e_4aaf_a261_b886fbd67cb1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d952fd5a_e12e_40d1_ac92_2ed9ec070f1b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_677bfd97_ed14_4795_8b84_f653646d0163() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_aaa5973c_696c_411d_a5dd_a0a33f0c91b7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_57475d65_40c6_4579_b3bb_db076242463c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8ddbf83e_3528_4aa9_826d_d5b934ca248f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e14f14a6_808b_49cb_932e_59eb0e2855e2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f5bb52c3_cafc_4d2d_bc92_e105eb78df4c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7f40846f_2aff_4695_8d7a_0e799ce75bcd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7972f0b0_3fe2_4391_bc72_5c1e4b6c4bc5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b9dc33c3_fe0b_43f8_946d_cd7f31262916() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_568738f9_b297_4521_85e3_c22afa395ddd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2a2eb014_d542_4ce0_b3af_67be7a1f65e1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0dddfda9_6a07_4b81_bcfd_dcfc436fa133() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_84ecf6e2_71ee_4c3d_9e2b_41f2e57d7b95() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_39cbb725_638b_44f5_91dc_202fb09c9c0f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5db30d6b_aa42_45de_9bff_13acf6050036() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3e40a42d_dd07_4611_8b33_b37e0927c7e1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_56dbb67f_2dd6_4c0f_9d88_e2b65fe3490b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0b07aa75_d17f_4011_9297_d3e7dce1bfe5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_94f24708_1c7d_4e64_a9db_f45006f38abd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4f71d0e6_35b9_4bc9_810c_fdcba9e9ef69() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_379dc318_aa0e_49c9_8100_61f5021437eb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b7ccfafe_0568_403a_865f_eaa60167726f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5a49cdf2_7c9a_46a6_aa41_6bf60f5d7a0c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5ea9caec_2b46_4958_a37c_39305d55f444() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4bd5a8c7_8295_4b80_9d48_260fe6e9d57c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a5f59f03_56c0_4e82_a98f_f1a5f888f5d4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0e168dda_29ba_496b_a4b4_639707f3369e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f12a14a4_266a_4502_9fa6_98b26c67a487() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_41b3e13f_d95c_4e44_b21f_7862b3278e97() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_49e10952_6106_4669_98ed_59cac8f52adf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9abb6df5_8259_4705_97e6_9ee2ac58b446() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_37fb8263_0dae_444b_8001_b0702fb27b0e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_898d8ebe_4e3d_4a8d_903b_9e00358966eb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_23df1872_4a5a_4c5c_bf32_364f111e416e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_aad42042_d1f5_4373_8ba1_b70f2ac5f93e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8b2551b8_6047_4223_b918_8125d98743d6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2b29352b_45e7_4a92_922a_1083c2f41133() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4e3c57dc_02c5_441d_bae3_12813e571f6e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_089a604c_607d_417a_8636_ab2245f05359() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_719afc37_c328_42c3_8635_4400dab995bf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b53ee0a2_e5df_4023_8631_42824b2ee970() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_60e8ba37_38c9_4070_97ca_8d9a6a090764() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_eb2a7b53_4c81_4401_80bd_1eecddfec722() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3d05f388_58c9_461b_894c_ec8ed8122cf0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f91c7d1a_cc95_46a5_b6fd_cabb48d77246() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cfd9e60b_369b_40ca_bfad_b32bc176bcd1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e46f2c65_1c39_41e5_a214_89a7957bffee() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_44461f0e_1e47_4956_b25e_72cf134d6752() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_138b1809_0b23_4050_88cb_59d05d31f8d7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0b9f4fa2_f45b_41c2_91e8_d06e8ae14d9c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0fe04782_8b5b_406d_abdc_747f2539d298() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ad909e13_ab51_4d3e_9d8f_77b404b2e1e8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1de89ef1_3395_4543_a816_b67f4991ee7f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b0350ed3_3d90_49f8_b8d9_f7f6d0274a90() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_27f83d59_67bd_43a2_a07d_c48a90b49bde() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_85037cd5_7a46_431c_8458_9d73aa59fbf1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1426e3a6_e6f4_4b77_a27b_55da8f6e83c8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_846f3c08_73de_40df_be59_94b1a6ee6ab1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a9ed8584_60c4_49c8_a3b5_8c4104a32730() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c3184075_2e46_4212_a462_fb0455a3bacf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9bb5cb1e_0aba_480d_ad30_d0d23ca18507() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_78cf04a9_3dba_4206_a548_b97071b392a4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6aae25ba_4522_4852_a9d9_568c1818810e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b52beb03_34fe_4f8c_8582_dafbdc34531c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d28031f3_f25d_4811_aab1_1176322b5b5c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cd38baec_d7a6_4adf_8e44_7f8d81d93f5d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dbca5dba_7ede_48ab_8115_40160a6705ae() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6588a20f_7abd_4a1f_a4ae_25fc54333e8e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f396947a_8d18_4370_9011_2f64ca951012() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_54877a6c_6fb9_40ed_8956_ba0c207309a0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2361af0d_621d_47ab_9e6a_25f7ea57315d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d355194f_1dfc_4d81_bf2b_a8566b45e425() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4cca2c54_0277_48e4_a4a5_852aa2541172() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_497f4676_3cc7_476e_9054_ee5c2f816463() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3832c497_79ad_461a_851b_63e6ff37fbb6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3789a624_54d6_46ea_9159_138dd7b6e1e7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7ad7167d_07e0_4b23_a53c_540ca623996d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_810d4361_9822_4c15_939c_0fa6e93380e5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8733aca5_ceb6_41fe_bf4e_7aa75e6c1ff5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2a9c4518_0e21_4b16_9179_f118099bfb3b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dfd5111d_5e60_49cf_8f15_750a88c48948() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d1d08a9d_4ba7_4f84_8c8e_dcfa0c6f44a0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_04615307_359f_4a2a_b0db_c79689d126bc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f6eb8e45_3e2a_44fe_9468_cd4ff957e2ef() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d367e2f3_f225_4f6d_ae62_01b9bb082996() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7de466a9_de86_4a2a_90c6_515c666dc2e6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c25f8494_96e9_423b_aa6f_b3c108584827() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_99bb1a8d_370b_46c5_a5c8_d78fe6d47cd7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bdfa54ef_1315_48ac_8d89_784c44bf581b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c7aa29e2_9679_4e57_bc0e_349af2274d56() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1ca39176_bfe2_47a4_b45e_c414aad3cadd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f49c3dab_72a7_4af3_8aea_dbbb15154e8f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_192073e4_5702_4e5d_be59_fe30bf1a6902() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_23aeef1d_9493_4ee6_931e_dda343facd4b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f411ceb8_322b_4096_899e_0cced4e2eab1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b9dc33c3_fe0b_43f8_946d_cd7f31262916() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9af328aa_7be1_4e40_a8e3_36a9f0823f44() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a3a96e33_7084_4867_b66e_da7991dbae87() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_18530aca_9dee_41b3_8b9a_be6fe13ebc17() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d2a28ddc_126e_4076_ba2c_286038834009() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_30c3f065_d335_435a_9f29_2335f192a60e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4a55d6af_5940_4473_9a06_94172f0759a5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dd543046_4d33_4f25_acb8_305b1bc3cbaf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_450f8b75_b4a4_4c18_b7bd_6428454e45c6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8fc8f1bc_028e_46e5_a4bc_5d58d09eb399() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8923ae56_2fc6_4fe6_a657_ac14e2c2c545() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4e0955fa_7343_469e_9510_4221fbab4645() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f1f78be6_a384_4cb4_8a64_e440bb5d8390() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6db22f95_4495_4054_8962_d2b4f75be606() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f91c7d1a_cc95_46a5_b6fd_cabb48d77246() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_26c73e04_f57c_46b9_9f44_b7b4d4e77185() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_da809e3d_c85a_42f6_a8a7_d9605dfb9334() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_48a099df_1869_40bc_8dbf_236881924336() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_54debf3f_84a5_4505_bfe8_a36ac7908d88() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2cb07f22_22bb_4405_b0a3_1b86f2838cc8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cdddf2dd_858b_48d8_8dad_55d2abc6d372() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_605d0389_8f8c_4cf0_8e3a_7988021377d3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_92a44857_8816_425f_8f25_1cfe75b5ba76() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_15beaac6_9e55_4765_a435_0e4c8f95a0ea() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3a88a8fc_b7e5_4936_b63f_7e1a986b1933() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ccad2047_30ba_42ae_84c7_472bf35affc4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fc7be632_54fc_41e0_8905_29b451ba92c0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5f7d4e8d_de56_47da_8f33_08e14691b60a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_18813ce3_17a4_4746_8aad_a233b8c70ede() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a6cfc7b0_2eeb_4dae_a29b_58d77f768c4a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7f381990_c04f_4abd_a0b8_a81010dd3af8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5d2ee892_8dd4_4844_b1e5_3f139ca98021() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3a8eef6d_994d_4c00_a202_b594fc946296() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c52796ba_50c6_4926_a916_10aead6e24da() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_540489f8_157f_4ff6_98ee_3d2e37885aca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b0f0fbd0_e441_4dc3_986b_e6c9cf07c8a1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_823d8b0e_793a_42d2_ad6b_68370a935b5f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2f76c11d_e22f_4c26_bda4_b3a994aa1afd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_994ced4f_dafe_4274_84e0_2c5a661cda2b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ea707ae8_f6eb_42ec_8d04_cfd0e0fe8ea1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9c10269f_0118_4611_8d50_1241b25be609() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4ea8dfe6_01b4_4f8e_8bdf_e2f954ca5dba() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ad144f73_db5a_4fa3_b271_732fcd251e6f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_93072bcb_9af1_4686_ab34_4ab5865c73e7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5d244c63_5655_4171_8412_455c07000d1c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_41b0cb99_ca8b_47d7_bd32_dcc966aeb4fe() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7eedc3d4_461f_435c_a6d7_315e897f598e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e937a129_e82c_4805_a844_468a4b0fc8a5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5eee48ec_e092_4d2b_8299_12106885503a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e2487cfe_d012_446c_8d24_5f0af9f0904e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e7f41c6a_e9e2_4dec_a681_6ec4fb7e6c98() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_00040f41_8c27_4341_9b29_072f330a2482() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e74c5796_353d_4445_aeae_d80919ce04fb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a78eda02_d1bd_4b2d_acf6_f3152caec9cc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_357250bd_f4b0_4902_99f8_31d651b47e4a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_76911bab_8798_4ddc_994f_ea8deda8646f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c835bc49_da49_489d_921c_69600b77165a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2f90bf08_9ec9_4796_8bff_61fedce4f27f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_543b7e1c_ea95_402e_b6cb_b91e0a1ae648() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_86fc1986_f789_4654_871b_cb943f671888() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b73dd62d_ae1e_4aa4_82d8_3b5222791ae2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cc70edba_12f7_47e3_821a_bb5b9745d405() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0ebb55e2_452b_4e7d_ba25_f521a7bcf631() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7b4eeea9_7364_4a84_818e_015146d2d2ff() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c7b5f1c5_9fa6_48c2_93e3_be978f5f2e0c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2d89b8ab_df37_4af3_b98c_2a994a75e6d9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a15d67ed_c4bf_4103_a0e3_7afb4ea89d7d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_35b370b4_4cbc_41b6_bcf9_dffe5950116b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cd38a4de_4c9d_43ef_8aab_2f11a0814216() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0a4b2443_aeb1_4672_8e7f_700c02876a6d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_131ab9ff_0713_46d3_ad3a_614ca614e86f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cb817936_1f9b_4fb1_946e_d33a849123dc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d2a28ddc_126e_4076_ba2c_286038834009() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_04615307_359f_4a2a_b0db_c79689d126bc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_46067277_6108_4d02_a364_8d87c78f17c4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_86b24a76_8761_4734_9b26_9691a561116e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7eedc3d4_461f_435c_a6d7_315e897f598e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c66b4a8d_5a02_4832_a406_eaa941373101() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7f34d0ea_5eef_4373_b9ee_fc7042a7dbca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4cf228df_2e11_4b08_91ba_e839fe79d66e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2cb80147_627c_4e00_a6d2_f7ff10b4c870() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b11ea8b6_764e_4a2e_8721_064ad3388591() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e3891ae0_4d49_48d6_8040_7f0761d8d493() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_97cc1eee_3f95_4942_a3eb_1f5761f25109() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0ca0dac6_80da_492b_b40c_c4f49ea4a204() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4a619328_3ccd_4e3e_9fcd_7d3227bbdde0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_96ad6c6d_d864_4878_875a_76af89f8f760() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_aac8b5c7_6951_44ab_899c_11a0d9f9da9e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5cee3fa9_63fa_4763_be9d_e9bdbf942af1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6f65b408_f29a_4904_9ecc_ba0326200188() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3f65737b_5471_4e58_96c9_f2a4f44ac5f2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d293c35f_a09a_433c_830c_74ca0f5049dd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1637f68b_b337_453b_8c70_9df628acdecd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6d0f9d04_e920_4a39_9960_ab56c67ac1bb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_08b64e91_6e77_4986_a6c9_3866592ef2f0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7791ad00_e54d_494a_9f14_c051fb332230() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1e8c1158_4987_4117_81b8_f7074f259e98() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a4b57e2d_e490_4473_8358_e1293e688c8e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_131ab9ff_0713_46d3_ad3a_614ca614e86f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_671fd9c4_3774_4e0f_9cc0_4b5a13b7fe3f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_71d8858a_fd9e_4532_9a78_80934e84899b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9f6a608a_0c5b_4fde_99fc_e09696f1c261() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d209b3dd_37fa_4af6_959d_535b16c353f9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_47650ba6_84c6_44c4_b4df_10487573b087() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_191e7c7c_6bfb_4829_ad30_823113aed418() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_497f4676_3cc7_476e_9054_ee5c2f816463() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_72dae0e0_23d8_47be_9921_fa0ad0c30273() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b8f8ab51_689f_4416_8886_cc2c31ca3d86() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0d6355ba_866e_40bb_974b_9bd399737711() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5b543cf7_5539_4615_a973_8104571a2fd7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_78cf04a9_3dba_4206_a548_b97071b392a4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_199d2d16_a2e8_4ef6_8d5e_892844d6c5e0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9a45d477_689c_4fc6_88e9_11e159e423bd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ae348e2a_8ffe_4b27_9407_b0a2cba576d2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_075a613e_2ed9_4bae_8f61_6a50756d6960() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e491c9c9_9ad0_4e2a_9f19_13b0329f48c6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d10300d7_5417_4729_996e_5b17b57bbd4f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4b4464cc_7d71_4cab_8037_759e30104056() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b525df2a_b42a_4d61_a7ff_091680eeea15() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ad668a93_3cf7_41c1_9832_b2fca796e75e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c42fd6d1_cd04_40d7_b238_a58b682ccb4b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_44461f0e_1e47_4956_b25e_72cf134d6752() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_504c313e_b02c_4e83_a83b_fddc8d617c5a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c21b77ad_b9c1_4252_989d_c062bececd8e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9e15c77c_f733_4ca0_9e50_a0749a6b7bfe() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_da809e3d_c85a_42f6_a8a7_d9605dfb9334() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7942b73e_f35a_49a5_9d66_230ea5d51dbd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_75421ada_99ce_4107_94c3_23098a7b5b04() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cd9c6a2d_9456_4992_ae0c_6492340d64e5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_430b1adc_5d57_4dd7_974e_dbb9b817036a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a7b8cc73_76a4_41ae_97fa_b533e4a394a7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3a413a44_8821_4a4c_847b_923acc53117d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_320d285c_803b_4f97_ab96_f2e4fe9717cc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6777b936_34e2_4209_8c71_1d374ee7dd89() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f313ec2c_cfd3_4f7a_af73_1faa81cc7f27() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_217fbd48_75b5_4988_a14d_6539d43a1207() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0fca7970_4ad7_45e8_8fb2_cf7df21d4a8f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a13e32cf_8b9f_44ed_97f4_586cb78a3f1c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_124d3367_3ec5_4812_975e_fd69dc302698() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_46fa84a0_3e49_46be_a35e_a7d47e04b8b5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_924a4901_810f_4d22_8015_1131c60af5d7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2189b804_8595_49c7_9226_e3fa72ccafa0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5cc058a2_59af_4d1a_94e9_0a5787b27111() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b4db3ee9_0a15_451b_806d_1f1563ad3570() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_84f37b74_0c44_4d04_a3b9_24a021e8ba4c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_671fd9c4_3774_4e0f_9cc0_4b5a13b7fe3f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a20307a0_4c77_4725_8214_f06b04a12beb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_197360a0_7d22_41e2_877e_5d4b2cace9cc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ba5c2945_1540_43c3_b359_42889579461d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b11ea8b6_764e_4a2e_8721_064ad3388591() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3e8133d7_3a64_4704_982c_b98f1eb22a0b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fd12bd9f_c978_4d69_bd3d_c25c6ea62f9c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_486409ab_421c_4c92_81a9_c578fb45eb67() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0d6355ba_866e_40bb_974b_9bd399737711() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a1f3dd4e_7e5b_427d_a22e_f8421034b494() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c9f85ae2_bd6f_4706_8a4c_516cf087aeed() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e9b693db_526b_4ec6_98f5_34206de510c5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1bc127db_3920_4c08_a1f9_32046f852fb0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c1360afb_ad9f_4107_9145_36640ee2bcc5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e30ac6fa_15bc_4ef9_b784_62f0e72ef8bd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d7198461_2ec1_4cbf_8e75_008eef9062d1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9ef15bf6_4147_4e9f_a0f8_13d0d7efe43b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e87abab8_2be4_415e_9cb9_db904fae9bb7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6db44e39_f16e_4c17_baec_78e5cc49b479() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7ad07ee4_1fb9_4404_919a_0a5afff2482d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_486409ab_421c_4c92_81a9_c578fb45eb67() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d49a27b4_3d97_460c_87cc_c2d9e5e5a439() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ae348e2a_8ffe_4b27_9407_b0a2cba576d2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b66443ea_1248_408f_8cfc_d1bc9058a3f1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_022e9699_628b_427c_b4e5_23ec896fcb45() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d3f37109_d953_4ba9_8f48_0deb6b36bbb5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_82bc8a1a_b077_48b6_92fb_84b89923004a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3dbb73d4_ad25_4eb0_83d7_60edd57d58e6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_92c6ea93_c4e5_4b71_b149_5982190f7233() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_db3bb24d_ea57_4fc9_9912_61ab0af12bc4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ccad2047_30ba_42ae_84c7_472bf35affc4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d121cc7c_2c62_48ba_aa90_6e08f75c96b1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1906b0d8_2b03_4cf4_b88c_5110115a381b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_680abb1c_e695_4802_b09b_b2c54685a5fe() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_37215873_2e50_4ec7_aafd_e3ff5e76654f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_21e223a1_9605_4858_b279_08cece165bc2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_72dae0e0_23d8_47be_9921_fa0ad0c30273() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a4d76734_eb87_420b_a9bc_f9a3f2f19dd1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8fc95f93_3c6e_4c4f_9a03_3144c025b174() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4a1ca3c7_79a0_458c_8a9a_63d08ce85f64() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2747cdb6_6615_4f48_a467_c36a46783624() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9ae6fafb_d74b_4f00_acb0_771cc9b5ef5f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6fa8ec03_e4ea_4b91_ba2f_221fb0ec0da7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e241ebd9_2353_48da_9e1e_13ebe8628cf6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a65b9cc5_43a2_4edb_8df3_94b40ed9d2d1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c9a83bfa_8e32_480f_a46e_cf6ca04b2502() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_70053005_25db_41b1_83f6_6de573ac6982() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_84f37b74_0c44_4d04_a3b9_24a021e8ba4c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_978e4d6d_e516_44ae_9412_04211b2983b4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cd82209e_cdca_45fd_b75d_93f943cb2653() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_809280f1_a6aa_4bf6_aae0_8bb113afcd1d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e17dbebb_1791_4885_8896_1f5d6e0d1a67() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_aae85ab2_a39f_4b54_b7cb_525e925a4839() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_950e54c5_a284_49df_9efd_d35e45a0c728() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e0937f4e_adf3_43cb_a6e1_0e522013ab86() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1a9b9324_da0e_4b6b_b89e_288a67eb5740() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3614be14_3b8a_4853_8318_ba848716c5f5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_56dbb67f_2dd6_4c0f_9d88_e2b65fe3490b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1560a4f0_3617_4ced_9e05_44d5e2c1f415() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5fdc294c_23c5_4f81_ab5e_f01360afbb94() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6247a86f_327a_4ea8_a165_6c23395e8d9f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a1f3dd4e_7e5b_427d_a22e_f8421034b494() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c2f2e066_d53d_4886_b9a5_61d3a5e0a086() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3289d476_4eae_4d13_bf86_9ff143ee4541() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_568738f9_b297_4521_85e3_c22afa395ddd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bde1bc62_416d_4235_8190_fd0d326cc860() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_db880125_d248_4b54_a192_bc01f908d9f5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b8b0200b_aec3_4313_b257_407c2b45d0e2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7a5fc138_b684_4874_99eb_d09f57a3d3e2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7a647976_acaa_4bb5_bd13_cfe83d85fe73() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_920fa614_f61e_42f2_b08f_d3b76378959b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_38c10745_636e_4926_9ba8_891b33cc9da0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_924a4901_810f_4d22_8015_1131c60af5d7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1bb0920d_32ae_4b7f_9e14_711dea342be7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_886d784c_2170_4f71_93e8_ae3e3bc417d5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_000075cf_efaf_4a93_ab07_02bf27f3b253() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7d912ee9_289e_4600_b643_1020a1f53479() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6d4064a4_e2a1_4e96_9752_402e65f17e13() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_afc6e84b_c07e_47d1_80d3_53cb77a6658e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_27e65240_9480_4bc5_b910_e06216716ce1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_39d03e77_1671_4d45_937b_f4d81b8d37ed() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_eaf308d1_102a_4bdd_a767_627f712553fc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6f65b408_f29a_4904_9ecc_ba0326200188() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_696531a3_eb25_4d35_b502_2e65745782f4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_547aadc8_4695_40f8_af63_caaf0a600563() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_98c8717e_9a9e_43d8_a090_00e8492461c6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d5dfb4fd_a487_4f52_a3a0_e9f0c9d93969() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1d4d64d9_9951_4c60_ae76_29a6c80d9f00() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c1360afb_ad9f_4107_9145_36640ee2bcc5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3dd53a6b_5f45_4123_b707_cf464ff63b4c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_076c1749_3de1_4052_a7e4_eeac79bcb006() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5fb81caf_3bfd_4358_8a91_9e4a9af5794c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a285c27e_2eee_4f73_9ad6_0bc810ab1a25() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9cab5f24_49e6_4d7a_8489_e1698cdf62b6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4032d204_b2ea_45ae_9673_efe38fabb02d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_41d5129f_128c_4eb5_bf25_3eccf6f056ef() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c6161ac6_750c_4d70_893b_e456b8fedeb1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c5142fd8_9545_466d_8edc_a1389aacfb05() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_72dae0e0_23d8_47be_9921_fa0ad0c30273() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c364e481_2c7e_40db_9e4a_d80b0138840b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d9a6372d_d18d_4d96_9f57_be512091c8b4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_14a53142_61e0_47a8_a9c5_e0714a1c8030() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8b3a08fc_7992_4042_9c3e_709f82e232a3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0ffc16c0_2c8b_478b_97e9_bbeecbfeec1f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_49f268a9_fe9e_4fc8_b216_33bdd9fab269() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_64cfbbf3_2735_4599_9791_449679164398() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_10ff09f3_2430_4bb5_8256_79f2d6a3a58e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cd0485ba_1984_476e_97a6_6a977a60c9b4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_30904752_01eb_4f7e_a8a9_906be0240e12() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c634f8cd_ab43_4790_ae1e_f2ffe8b06d26() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_25079f62_da62_4b2e_be11_7f4a08f55796() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_23aeef1d_9493_4ee6_931e_dda343facd4b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f2775a71_999b_4020_ab87_302a8130772f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6190b2cf_bf9b_47c7_850e_93e947d593fa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5394b580_2616_42e7_9c5f_68813de28d9e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bdfa54ef_1315_48ac_8d89_784c44bf581b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_089a604c_607d_417a_8636_ab2245f05359() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_babc11c2_2ac5_4b5a_834c_04314d71ae9a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c8f6899e_f12f_4afe_b7c1_2662b715a258() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b1fcc095_623a_4581_85aa_bbef6ad42248() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_89cf4a7d_bf65_4f18_9d5b_d150734fb50f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_25ffee00_b61e_4085_8743_c22a59b26838() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_50bc71f8_d36d_4f9a_8a37_2e977ea96737() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5ec7be8f_9d1d_4ba6_8694_a51a24f059d6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3097c109_ee60_4212_b634_8c7ad3c4fa90() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9e15c77c_f733_4ca0_9e50_a0749a6b7bfe() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5a6e7a61_170f_4c5f_b01d_beeb7f8f0a10() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_30b22256_a5d3_4624_a321_26ef814a74dc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f6aa33f7_a16d_463d_a1a7_452612c894b8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0eb6419f_128f_4c82_badb_a022f01f3b4d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_03e86434_6072_48dd_83a3_66d5ff196937() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_77de42c7_25cc_4571_b9c3_7bd1a6806b7b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_01806cbb_1d57_4c38_b692_62f7e5ebaaaf() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_659305be_4f2a_4df5_b1a5_2435213664e8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_34a96025_11de_4867_9ec7_711a3521cc72() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d7198461_2ec1_4cbf_8e75_008eef9062d1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0c9836d9_0cf0_4903_9fb6_61e85b4ac3d8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6ae6dad0_3c59_485a_b48a_93ffab269385() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c52796ba_50c6_4926_a916_10aead6e24da() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_16759917_331c_408b_8828_521921cb610f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6db44e39_f16e_4c17_baec_78e5cc49b479() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2bd24eeb_9021_4b94_b1c2_373b7905874e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5f2d3347_866d_4487_98a8_d0f5db34d6ce() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5d6981a2_7c38_414e_bdb2_21e206b48a9a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b8b0200b_aec3_4313_b257_407c2b45d0e2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2f355b86_eaea_4622_8137_ea2f06b5580c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_41d5129f_128c_4eb5_bf25_3eccf6f056ef() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fab3661a_fda5_4172_97a5_bbc5a2f198a7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5c42ef20_9f9e_494e_b194_17e94d35af6d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_716c7ed6_aa39_4891_b625_b247c38a749c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_617ab299_c5bf_4af4_8a27_882e9292a5a4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5e4d35cd_d92b_46a5_ac66_b2f152dba488() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1c77505d_6f88_47eb_95d6_407b2b8ccdcc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_91f29ccb_d942_402c_a200_76eb024fde7e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fab47ecc_224f_4c41_9b52_23cd5640cf2c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_219a26f7_5455_4ab2_be89_37c8b77effba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1560a4f0_3617_4ced_9e05_44d5e2c1f415() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6febe427_3884_4e98_a3e3_ec5c6b44572b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_201234f3_d556_49dc_8f67_1fdbd3264589() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cfe5127b_0a10_4086_84ab_d40b818fc363() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c9a83bfa_8e32_480f_a46e_cf6ca04b2502() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_94319fe0_071c_48c5_a6d8_1d9d18f04922() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d021b109_8e8d_4a5d_98ea_7606cef31db3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_06483660_08a1_4424_bebf_ceb10ccdede8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0b07aa75_d17f_4011_9297_d3e7dce1bfe5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_10f1908a_77e8_4b2f_9718_cbf3458ec0e5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_41fc1b47_e128_4398_a35f_29f35ff05139() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0e63f9ba_1bd1_4fa0_8e89_108bcdfd3eba() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_97b1ccf0_522d_44c2_b782_4a0a0e4c4774() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_23c77d50_d585_4b43_beef_bd08b7fec5d9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_022e9699_628b_427c_b4e5_23ec896fcb45() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7516328c_adbd_4efd_a769_ef9d34c8f1de() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_72e50f64_8c1b_4b41_857f_e2b9d7699861() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_90216443_f3f8_4f1b_a96b_cac6fbb76404() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1d651d77_b35a_4326_a7ee_e6fcfc020306() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9cb0a545_a47a_428d_abc2_ad72ebe7d5e0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8affb6c8_2915_497b_b8a6_70dddd53fd72() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ea8c41d3_b295_4a25_8c00_58f6dc956b76() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9af5e23b_b678_43ce_8609_bcdc35fc5469() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e88bd9ae_d543_4292_bcdf_792495114b03() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_24d3c494_c5fa_4a29_96a4_a2d88875b890() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_85c17b1c_d111_40f2_8b0d_19a0e9800ed6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_245655b2_a23e_468f_bc3d_5d1c971e3d6c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_59cf2d3d_da24_42bb_8164_fc5e080a486e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_932d891d_69b4_4009_aa53_6e7cd4ea60c1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cc70edba_12f7_47e3_821a_bb5b9745d405() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_99a8dd0b_94e4_4de7_a33e_cbf80d73d8bc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_57cde96f_5104_4f23_a3af_1517c14113d6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_37fb8263_0dae_444b_8001_b0702fb27b0e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1d0b4a1e_8893_44ec_ba9b_8e283722f141() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_aae85ab2_a39f_4b54_b7cb_525e925a4839() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a26f959f_5f66_4586_886d_55767bc97e21() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_22d37876_b3f7_49d5_8e29_da657b76f63b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_617f4992_65ab_45d6_9297_6c0e99636ce7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_854630e9_b43d_4a2c_87a6_6878854e25e5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e82878af_f183_401c_afb3_6701862579de() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_853e3d3f_2011_4e85_93d0_5552bc5416da() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_54debf3f_84a5_4505_bfe8_a36ac7908d88() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_379dc318_aa0e_49c9_8100_61f5021437eb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bb003291_3e8b_42b5_8b0d_a0533b3893ca() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6f7a3c8c_1deb_4869_aba3_5851724eeb49() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8a346118_4d96_49c6_bcdf_f6851b755f66() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_39e25a35_a17d_43b9_b390_b0f36fc97b15() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_124d3367_3ec5_4812_975e_fd69dc302698() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_853e3d3f_2011_4e85_93d0_5552bc5416da() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_991299a2_cc94_4eeb_9b9f_54aaaa34c0bc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8dbd06c4_5618_4f19_b095_428b2c3bd5aa() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2a2eb014_d542_4ce0_b3af_67be7a1f65e1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_04bf3e01_d507_4754_b3f2_c1175a33697a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5f64f5e2_5cc3_487c_97fc_4ff33a667584() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ead14fd7_ff43_46fa_86c6_15e7fe032e1f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_99ff8122_3a04_4a3a_947e_a4ba14c3ecf0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_245655b2_a23e_468f_bc3d_5d1c971e3d6c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_72dae36a_acf4_4bda_89cd_8aeb49c258f8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f5a0c330_26d2_46b5_bfda_f4e11f4318ba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1c77505d_6f88_47eb_95d6_407b2b8ccdcc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_18237ab4_8461_4db9_9d3f_1d8e8e230b30() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0bdb156d_a7d1_4a0b_b224_90b94a29aab6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b1823659_8b52_4627_a00f_d830bbc9de3a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cd653fc1_ad59_4abc_97aa_7979aa6e7a2e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_22e55aec_b276_4639_aa34_e2e853d4f170() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4afdb87e_1632_4c0d_ba1e_145ce35e0ccf() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_10ca07cf_0866_4520_8f8d_84cfab35eb59() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4894401e_beff_4b34_8130_8425210085fe() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8e02e2d4_a55e_474b_88cb_fcb401239e2d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_383d6aca_c8c7_4f21_a43a_6f40141ce3f6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b73dd62d_ae1e_4aa4_82d8_3b5222791ae2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_785e6b1c_456b_4d6e_8540_bc4e7ebf4aa9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7314038d_c38c_4a94_b33b_73c81db601b5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5425eaa0_c48a_4c91_b2e0_7f3480fd9635() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_94559a8b_3627_4358_ac1f_c4802f17b00d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2747cdb6_6615_4f48_a467_c36a46783624() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0fad0d40_d006_4184_a2d2_eca131b7f610() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c29037ca_7aa9_48e5_9f3d_be0569e4213e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ec74eb8d_5123_439f_bbd1_0adde4dd9a65() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4c1fb965_fd0a_45ab_a371_c6e12efe79e8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_59a36f29_8547_4789_8ad9_cab24fc4995a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0c66e230_1315_41f8_a83d_2de0e1b68550() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_934f9a8b_8dc0_4252_9e18_4cb8bdd41bfb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f4230410_45ca_4e73_b3f2_d5c59cde144e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_45435e09_0fe5_47ee_b19b_797d84c52aa5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_920faaf2_6102_4085_a491_b34e5d3a9cb1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b20f66b6_9066_4e32_8e68_eefb4b3f1f69() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9a45d477_689c_4fc6_88e9_11e159e423bd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7a647976_acaa_4bb5_bd13_cfe83d85fe73() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9e15c77c_f733_4ca0_9e50_a0749a6b7bfe() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_160aaa34_3f6c_40a9_b6f4_32f2031913e3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e7e98f08_0b90_4720_b83a_7f5a9698337c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bca4df27_f310_4f57_a072_fefe0d08ecd7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9e7cd49e_d39a_4aad_bf80_6cba24eab409() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_399bd463_8291_4073_a8b0_046ecf219524() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a23df5df_1522_4192_afee_e1c12dc1e8a5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9c6a223c_dfe7_48f2_803e_c1355b3e3bf4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_74a5af7c_d6ef_4093_a497_d72d1b2e53cc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_18813ce3_17a4_4746_8aad_a233b8c70ede() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_fc8e6e45_1b83_4a5d_8a74_3c50c4fc1747() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bdc8ebef_ae8b_4f31_81ef_a152b324176c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b4db3ee9_0a15_451b_806d_1f1563ad3570() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_daa7cf61_33a9_488e_87e0_d43e81c5a922() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ef02c610_e954_45a8_8d8a_511551519b58() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7e4eae6c_b852_4ce1_8938_981e17ee6aa2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1af23a60_5953_4379_9662_a777fddc7d7f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2a9c4518_0e21_4b16_9179_f118099bfb3b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e30ac6fa_15bc_4ef9_b784_62f0e72ef8bd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1d651d77_b35a_4326_a7ee_e6fcfc020306() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8a2307e0_3746_44fe_8fc0_193521cc1996() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ae6b5d2c_92d9_44e5_9497_63edb8f01e14() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a71dd8ff_853f_4eeb_aa10_2edb7da0b381() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7286f08b_efe4_454d_a81f_6602dd928c10() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_430dee36_e4f0_4267_b592_bd262b343dd2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d48e8829_c44f_4339_adf3_28525c72183f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dbfeafdf_be77_4254_b935_72ca798c497c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5e10287f_f1da_4a2e_8096_d1410d26e6ff() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0fd46f4f_0c75_410f_8d2a_74d24cf63af1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b4db3ee9_0a15_451b_806d_1f1563ad3570() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d5750a10_f1b8_4aed_bbda_46084c457131() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bdc8ebef_ae8b_4f31_81ef_a152b324176c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d44b4a3f_a79b_4266_9bc1_f991b0d5cb0e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_93ed1ef1_5495_4b7c_8f6a_172e05c49de5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e8e2bb97_fb36_470f_a096_3c0342c07a5b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fe956c1a_c231_44d4_a347_8427e2705235() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ad909e13_ab51_4d3e_9d8f_77b404b2e1e8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f7c58cf3_b010_44c2_8fbe_313944049383() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_01355e28_5634_4435_b750_6476d3a31537() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_eb9988e2_7b65_419e_972e_5d7469ab00e8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_89203d83_30cf_4e23_9c72_53ce6bfaa01a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_379dc318_aa0e_49c9_8100_61f5021437eb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_56c2af15_5846_4fed_a7c3_86e1d260fef8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_399bd463_8291_4073_a8b0_046ecf219524() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_32894480_a3a3_4239_9675_3f51f91bad48() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4a619328_3ccd_4e3e_9fcd_7d3227bbdde0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bf0810f7_716d_4b98_bcfb_ca102c8bd4dc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6fa8ec03_e4ea_4b91_ba2f_221fb0ec0da7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_033825d1_c213_4d66_afdb_d0f111ff5468() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_323f9d8f_2f1e_4ff2_82a5_ac6c0da96729() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b3cf045b_c5f3_4127_868e_7bc02f4ed126() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b8c2969b_f051_4c66_8c75_65559365b746() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_23aeef1d_9493_4ee6_931e_dda343facd4b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4e96b4ed_5040_4470_8d62_5a16be45ec78() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_046fa356_8e3b_43b2_9aec_23e77f391514() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_19f08cae_67cc_4759_927a_98ae71af9775() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c5e8aa40_e3e4_4e67_9dda_b85214a6b326() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_62eaadd9_b2c4_420e_ab0b_7fd17d085ddc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_86c56c93_7160_4913_ba13_67ba48a26054() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_342d0325_2f0c_42b2_b45a_b9b155b46e75() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ed7d94a4_b33f_4b0b_b6a5_1985a02b806b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_06483660_08a1_4424_bebf_ceb10ccdede8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ffbd5ec6_3fe2_4f4c_bf30_e1f1aa2e913e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3d6ebee2_1e75_4c54_bafc_14ce254ca35a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5fb81caf_3bfd_4358_8a91_9e4a9af5794c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8affb6c8_2915_497b_b8a6_70dddd53fd72() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e704e289_251d_4e07_9821_a1841b8a69ca() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ac461370_5ca0_463e_8b03_cf8d50e44cba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_180d8c17_ae69_4003_a8d0_cae257bafd2b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_17b4ace1_6db3_427f_93e8_44baa0fc6a5c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c4c2a250_2b9d_44a7_9653_f4f30053b70c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8fc95f93_3c6e_4c4f_9a03_3144c025b174() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_42bd0337_80f6_404b_b757_f8649030e93d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8b2551b8_6047_4223_b918_8125d98743d6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fff8af99_7bc9_4c3f_848b_f7462850d5b7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7619bf97_b24b_4fbd_93fe_3f4903fbab56() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8650f6d6_e319_4093_8760_2f627d2ae1e9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5ddc6dfe_631a_4ffb_aac3_f24cbfe390e0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_41dd1f33_36a6_429b_8c76_87ed2d4c2de3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_49e10952_6106_4669_98ed_59cac8f52adf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_45435e09_0fe5_47ee_b19b_797d84c52aa5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_de80eea8_aedb_4d9b_af23_afb33926933a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5c1d4d3d_e2aa_4663_a108_9460d136a985() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0fad0d40_d006_4184_a2d2_eca131b7f610() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_104e3dfa_a98e_4fbb_a9da_db94e71e0ad6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e37faec4_58c2_424e_bd5e_1c9832188b5e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e4f2f4a8_d134_44b6_91f0_e27f15ef58c7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3344aa26_d068_4590_bb92_144668c5d8b5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_88649dd8_3860_4746_9532_1464c92b83b9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2fbe35cc_d86e_45bf_a0e8_1226e9a88c1f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_920fa614_f61e_42f2_b08f_d3b76378959b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5c278fe6_acc2_48b3_ac4d_704ca9c4cdf9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a3a96e33_7084_4867_b66e_da7991dbae87() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0bdb156d_a7d1_4a0b_b224_90b94a29aab6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_23c77d50_d585_4b43_beef_bd08b7fec5d9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0b9f4fa2_f45b_41c2_91e8_d06e8ae14d9c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a049792a_d33a_40a1_b116_9b41e6f2d712() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f8a27e1c_685a_4aae_84d2_cc3077f9ee8e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4aecbefe_25d7_4084_bca6_e92dfc5d1e78() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_40284078_d7d4_427a_9be9_dd6cc8de28ef() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6183dba1_52e5_473e_baa7_afbc56030897() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2903c403_c0db_446e_8443_30427d651e26() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6e388b8b_ec8b_489d_b1f5_0c8f0f750830() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_00040f41_8c27_4341_9b29_072f330a2482() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a773a458_8d00_4115_b614_8d92a3926eb1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f411ceb8_322b_4096_899e_0cced4e2eab1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_37f80cc6_d0c2_44cb_93e6_3b004561b264() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0745a151_6f2b_4653_8440_1de57398a6e0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ad668a93_3cf7_41c1_9832_b2fca796e75e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_028d7cf0_010f_4721_b9c8_bfe7cdef9ed3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_25ecae8a_7bd3_44e2_9a27_aa77b40df710() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7a4dd91c_6d8f_4daf_b98a_4bdad11f6026() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_99bb1a8d_370b_46c5_a5c8_d78fe6d47cd7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9e15c77c_f733_4ca0_9e50_a0749a6b7bfe() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_308499e7_8167_433b_ad73_a41067ef855c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0c9836d9_0cf0_4903_9fb6_61e85b4ac3d8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_242b1aa8_764c_4a37_80c5_b32b35304f4b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d0cbcb49_d89e_46bb_b0e0_71013c9a71cd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_15da2849_aab4_4b01_87ca_dae8c8250615() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7b4eeea9_7364_4a84_818e_015146d2d2ff() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a3063239_2056_4fa4_b128_d9c4078c0442() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6781fd2c_4ccc_45a6_a13d_e72cb0050a51() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f1afd8b8_78bc_4ce3_8950_129c17a1a4ef() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5a023810_631f_4be8_a192_13dd66a4030a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_132a7810_a438_45ed_88ec_bbbc84f59a43() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b42d578d_48c3_4302_ac51_87bbb715da2c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_325a84eb_3342_4829_9ad2_d5e91a9d8d10() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c7b5f1c5_9fa6_48c2_93e3_be978f5f2e0c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_71d8858a_fd9e_4532_9a78_80934e84899b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_db618416_86df_4776_86ac_a843d92846a3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7062993a_ef5d_4885_b6cf_6500de5cef7f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9dd2d2f7_bcf4_4b01_93c0_41546e066287() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_17e6b65f_394f_49a6_8faf_9b76606095cb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b33866b6_16cb_47f2_b1ef_d02543ca4a18() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_191e7c7c_6bfb_4829_ad30_823113aed418() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_46067277_6108_4d02_a364_8d87c78f17c4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f313ec2c_cfd3_4f7a_af73_1faa81cc7f27() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_43d42353_12a8_4618_83f2_9d4dd827c37a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c8f2e053_e958_48cc_a64a_bfb609186378() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_adf981f3_ae80_4747_9e75_a22e3515c84b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c45958a6_db8b_43ac_a258_1a29ade1574e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_43ec8dc6_f4cf_49a8_8c59_5aa03e549db8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3a88a8fc_b7e5_4936_b63f_7e1a986b1933() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7d0ae76c_fcdf_4cba_8583_fe64d227613e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_be2eb6ee_6b7b_4f60_9041_fca5d62faa28() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f02665a5_8912_46c3_8a23_a672fb3220ed() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_65888637_6dd9_492a_8fc9_23390e00d822() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2bd24eeb_9021_4b94_b1c2_373b7905874e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e62f79e3_9249_4cd0_8081_97d144750504() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c84d44c4_edf7_4891_9ced_5df05a786912() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5d4e1894_f810_45e9_844c_6a7f6e268da0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_77acff30_25dc_4543_ad70_e05f9e2ba4d1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6cfa3f90_43e3_45c0_a566_c99e2049cee0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7d912ee9_289e_4600_b643_1020a1f53479() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c71101e2_b613_4814_bbae_7bd8b5316839() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8141d2fe_9576_4bdc_877c_e0746ad40995() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b536d9c1_4c56_4657_8f07_55e62819b6c8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cab7dbc9_a558_4ba6_847f_56bb79042afa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5f274e2a_6cc2_43e8_8848_ff75fb0e4120() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e9a438ee_8d37_4be7_9bdb_25943ee847ce() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_13c3e04a_1298_45c6_8fde_6883fa6622be() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5b6737e1_ddd2_41f1_9b70_79d5a27358b6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f53b05a2_1e9a_40b3_bfa1_3dec6952865d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ceaa8847_4671_4586_bff0_6d83d813ef3d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_24880b13_45ff_49c5_a396_6dcf337884d8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_176ca1f0_23b3_4f0e_b0e4_3393c6d30b9d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_89bbc661_d8e1_4874_982f_bb48d68f70eb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c453ff64_d267_4c87_b241_ba159ea59a98() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_85eeaf97_d8b5_4ecd_8ee4_63ce9309cf5c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7732e4a2_b786_47c2_b6c1_8aac62ea0398() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d9208085_6bd3_48aa_855d_db14aeb1c906() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9b2f83bb_e52b_4c92_9e5b_09153e33dd46() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0d836cda_83aa_4387_912a_909dc66ea133() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_417e464c_bacb_4264_9f3a_854515982eec() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_90f68cc2_ac90_407a_accc_d535413fd050() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6a2a0243_9d71_416c_aa55_0085d552fbb6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d75a10f4_737b_4a71_a0fc_da255e4875e7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_52ffa5d0_43e2_4a83_a33f_6d21529fd111() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c6a7c61f_b0ad_4101_8734_4622f028090a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0c355e74_3bf7_40d4_8421_76b83f1b51fa() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bc29ea3b_d1db_473e_8464_5ddd288381ac() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_24d3c494_c5fa_4a29_96a4_a2d88875b890() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_edfd428a_3d2f_41cc_b9c2_14d230be723a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e7fead4e_691b_4e8e_b29c_4dfc51232a4d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_21d1bb7a_a510_45fe_9f88_6b72ac362080() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3ef82d83_c1d8_4720_846c_551db9a1fce6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6bf4253e_1bb4_49ef_b88c_5fbd20bdee4a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a773a458_8d00_4115_b614_8d92a3926eb1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_905e0449_fed6_4fe9_bab5_5f4766e2ad58() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8b34aa48_c5ae_417e_885f_88c4e4e0b3f0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_32ff6ac5_e5cb_4089_9637_a0a7dbecb7f9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4cd0ec06_5015_4b3d_9ae1_d6135b5e4928() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_138feb35_a984_4496_8bb1_0c10e95029d7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_eaf308d1_102a_4bdd_a767_627f712553fc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_18530aca_9dee_41b3_8b9a_be6fe13ebc17() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0fe04782_8b5b_406d_abdc_747f2539d298() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_460e157a_d389_4fd5_92c8_f6078749fe03() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5c85a9e9_fcb5_4b21_a3d4_732b7fe7b34b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_babc11c2_2ac5_4b5a_834c_04314d71ae9a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e2a24609_0f8f_4304_9aff_94b6caa89edc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c149a030_c967_4c2a_863c_1538de8a54d2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c9a83bfa_8e32_480f_a46e_cf6ca04b2502() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7a647976_acaa_4bb5_bd13_cfe83d85fe73() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b53ee0a2_e5df_4023_8631_42824b2ee970() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6ed0ab77_f0cc_4d84_b4af_42ef954019ab() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_90216443_f3f8_4f1b_a96b_cac6fbb76404() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_82bc8a1a_b077_48b6_92fb_84b89923004a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a07e45a8_66ff_4059_9bc1_29c41eba0587() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_197360a0_7d22_41e2_877e_5d4b2cace9cc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_22d37876_b3f7_49d5_8e29_da657b76f63b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_81d85d93_6039_49ee_8cb8_cdb10c420ac6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5b63cdfa_9439_45ef_bc6e_6030ae8ba9cc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_34c0bf0d_2186_4c25_a274_d599d4513a62() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_808b796b_1f21_4d23_86e4_d7b69f8430dc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0eb17a30_c33c_4966_8e1d_fb2d6f451c0f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d5dfb4fd_a487_4f52_a3a0_e9f0c9d93969() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cd63d82c_d177_4b80_b247_61a746df9e05() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5b6737e1_ddd2_41f1_9b70_79d5a27358b6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8ddbf83e_3528_4aa9_826d_d5b934ca248f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d1cca2ad_cfad_4935_beb1_e50d76aeded5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_56dbb67f_2dd6_4c0f_9d88_e2b65fe3490b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bca4df27_f310_4f57_a072_fefe0d08ecd7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_106ce381_b207_4848_8fd0_6d504f95b52e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c49aaab8_daa0_414f_a1c0_681f8538da52() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ef39669e_1668_49c4_b994_d41b94450b8d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ce0f4ce9_ad87_469b_9eeb_90c45dd7b499() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_afea4287_eeb8_4b2d_8d48_34ffd8fbcd77() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4894401e_beff_4b34_8130_8425210085fe() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cb160040_5586_41d3_935e_13f835e533ec() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_92a44857_8816_425f_8f25_1cfe75b5ba76() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3d0c7310_f0ee_4401_82a5_170a519e74ff() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_72adad05_46bf_49e8_ab9e_aafc84260a35() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_138b1809_0b23_4050_88cb_59d05d31f8d7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5b63cdfa_9439_45ef_bc6e_6030ae8ba9cc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b52beb03_34fe_4f8c_8582_dafbdc34531c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bde1bc62_416d_4235_8190_fd0d326cc860() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_605d0389_8f8c_4cf0_8e3a_7988021377d3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e704e289_251d_4e07_9821_a1841b8a69ca() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ac1f0a0e_9fb5_4c6e_86fe_78559549e01a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ef0e4489_9e4d_4625_8a77_57f2c57a3f3f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_177b7766_0d57_4b61_aad5_f253e5d1991d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2ed34edc_6126_4012_b9f6_77fb7962dc17() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_aea42a91_20b5_4c34_963c_7832ebe3e83d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9ae6fafb_d74b_4f00_acb0_771cc9b5ef5f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e2487cfe_d012_446c_8d24_5f0af9f0904e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7f5aba91_8a0e_421d_8045_3d220914511f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_65888637_6dd9_492a_8fc9_23390e00d822() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b8f8ab51_689f_4416_8886_cc2c31ca3d86() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_132a7810_a438_45ed_88ec_bbbc84f59a43() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_77742de9_68f2_4c9b_bbad_c5ff7193c4cd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4f71d0e6_35b9_4bc9_810c_fdcba9e9ef69() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a8a1f1e0_8380_48b1_aaa1_644b2618ef8c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cada834f_8ba7_4230_8fba_bc51c053bdc1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_932d891d_69b4_4009_aa53_6e7cd4ea60c1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1c118a61_53b4_4824_aa35_c89cbf6da52a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9d1fa8c2_aadc_4019_910c_a3bfb6cc66d6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_23febd94_2dcd_42d5_91c6_2f3f507d3117() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a5f38f08_3291_481e_8017_d7a61dbc8973() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6197b68d_8880_4240_b724_046e695654f5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_886d784c_2170_4f71_93e8_ae3e3bc417d5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f36d985a_f4d3_4a62_8ba0_f90899ba417b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5ed88978_9d7f_4700_9151_db25fe71ec60() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b7fbe5d9_c797_4810_8dce_ccced9496421() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5cc058a2_59af_4d1a_94e9_0a5787b27111() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7cbd2c6f_750f_42e1_82b7_e8cb3653223b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b910979c_04ec_4d64_9ba2_5383f2a76865() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5cc058a2_59af_4d1a_94e9_0a5787b27111() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d121cc7c_2c62_48ba_aa90_6e08f75c96b1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e9b693db_526b_4ec6_98f5_34206de510c5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_02eaf3e9_522a_4635_88fb_2e74b684efe1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d9ca8513_df0a_486d_856c_f85596ea7978() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6e388b8b_ec8b_489d_b1f5_0c8f0f750830() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_64cfbbf3_2735_4599_9791_449679164398() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7afbf40c_105d_4de4_be40_8f06132d2d56() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6a4ac549_3ff0_4644_b750_cd95ab758d59() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e82d7384_76f6_4132_b774_3b86df0cbdd2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a2f31716_e350_44ea_8b8b_431ce4134d1a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0eb6419f_128f_4c82_badb_a022f01f3b4d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7785a2e6_45b6_4094_8f4d_9faf476b96f6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0a4b2443_aeb1_4672_8e7f_700c02876a6d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d1cca2ad_cfad_4935_beb1_e50d76aeded5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_49f268a9_fe9e_4fc8_b216_33bdd9fab269() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ef39669e_1668_49c4_b994_d41b94450b8d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a4d76734_eb87_420b_a9bc_f9a3f2f19dd1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9eb0aee2_b67a_48b2_8265_ca2fd9612d13() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_99e17567_15ec_4a96_9865_b9c46d697030() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f4530238_c5f9_4d93_ae2d_41029bfba07d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1673c2ba_d035_4172_97d5_b899f6943896() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_eeae91bd_c19f_4b17_8a16_e7ca9b75e722() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_84bce40f_154e_46af_8421_1155c03603d8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dcf50960_2358_4232_81a6_4ed400b909d2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1630288d_8003_41f7_bbe9_8b7c5668e174() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a5b250eb_8c3f_407e_8b0e_aee0f935623e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b8a7e92d_aa10_43c1_9a6d_0191b29283ab() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3725f14d_fa9e_490d_ad77_f8de95485a98() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ac54451c_024c_48c7_8755_0ccc5554d219() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0a6b0e47_4b43_481c_b377_3a31aff6251d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5be6bd48_d54d_4b96_b8bc_26237b31c319() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9e7cd49e_d39a_4aad_bf80_6cba24eab409() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a470db42_18c4_4197_b8f5_6436d2686670() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6f7a3c8c_1deb_4869_aba3_5851724eeb49() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7a062090_e13b_4b80_a7b7_a33a8a3e5f6d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e201995d_066e_4df2_84f5_2d6b144e4d41() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e097fa44_e57e_4c4d_a033_7b473f37eecc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cf1934f4_9e19_43bd_8a33_75e59e8de2bd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f093c827_3c20_424e_9ccd_af2164e2b6e8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4b318949_5293_4c9a_8828_c5a4ac31c118() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_da8cd9fd_bc7c_4385_82a7_d55c70f3c229() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cb160040_5586_41d3_935e_13f835e533ec() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_637c5bfb_b7d2_47e4_bec6_f7c7f8a3c751() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0dcc2568_888b_445b_9348_6075b20daf6a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_048a91e0_1b71_42a4_bf05_0d9d62cf285e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_149250a6_a067_4c0d_8570_c47070d8647a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3da9a41c_5d57_4a4a_82fc_24cdcebabd9d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5ea0fdfd_1f39_467a_b260_b9c70b389640() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ac461370_5ca0_463e_8b03_cf8d50e44cba() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4dab4a66_037f_4740_9fe0_3771b14b5c04() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_03e86434_6072_48dd_83a3_66d5ff196937() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2a83120a_4087_4be5_9197_95de684b83d1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ec74eb8d_5123_439f_bbd1_0adde4dd9a65() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_49dc384e_c742_4412_89db_8b046a50387c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d44b4a3f_a79b_4266_9bc1_f991b0d5cb0e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_52ffa5d0_43e2_4a83_a33f_6d21529fd111() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_671818ef_058c_48ff_9e75_b504fd526767() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_74381ced_10ef_423b_898b_e9dbbb8cb3a4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9ab8524e_9108_498e_a2de_d78f44de4e46() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1a9b9324_da0e_4b6b_b89e_288a67eb5740() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2fdef2f2_00c0_47e1_a503_440984070ceb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_15beaac6_9e55_4765_a435_0e4c8f95a0ea() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_94189314_b2e6_4af7_91d0_509bfe8c943a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e3f20077_d561_40b4_92fc_f9f0cd5b22c9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6bf4253e_1bb4_49ef_b88c_5fbd20bdee4a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6b9f95ca_98f6_4e96_8723_cbd7b7286826() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_159e3041_53ed_435a_a7cc_e1916c85959f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_99e17567_15ec_4a96_9865_b9c46d697030() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_431fe929_44e4_45f7_98d7_586a09da5298() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_14077084_cda6_41a6_9fb6_d66ee704ac7e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9afc225e_ac41_4553_838f_7ed3228a67d1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_24880b13_45ff_49c5_a396_6dcf337884d8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_92c96e6f_a1c4_4a33_aceb_2b95fe90a4fc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_21796c1f_9a10_402e_8717_ddc664fe5178() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3a8734bf_6c72_4c38_8d74_c2cfd2c16946() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_242b1aa8_764c_4a37_80c5_b32b35304f4b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c3b689a1_fd41_4a44_af23_cd9ef8c24e40() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0fca7970_4ad7_45e8_8fb2_cf7df21d4a8f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7253e2f5_b704_4c12_b843_238e393f2046() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8b43fb30_917f_40ab_8595_47165679d263() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b0372a00_f1e0_4267_93da_7c35faa061c3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6b6cf337_3f71_4de2_b580_c054dad2824d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fec6d6a5_868c_41e0_9197_6b0d7c66ae00() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8ec42a49_c605_495f_94d0_749f8faa271e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b7fbe5d9_c797_4810_8dce_ccced9496421() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6c2609e3_3000_4c14_8bd9_c19c8f79a13a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5c56a212_9074_4536_b459_a7ef60b0a249() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9169aad1_834b_4d25_a3f6_c3d4dd51c904() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5a6854d5_2eaf_44aa_9cd0_39065bf55280() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2f76c11d_e22f_4c26_bda4_b3a994aa1afd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0612d0f7_283e_4bca_9ea7_cba9081daa9a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c8f2e053_e958_48cc_a64a_bfb609186378() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e2298b84_d428_475b_98c3_597f47a44134() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7afe0a24_9fed_472d_b761_3ac9d1be7933() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_493db9bc_35dd_4c42_a992_ac00e1939168() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1426099d_af26_4210_baaf_d8007845cb6d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a20307a0_4c77_4725_8214_f06b04a12beb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5a64ed66_80d1_4801_93da_db3d119d2522() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e8f45306_f775_421f_bf12_d5db23a6ffe5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_72adad05_46bf_49e8_ab9e_aafc84260a35() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e14f14a6_808b_49cb_932e_59eb0e2855e2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d28031f3_f25d_4811_aab1_1176322b5b5c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_854630e9_b43d_4a2c_87a6_6878854e25e5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6db838d6_0d9d_426c_88aa_99ea4c409d02() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_78cf04a9_3dba_4206_a548_b97071b392a4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e241ebd9_2353_48da_9e1e_13ebe8628cf6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_716842c8_0861_4bf8_b37d_f45189476fe7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_18237ab4_8461_4db9_9d3f_1d8e8e230b30() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_325a84eb_3342_4829_9ad2_d5e91a9d8d10() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8525487f_1e76_4036_93b2_8b75afbb97f4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d1b76965_7fe0_4285_b513_e97cba1db78f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9afc225e_ac41_4553_838f_7ed3228a67d1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f1f78be6_a384_4cb4_8a64_e440bb5d8390() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cd26aa3d_e5e4_4026_9af5_5e32940b767b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f6eb8e45_3e2a_44fe_9468_cd4ff957e2ef() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e4a4b9f3_c942_4de0_8a99_3c4e95545569() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7906cf26_b8b7_4737_8349_59d5ca7995a0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1673c2ba_d035_4172_97d5_b899f6943896() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_48ce2b83_0127_4189_b71a_1382bd8641a7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4e3c57dc_02c5_441d_bae3_12813e571f6e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5425eaa0_c48a_4c91_b2e0_7f3480fd9635() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1fe5ce9f_a39b_4ee9_ad7e_6791aa2dd7e1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9816453e_a036_4e0e_92f3_60951f5d92ff() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f7c58cf3_b010_44c2_8fbe_313944049383() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_82c3161c_fa49_422e_a00c_f866e85b8d41() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_dca11249_c8f5_42fd_a381_82050307e94b() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a13e32cf_8b9f_44ed_97f4_586cb78a3f1c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7f5aba91_8a0e_421d_8045_3d220914511f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f1f78be6_a384_4cb4_8a64_e440bb5d8390() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d209b3dd_37fa_4af6_959d_535b16c353f9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1630288d_8003_41f7_bbe9_8b7c5668e174() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_630c1318_5eca_4a4a_a731_d90a02cbb44c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c453ff64_d267_4c87_b241_ba159ea59a98() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4dab4a66_037f_4740_9fe0_3771b14b5c04() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_31702448_c3da_48b3_a998_ebdba9573399() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_98aac7df_f458_4d33_b54a_ef139624d476() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4390548e_f59a_4004_a579_dded9a951965() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a32347a6_6453_45d1_9cf2_0f4438516e2e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5e0cf089_52da_4d14_aea4_41f17d9d2017() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_61f625ef_3f3e_45a0_8fb1_9fe5046bc6e8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_050befa4_aeab_48d2_ae36_853b40a12d84() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6aae25ba_4522_4852_a9d9_568c1818810e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_056c7de7_f231_4938_a43d_3d49b197cdd3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_29750e74_9006_42cc_b700_a29b7edb9f49() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9f78e521_e36d_4505_b6d8_ef54e0670aa1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5c42ef20_9f9e_494e_b194_17e94d35af6d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4e9dd11b_09c7_4b26_ba1e_dce086050fd6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_50d5d4ee_e13d_4ea1_842f_ade1047f8b83() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9d32d5b2_05fe_4042_87c6_a5fc2e4ae07f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_879cef98_94bd_4301_add7_e0c1810d12da() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_659276f6_14c7_4cff_af55_166f4ca032c1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_85743404_5d9e_4ef9_9d75_b7978f985a67() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3ca46bed_83e8_4415_b0dc_61b32fe14747() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0c9fd382_3758_419a_9382_5ac2c242e0a1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_89203d83_30cf_4e23_9c72_53ce6bfaa01a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_496c390b_054c_4de2_b498_0c2074c3bf3b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a7ba902d_003f_48ff_b48c_1ab4b2a30e68() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a2ff1a6a_f62b_4b66_b08e_092a857dc7d0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0e733af2_bdf2_4e8d_be57_edf35ab85814() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_43b5a651_3418_47ed_b9b7_6d5b2efd30e8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_da4a00b9_f41d_4731_8ca3_e4183025a9de() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6af53518_90bc_4505_a7a8_8e3ddc233570() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a46a1a89_c9cd_4321_ae09_c029715e8c01() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0d012999_e19c_43fb_8068_68cfee603a1a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1f36ef95_4b8f_4718_bebd_ce0af782366b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3f52e14e_e5ec_4b94_98f5_64de0dabffa3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d5750a10_f1b8_4aed_bbda_46084c457131() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_df7a6b26_5910_477a_815f_0c3d0bb02c33() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2e7d7e9d_46a3_4537_925e_7986f99f8674() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_01355e28_5634_4435_b750_6476d3a31537() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_870140ea_e318_4822_923b_15df4bdea74d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ea7d1a73_0940_4006_aaa8_1ef0e8348a12() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_80f216e9_eef4_4751_a866_e1e00974aff4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_53377597_a9fe_476d_8927_5b006e266a29() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_57922694_6c3a_441d_9461_b5decec46a9d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b29ec02a_d8a6_4c1e_931f_589db266afc5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c41d4f90_7a85_4a6a_8049_571de7ad37ae() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0de0bfd0_8883_4dcb_8fa7_4f079b13a51b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7afbf40c_105d_4de4_be40_8f06132d2d56() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5394b580_2616_42e7_9c5f_68813de28d9e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3a9c49c5_03e6_4a87_a43a_5551659b3958() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_405ca544_8c0c_4e1b_bbff_ff6687d93ef3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8000ae36_9c0a_4fc6_b640_125a37ba913b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1cfd8c49_3222_4e4c_ba47_4c48a732c30a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0b07aa75_d17f_4011_9297_d3e7dce1bfe5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a17a39e6_b820_4ee2_87f6_1d38b5742a02() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_540489f8_157f_4ff6_98ee_3d2e37885aca() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5be9ba82_3983_49a5_85d0_f55931aa6d25() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2747cdb6_6615_4f48_a467_c36a46783624() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9e63c08c_4c64_4db8_b4c3_8fd4d52f82f7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_be24cc5f_f96a_4cd6_876e_62aaab25d99e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d92edaf4_4090_4345_a97d_24e3a2784ead() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_242c9b13_ba8d_4817_92aa_fa095e1cef28() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_187560bc_bcbb_4aa9_8d51_89617fb8dc1a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_93e17d20_7cb8_4a4d_b59a_6fc6c8b6d057() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ac54451c_024c_48c7_8755_0ccc5554d219() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_533c4565_7489_48b0_b900_bdf5afa4b3a8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5b6737e1_ddd2_41f1_9b70_79d5a27358b6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a1c3b2b2_83df_4e4c_9fc6_f86019db9c9e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0faf3717_a4b6_44b7_b696_f390dbabef26() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_63aec68e_3377_455c_a4ae_a4caa04d7c28() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f13cbd33_434a_463b_8d74_e1246c7daab5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d48e8829_c44f_4339_adf3_28525c72183f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9dca6c65_a37a_4a05_96fe_99d2d86884cb() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5e0cf089_52da_4d14_aea4_41f17d9d2017() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c00becbc_6cfe_4c4e_b30c_3f7f4c742295() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a049792a_d33a_40a1_b116_9b41e6f2d712() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b72e6a93_ba4a_4756_8e67_74f359f37497() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0de0bfd0_8883_4dcb_8fa7_4f079b13a51b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d4070974_130f_4d64_829e_a91ae6e6066e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_35b9fb25_afb8_45ad_ba30_d9ec8cb21c75() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e5cbf74a_2645_41d1_b180_e73726dac6dc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_afc6e84b_c07e_47d1_80d3_53cb77a6658e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_aea42a91_20b5_4c34_963c_7832ebe3e83d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a4fde44d_a539_4bb0_bb93_f0a922129783() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6f65b408_f29a_4904_9ecc_ba0326200188() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5a023810_631f_4be8_a192_13dd66a4030a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_85cf6cd7_f43e_45ad_b620_4e7e0d7d0fba() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d60e3d2a_fb34_4804_83ee_df8492ad177e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_187d59fc_a4ae_430f_a865_7d41c698377a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_30c3f065_d335_435a_9f29_2335f192a60e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fc2aff92_3478_467a_a91e_5de31fc48933() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e87abab8_2be4_415e_9cb9_db904fae9bb7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_87e7f954_1f9b_4e78_9eb8_e768d77b45b0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cf113635_e111_4448_97ad_21e80afeeedc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_65888637_6dd9_492a_8fc9_23390e00d822() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a6eeb366_5e4b_44d5_8b83_85264dd0b12f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b9e11aca_92b3_40ff_8b4e_7357d334a31b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_74a5af7c_d6ef_4093_a497_d72d1b2e53cc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_18d4dc75_61eb_44a3_8382_185d1e66dc90() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_aa35ef7a_a882_4b24_bada_7e0e6df01204() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_382f483c_4965_4b87_94fb_a97f9bc602e0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2953dd77_7b2e_4008_aecf_ac575af6bbb8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5f7d4e8d_de56_47da_8f33_08e14691b60a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_552b0537_c48a_4b35_8b92_b51cc05da58e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8fd61948_16f9_4f6d_9b8b_cc55f6ff9fdd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8ec42a49_c605_495f_94d0_749f8faa271e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7a4dd91c_6d8f_4daf_b98a_4bdad11f6026() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9927436e_691d_4791_a228_653b7bdf55c3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7ab2d6b8_e683_4860_9807_9fd669471219() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2600434e_10c0_4be9_a534_51f0926eaa7f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c9ebbb35_eda7_4182_89b9_00e2d1e8ee07() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_68425b6d_fe57_4bcf_86a7_417a89d6f7d7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_200b78e2_3948_4176_b954_acf665eb37b4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f2775a71_999b_4020_ab87_302a8130772f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5def7306_3f19_406f_a3f3_18b0a1e293a3() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a4d76734_eb87_420b_a9bc_f9a3f2f19dd1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_21c82e66_82cd_4f3a_9df2_983f4c1cb7d7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_158abc18_6938_4852_81be_f6f8ced51a05() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e0db2c96_e210_4235_8377_c04a9dce879a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2e19dd00_2daf_43df_b00c_181a291f7e46() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a93ce020_51a0_47b6_8f26_aaa620d811fa() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_75468566_e205_4e1a_af8e_a74654084722() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_82ff1f82_7e55_4c32_98cb_e87b7b97b972() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a15d67ed_c4bf_4103_a0e3_7afb4ea89d7d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_bc33b7ed_42ad_434a_93bd_f08b4656afa4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6bf4253e_1bb4_49ef_b88c_5fbd20bdee4a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5ea9caec_2b46_4958_a37c_39305d55f444() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c00becbc_6cfe_4c4e_b30c_3f7f4c742295() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_75690b60_e649_4166_ba2e_4c5f320dcb45() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c29037ca_7aa9_48e5_9f3d_be0569e4213e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0c66e230_1315_41f8_a83d_2de0e1b68550() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e3bd0522_ef09_4548_9517_512020ecdb44() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_87da3261_c70a_4d87_a48f_8a5c12fbdaec() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_409d3254_2f09_40c2_bca0_1467e49b1fd7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_810d4361_9822_4c15_939c_0fa6e93380e5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_86b6a7c8_2414_4374_a858_ca8fc78f73f0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_be2eb6ee_6b7b_4f60_9041_fca5d62faa28() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_383d6aca_c8c7_4f21_a43a_6f40141ce3f6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_dfb757ca_65c8_4ab3_811f_f58b975efcaf() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_98a3522a_54b6_4fb5_966c_13591c626b9a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_38c10745_636e_4926_9ba8_891b33cc9da0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9910d2ff_c88a_48ae_b406_e6a1c72711ef() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6e388b8b_ec8b_489d_b1f5_0c8f0f750830() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6d4064a4_e2a1_4e96_9752_402e65f17e13() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cab7dbc9_a558_4ba6_847f_56bb79042afa() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_40b9e460_6fc9_4790_a1ff_a1cb77694ccc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b67ba75c_c10e_4eb9_b904_118259d38c0d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1560a4f0_3617_4ced_9e05_44d5e2c1f415() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_ef8a9d3f_11de_4c34_8d2f_ce54506ef8a1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8b2551b8_6047_4223_b918_8125d98743d6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_02826f02_2260_4f63_af35_43b2a5c6f5b1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_53377597_a9fe_476d_8927_5b006e266a29() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3a8eef6d_994d_4c00_a202_b594fc946296() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_10444953_60cf_471c_aec0_c834b13e3713() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_64cfbbf3_2735_4599_9791_449679164398() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a7f65431_753b_4118_8a64_1cfc8159c507() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1630288d_8003_41f7_bbe9_8b7c5668e174() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5e4d35cd_d92b_46a5_ac66_b2f152dba488() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_06483660_08a1_4424_bebf_ceb10ccdede8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a70b7799_d615_4366_a1e3_31f49c0a6ec1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1de7933c_4c47_4af3_83d4_dda1b4880960() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ccad2047_30ba_42ae_84c7_472bf35affc4() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_24ae9dba_d8d8_4e40_868e_3479a4940267() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_000075cf_efaf_4a93_ab07_02bf27f3b253() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_936e8be7_2f1b_4f15_9110_1a4075cca24f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_36843800_b3b4_41f6_8a37_79291cb640b8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a9b6575c_1e4b_4d64_ac78_d31be8bbd388() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e62f79e3_9249_4cd0_8081_97d144750504() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_27916cc0_63bd_497c_9cf4_4a3ab85b4b64() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_aaa5973c_696c_411d_a5dd_a0a33f0c91b7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5eee48ec_e092_4d2b_8299_12106885503a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2a8b1c06_d8cc_4b3e_b097_c962e18ae584() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1c118a61_53b4_4824_aa35_c89cbf6da52a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1c77505d_6f88_47eb_95d6_407b2b8ccdcc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1556fd9c_0a4a_46cc_944e_9d9c694efb9d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cb160040_5586_41d3_935e_13f835e533ec() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_37b64f29_5b91_4015_8ab8_61ed778edc30() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_da9ec55d_f738_4356_8591_198b5949648a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_54603d29_a5df_4d72_b842_a891440fc43d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a5247d1d_e694_4cd2_b5ad_701e52dd900d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a80b2643_4d9f_4cc7_8c24_1e718aa81123() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_db880125_d248_4b54_a192_bc01f908d9f5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_497f4676_3cc7_476e_9054_ee5c2f816463() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9eb0aee2_b67a_48b2_8265_ca2fd9612d13() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_25ecae8a_7bd3_44e2_9a27_aa77b40df710() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e46f2c65_1c39_41e5_a214_89a7957bffee() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_238d1a9d_2b24_4a2d_824d_420f9e78a20d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_959bf5f4_62f6_4740_8031_bda97ed30241() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c540b7c0_3b3e_4278_8d33_16f242333258() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ac54451c_024c_48c7_8755_0ccc5554d219() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_177b7766_0d57_4b61_aad5_f253e5d1991d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2a9e0e00_f349_4cc8_959e_0d090d07dde6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7253e2f5_b704_4c12_b843_238e393f2046() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6fa8ec03_e4ea_4b91_ba2f_221fb0ec0da7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_edfe38a7_4707_4138_af8f_c5838759b8a5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a39b2731_26e7_43ed_b871_85b541103cba() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e426675e_e8ec_4e05_b18a_f7227e80f218() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5425eaa0_c48a_4c91_b2e0_7f3480fd9635() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1af7170e_2362_4ee3_a629_b0c3bdcf9b23() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6febe427_3884_4e98_a3e3_ec5c6b44572b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3c8dfbde_4a96_40be_9521_2de53e7ed7b3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_347af688_1427_404d_bd64_1aa9d13656f3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6b935eb6_393b_4096_8b41_646bc8c441b9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_176ca1f0_23b3_4f0e_b0e4_3393c6d30b9d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_91e7c31e_b993_4999_8895_76612f0f2eeb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_decdc51d_48cb_4521_bfbd_cb78fe014f4b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a2ff1a6a_f62b_4b66_b08e_092a857dc7d0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7fae0030_ee8a_4f36_a49e_f7e21ef75eed() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d073a9c7_0b51_435f_9df6_02647173be41() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7f27f79c_1121_4a3c_b131_54ac01732602() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d90d7967_9ee4_4f6b_b7aa_4c22bd37a04d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3693d79b_c532_4a0f_a4bc_98a8a2aed2b8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ed968b3e_f7e8_47b1_8882_e09a667501b7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d5ec8fe9_4462_4362_93bc_dee429a7885a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fe303d81_3b1e_45f3_88eb_d861a9c68176() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_4a619328_3ccd_4e3e_9fcd_7d3227bbdde0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e3e44349_db87_4246_8b66_2ba4f36b7e4e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_225306f8_b226_4eba_af69_7cd1daefaa5d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_50bffa08_ae56_4519_97be_b7cb5fa121ec() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b8c2969b_f051_4c66_8c75_65559365b746() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d6bcb074_b21a_42a8_9f7b_de8d82f24e90() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_770e30f9_2bc6_4c20_b7d9_efea8c3e068c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_8be121fd_c5f7_4fd8_b4b4_4b2aa1329005() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_57cde96f_5104_4f23_a3af_1517c14113d6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e6a84a21_f9b7_48f8_9246_3985b74a2a2d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7d5dd4bc_b38a_4946_9dde_1fe885bb86ca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c6b29d67_ca51_47d3_8834_a86e21b38d06() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f4230410_45ca_4e73_b3f2_d5c59cde144e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7f23190a_b643_4479_94e3_9c5154334021() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1511691b_6ac0_44b8_9090_e50c2960e1c8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_29501154_c35f_4c71_8dfb_acd9c4e21772() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e0208a63_4291_42eb_84f7_cb033c88bfd6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9d1fa8c2_aadc_4019_910c_a3bfb6cc66d6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bfa96863_91c5_4c67_988a_0f3d47c17537() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0eb17a30_c33c_4966_8e1d_fb2d6f451c0f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4afdb87e_1632_4c0d_ba1e_145ce35e0ccf() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0eaa8c60_4854_4e6e_a33a_5c29fc5c47dc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a52b5e16_e52d_4b36_95a1_1b3b3d624ac7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a78eda02_d1bd_4b2d_acf6_f3152caec9cc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_950e54c5_a284_49df_9efd_d35e45a0c728() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_085fad11_304b_42ea_ae23_22ee05066053() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2e77e0ca_aa33_40d6_8556_0890293706a2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e976cfd7_2f81_42c9_80e5_0f63f9897191() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2dc0a06f_a37a_4b9c_b78e_fbd3a9f91719() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e8f45306_f775_421f_bf12_d5db23a6ffe5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8b3a08fc_7992_4042_9c3e_709f82e232a3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_75690b60_e649_4166_ba2e_4c5f320dcb45() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ef8a9d3f_11de_4c34_8d2f_ce54506ef8a1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_21e223a1_9605_4858_b279_08cece165bc2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_630c1318_5eca_4a4a_a731_d90a02cbb44c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5b543cf7_5539_4615_a973_8104571a2fd7() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e201995d_066e_4df2_84f5_2d6b144e4d41() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7f948939_a58a_4988_bc8c_fd0b35fa0170() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e6fbc915_7329_455b_96db_b67564f11793() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_b40f7713_6106_401c_857d_7cfb5158c8a8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_bbc50b0f_1f86_4bd8_9e64_ba89642b6194() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c835bc49_da49_489d_921c_69600b77165a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1a6ede5e_be4c_43ae_900f_f26d62c5feb0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5e4d35cd_d92b_46a5_ac66_b2f152dba488() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fc7457f6_a6f3_4156_aa8d_f67ea470f386() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_19f08cae_67cc_4759_927a_98ae71af9775() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9ec31458_1103_452c_8539_5fc96469e7d4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e372eab5_f0bb_4c04_99a5_88635c68a3b5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_876b572f_f445_4a2f_9d1f_c1f0c50a2c68() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f396947a_8d18_4370_9011_2f64ca951012() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1906b0d8_2b03_4cf4_b88c_5110115a381b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6cde2bdf_44ad_4e5c_9f99_4d2d7420cf7b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_046fa356_8e3b_43b2_9aec_23e77f391514() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9eb0aee2_b67a_48b2_8265_ca2fd9612d13() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d021b109_8e8d_4a5d_98ea_7606cef31db3() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_783ec2ac_90f7_4c17_a529_4be9f42c467a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_40d69783_69b6_465e_b79a_e8e7af6e1062() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_822513ae_c1bb_4a2f_aaf8_9811057101be() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ba0953e5_a7e9_4e7c_867c_bcffb962420c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b10a4c87_475a_426d_8b9f_b06bba3d5d77() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d16de670_3a2c_44a5_ba87_dbaaca06f6a6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a408023d_9054_4d76_b387_c2720e339c0b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_74381ced_10ef_423b_898b_e9dbbb8cb3a4() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3b2dac19_5102_467a_935d_b64316cff8a7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d3f691d2_9242_47f4_9824_39c92ec10bb1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_babc11c2_2ac5_4b5a_834c_04314d71ae9a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ae4bfe9f_9c12_49b8_8267_98992bef6b09() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_90ce0907_fc1f_4df9_b38d_3fc399c5f93b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fab90d40_960a_4c0f_b7cd_62ff77a5f569() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0575a432_4ad6_47c1_98e4_4c9b0a92cc7b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e704e289_251d_4e07_9821_a1841b8a69ca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_47650ba6_84c6_44c4_b4df_10487573b087() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_2d047575_d311_40bf_a237_a9c091d4eacc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_84f37b74_0c44_4d04_a3b9_24a021e8ba4c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_08ede94f_aa8b_4875_93fe_b55c90a05b58() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_71f65548_29a3_4839_b63e_84686a99fd26() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_17e6b65f_394f_49a6_8faf_9b76606095cb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_405ca544_8c0c_4e1b_bbff_ff6687d93ef3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_25ecae8a_7bd3_44e2_9a27_aa77b40df710() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2a9c4518_0e21_4b16_9179_f118099bfb3b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_72e50f64_8c1b_4b41_857f_e2b9d7699861() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_052da31f_9e3f_4cc7_9a19_7c52c816f0e9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_cf113635_e111_4448_97ad_21e80afeeedc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b0f0fbd0_e441_4dc3_986b_e6c9cf07c8a1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5b7f40d5_be6b_48f0_aadc_5f62df23289a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0cef604b_034d_49fd_a779_61193fa02ff9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a23f9461_8700_45d4_a7e0_0f0c7682d5bc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e937a129_e82c_4805_a844_468a4b0fc8a5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e241ebd9_2353_48da_9e1e_13ebe8628cf6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e67f2f75_5f66_420e_947b_e8a3c19d1381() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ccad2047_30ba_42ae_84c7_472bf35affc4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_578be3b1_dbd4_4dcc_81f2_d782d12f5129() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f82dc819_f963_4df0_a0a4_f51fe0be53f8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d4127631_d5d4_4c05_bd8c_72279368e52e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_7670039a_00a6_4cb4_8dc7_e4ff4773f331() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b56db953_f1fa_4adf_9b10_868933e9a480() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_1de89ef1_3395_4543_a816_b67f4991ee7f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9afe5787_f0c8_46d3_b0cd_fa9333bf93c5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_54877a6c_6fb9_40ed_8956_ba0c207309a0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f4c397ec_8b67_4b95_acbb_e52e33c4cfe5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_465476a8_fb08_4463_9908_f0139dd8c26b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1bc127db_3920_4c08_a1f9_32046f852fb0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_10f1908a_77e8_4b2f_9718_cbf3458ec0e5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_be6b3e6b_3d32_4554_8eb9_fa607eed73c4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c7217d39_221f_4402_9db4_9153a3222235() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1009206b_642f_4f30_a159_77a1314aa268() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c7328179_33ed_400d_b282_f9347ee1e988() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_991299a2_cc94_4eeb_9b9f_54aaaa34c0bc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d9a6372d_d18d_4d96_9f57_be512091c8b4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_578be3b1_dbd4_4dcc_81f2_d782d12f5129() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b10ab2f8_edb7_46ce_9b26_e32b714fae69() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ba0953e5_a7e9_4e7c_867c_bcffb962420c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0c9fd382_3758_419a_9382_5ac2c242e0a1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0e7bdcd7_38a5_42b9_9802_8004651a635d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_268b4641_acda_4667_ba42_715a731ae47f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0c9836d9_0cf0_4903_9fb6_61e85b4ac3d8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b33866b6_16cb_47f2_b1ef_d02543ca4a18() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5d4e1894_f810_45e9_844c_6a7f6e268da0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a8868f01_d50e_412a_91f6_155f10a0b930() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0ae09dd6_6407_4e7c_8c68_650bce62715f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_dc593ab3_6b1b_4d15_be05_c8895d4237c5() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_2600434e_10c0_4be9_a534_51f0926eaa7f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c736da94_f71c_47b1_92ad_cc70b8ea41e8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_3e8133d7_3a64_4704_982c_b98f1eb22a0b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4dc7ebbb_0b4e_4941_8377_c8e41d687bc6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9af328aa_7be1_4e40_a8e3_36a9f0823f44() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_b8f8ab51_689f_4416_8886_cc2c31ca3d86() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_801aeb9d_3731_433c_978d_46b8e8d9adf6() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a5f59f03_56c0_4e82_a98f_f1a5f888f5d4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_eeb7511a_7734_441e_bc88_b240d628d2c0() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f52503e1_2aa2_4ecb_aa11_88c7081b09fd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5fb81caf_3bfd_4358_8a91_9e4a9af5794c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_30904752_01eb_4f7e_a8a9_906be0240e12() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_131c1cf8_d95e_4927_a597_f99f535eac8c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_8dbd06c4_5618_4f19_b095_428b2c3bd5aa() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_fbc411a9_0df4_40ef_b7cb_20e1f2dbdb9e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e1ebe7ce_3778_4f55_b652_61abbbc7c27e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9a45d477_689c_4fc6_88e9_11e159e423bd() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7bbdb6a5_aeac_4a74_b057_0547238b39f7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2fdef2f2_00c0_47e1_a503_440984070ceb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_02b165cd_bdec_48f0_ab68_fe944d320cfb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_936e8be7_2f1b_4f15_9110_1a4075cca24f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_ce617b9f_6628_4d86_bf7a_6ed5ddd8c01a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a4b57e2d_e490_4473_8358_e1293e688c8e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5e0cf089_52da_4d14_aea4_41f17d9d2017() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e1f56985_de3b_4416_aedb_d1880378ca43() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_7bb91d0a_b67b_4e7d_b36b_5814ea845399() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c4c2a250_2b9d_44a7_9653_f4f30053b70c() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_399bd463_8291_4073_a8b0_046ecf219524() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d3f691d2_9242_47f4_9824_39c92ec10bb1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9dca6c65_a37a_4a05_96fe_99d2d86884cb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d90d7967_9ee4_4f6b_b7aa_4c22bd37a04d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_863b4095_4dd8_4596_a9fc_5b46cf24d8c2() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3a8eef6d_994d_4c00_a202_b594fc946296() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_6da9fb6f_a261_4cb7_8c10_b3ada2e32c4d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7f5aba91_8a0e_421d_8045_3d220914511f() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b10ab2f8_edb7_46ce_9b26_e32b714fae69() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cdde6155_4a86_48b0_b782_d95d33bce85d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fbad9a74_fa7a_4d8b_9365_183e69a1a07a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_eb8ac582_85a7_4308_9700_a9e9208057dd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d952fd5a_e12e_40d1_ac92_2ed9ec070f1b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_23df1872_4a5a_4c5c_bf32_364f111e416e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_543b7e1c_ea95_402e_b6cb_b91e0a1ae648() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1972221c_c15e_481a_8b52_d099edf6588e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9b2f83bb_e52b_4c92_9e5b_09153e33dd46() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8a2307e0_3746_44fe_8fc0_193521cc1996() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_86b24a76_8761_4734_9b26_9691a561116e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4e3aa832_bc37_4fdc_813f_6361a2fe1090() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b66443ea_1248_408f_8cfc_d1bc9058a3f1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9058d4d6_e260_4a1f_9172_1607b73d88a2() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_220b13f9_4aa9_4dfb_80f4_974d6f57a391() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9d673c1d_31e8_4539_9239_793947435095() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1aeaac39_2c4e_445a_8913_2274e5c66406() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_83cce642_a771_412c_8aa9_c352b64df98b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e201995d_066e_4df2_84f5_2d6b144e4d41() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_dd1beaa9_3569_48de_8dbc_9e11788bc7af() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_df7a6b26_5910_477a_815f_0c3d0bb02c33() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cd26aa3d_e5e4_4026_9af5_5e32940b767b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_60b16c7b_d07e_4667_8cd2_db3390e778ef() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d9dbe2e4_ca81_4569_bd4a_92fa038c3663() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a72c76c2_da72_46ca_bc3a_b5ce4286f6a2() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_db3a3b39_eaff_47dc_80e1_534af4b8d5cc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e491c9c9_9ad0_4e2a_9f19_13b0329f48c6() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_79f87bc9_fd62_4870_a2e8_c1115d82b2f4() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_36843800_b3b4_41f6_8a37_79291cb640b8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_308499e7_8167_433b_ad73_a41067ef855c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_37215873_2e50_4ec7_aafd_e3ff5e76654f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4e46a5c5_bf70_4466_9efa_c5cc21151a97() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_bc29ea3b_d1db_473e_8464_5ddd288381ac() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4a55d6af_5940_4473_9a06_94172f0759a5() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_228a4520_19ec_4c85_9df5_bd5e32ee486c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3a5b5db9_b265_46b0_b796_cc93c6830bab() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_f1afd8b8_78bc_4ce3_8950_129c17a1a4ef() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5ddc6dfe_631a_4ffb_aac3_f24cbfe390e0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5ea0fdfd_1f39_467a_b260_b9c70b389640() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0ed70661_76a2_4e1d_9505_6e3d13b0dea7() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d7cb4540_344a_46b7_b117_1cad47941b46() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_543b7e1c_ea95_402e_b6cb_b91e0a1ae648() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e0208a63_4291_42eb_84f7_cb033c88bfd6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_0612d0f7_283e_4bca_9ea7_cba9081daa9a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_ae6b5d2c_92d9_44e5_9497_63edb8f01e14() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a049792a_d33a_40a1_b116_9b41e6f2d712() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a5bd5594_d84e_442f_8b82_0ec6dce44159() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_21c82e66_82cd_4f3a_9df2_983f4c1cb7d7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7ce67c3f_1039_4423_b108_0621b249980d() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4cc9eeb0_6f10_4e55_8bc8_41f07f26d85d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e1baebfe_92a7_47d5_9bf9_c8dfdc4c31e9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e7aa25a2_6a59_4f27_9fe3_4a72266acb16() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_40b9e460_6fc9_4790_a1ff_a1cb77694ccc() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_94189314_b2e6_4af7_91d0_509bfe8c943a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f5bb52c3_cafc_4d2d_bc92_e105eb78df4c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_048a91e0_1b71_42a4_bf05_0d9d62cf285e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_4390548e_f59a_4004_a579_dded9a951965() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7cbe7968_7714_49c3_8768_9639d15e7ed9() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1560a4f0_3617_4ced_9e05_44d5e2c1f415() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_486409ab_421c_4c92_81a9_c578fb45eb67() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c1940a3c_1f5b_473f_9aa1_3a4601ee9bf6() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2953dd77_7b2e_4008_aecf_ac575af6bbb8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_430b1adc_5d57_4dd7_974e_dbb9b817036a() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_5b8e6b95_b4b7_474e_bf96_fbe25a8b540f() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_4bc9d05d_0533_4bee_9df9_0380c3495f45() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_8604201c_7f37_4e6e_8bc8_39fe54d0171e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_5d6981a2_7c38_414e_bdb2_21e206b48a9a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_fe956c1a_c231_44d4_a347_8427e2705235() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_88a57a04_5b57_4d2c_af25_8b2fde5b4154() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_540489f8_157f_4ff6_98ee_3d2e37885aca() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_86b24a76_8761_4734_9b26_9691a561116e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_60360431_c618_41bb_b8ed_57db46664f77() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8fd61948_16f9_4f6d_9b8b_cc55f6ff9fdd() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_1e5469ef_6d3e_4be3_af0f_e4877741fe4e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0b141865_7b6c_4e68_923a_ff77ca480170() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a5073730_0ffd_4896_bf95_e82f7940a947() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cd38a4de_4c9d_43ef_8aab_2f11a0814216() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0d860402_e50f_4c5c_b4fd_9fcf8259e233() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9e63c08c_4c64_4db8_b4c3_8fd4d52f82f7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_14fe810f_dae4_4146_941e_af653d766940() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3c8dfbde_4a96_40be_9521_2de53e7ed7b3() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a46a1a89_c9cd_4321_ae09_c029715e8c01() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b67ba75c_c10e_4eb9_b904_118259d38c0d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_561fb849_1a44_4657_99b5_1281e802786f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d8701226_09f5_4f7f_b68e_27fbd90bfeeb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9cb0a545_a47a_428d_abc2_ad72ebe7d5e0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5d1ccfc9_0253_4589_b863_649344697b8e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0d2908a8_7c31_417e_a173_6a0278d3f160() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5def7306_3f19_406f_a3f3_18b0a1e293a3() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2798658a_c945_4197_9cd6_8b030259c0e8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_cf113635_e111_4448_97ad_21e80afeeedc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9dca6c65_a37a_4a05_96fe_99d2d86884cb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c66b4a8d_5a02_4832_a406_eaa941373101() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_99fbc0f6_dd4b_4846_84d3_ecbe35b6c25b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_3d19e69a_8abc_48c0_af48_96733d4d70c9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_7998b947_e18a_4c59_8823_a2426671b65d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4032d204_b2ea_45ae_9673_efe38fabb02d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_bf0810f7_716d_4b98_bcfb_ca102c8bd4dc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_cd82209e_cdca_45fd_b75d_93f943cb2653() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0a6b0e47_4b43_481c_b377_3a31aff6251d() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f112aef1_dc9c_4456_b327_737bb95edee1() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2bab2456_3de6_4276_8781_ae64cf7c7e60() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_61de6bf2_c6f5_46f2_aff4_06e33bf77987() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_6ec65ad3_f94f_457b_80b2_869b8ab32206() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_9afc225e_ac41_4553_838f_7ed3228a67d1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_783ec2ac_90f7_4c17_a529_4be9f42c467a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_da9ec55d_f738_4356_8591_198b5949648a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_075a613e_2ed9_4bae_8f61_6a50756d6960() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_c45958a6_db8b_43ac_a258_1a29ade1574e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_eeae91bd_c19f_4b17_8a16_e7ca9b75e722() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_9d673c1d_31e8_4539_9239_793947435095() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_b3cf045b_c5f3_4127_868e_7bc02f4ed126() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_97b1ccf0_522d_44c2_b782_4a0a0e4c4774() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_84bce40f_154e_46af_8421_1155c03603d8() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a7ed0c27_30dc_4ebb_9ab5_c9f103d48970() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c4c2a250_2b9d_44a7_9653_f4f30053b70c() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_93ed1ef1_5495_4b7c_8f6a_172e05c49de5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_f112aef1_dc9c_4456_b327_737bb95edee1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d59f251d_ed29_445d_8771_2461de99252a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_a818a0b9_6d1a_4afa_a717_d3903bf02733() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_98e16b23_a8f3_42f3_95f9_5f73967e999e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f88cd41f_fcac_4124_b013_48c7c87da2a5() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_500c6299_9139_481b_af9c_ecfe73e71ad9() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b030a2ab_9572_4add_bfc8_c09744dacc6c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_eeabb3c2_4499_4d80_817c_9539ed82826a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_71d8858a_fd9e_4532_9a78_80934e84899b() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_30b22256_a5d3_4624_a321_26ef814a74dc() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_17b4ace1_6db3_427f_93e8_44baa0fc6a5c() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a932eb98_343a_4dd1_ab43_92a1a74ed682() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_84c0e941_af25_4efe_9508_c4254dd85e19() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b89261de_4487_4e68_9c78_968771f32ab2() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_61f47e68_cf6a_4bf3_8b8f_1f539ad3e2d9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9c6a223c_dfe7_48f2_803e_c1355b3e3bf4() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_32001da2_fa6d_4b72_9bbe_4e41121783e0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_48fd054a_1042_43db_89e1_ee834f3d38ca() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d3f691d2_9242_47f4_9824_39c92ec10bb1() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_ec74eb8d_5123_439f_bbd1_0adde4dd9a65() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_417e464c_bacb_4264_9f3a_854515982eec() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e87abab8_2be4_415e_9cb9_db904fae9bb7() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_77404844_daf3_4f59_a91c_1c0bce6a28b1() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d116aba1_8b45_4705_a92a_77c1ebaafa9e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_72dae36a_acf4_4bda_89cd_8aeb49c258f8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_793f977e_b668_44cd_973f_562f4a042621() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_f02665a5_8912_46c3_8a23_a672fb3220ed() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_9cb0a545_a47a_428d_abc2_ad72ebe7d5e0() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_76911bab_8798_4ddc_994f_ea8deda8646f() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_b20f66b6_9066_4e32_8e68_eefb4b3f1f69() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_e17dbebb_1791_4885_8896_1f5d6e0d1a67() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7dddb567_c89c_4319_b5bd_f99f6eecda27() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7dd4cc44_2289_486f_8e31_ced51eb9e0bb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7f765306_d737_4e9f_a5ab_2619200e33fb() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_3ed30ef2_373e_4216_9d45_3576af213e43() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_14077084_cda6_41a6_9fb6_d66ee704ac7e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0884f888_ca7c_450a_a8ce_c5bac91d165b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_13c3e04a_1298_45c6_8fde_6883fa6622be() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_84bce40f_154e_46af_8421_1155c03603d8() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0745a151_6f2b_4653_8440_1de57398a6e0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d4070974_130f_4d64_829e_a91ae6e6066e() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_06483660_08a1_4424_bebf_ceb10ccdede8() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e3bd0522_ef09_4548_9517_512020ecdb44() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_659276f6_14c7_4cff_af55_166f4ca032c1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_50bffa08_ae56_4519_97be_b7cb5fa121ec() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_6da9fb6f_a261_4cb7_8c10_b3ada2e32c4d() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c8e1bc08_c7b7_4ae5_b447_e70bc44e3881() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_30904752_01eb_4f7e_a8a9_906be0240e12() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_d073a9c7_0b51_435f_9df6_02647173be41() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_eb2a7b53_4c81_4401_80bd_1eecddfec722() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_eeb7511a_7734_441e_bc88_b240d628d2c0() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_2f76c11d_e22f_4c26_bda4_b3a994aa1afd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_0e5a3dd9_5214_4566_9115_45dc63c83a80() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_443c3921_b8ff_46f2_8355_ef3b1b3edc69() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_486409ab_421c_4c92_81a9_c578fb45eb67() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_49dc384e_c742_4412_89db_8b046a50387c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_c5142fd8_9545_466d_8edc_a1389aacfb05() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_38c10745_636e_4926_9ba8_891b33cc9da0() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_72e50f64_8c1b_4b41_857f_e2b9d7699861() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8e91e693_a03d_4d79_b546_928653c6e193() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_5fb81caf_3bfd_4358_8a91_9e4a9af5794c() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_59a36f29_8547_4789_8ad9_cab24fc4995a() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e3e44349_db87_4246_8b66_2ba4f36b7e4e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_3843ddb9_c7b1_4520_bb99_7d36cd23e655() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cd38baec_d7a6_4adf_8e44_7f8d81d93f5d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_cf1934f4_9e19_43bd_8a33_75e59e8de2bd() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_a3063239_2056_4fa4_b128_d9c4078c0442() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c29037ca_7aa9_48e5_9f3d_be0569e4213e() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a5073730_0ffd_4896_bf95_e82f7940a947() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_89c27063_005f_474a_93ca_590fb1eda14e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_187d59fc_a4ae_430f_a865_7d41c698377a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7f5d9487_f4a0_424c_b9b9_0d495167979f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_793f977e_b668_44cd_973f_562f4a042621() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_2a9e0e00_f349_4cc8_959e_0d090d07dde6() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_72dae0e0_23d8_47be_9921_fa0ad0c30273() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d966e5b6_2ada_456d_aa38_a17bfa8a24b9() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_e5faaff4_dc8c_4401_829a_9f758df3b37b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_92c96e6f_a1c4_4a33_aceb_2b95fe90a4fc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_24880b13_45ff_49c5_a396_6dcf337884d8() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_6cde2bdf_44ad_4e5c_9f99_4d2d7420cf7b() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a7f65431_753b_4118_8a64_1cfc8159c507() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_853e3d3f_2011_4e85_93d0_5552bc5416da() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_fd120cea_b059_40b9_8094_fc018b78a478() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_1111bc11_be9c_4b1d_8efc_61436b917de9() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_932d891d_69b4_4009_aa53_6e7cd4ea60c1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_431fe929_44e4_45f7_98d7_586a09da5298() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_800e5f67_1974_421d_82f2_3447174b5f76() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_920faaf2_6102_4085_a491_b34e5d3a9cb1() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_be421587_9d71_4449_a1e8_6b24ea34b0ea() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_9f6a608a_0c5b_4fde_99fc_e09696f1c261() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_4abd5035_e8f1_4525_ada7_9613869563bb() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_5b8e6b95_b4b7_474e_bf96_fbe25a8b540f() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_f53b05a2_1e9a_40b3_bfa1_3dec6952865d() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_edfe38a7_4707_4138_af8f_c5838759b8a5() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d8701226_09f5_4f7f_b68e_27fbd90bfeeb() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d3793231_135d_4526_9db6_a8d16a348f6a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c9300e6b_2370_4a76_917a_d6d7a8d31224() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_0cf71e20_8ecf_4631_ac5e_ca124816f639() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_048a91e0_1b71_42a4_bf05_0d9d62cf285e() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_51d0f445_d39e_43d5_aad6_46b8667bf577() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_554be604_44bd_4918_8b78_dac423c1084a() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_1c118a61_53b4_4824_aa35_c89cbf6da52a() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_d0cbcb49_d89e_46bb_b0e0_71013c9a71cd() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0ca0dac6_80da_492b_b40c_c4f49ea4a204() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_c6b0861e_9dea_4abd_b62f_c6a6596094ec() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_c8d9cbd0_b284_4271_996b_dda1bbf5dcd7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a706a9f7_5836_4421_9f89_8880da385d5e() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_7cbd2c6f_750f_42e1_82b7_e8cb3653223b() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_8d51fc33_6269_4a81_b67b_c11502b42221() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_e2a24609_0f8f_4304_9aff_94b6caa89edc() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_58ed53ac_5c0d_4274_b9a4_af1a17074c99() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_d2714e1c_55a9_44ef_9ac9_b5be428ac300() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_39e25a35_a17d_43b9_b390_b0f36fc97b15() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_34a96025_11de_4867_9ec7_711a3521cc72() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+    @Test
+    public void test_solve_Problem_4_029f616f_2082_4b53_87f7_1d9049295e00() {
+    String result = solve((963l));
+    assertEquals("10010", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_0c66e230_1315_41f8_a83d_2de0e1b68550() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_1_e6150682_1162_43f7_b75c_c7276af2fc43() {
+    String result = solve((150l));
+    assertEquals("110", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_a4fde44d_a539_4bb0_bb93_f0a922129783() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_d9dbe2e4_ca81_4569_bd4a_92fa038c3663() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_3_62eaadd9_b2c4_420e_ab0b_7fd17d085ddc() {
+    String result = solve((333l));
+    assertEquals("1001", result);
+}
+
+    @Test
+    public void test_solve_Problem_0_a52b5e16_e52d_4b36_95a1_1b3b3d624ac7() {
+    String result = solve((1000l));
+    assertEquals("1", result);
+}
+
+}

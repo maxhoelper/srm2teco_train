@@ -1,0 +1,25590 @@
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class HumanEval_121_solutionTest {
+
+    @Test
+    public void test_solution_Problem_5_5449533e_ab3b_455f_a6d0_337611f2e08c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5fc0e2f4_d7b3_49f2_82da_c01bca70c91f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_41cc5027_32a2_430c_ad0b_2a3c368991a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8ba8d031_3e38_47e6_bd30_b2ce6650dcc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b6d01139_60c2_47d0_8bd2_1bb0a02bfa19() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d8c9a824_5488_4e5b_b356_fdd8b96c4fe4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d55eea1e_3f6a_4016_973a_65c6d5cd8ba9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bacc4f52_e86c_4f82_984b_1557ea99355d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a80dc3a8_f00a_48ac_8aeb_5d1bb9d019b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b5120942_451f_4df2_8b17_14830bc921cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2094ecc9_9258_4d10_9705_0f3820bdead1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cd868a28_4c2a_4803_8e04_e9463a1bb477() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9fe8637c_f817_44c4_aed8_c74f36a375f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f7b1d06d_37db_405c_9e2c_d5f00354d833() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8b7f675f_cac9_41e6_897f_31736df178f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_384145c1_e1b3_4f3d_8d6d_c45eb4610af6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_eb6e8584_9dc4_4337_9ac7_62da15c68aa4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4c03627f_8631_4190_9a2a_de12d3dffe74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d610dcf4_45f5_4abb_b518_168b2b76fa08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7360784b_bbef_4e86_b52c_68d16ecb239f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_733db2e9_3d9e_4816_8c8e_59a5a5d8ddad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_38fc052f_e08a_419b_aaca_2fc5c2050f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_49dda6f5_b80c_405c_a608_ffe25a815b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_07b83101_8f30_4195_9dd5_977a3767ac72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b9376ba8_ad56_4bdf_8089_96b3d746447d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e4326926_010b_4fb7_9813_d4a2336da9f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cef660cd_4388_43f2_91cd_94c23a2c3831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5987bfe1_bc25_4913_8fc7_ddfe79c9aee7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_91fad0d6_4ecf_499e_8d29_b9578a66d5a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_95c56fd6_ef5b_4b70_aec2_5194a1bc324e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_35d6aad5_e976_4ce7_9258_6a57286f7ed3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e3a10045_97e5_49ff_a6c3_1605fb7f3c43() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7bdb866e_70e9_4c05_886a_8228445416e5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_91f334bf_582b_4189_b073_45a67409c663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_be236045_fdb1_4db6_bde6_d4f2e5133400() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9dbf02ae_f481_45a7_a72f_2b21c859cf69() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_20205091_ea2a_447c_ba59_0a71a4ec4825() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_00b7633c_fe41_47c8_9f55_88056b0f72e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_47582dd3_ada5_4870_b3b8_7e586c1fbff5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3f751c91_c552_45fa_a989_db1fa3e9a463() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_784ba029_fa4c_44f5_bf50_a2ee6ab8a4d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d5348ae9_bc1b_44a1_a9c8_df4c2ad358cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_06c9099f_3e13_42c9_a1c5_207e029a26f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_233b2599_107d_464c_88c7_3b4728104103() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7360784b_bbef_4e86_b52c_68d16ecb239f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1fbfbb0f_0ddf_44a1_9642_80287d2ac0f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_fc9c68de_5572_4780_bccf_0b0534876b60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a1f5ac59_5d2b_42cd_aaf2_0b8eeb71cb68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ddbdbd1e_62b4_420f_860a_638d4ab2db29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1d518114_4e5a_4dd2_a500_bcd91eef27a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c12ab657_e3d6_476e_ad37_29a217b664ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8b7e2024_e370_4046_9a3d_56fbb4ec4a61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d3041944_c14a_4394_a340_f4edea6aab61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b184147d_4b43_48d5_85e7_ec433d5f5c22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d34558b5_87b4_4454_b037_fa077a57d149() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8f32a2d6_5ca1_4a3f_b4d9_6a9cc4589349() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f2cce68e_57ef_49d7_9e27_8d02155f063c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7c1fdb6a_6c39_4950_9a16_f3299d177bc3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_71a1c50e_dd80_41f0_8256_d9105b4170f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_852a20cc_9531_4bd6_9c62_04de4a936251() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1dafe03a_cb28_4306_9083_d7fff28acdfa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cfdfda29_f7cb_4f91_993e_b7b41d289473() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8c3a8c0c_7602_4849_94b3_faaae8f582b4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_147377f2_279e_41f8_bb61_c0821e1334f9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8cb2b342_c13e_4430_a86f_661b593def3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8aa5d9f7_d135_43a0_ae8c_26e0367320a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b9376ba8_ad56_4bdf_8089_96b3d746447d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_56cdb17b_754f_42ce_88f7_d2a028ae5e39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7c1fdb6a_6c39_4950_9a16_f3299d177bc3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b956fea4_cbe4_46b8_88a8_596bbb94603d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_faa821c4_99c9_4489_8177_e2f7799eaf82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0cc7a0ca_68bc_4dd6_800e_106544f855c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a9793c49_2170_46bc_8913_ac5cf887abb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b6d01139_60c2_47d0_8bd2_1bb0a02bfa19() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e1956884_f3d0_4089_b278_f41ac3eebd23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2e976c0c_cec3_4b63_858a_6f0fb60e3f12() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fd62fb40_693e_4a52_8439_2f7461c090d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ce5589cf_cfe5_4f5e_8f08_a4193c300482() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cc47d1a7_0306_4b23_94a5_c2f30b4457ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b91ed210_50c9_49aa_8c84_ca0e25ebf86f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b6a6b621_28a3_46ea_87ab_05e2beba5acb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_729dee6d_59d8_46e7_8439_b29798b4cc51() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0cd4ce3d_12e8_4888_85fa_ec72dd498b1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d135a19d_b41c_4f0c_ab34_79cf59365beb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_de0c7334_bfcb_4ba6_b75f_f906484c66e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_04656934_ffea_46f4_82bd_713cf0cc77bf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8b7f675f_cac9_41e6_897f_31736df178f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6ad40f57_ebf7_4c21_a6e3_ee5b130c124c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8e25fc4b_0d10_47eb_9f78_6b2a179991d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9df647c2_4ace_418b_bb0e_96f2c5e2575c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bd12b9e4_5662_40ae_adcc_cd9bba83a0c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_35e203e0_0a5d_48a1_a7cb_d8034e1f7d07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_135abe43_29f6_476a_ad30_3d1fbb4d5495() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_90090a90_41ce_4f16_bf1b_e2250e3fd6ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e7c5899e_8d84_4f5a_8f44_e361b2e80bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_61971746_2171_4c98_b6c8_147b3cb18e8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_871d2398_e0bc_432c_8574_c5fe3b71f64a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d34558b5_87b4_4454_b037_fa077a57d149() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5cc085ef_308a_442c_8e0e_fa049f8fe203() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6e74b257_a68c_426c_ab39_bdccf273bc2f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_352e9475_b5fa_4a3b_8883_6bd8ba0d8b71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7f811352_09b2_4f2f_a02b_038f9cfad8b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f400232c_318b_45a2_8a24_a6f0bd66e053() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0079db44_07cb_4037_94bd_b9d7455bd2ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a4c82a43_0819_4c38_8015_784f33e7687c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_649fc9e7_3544_4cae_b532_e072ec59f14a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bf5067c6_4e39_4803_aedd_8968877b9843() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_729dee6d_59d8_46e7_8439_b29798b4cc51() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_43d020a7_4a5a_45ab_afe0_bbb22f472a36() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1131a41b_d118_4483_a309_6f297d44b401() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_49dda6f5_b80c_405c_a608_ffe25a815b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2240021b_7a88_448d_9d66_ea312875174c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_199dc9bb_cbba_47b2_adc1_fdece88eea1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6b91dc0a_a715_46ad_a1b7_eee826255daa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_15e2733e_fcac_4bd9_a790_305998592b5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bc5bba20_9ec9_4cb5_a7cb_ac9c6b234f72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_efc9221b_9a59_4fb2_a1cc_392dffcbf985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4981b08f_c147_4432_ae78_4968ca05c813() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6feffe38_773a_4abe_9663_24b07f0a9c7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_871d2398_e0bc_432c_8574_c5fe3b71f64a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1bfebde5_dc19_45bd_ac0d_52db49c0983f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_90090a90_41ce_4f16_bf1b_e2250e3fd6ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_38cd8e03_6667_4303_af2c_5646fc1ff07e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7177cc50_c33a_46de_b2b6_e8899c954f10() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fafdda9e_2135_4864_bbc3_658367d1e842() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8c36546e_eae2_4abb_8281_56bedd870274() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1198fcec_5ab6_46fd_9187_c00cbb5b5e63() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1feb5d43_9c01_4f32_aa89_02eed126dec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bb89276e_4f30_472b_bd5b_2952d0d32e9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2b5cdca5_8b02_41f1_80d6_1f1be69507ae() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b2f28b8a_f14b_4939_8246_94d7fc917578() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_13f30eaa_0792_4ca1_91dd_073ff421cdab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c0cdefd9_b247_4191_a5ef_86539f8da2f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f6221cbb_5ade_442e_bdfb_b33eac2912a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_144196ac_f6da_4439_a1a6_f8cf6eac926e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_393169b5_e2cf_441e_8fc0_e83ab22db083() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_728c62da_7a12_43fd_ba2e_4934cc3a55b3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ece4c312_e317_421a_9228_6c96cad48ea7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6d2daa98_da35_4e29_bcb6_fb1881a13efa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2a28d249_c23c_418c_9d21_40e951dda629() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7d3231d9_57a2_4d38_ade0_95bb2865e326() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_81b3a83f_4d2d_4b96_ba03_db24992f5076() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ef38fc27_2999_4c4f_b0ca_86635c001580() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7fbe0bb4_4457_4efc_bd9b_6a8585bf9fa9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_19fa8e85_d9dc_48d2_afa7_215df99e83e9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_85cb9e63_a060_4fd3_84a1_a95956ca1972() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1ef8e190_e7e9_4a27_9bc8_11554f7a3fa7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5800031c_e0af_4051_a067_00ffd62c448e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_06c9099f_3e13_42c9_a1c5_207e029a26f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3376c4ad_b3a5_47d5_bef3_7c1277636cda() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3f751c91_c552_45fa_a989_db1fa3e9a463() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_86b853a2_d4a7_4b7b_81a4_cac8e6e2bc5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b0989fa3_60c9_4940_b45c_f16d9b3018eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_023673c3_f730_4964_b98b_32b379342a48() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1b83514d_5d62_4247_aaf3_fca12d502335() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_db41dc91_d30a_45b7_96bd_6d1e5b01f0f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_73bfbbd2_784f_47de_8cc4_f79760385689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6deb9c1d_5d02_4813_b8ad_422cdf142888() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_377fde6c_2bae_44d3_b7db_7d5c61344601() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d68ad771_5a5c_4fd3_b753_f1966591bf55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_06e4bd33_4a1c_4192_bb9a_19c8348fd323() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2e9ddd36_7907_46c7_b7cf_4a0c1999dbee() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_13f30eaa_0792_4ca1_91dd_073ff421cdab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_98c55a1c_44fe_4fa0_9b01_a410655861c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f322b30e_a6a9_466e_ab4d_154e420180a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2aefe43b_d179_404e_89b4_057d417650d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_64016e12_ad35_4222_8e63_078f5efde32f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f81952a9_082b_429a_96a3_09f9a9ae26c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ef38fc27_2999_4c4f_b0ca_86635c001580() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7a62ab24_7557_4a9a_b38d_42cb53cf52ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d5348ae9_bc1b_44a1_a9c8_df4c2ad358cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_981babfd_33a6_481b_80cb_effc6f8cdcdb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4b08d22d_acfe_4e51_9e45_6af2ecad41f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f4bec27c_cf40_4be9_b86e_b88888b11c6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a4c93ee4_8ff5_4ee1_a954_46a9e140925e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1251bae7_9396_4689_a8b7_b683cd00ca78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1c70a157_b194_4a3c_9ec0_f6726dcda3b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_567c1423_afe4_4701_a987_d396d0d04b65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e7cd3f67_075d_410c_882a_8d45f6b10c65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_55e70072_721d_41b8_9b43_6f6f122f5b39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cab7ef81_342f_4ae4_b6f3_eac7fa5b749b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_956a7ca0_5844_4646_b0c1_f04159cd0b72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a0aec74b_1721_4476_8d48_2fcf030393ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_889cda97_0934_4e5d_aa92_a11e6f127b45() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a9b4ea57_06ef_46bd_8682_0632b41e3214() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_95d7ef05_97df_4961_ad6a_cd5321234124() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_53ad3600_1be1_4b50_b5d1_5e12e1f4239b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_73bfbbd2_784f_47de_8cc4_f79760385689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_784ba029_fa4c_44f5_bf50_a2ee6ab8a4d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f9771953_7b9f_44a6_ba88_3a346575ccb7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6ad40f57_ebf7_4c21_a6e3_ee5b130c124c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6d6fa579_8817_4d43_98e7_b724de410be6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8d1229cd_bfbc_4a5d_8a4d_b0bf8fa5cdfd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_529f3d17_7478_4f74_95e4_58cf8c21c9d2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f26d39db_eb7d_4e00_a78a_ce02d2fb4244() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f3cb170b_04a7_4888_86d9_94d841a9572c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fc16107a_0a2c_4102_8d65_811e032b3c3c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_484cf906_8fcb_4f56_a544_13e3c70ccf51() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_888c1373_460a_4d3d_aae7_9caf29b8d7f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d135a19d_b41c_4f0c_ab34_79cf59365beb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_334e9a1a_6bd6_41c6_88cf_bfedc531c7af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8c92d0ac_f414_4a54_951d_d3b4a8545d5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c137afe4_d103_4de6_b3ff_be354c5f11dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5b2a0071_f578_4132_8356_167b34119664() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f82ff764_fa77_4262_b56d_51296059a3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2b64dbea_11d1_43c8_9f96_87fae98f98f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cd868a28_4c2a_4803_8e04_e9463a1bb477() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d740b09b_3558_4c1f_8bf3_2194bc8a8de2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_19fa8e85_d9dc_48d2_afa7_215df99e83e9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e4d7f8b2_ee8c_4987_a1d2_10ebf442252b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8862f490_2bae_423a_97f3_e9e0f89fcf86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5987bfe1_bc25_4913_8fc7_ddfe79c9aee7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5873836d_175a_4641_892d_5be7aefd8b11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_34444986_4eaa_4bd2_b4d5_f029458eb969() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9e4a8f4b_05b8_48d9_a997_b922d2525924() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f27e05ef_ac05_4b4f_bc51_49ae6852e3cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_91b04cc8_0847_40f9_843b_16179d4d3cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a3ba15c8_82f0_4415_a104_b87cbfbc5354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f1bda70c_6114_402d_ac23_23917a7d50f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5a1a7310_e14e_4711_ab67_9b4ac8e86036() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2f82ef57_b16e_42e4_85c8_301152a61901() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_802f758f_5a60_4091_8ec0_dbc7270c3644() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1ea4189c_f644_4ce5_b5a9_c134026c2441() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_871d2398_e0bc_432c_8574_c5fe3b71f64a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3d456534_2e56_4069_9a85_ede872a43f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_38f6cc21_2339_4ba9_a88a_e645ebc7c345() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_696f0df2_17ab_4dc4_a4e8_f99b0cd4bc26() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_43d020a7_4a5a_45ab_afe0_bbb22f472a36() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eac4e926_4711_457e_8d65_6ca98f48f77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_131451d4_fcd2_4f33_80fa_28d8330aadfe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2094ecc9_9258_4d10_9705_0f3820bdead1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f86e4801_14f4_4d02_b82a_03aa2a17c624() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d2e8d4d6_2eac_46c2_aa65_8619902d30f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_352e9475_b5fa_4a3b_8883_6bd8ba0d8b71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_098a6d7d_e02b_465a_8dc3_1b8fb27b65ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ac5eb779_00bd_4066_8031_f10d870e69a6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_40a22024_bf6e_4e92_a99b_382e025a987f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a7dc7f7a_9c61_4201_a9df_526d85771fe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0894e4b0_c701_49b8_8ab0_2cb14bc28c9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3772a582_9064_4e48_bdac_2f6bed422044() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8ba8d031_3e38_47e6_bd30_b2ce6650dcc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b43833a6_8576_4d24_9358_728ca31b3c60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5b71c020_45d3_4392_aab9_7d25ae2aae65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_62e36c79_3c1c_49de_9e85_965c1296eeac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_486e539f_26ff_4a30_9f37_f00d7f1d064a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4d65b1f4_38a8_4005_afc0_2bd5f8bb9662() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2d3db99d_1b46_42d7_b66e_8335cfaf7ec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_50fc240f_af80_4189_8cb6_84fd650cb9b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_13bf467d_c9fd_4202_9fd5_f5eacebbdaa0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f7486116_e56c_42d9_adfc_659982989630() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_dbe5417e_a9d4_4e33_b13e_014e032f2419() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_135abe43_29f6_476a_ad30_3d1fbb4d5495() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4b08d22d_acfe_4e51_9e45_6af2ecad41f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_144196ac_f6da_4439_a1a6_f8cf6eac926e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2fc99be9_f034_4662_91d4_8da347ac270a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e57ecbcd_8d22_4ed9_828c_63a4bbd38be1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eb6050ca_2572_450f_aba1_fafd27077288() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5c37a65a_2876_45fc_935f_d37c58600f94() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5555d585_9c5f_4d7a_9724_59353e58850f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c9d172f2_9069_4e4e_9fda_7782107d6758() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2a39b3fe_bae7_430e_bf8c_434cb8dfe3c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6c009e11_87cf_489e_aa48_4187abfa271a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0a5aec91_975e_4aef_8f0c_98fcd3d8b5f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_79fef72a_adfe_43e8_a895_9673a16798da() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5d49d1f2_2cbb_4e78_94ad_bbc1af084c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_391d85cc_6a22_4747_9d05_10a35fe3dc1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_20786f4e_be6c_475c_ad5a_8f89318c602c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4981b08f_c147_4432_ae78_4968ca05c813() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_04656934_ffea_46f4_82bd_713cf0cc77bf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2174e2d3_4c99_4ed7_ad42_b8588cff69f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_10736c77_102b_47f3_a0b7_4c7c41d3ad0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6af16bf3_f4ab_4498_825d_1cfb003553eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9e3df6f7_a5c6_4bc3_9a78_70d9656bd16f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_eefef6e0_0ad6_4611_99e1_257901700ebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5c37a65a_2876_45fc_935f_d37c58600f94() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ff7ed555_725d_4fe7_92d0_1630867a6399() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_10f20c6e_95f8_4fe6_b2b5_403f71fe1101() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_147377f2_279e_41f8_bb61_c0821e1334f9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_45feb8cd_d555_4f60_953c_0f5960b964a6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_98c55a1c_44fe_4fa0_9b01_a410655861c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_968cedd5_b10a_47a7_9885_84f3dad4865c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c9d172f2_9069_4e4e_9fda_7782107d6758() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_30a87c3f_e9fa_44d0_ba6e_75b347a4aba8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c009e9e5_ae84_4617_8db1_64a9298fde95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1ebc60b4_9b0c_4bac_bbf1_9c307800c173() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_75b19c5f_c881_4599_ad3b_a051bd2e3367() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b4410530_ddaa_4a6c_9467_4ca4fe9494e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ebf201f3_0737_462d_9486_f189c789f82b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bacc4f52_e86c_4f82_984b_1557ea99355d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c3b44182_7630_49ea_aec9_4d95476afb3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_20205091_ea2a_447c_ba59_0a71a4ec4825() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0589fd8d_7e71_4cc5_a4bc_a6ce6805e546() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2512f8e0_536e_4131_9ad4_76066d4ca776() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_db41dc91_d30a_45b7_96bd_6d1e5b01f0f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_273309b8_4431_4b1b_aa46_08c29839d212() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d5348ae9_bc1b_44a1_a9c8_df4c2ad358cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eb9957d9_54d5_4fb7_9ecd_e3de750a701d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9e4a8f4b_05b8_48d9_a997_b922d2525924() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_341d4b56_819d_475f_a678_c57cc0168cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_07659b4d_8dc7_4907_a5eb_28e9bf9a2535() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f268be3c_5171_40d0_b067_d443f9854d15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d135a19d_b41c_4f0c_ab34_79cf59365beb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_61f855db_36df_44a6_b4e3_8b5ca7a42b64() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_784ba029_fa4c_44f5_bf50_a2ee6ab8a4d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_31a93a30_898d_4464_8c5f_96fc10e8ec81() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_03cc8392_6c7e_4228_97f4_2de80141a4c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5ddb13c1_b0c3_4162_b821_1669584a7c72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_20205091_ea2a_447c_ba59_0a71a4ec4825() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_765a13db_72f6_4b5c_a71d_ff296201a807() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_88cc6153_4428_47eb_9759_68c2508f4afb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_38f6cc21_2339_4ba9_a88a_e645ebc7c345() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3c46017e_8d79_4ee4_91fb_ff301c7ebd97() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_da782b7d_76d7_41a0_a2af_8778af2d9517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7de14c72_68bd_4d2f_8a2e_2e6d7ca109e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_90090a90_41ce_4f16_bf1b_e2250e3fd6ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_00b7633c_fe41_47c8_9f55_88056b0f72e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f6b3a61e_8429_4a17_a7b3_33eb4e1b5e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6df7c3e6_0608_46ba_9666_18d0ea6458c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c7b26d06_fb84_4dc4_adfb_6c889bf354f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3c46017e_8d79_4ee4_91fb_ff301c7ebd97() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5c37a65a_2876_45fc_935f_d37c58600f94() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_95869828_e4d5_44f4_ab3f_85ed9705f745() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0e1062cd_4d72_43c3_a032_bdcbe4d8767e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_356e1322_35b7_43b0_8209_d083f0a7e6d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ebdb48a7_4384_41a6_9236_7b49689d00a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0c83a13e_9eb9_464b_bf1d_0bbeaa9cac7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1f12f3ac_0498_4577_9525_e70d2f1b90ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a395f910_9382_4dc3_a6f4_fed257abed20() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9613ab2d_4c40_484d_8d2b_e505373ec6f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4a04a7e9_8712_4597_8301_67fa108f3211() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0e9cfaf0_0ca4_4d52_a796_8240f4ef78bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_70c1d9a0_f874_4aec_befc_cc2fcf204117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_954b67ac_3041_49ce_8b78_e4230aab25ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_93b2d340_a97d_4eb2_a56d_3b3c4d6f9407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f712bbfa_e3fe_4419_b005_5b7e3648f1db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_47582dd3_ada5_4870_b3b8_7e586c1fbff5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c891294b_82af_41e4_9f23_cf834346baea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_871d2398_e0bc_432c_8574_c5fe3b71f64a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3d456534_2e56_4069_9a85_ede872a43f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_897f32e1_ecc8_40ff_9533_77612867dc00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_37c62208_ada5_44e4_b4ff_93f60d1a22fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4aadd8ee_4a0c_4954_917b_dffa04e57285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e3cd189c_33d5_4a24_9b00_6de7c1ef0c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1cc9b519_029a_489c_bca2_61395745bf14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4aadd8ee_4a0c_4954_917b_dffa04e57285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_484cf906_8fcb_4f56_a544_13e3c70ccf51() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0a548806_4591_4201_9546_64121bbd74e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_72d98adb_b859_4f50_8b02_daf69f81dc34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_db2676fb_c002_469f_af1b_3977da0a0e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3376c4ad_b3a5_47d5_bef3_7c1277636cda() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cfdfda29_f7cb_4f91_993e_b7b41d289473() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a4c82a43_0819_4c38_8015_784f33e7687c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ab398215_ee03_4bb0_8ffa_cfc192fa3586() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_858ea519_90d4_4feb_9eea_1b0979d543ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_88cc6153_4428_47eb_9759_68c2508f4afb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7e0be8d8_8a83_445e_83d5_bc21eb64751a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3aa32e6e_1ce0_44b7_b7ee_626ebdb82612() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_56f5137f_2813_4bd0_8e2d_3f5be91fee0c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a36c73eb_13c2_48de_aa4d_e13321c4ebc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f929fede_42c7_4229_999b_bd4624380e1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d6b3463e_9f51_431c_8168_c6d0f2957917() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_78c8ccea_a068_45f4_927a_619738e4f248() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d4c78b5a_5fd4_4419_853c_9eccb23d49d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_346fc4e4_4d4d_488a_91a6_4b54b1c9f80b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0e9cfaf0_0ca4_4d52_a796_8240f4ef78bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cb5a42cb_3986_475a_a071_5eebc2fb1dfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_72d98adb_b859_4f50_8b02_daf69f81dc34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3333f4b2_7489_4287_a684_cdde206549b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_68a744a4_2057_4be9_b96c_da90b142a10d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_981babfd_33a6_481b_80cb_effc6f8cdcdb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_dc3a8c48_c638_4c6f_b1be_a02939e465fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b2d75deb_f2eb_4d5e_b05b_ccbb28d40f2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bac04293_589e_4318_af23_271a33f3e1ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_644e37fe_fe91_4396_a3d0_3ee4b972f26f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b3539769_b3ea_4d61_9bdc_9c1d98d61bf0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_caa81f36_e878_4d6c_91f8_d8fe638cdd3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_343919a2_afc7_4d94_b40c_3ed45e98c9ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e55eabfe_9e38_4d3b_b8e2_1c15c20b98d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_13bf467d_c9fd_4202_9fd5_f5eacebbdaa0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_35b66550_9f23_460b_a7f3_5d796be5179c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_19fa8e85_d9dc_48d2_afa7_215df99e83e9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a9b4ea57_06ef_46bd_8682_0632b41e3214() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d038423e_5ef5_4131_a5ae_e3d6c7459485() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_327f8c0e_d0cc_4133_8225_64ba9d6675c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7b5ef3a4_7856_44bb_94b2_a3f9dc936ede() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e95dc24b_2e0a_43b5_b0f4_7022268b269d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4d65b1f4_38a8_4005_afc0_2bd5f8bb9662() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d369afcd_e5b3_4ff5_acd8_644b94afd281() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3ab0a454_f66a_4942_87d1_4a05ed0832d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e93976a4_2bfb_4285_9af6_71070152def9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f8f8a167_29c4_4b38_951a_8521a2edff00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_43975c52_6994_4bbe_b9ae_26b2fa7e1646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9b82bcf8_15a4_4d02_a060_b8c375b65cc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_72d98adb_b859_4f50_8b02_daf69f81dc34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_73afdd86_f65b_462d_ae8d_e67f718ec35f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eb2e3ad1_a534_4a43_b5ba_f54eba07eb17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_443564b4_fc41_43f7_9c16_208266edd110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9a6f6138_10fd_4f94_85d4_9fb85f798d8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5331fd72_e650_4d28_8685_744ea51dfdf9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2c578921_8b21_4602_bb26_f1f3aa84c74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_24347d57_ab49_4fd0_8c60_6dc7adfce9cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_098a6d7d_e02b_465a_8dc3_1b8fb27b65ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b9167fb5_6474_45c8_87a3_0cf3e7d3cf22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_282119f6_cc7d_4fe8_b269_8d72260aa3ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_afc81f1b_8b8a_4988_bf26_fc7143535d42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f26d39db_eb7d_4e00_a78a_ce02d2fb4244() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_84559438_355e_494a_923c_0593166aef3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5e8648d3_bd98_4514_9130_a545b7a02525() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8c36546e_eae2_4abb_8281_56bedd870274() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_40718792_b6d1_4108_8242_b4daaf3cde61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_43d020a7_4a5a_45ab_afe0_bbb22f472a36() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_802f758f_5a60_4091_8ec0_dbc7270c3644() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_023673c3_f730_4964_b98b_32b379342a48() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_21bd515b_7e56_4dd8_a7b8_e170220416c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8b293647_40c0_4601_a67d_b233f87de646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3cc4f424_03e4_4585_893b_306373de48a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b28a3673_4828_41c8_8ffc_fdda60f676ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_caa81f36_e878_4d6c_91f8_d8fe638cdd3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_56eca98b_8eb4_457c_9fc9_de9274e445e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b28a3673_4828_41c8_8ffc_fdda60f676ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8e31baed_4ae2_4b1c_a4b6_85b17dfef9d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f6b2299e_a59d_44a2_a03d_df1d1e045b2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d34558b5_87b4_4454_b037_fa077a57d149() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a3ba15c8_82f0_4415_a104_b87cbfbc5354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_799a3c17_b5ce_466f_ac19_d4072cc21a5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5501814a_b8bc_40f6_8649_054ad90acf1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_be8eaf97_a823_4c2b_868e_a8c2139455f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b417f45f_8873_4a8a_95be_d6fb892bd63e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b2530638_0dfd_482e_b1b4_20fa4c495153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_601848a1_86c6_46ec_8eb9_ed13cf9aeab2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_273309b8_4431_4b1b_aa46_08c29839d212() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a3ba15c8_82f0_4415_a104_b87cbfbc5354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5262c358_1e40_4db2_8836_3070e98997cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bf5067c6_4e39_4803_aedd_8968877b9843() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bbcc9e1a_e74f_40bf_b0bc_8e26dcbed27a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2aefe43b_d179_404e_89b4_057d417650d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_75a2adcd_402f_45c4_a00e_beca3b9af723() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6d50a7e7_8d9e_4f37_87d8_15163c901700() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1bfebde5_dc19_45bd_ac0d_52db49c0983f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8b398875_921f_4042_b821_2ae9569a967e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8d525af0_b663_49d7_a5b0_7fba9b4c6a96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_131d16ba_039f_4664_a3c3_0de8803b0366() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f1b67d94_45f0_4b75_8dc4_2e9b1bf42f35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_93dd0569_e20e_4082_85b3_7ea0d7b6d544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a4c93ee4_8ff5_4ee1_a954_46a9e140925e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a3e4e954_a91c_4a26_8c93_3b8761e7aa34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8b7e2024_e370_4046_9a3d_56fbb4ec4a61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_dea4b0a6_5a7d_4074_9e1b_5caa3f4c42cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b67bccb8_14f7_45db_9497_eafebafb30d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_79b7f9df_4618_442c_adb8_988a0849d517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cde81da9_cb1d_4f91_b1c1_506ba74365d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_24347d57_ab49_4fd0_8c60_6dc7adfce9cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bcfc44d4_7fa2_4f16_8b03_bceab9a3bcb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_954b67ac_3041_49ce_8b78_e4230aab25ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8b9836be_5895_4c70_a5c0_e6e77e792050() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_35d6aad5_e976_4ce7_9258_6a57286f7ed3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5e1864f0_5f5e_489b_affb_b4a5fdca1a87() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bacc4f52_e86c_4f82_984b_1557ea99355d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4d73430e_ad45_42ba_9903_66482b7508f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7de14c72_68bd_4d2f_8a2e_2e6d7ca109e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f1bda70c_6114_402d_ac23_23917a7d50f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fa486180_84f5_4c2b_973b_6719182f636f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5e4383d5_ebde_441d_b054_51079aa8601c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_648c11d1_82aa_4928_b90c_c7ed8687de5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f9dba577_7aaf_4306_8a58_bf8c5912a74f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_802f758f_5a60_4091_8ec0_dbc7270c3644() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1ba4b4bb_d587_41e7_b629_30eac2bc5c67() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3376c4ad_b3a5_47d5_bef3_7c1277636cda() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_973459a3_1068_498a_8769_2e7643be17d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1277b579_db7f_43ba_b985_0d0f9141277c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1476bd31_0862_46e0_b988_0c4b298caeef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c6e4239c_5de6_44b3_8e90_9b44bfd6bd4c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_14ea93e7_74d8_4f7a_a7b4_05421a48728d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2978e5d0_6913_4378_b0e8_cc0fe401658d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0d848b32_3e13_4dd1_84c0_a5d97f5c4554() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7652e473_084e_4897_b826_0e442059a677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_10bac5f7_7390_402d_8944_cbf803c5ddd7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4b23450f_9567_4cab_90cf_b7402c095402() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c318c943_cdfa_4bac_8be9_f1f6851e250b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_36254baf_de0a_4b24_85c4_98f8c43a90f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2c60a328_ac9b_4f33_b87d_36d54170f5c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a9fd8beb_da7d_4385_9ec1_30280af32df9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e5b13a8e_b90f_4a03_a8ab_9355b3f3dc60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_15e2733e_fcac_4bd9_a790_305998592b5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5b10fa47_a122_47c4_93fc_7a6fe32701d0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_852a20cc_9531_4bd6_9c62_04de4a936251() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5262c358_1e40_4db2_8836_3070e98997cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d30a643b_d50c_44c4_9681_f2fc7858794e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e7cd3f67_075d_410c_882a_8d45f6b10c65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1ac55b3e_bae3_4326_bc70_412c198684dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_530ed63b_d8db_4e39_b293_c6cb77c993b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_26bda9eb_c436_471e_a932_362b2d7db5dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f26d39db_eb7d_4e00_a78a_ce02d2fb4244() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_68a744a4_2057_4be9_b96c_da90b142a10d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_faa821c4_99c9_4489_8177_e2f7799eaf82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ddbdbd1e_62b4_420f_860a_638d4ab2db29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c12ab657_e3d6_476e_ad37_29a217b664ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4a04a7e9_8712_4597_8301_67fa108f3211() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3333f4b2_7489_4287_a684_cdde206549b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a4c82a43_0819_4c38_8015_784f33e7687c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bc40aa13_b757_41f4_a58e_201913dbf50b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_916d45a4_230a_4c77_aeec_1ebe99d705cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ddbdbd1e_62b4_420f_860a_638d4ab2db29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_384145c1_e1b3_4f3d_8d6d_c45eb4610af6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5c37a65a_2876_45fc_935f_d37c58600f94() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5d2dba73_2acb_41ef_a5f4_cd9d1f5fc292() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b4410530_ddaa_4a6c_9467_4ca4fe9494e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f4679a1a_c2ef_4356_89e1_65ce82875788() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c49079fd_f2c6_44bc_99df_a8b140c1075a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3c46017e_8d79_4ee4_91fb_ff301c7ebd97() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_343919a2_afc7_4d94_b40c_3ed45e98c9ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e3d83a75_919e_4490_a80e_99f9d70deac0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_52070785_585e_47c1_93b1_f53d9adbc0e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1f12f3ac_0498_4577_9525_e70d2f1b90ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_46630fca_69ff_440b_aaa8_f4b492c9c8ef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3770cdda_06cc_4c69_88de_a6aa4a28b3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_70c1d9a0_f874_4aec_befc_cc2fcf204117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1443082d_7633_4e88_8337_bf8f442932ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d21dc2e6_5a3d_4576_816a_95a704e3d18f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9615d214_43ef_43ac_825b_2c341b289c06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_36dbda3b_8fb2_43e8_aed0_4a71e9b4867a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d740b09b_3558_4c1f_8bf3_2194bc8a8de2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1c317be2_cff8_43fe_ba64_9191c41e9fd6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7af447ec_a277_47cf_9f80_a17da7b2c4fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_543bced1_26b5_47e4_b303_2c5f6ff62ed2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_69ef6e23_bc3f_4218_bdc7_78134019f677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f1923995_762b_47bb_a750_706e11444ccd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_36dbda3b_8fb2_43e8_aed0_4a71e9b4867a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4f2cdec6_0bdf_421e_b8a2_6a6aaec90c96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f3006ca4_9d08_4c8a_9d63_98bf1715f027() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5d2dba73_2acb_41ef_a5f4_cd9d1f5fc292() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cf84eb6c_64aa_4ec6_b987_35f1337b5c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7b661568_193a_42ee_aa53_f0f10d5cae07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4c3ba4f3_add5_4610_b043_14df005db663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4ccde43a_ebc8_411d_a9ef_9d2cea6be01d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b5292f1c_9570_4efe_8cb7_499cd3f85edc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b956fea4_cbe4_46b8_88a8_596bbb94603d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bbef9525_a192_43e9_865c_6147135e4567() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9613ab2d_4c40_484d_8d2b_e505373ec6f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c6e4239c_5de6_44b3_8e90_9b44bfd6bd4c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_889cda97_0934_4e5d_aa92_a11e6f127b45() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a4c93ee4_8ff5_4ee1_a954_46a9e140925e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f6b2299e_a59d_44a2_a03d_df1d1e045b2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e57ecbcd_8d22_4ed9_828c_63a4bbd38be1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_936c8cea_8ab0_4ff4_b53d_b57bf700b2fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b55c9346_34c4_467b_941b_1ec59c7d806a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_30840940_1ccd_4c67_baa6_c4d472619f46() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c39210eb_4926_4fff_b29f_ac4f78edb4c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b6d54c89_ca44_4021_af8c_abae8cd4d1d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_486e539f_26ff_4a30_9f37_f00d7f1d064a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f5352cf1_0ed3_460c_b8f1_fd9cdb411cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4b4b2b60_23c1_492c_b19e_5b94b711661d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fcd63daa_f8b0_4d90_9238_d0fc74401cc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_888c1373_460a_4d3d_aae7_9caf29b8d7f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_080820dd_d38e_406f_8b3f_62fca078d0c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_64016e12_ad35_4222_8e63_078f5efde32f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e4326926_010b_4fb7_9813_d4a2336da9f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_73c7112c_d111_497b_8255_8a88343b6980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8bd3139c_c6a6_42e0_9766_0a6ed2407480() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_393169b5_e2cf_441e_8fc0_e83ab22db083() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f9771953_7b9f_44a6_ba88_3a346575ccb7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7c118035_cb24_4d1c_afe1_0800139c9b8f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6a400c86_d29a_4f67_adbd_0be3cbf77520() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e371e156_c8c8_417f_9e38_4617d5ccda06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7268cb26_dcc5_4ffb_9dd2_e38d55f1fc64() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_815c96f2_2b49_4106_abbd_8d35a9d09409() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_23ec91a9_848b_40f9_a2b7_b8d236e0508e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_819bf7f0_5697_47ed_bb9a_2c6cd4436985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c3b44182_7630_49ea_aec9_4d95476afb3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_513a847a_dd49_4386_9a5a_a96daff77bf7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e7cd3f67_075d_410c_882a_8d45f6b10c65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0e0407a8_73b5_42d4_ba70_579886a5f71f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e9eb2e9e_368d_4209_a25a_960e8a9bb36c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e95dc24b_2e0a_43b5_b0f4_7022268b269d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a0c9aa9b_7b77_4992_9a46_f74ee28012cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_06c9099f_3e13_42c9_a1c5_207e029a26f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9b82bcf8_15a4_4d02_a060_b8c375b65cc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_48689ade_52bc_465b_b4e3_3b7c43bd1e5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_be82579e_632f_4d7b_9465_dfabd586bebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7af447ec_a277_47cf_9f80_a17da7b2c4fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_452e3dd1_2c84_4f3a_b5d8_83de06491d60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f476256f_6732_4d99_a23e_4c338963355e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8d525af0_b663_49d7_a5b0_7fba9b4c6a96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e3cd189c_33d5_4a24_9b00_6de7c1ef0c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1c317be2_cff8_43fe_ba64_9191c41e9fd6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_75b19c5f_c881_4599_ad3b_a051bd2e3367() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4ccde43a_ebc8_411d_a9ef_9d2cea6be01d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4d73430e_ad45_42ba_9903_66482b7508f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d55eea1e_3f6a_4016_973a_65c6d5cd8ba9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b25fef39_a9da_46af_b9de_2f700ad1ace3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f17a064e_16e2_46f0_99fb_f9644938de91() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7f811352_09b2_4f2f_a02b_038f9cfad8b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_36f7c8ab_53f6_4b8c_bb74_bcc51f0e5da7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d2c0f807_37f3_4299_b178_e3fd5a01a99e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_56ed38b5_bea3_4e56_915b_aa4c10a36e83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_80473db6_45d7_4b62_8c4e_b8f9ad11943f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_352e9475_b5fa_4a3b_8883_6bd8ba0d8b71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6e74b257_a68c_426c_ab39_bdccf273bc2f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9f97e933_2fe5_48d0_b6b0_1d983612a407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7af447ec_a277_47cf_9f80_a17da7b2c4fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1c317be2_cff8_43fe_ba64_9191c41e9fd6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0589fd8d_7e71_4cc5_a4bc_a6ce6805e546() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f35e15a1_35c5_4f2b_957a_cb270568249c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f3006ca4_9d08_4c8a_9d63_98bf1715f027() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_07b83101_8f30_4195_9dd5_977a3767ac72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_da782b7d_76d7_41a0_a2af_8778af2d9517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f2519f03_d430_4711_ab97_2976272b0b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e4d0d33b_f9a4_4611_ae0a_89571f574e5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a7c49640_da40_4b6d_92e8_bc2a392d9abe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_38f6cc21_2339_4ba9_a88a_e645ebc7c345() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_62e36c79_3c1c_49de_9e85_965c1296eeac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_25c81e45_5698_47f6_b503_f6f8cb7b627d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_be236045_fdb1_4db6_bde6_d4f2e5133400() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5ddb13c1_b0c3_4162_b821_1669584a7c72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2a28d249_c23c_418c_9d21_40e951dda629() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2d3db99d_1b46_42d7_b66e_8335cfaf7ec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bc5bba20_9ec9_4cb5_a7cb_ac9c6b234f72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8ba8d031_3e38_47e6_bd30_b2ce6650dcc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b0e53dd0_e0c7_4405_ab5c_8a7298e04221() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b966024e_c470_4be6_ac13_1a447431b12e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ae281160_d089_41cc_829c_c525ed3b891b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_644e37fe_fe91_4396_a3d0_3ee4b972f26f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7de14c72_68bd_4d2f_8a2e_2e6d7ca109e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d21dc2e6_5a3d_4576_816a_95a704e3d18f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f275f14a_8ec8_4a6c_9b6a_04377fd582d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9b7d3d0a_1b93_440f_a657_359fb4c70aca() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bb89276e_4f30_472b_bd5b_2952d0d32e9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cb0ac1e2_e64c_4af4_bfda_161caae77713() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ed84b4c2_6654_4408_9063_eb4c8e5b57e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_172d1ea8_7651_42a2_9091_b403eafddf4a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d53e0a47_1891_4b8c_87f3_776c50121e2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1dafe03a_cb28_4306_9083_d7fff28acdfa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c137afe4_d103_4de6_b3ff_be354c5f11dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f9ff15b4_b9b4_48e1_91a6_7ef18002e2c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cbf49026_ee29_46b1_90e4_c22d250da068() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1fbfbb0f_0ddf_44a1_9642_80287d2ac0f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4494b7f3_4664_4bb9_9fb3_030e7f5a1ae8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0ba301a4_a1f0_42a0_912e_3fa3778de74e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ad84d376_d2e6_454c_a789_a481e05cd3f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3ecdc9e2_24f5_4ac8_b7be_8689296afba0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6af16bf3_f4ab_4498_825d_1cfb003553eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9bcbd515_637d_46fa_9abb_efd845572db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d7d0ccfa_4fd4_4740_beee_0d698890f123() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1b83514d_5d62_4247_aaf3_fca12d502335() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3770cdda_06cc_4c69_88de_a6aa4a28b3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2a39b3fe_bae7_430e_bf8c_434cb8dfe3c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0e1062cd_4d72_43c3_a032_bdcbe4d8767e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5800031c_e0af_4051_a067_00ffd62c448e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d7fb57bc_47bc_4401_ae2a_108856534d95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f89e7af5_3bbc_4ce1_8426_9e85a209f112() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a6abbfe2_9960_41fa_806a_30112194afbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4b6fc7c6_9967_4d96_b660_9dc1e5e740f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9952b97e_0beb_47be_81f2_971e8d7ce117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_14cfed96_7afe_4150_966d_473ff13187ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b43833a6_8576_4d24_9358_728ca31b3c60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f820993f_009c_4d6b_96e7_307624c698e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_14cfed96_7afe_4150_966d_473ff13187ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5449533e_ab3b_455f_a6d0_337611f2e08c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a86207d2_8334_42c4_8f6c_2a880883dbe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4c3ba4f3_add5_4610_b043_14df005db663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e6327ac2_2b7a_4aab_87b4_368e656f5936() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_eacb5181_7053_4ed0_a659_2d104c350c4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d04a1619_8811_4250_98e8_074f47b6b8b4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bc82da60_c8e7_4108_abe5_76d5c2b37bef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4ccde43a_ebc8_411d_a9ef_9d2cea6be01d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_799a3c17_b5ce_466f_ac19_d4072cc21a5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_20205091_ea2a_447c_ba59_0a71a4ec4825() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_566f1ef9_5ea4_4bdd_89e0_7eeb62b52d55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_03cc8392_6c7e_4228_97f4_2de80141a4c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b9376ba8_ad56_4bdf_8089_96b3d746447d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5cc085ef_308a_442c_8e0e_fa049f8fe203() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c1910f78_83ac_40d2_89f7_8611bea0bdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7b661568_193a_42ee_aa53_f0f10d5cae07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f81952a9_082b_429a_96a3_09f9a9ae26c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1ef8e190_e7e9_4a27_9bc8_11554f7a3fa7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_68a71339_b039_4988_96f1_80ce9e16a0f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e6327ac2_2b7a_4aab_87b4_368e656f5936() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f5c06a80_be05_4b73_aba5_89513dbfe599() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_00e3a74a_cb50_468d_8f20_26032d6fde23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_452e3dd1_2c84_4f3a_b5d8_83de06491d60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_88c06564_1810_4fdf_b2a3_cf91380cb954() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_baff31d7_0d8b_4af3_94e6_622a9d89d5c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1d518114_4e5a_4dd2_a500_bcd91eef27a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_968cedd5_b10a_47a7_9885_84f3dad4865c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1630b33d_a749_4d85_a373_75e8696e30e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0894e4b0_c701_49b8_8ab0_2cb14bc28c9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a3e4e954_a91c_4a26_8c93_3b8761e7aa34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1b02acad_5de2_4868_b1a8_6b826986cc7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f86e4801_14f4_4d02_b82a_03aa2a17c624() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0cd4ce3d_12e8_4888_85fa_ec72dd498b1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_db9a9b0e_1d51_47fd_a8a8_62c5a9425bc1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e6327ac2_2b7a_4aab_87b4_368e656f5936() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1feb5d43_9c01_4f32_aa89_02eed126dec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_18d6fb39_94df_44b8_b8b7_b88d42c90458() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c12ab657_e3d6_476e_ad37_29a217b664ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2e9ddd36_7907_46c7_b7cf_4a0c1999dbee() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_db2676fb_c002_469f_af1b_3977da0a0e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_079b933d_cbab_4345_8d1d_70eb5a2b93d1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_74e8c74d_a5b8_4b1e_b8e6_83eb5a6fe040() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_29fffe9d_c2c8_46a7_b3aa_2dc8227679f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a3632d17_1d76_48ba_a4e2_4e768e1c75cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f6b2299e_a59d_44a2_a03d_df1d1e045b2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_946b09c1_01ab_4be1_bedd_c9cfb91bede9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2bf72eff_a1f4_48f1_aa8a_30b2211528a4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7b58e6c3_4f00_42f5_a6dd_a65634dcda74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_78eb4aa7_477f_44bd_998f_fdff7b7fbacc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3767e847_d51b_4f17_8374_e7982b04340a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1cc9b519_029a_489c_bca2_61395745bf14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d7f7a330_7720_4370_859e_cf001c9a8ad8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1476bd31_0862_46e0_b988_0c4b298caeef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_29d2b430_507e_4136_a05d_8d09cb27ec6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3ecdc9e2_24f5_4ac8_b7be_8689296afba0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0fad87e0_cf98_44ea_ae21_826071bde1b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_aa17327a_db10_4755_95db_79f82851af1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ac89610b_50a1_42e7_a874_238ca07ceed9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_28be6abd_9d5e_41b3_b2d0_8ed8761ddbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bcfc44d4_7fa2_4f16_8b03_bceab9a3bcb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_135abe43_29f6_476a_ad30_3d1fbb4d5495() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_81c95b98_f801_43e0_b995_9e0db2a25bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cd615732_0796_49d2_95a7_4f4aba372269() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_389bda97_201d_478d_88d4_8ad2635c4cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_44d886fa_4a89_4684_938d_d0db2f5eaa22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_53440f23_39f7_4987_9308_12df9c4df1e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b25fef39_a9da_46af_b9de_2f700ad1ace3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c3a70715_be99_428f_a043_b6861b00fb60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cfe9656d_2ed8_4cd8_b08a_fc30fe1667c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_73520caa_eeda_4410_95fc_e6294622085b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0a5aec91_975e_4aef_8f0c_98fcd3d8b5f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e4d7f8b2_ee8c_4987_a1d2_10ebf442252b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_93dd0569_e20e_4082_85b3_7ea0d7b6d544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e371e156_c8c8_417f_9e38_4617d5ccda06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_10b31e6a_4dd1_4a5a_aef9_167903e0d70a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f89e7af5_3bbc_4ce1_8426_9e85a209f112() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a48ca183_f4be_4092_ae0d_5f0949fcacb8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7bdb866e_70e9_4c05_886a_8228445416e5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3f751c91_c552_45fa_a989_db1fa3e9a463() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f82ff764_fa77_4262_b56d_51296059a3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6feffe38_773a_4abe_9663_24b07f0a9c7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6862a3a9_eb18_4150_8054_c15abe6f35c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_10bac5f7_7390_402d_8944_cbf803c5ddd7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_dbdf5f03_1752_45d3_b1b3_fb354aeb6ffd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3ecdc9e2_24f5_4ac8_b7be_8689296afba0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_696f0df2_17ab_4dc4_a4e8_f99b0cd4bc26() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_92cff791_050a_4a33_8ebd_cf3e2f43116c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4b4b2b60_23c1_492c_b19e_5b94b711661d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_71e6fef6_e96d_4087_bdd9_62203d557df3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c891294b_82af_41e4_9f23_cf834346baea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d99e0025_3f31_4c5a_98b5_24fc215502f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_14cfed96_7afe_4150_966d_473ff13187ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f6221cbb_5ade_442e_bdfb_b33eac2912a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1630b33d_a749_4d85_a373_75e8696e30e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8bd3139c_c6a6_42e0_9766_0a6ed2407480() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b91ed210_50c9_49aa_8c84_ca0e25ebf86f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_92cff791_050a_4a33_8ebd_cf3e2f43116c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_38cd8e03_6667_4303_af2c_5646fc1ff07e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0cbbf3db_9c10_433e_9ffa_3d7bb26f2836() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cfe9656d_2ed8_4cd8_b08a_fc30fe1667c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f712bbfa_e3fe_4419_b005_5b7e3648f1db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fc9c68de_5572_4780_bccf_0b0534876b60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cbd56323_438b_4e7f_8d50_aa2ddde56564() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_94ed1342_380e_4060_b9e8_18cf69b433cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8e25fc4b_0d10_47eb_9f78_6b2a179991d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b0989fa3_60c9_4940_b45c_f16d9b3018eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1b02acad_5de2_4868_b1a8_6b826986cc7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a036d823_b848_42fa_a842_55c279a84228() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4ae984dd_ca89_4ce0_9f7e_ea7ac3f6e9f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_02e44a16_43ee_426b_8597_3662b722e815() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a0f57023_382e_45be_8536_34dc98c6c4e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5cc085ef_308a_442c_8e0e_fa049f8fe203() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a06b10b4_32d2_4b45_8ca8_cdb2d02c8980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_529f3d17_7478_4f74_95e4_58cf8c21c9d2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6a47c0de_738b_4ca6_bb53_67fa8b9698dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bfb105fb_5bef_46ad_8832_2da1b57209e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_14ea93e7_74d8_4f7a_a7b4_05421a48728d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d34558b5_87b4_4454_b037_fa077a57d149() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_832d85b3_87c9_457d_aa11_aee8fd387765() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_802f758f_5a60_4091_8ec0_dbc7270c3644() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4ae984dd_ca89_4ce0_9f7e_ea7ac3f6e9f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d55eea1e_3f6a_4016_973a_65c6d5cd8ba9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0d848b32_3e13_4dd1_84c0_a5d97f5c4554() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d0d6e8d6_8072_40f4_a60c_60cfe98bf357() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_384145c1_e1b3_4f3d_8d6d_c45eb4610af6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cde81da9_cb1d_4f91_b1c1_506ba74365d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_be2f7d5e_6125_4b36_b272_b067cbb76a95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_35d70a05_64d5_4412_be64_819617d18e3a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2ff76f89_e6b5_46bb_8754_c27c2fddd7a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0dee506b_8f43_4a7b_a420_64cf8247ee9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_23ec91a9_848b_40f9_a2b7_b8d236e0508e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_95203111_6f4e_4cc4_86b2_c68657bcc898() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3d456534_2e56_4069_9a85_ede872a43f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_658230ed_5713_403f_aa0f_86ad1f69fd33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a4c93ee4_8ff5_4ee1_a954_46a9e140925e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0eb2ae46_9af9_45dd_9dce_2cab824b114a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7af447ec_a277_47cf_9f80_a17da7b2c4fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b5292f1c_9570_4efe_8cb7_499cd3f85edc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_06c9099f_3e13_42c9_a1c5_207e029a26f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_79b7f9df_4618_442c_adb8_988a0849d517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b28a3673_4828_41c8_8ffc_fdda60f676ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6fde6c2a_5b7b_4e95_ad5d_41ae8c683ffa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5262c358_1e40_4db2_8836_3070e98997cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2c578921_8b21_4602_bb26_f1f3aa84c74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4492f787_f973_48f9_9d97_6acf15ee5f25() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f0122b75_2a2c_42a3_b13c_cf71fab5174b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0d445ca7_b7cf_4fb0_9995_ca43515873e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_56cdb17b_754f_42ce_88f7_d2a028ae5e39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_484770ca_b55b_4d3b_9481_11d168ac684c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_457f717e_e9c8_4ec5_9a32_72ffd3cf373c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d771411a_cf83_4392_8ccc_a8b0f429026c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_341d4b56_819d_475f_a678_c57cc0168cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b2cd498a_55b3_4c9d_8828_6187d2d7b711() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e57ecbcd_8d22_4ed9_828c_63a4bbd38be1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_75b19c5f_c881_4599_ad3b_a051bd2e3367() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_080820dd_d38e_406f_8b3f_62fca078d0c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9615d214_43ef_43ac_825b_2c341b289c06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a6abbfe2_9960_41fa_806a_30112194afbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c6a516c4_9b14_4981_b3e0_a54e16b850d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d0f38e43_c473_4af9_a62e_3bf502a9cd61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c7b26d06_fb84_4dc4_adfb_6c889bf354f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8b9836be_5895_4c70_a5c0_e6e77e792050() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_de0c7334_bfcb_4ba6_b75f_f906484c66e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d04a1619_8811_4250_98e8_074f47b6b8b4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8f3bb32f_f4ce_42c9_a795_2faaa8af5523() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d9565710_944a_4288_8404_6c8db64760c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2b5cdca5_8b02_41f1_80d6_1f1be69507ae() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_71be32c5_2619_45bb_8e89_99004461b08e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ec7d110c_ee49_4821_aef3_ef2d78b86cb2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1466b759_9718_485a_96c3_4d77410aef8d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_40718792_b6d1_4108_8242_b4daaf3cde61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e371e156_c8c8_417f_9e38_4617d5ccda06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7805c5e7_2fde_45f3_a132_6288aab31e9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6694bbb1_6237_410c_b9fe_65de03245760() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cfdfda29_f7cb_4f91_993e_b7b41d289473() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_049146a7_63e9_408c_a936_1676299f3a07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e3d83a75_919e_4490_a80e_99f9d70deac0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e55eabfe_9e38_4d3b_b8e2_1c15c20b98d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_27389a54_b257_40bd_a099_11c13fba83b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e7c5899e_8d84_4f5a_8f44_e361b2e80bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cf6b24c6_3576_468a_915d_1e8f67f2fd08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d7fb57bc_47bc_4401_ae2a_108856534d95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_44c0e1d5_c9a6_4f9e_827c_aa0ceeddb2dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_978f6943_b6d6_4b27_ac6b_426ff740ebbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_199dc9bb_cbba_47b2_adc1_fdece88eea1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bd14730a_6615_4511_af69_b55f8d161ec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_47a037c9_e6c4_4996_b464_07dc42c87467() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4b4b2b60_23c1_492c_b19e_5b94b711661d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c3385071_2d47_4dd0_a355_fe99f9a60998() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b28a3673_4828_41c8_8ffc_fdda60f676ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_319b2299_5d5a_46f6_badc_0bbdb46f82c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b1b912e1_f76b_433f_8200_6e71e28280c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e7c5899e_8d84_4f5a_8f44_e361b2e80bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_27f5d1ea_04c5_4e51_b8fe_1cbc24a03812() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_30840940_1ccd_4c67_baa6_c4d472619f46() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_334e9a1a_6bd6_41c6_88cf_bfedc531c7af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5944db08_12a1_4b7c_997d_b75da5ae3602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9577eb9b_7192_4bee_9ff0_b464f4da0340() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b956fea4_cbe4_46b8_88a8_596bbb94603d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_44220939_00ab_4984_b119_21cbe6174efb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d3041944_c14a_4394_a340_f4edea6aab61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d34558b5_87b4_4454_b037_fa077a57d149() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cfdfda29_f7cb_4f91_993e_b7b41d289473() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a0934cee_0ac9_438a_9db4_2a106667a735() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e0ec658c_d893_4a64_9610_21d05efa1f2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e5d751c8_4e99_4eae_9479_12164b7cbd72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9b5e21e6_037b_4b86_930e_4af283c4a93a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_79fef72a_adfe_43e8_a895_9673a16798da() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_966b658e_7b16_472f_ae69_41114f372963() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0ba301a4_a1f0_42a0_912e_3fa3778de74e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fc9c68de_5572_4780_bccf_0b0534876b60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d038423e_5ef5_4131_a5ae_e3d6c7459485() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9b7d3d0a_1b93_440f_a657_359fb4c70aca() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e4326926_010b_4fb7_9813_d4a2336da9f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d771411a_cf83_4392_8ccc_a8b0f429026c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_49dda6f5_b80c_405c_a608_ffe25a815b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b302fbc1_5c9d_4a65_82df_1df91378bb3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bf8ae449_21c3_4f13_a5bf_0f6a3467dbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2fc99be9_f034_4662_91d4_8da347ac270a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_08ead59f_f3ad_492a_b3ab_b81148a8d74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3a7659c0_ccf0_4625_b4c3_427aad2b3db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8d1229cd_bfbc_4a5d_8a4d_b0bf8fa5cdfd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6862a3a9_eb18_4150_8054_c15abe6f35c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bf6f27d9_c448_454b_a53c_1c9c82e4b77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eb6050ca_2572_450f_aba1_fafd27077288() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_54d02606_f5d1_49f5_939b_3e16dcb481b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_92f07b4f_fcf3_41af_b6c3_ba17f820abfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d0d6e8d6_8072_40f4_a60c_60cfe98bf357() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ed84b4c2_6654_4408_9063_eb4c8e5b57e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7cf27102_2b60_444f_ad85_272d5c4a6125() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3e2339e3_d5fc_442a_871d_3f0216eb0c5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f4daba23_5099_43e4_a0fc_19f1420e31de() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fd62fb40_693e_4a52_8439_2f7461c090d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3c46017e_8d79_4ee4_91fb_ff301c7ebd97() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6a47c0de_738b_4ca6_bb53_67fa8b9698dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cd33d417_1a47_4431_9017_159a7a02e68c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f27e05ef_ac05_4b4f_bc51_49ae6852e3cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_84845dfb_d1cf_42b0_858f_301582421f54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2978e5d0_6913_4378_b0e8_cc0fe401658d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e4326926_010b_4fb7_9813_d4a2336da9f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_897f32e1_ecc8_40ff_9533_77612867dc00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_de4fbde4_a509_4e65_a5f4_5c14f88196e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_78c8ccea_a068_45f4_927a_619738e4f248() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a80dc3a8_f00a_48ac_8aeb_5d1bb9d019b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0af09423_9bf9_4aba_8c74_8f636e74bf47() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ff11ef87_f56a_4a52_b1a0_a77e655ddb92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_53ad3600_1be1_4b50_b5d1_5e12e1f4239b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_916d45a4_230a_4c77_aeec_1ebe99d705cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7f811352_09b2_4f2f_a02b_038f9cfad8b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a0f57023_382e_45be_8536_34dc98c6c4e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_144196ac_f6da_4439_a1a6_f8cf6eac926e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ce5589cf_cfe5_4f5e_8f08_a4193c300482() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3dc49209_2480_4959_9e2d_2969ea54d6e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1fbfbb0f_0ddf_44a1_9642_80287d2ac0f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_65f86296_3812_4c97_ac99_b991bc6e2046() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_56cdb17b_754f_42ce_88f7_d2a028ae5e39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_26622fa7_e150_4a84_8321_741f0713c133() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a716cebd_c5fe_4b6a_865d_90bc5a885a05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e7cd3f67_075d_410c_882a_8d45f6b10c65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_733db2e9_3d9e_4816_8c8e_59a5a5d8ddad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7a205394_8e80_4b61_a941_f8f60fae1354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6feffe38_773a_4abe_9663_24b07f0a9c7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f5352cf1_0ed3_460c_b8f1_fd9cdb411cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_852a20cc_9531_4bd6_9c62_04de4a936251() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5d49d1f2_2cbb_4e78_94ad_bbc1af084c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cb5a42cb_3986_475a_a071_5eebc2fb1dfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7de14c72_68bd_4d2f_8a2e_2e6d7ca109e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_74dd3d68_f657_42ac_b4ee_3b37c322f708() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3ea03378_4432_4809_8856_df1a6f6572ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8c9210a5_048a_404c_91c8_f9854ab4ad6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7360784b_bbef_4e86_b52c_68d16ecb239f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bd12b9e4_5662_40ae_adcc_cd9bba83a0c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7bdb866e_70e9_4c05_886a_8228445416e5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ac7fa6a2_2a34_4265_b3ce_fa1103ad4136() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fcd63daa_f8b0_4d90_9238_d0fc74401cc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_729dee6d_59d8_46e7_8439_b29798b4cc51() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a1c7b368_0eee_435c_9a49_b6bc4efaf3c7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_20786f4e_be6c_475c_ad5a_8f89318c602c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_26bda9eb_c436_471e_a932_362b2d7db5dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_91b04cc8_0847_40f9_843b_16179d4d3cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_92cff791_050a_4a33_8ebd_cf3e2f43116c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cb5a42cb_3986_475a_a071_5eebc2fb1dfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4b6fc7c6_9967_4d96_b660_9dc1e5e740f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eb9957d9_54d5_4fb7_9ecd_e3de750a701d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8ba8d031_3e38_47e6_bd30_b2ce6650dcc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bc5bba20_9ec9_4cb5_a7cb_ac9c6b234f72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_817145c8_2a36_43d5_bec7_373613e232d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8bd3139c_c6a6_42e0_9766_0a6ed2407480() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0c112c8b_d728_49bc_843a_35d2f5e789ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5c699116_a765_4b14_be73_c38d8d1f2e9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_baff31d7_0d8b_4af3_94e6_622a9d89d5c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b2530638_0dfd_482e_b1b4_20fa4c495153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7ef28c35_8129_4e58_b053_afb83aee7c6c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7805c5e7_2fde_45f3_a132_6288aab31e9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2ff76f89_e6b5_46bb_8754_c27c2fddd7a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f400232c_318b_45a2_8a24_a6f0bd66e053() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f9ff15b4_b9b4_48e1_91a6_7ef18002e2c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3ab0a454_f66a_4942_87d1_4a05ed0832d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_37c62208_ada5_44e4_b4ff_93f60d1a22fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1c317be2_cff8_43fe_ba64_9191c41e9fd6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a55641d9_75de_4acd_8433_656036a5e891() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e2a8499f_c9c5_4d68_a9a7_b39967ba0a0e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_36254baf_de0a_4b24_85c4_98f8c43a90f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f5352cf1_0ed3_460c_b8f1_fd9cdb411cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0ac72a5a_1e86_4fdc_8065_3b6bf0cfa7b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5800031c_e0af_4051_a067_00ffd62c448e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_06c9099f_3e13_42c9_a1c5_207e029a26f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5ee0943b_9506_47df_86e1_78d0f8f9c1cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cab7ef81_342f_4ae4_b6f3_eac7fa5b749b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5555d585_9c5f_4d7a_9724_59353e58850f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f86e4801_14f4_4d02_b82a_03aa2a17c624() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bf5067c6_4e39_4803_aedd_8968877b9843() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_58c489ac_f1e1_4de8_aab4_5d47f1319a65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_41623d1c_17c6_405f_8585_c55bc79f36db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c4fbb20b_fe4d_47b8_9aac_b6e7e6e7b53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8d2f7973_8123_4c69_9219_7cf84bcb2cf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f9dba577_7aaf_4306_8a58_bf8c5912a74f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e6cc0b0b_75b6_44f9_8c23_2df096ddf5ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_be35ed86_7d35_441c_97af_75f391524552() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c9832bba_0e1d_4d55_935c_de02c2a00172() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5b71c020_45d3_4392_aab9_7d25ae2aae65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1ba4b4bb_d587_41e7_b629_30eac2bc5c67() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_21d84da7_79f0_4a10_8dd5_1fc8747b1362() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a7c49640_da40_4b6d_92e8_bc2a392d9abe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b2cd498a_55b3_4c9d_8828_6187d2d7b711() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4c3ba4f3_add5_4610_b043_14df005db663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4b6fc7c6_9967_4d96_b660_9dc1e5e740f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fd596678_1fc5_4ab1_a37e_982b1d1a1017() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2174e2d3_4c99_4ed7_ad42_b8588cff69f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_47a037c9_e6c4_4996_b464_07dc42c87467() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6df7c3e6_0608_46ba_9666_18d0ea6458c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_77de06b2_d050_44a9_a61f_eabbf0f5bc79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8f3bb32f_f4ce_42c9_a795_2faaa8af5523() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_56cdb17b_754f_42ce_88f7_d2a028ae5e39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1ebc60b4_9b0c_4bac_bbf1_9c307800c173() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d740b09b_3558_4c1f_8bf3_2194bc8a8de2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d3988492_b47e_4f94_8793_216336ace436() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fd596678_1fc5_4ab1_a37e_982b1d1a1017() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6a47c0de_738b_4ca6_bb53_67fa8b9698dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b184147d_4b43_48d5_85e7_ec433d5f5c22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_35d70a05_64d5_4412_be64_819617d18e3a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6694bbb1_6237_410c_b9fe_65de03245760() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_80d7de7a_aacb_4780_8b1b_924aafacd4f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_799a3c17_b5ce_466f_ac19_d4072cc21a5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_35d6aad5_e976_4ce7_9258_6a57286f7ed3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9dbf02ae_f481_45a7_a72f_2b21c859cf69() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_47a037c9_e6c4_4996_b464_07dc42c87467() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_064cfc59_797e_4998_bdb6_3960e5fffd55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_696f0df2_17ab_4dc4_a4e8_f99b0cd4bc26() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2094ecc9_9258_4d10_9705_0f3820bdead1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9cd4a269_0ace_4bd2_a842_9550ac5204cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c3a70715_be99_428f_a043_b6861b00fb60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cd615732_0796_49d2_95a7_4f4aba372269() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_14cfed96_7afe_4150_966d_473ff13187ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d2c5ea4a_f7b7_400f_a093_942bbf4b9f6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_94cb630c_1545_46f2_bbea_6b6bf0b1e10b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_341d4b56_819d_475f_a678_c57cc0168cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_946b09c1_01ab_4be1_bedd_c9cfb91bede9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c39210eb_4926_4fff_b29f_ac4f78edb4c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ddb57b3f_c6cb_458a_b8c1_d25e2604fcc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_57351533_50b8_4d7e_be78_fabfea4e1834() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d55eea1e_3f6a_4016_973a_65c6d5cd8ba9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d5348ae9_bc1b_44a1_a9c8_df4c2ad358cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_562c8776_4913_49c9_92a6_6abc3767090a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b9376ba8_ad56_4bdf_8089_96b3d746447d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2ff76f89_e6b5_46bb_8754_c27c2fddd7a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ae438f58_e6b3_4f82_8952_5996e766ece0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9763d575_66e0_42a4_9e47_e0684da97d75() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_598dcba5_529f_41dc_821a_176ed0d8449e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c891294b_82af_41e4_9f23_cf834346baea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5a1a7310_e14e_4711_ab67_9b4ac8e86036() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f9771953_7b9f_44a6_ba88_3a346575ccb7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2512f8e0_536e_4131_9ad4_76066d4ca776() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e371e156_c8c8_417f_9e38_4617d5ccda06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4b0aea01_6fbc_4f88_9c27_6c74989acde6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5944db08_12a1_4b7c_997d_b75da5ae3602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_68a744a4_2057_4be9_b96c_da90b142a10d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a9b4ea57_06ef_46bd_8682_0632b41e3214() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_be8eaf97_a823_4c2b_868e_a8c2139455f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a3ba15c8_82f0_4415_a104_b87cbfbc5354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8cfb5c9a_a2c5_4e69_9695_47800c41a1e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ab6bd885_8f87_4e5d_a894_a8ba9787c0cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_391d85cc_6a22_4747_9d05_10a35fe3dc1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3770cdda_06cc_4c69_88de_a6aa4a28b3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_edbff296_13ba_4548_a2d0_70387e655905() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_efc9221b_9a59_4fb2_a1cc_392dffcbf985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5aa69408_10d4_462d_9b7c_98a88b4978a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_452e3dd1_2c84_4f3a_b5d8_83de06491d60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5ee0943b_9506_47df_86e1_78d0f8f9c1cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bf6f27d9_c448_454b_a53c_1c9c82e4b77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_730a43c5_2fe6_4926_a024_5b25c0ef6a1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_897f32e1_ecc8_40ff_9533_77612867dc00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4779c494_9510_445f_8603_d07442772956() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4ae984dd_ca89_4ce0_9f7e_ea7ac3f6e9f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_74e8c74d_a5b8_4b1e_b8e6_83eb5a6fe040() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_131451d4_fcd2_4f33_80fa_28d8330aadfe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_95869828_e4d5_44f4_ab3f_85ed9705f745() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_26987fc1_c397_4316_b8ce_29fd9ab75aaf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_35d70a05_64d5_4412_be64_819617d18e3a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b9376ba8_ad56_4bdf_8089_96b3d746447d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9e4a8f4b_05b8_48d9_a997_b922d2525924() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_131d16ba_039f_4664_a3c3_0de8803b0366() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9763d575_66e0_42a4_9e47_e0684da97d75() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5873836d_175a_4641_892d_5be7aefd8b11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4f2cdec6_0bdf_421e_b8a2_6a6aaec90c96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a3e4e954_a91c_4a26_8c93_3b8761e7aa34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2d3cde85_2226_4810_8d9a_1c5b6be08534() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_db9a9b0e_1d51_47fd_a8a8_62c5a9425bc1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4b23450f_9567_4cab_90cf_b7402c095402() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c49960ca_9aab_4c14_9f03_e33a6bb83a84() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4576e5e8_97cd_4e24_be01_9e8d8cc13171() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4fe73fbb_9c52_4054_a7c8_28499c8de725() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5e92642f_0f1f_49dc_9d3b_f2f9fabe3cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6daf2ecb_df5e_4998_a076_a2beabe9b94b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5e8648d3_bd98_4514_9130_a545b7a02525() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d2cf35e9_b14c_4193_ba6b_ce0332ca6863() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_13dab434_f22f_4b45_9f04_c28ec63b5f79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0a5aec91_975e_4aef_8f0c_98fcd3d8b5f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eb6e8584_9dc4_4337_9ac7_62da15c68aa4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0ba301a4_a1f0_42a0_912e_3fa3778de74e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3a7d6dff_f961_47d2_8455_c267e79a3689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b2cd498a_55b3_4c9d_8828_6187d2d7b711() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f5352cf1_0ed3_460c_b8f1_fd9cdb411cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8c9210a5_048a_404c_91c8_f9854ab4ad6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_172d1ea8_7651_42a2_9091_b403eafddf4a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_36f7c8ab_53f6_4b8c_bb74_bcc51f0e5da7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_852a20cc_9531_4bd6_9c62_04de4a936251() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6deb9c1d_5d02_4813_b8ad_422cdf142888() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_02c31553_4c96_4fac_a86c_2f93d1a0cdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d30aa814_fcf8_4a87_ad88_45f3b70078aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_21108fa2_c652_41c2_973e_15d6737a81bc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_72d98adb_b859_4f50_8b02_daf69f81dc34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_651238f7_f68a_4ad5_8c44_100739681307() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6e4c8d67_12f3_457c_826e_aa25d84cdec0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8e2445f7_7857_41c1_b30a_8ae9e7dbca3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_94ed1342_380e_4060_b9e8_18cf69b433cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7b677747_bf32_489e_82da_1de0791a6f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ac7793f4_5fd4_42f2_a749_da5b2a9bdb6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eb6e8584_9dc4_4337_9ac7_62da15c68aa4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3c46017e_8d79_4ee4_91fb_ff301c7ebd97() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_53ad3600_1be1_4b50_b5d1_5e12e1f4239b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9b718bb0_fa66_4adb_a718_cfd56478fec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f4bec27c_cf40_4be9_b86e_b88888b11c6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_20205091_ea2a_447c_ba59_0a71a4ec4825() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0c112c8b_d728_49bc_843a_35d2f5e789ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4ac72fd2_feca_44f5_9208_cb5be5788d5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_771d6ca9_ffdd_45f2_933d_fc0364e7b4e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_79fef72a_adfe_43e8_a895_9673a16798da() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b417f45f_8873_4a8a_95be_d6fb892bd63e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e1956884_f3d0_4089_b278_f41ac3eebd23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_929405d6_1ddc_4e7f_b7c6_de2b7ee434e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_954b67ac_3041_49ce_8b78_e4230aab25ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_484770ca_b55b_4d3b_9481_11d168ac684c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3aa32e6e_1ce0_44b7_b7ee_626ebdb82612() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8e2445f7_7857_41c1_b30a_8ae9e7dbca3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0e1062cd_4d72_43c3_a032_bdcbe4d8767e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_728c62da_7a12_43fd_ba2e_4934cc3a55b3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_db41dc91_d30a_45b7_96bd_6d1e5b01f0f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1ba4b4bb_d587_41e7_b629_30eac2bc5c67() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f400232c_318b_45a2_8a24_a6f0bd66e053() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_02e44a16_43ee_426b_8597_3662b722e815() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_00149b93_6dd8_43f5_bbd6_1b7b437b62c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6862a3a9_eb18_4150_8054_c15abe6f35c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f86e4801_14f4_4d02_b82a_03aa2a17c624() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a8c45c3b_6cec_41dd_9a8f_5e03486101e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bc82da60_c8e7_4108_abe5_76d5c2b37bef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_765a13db_72f6_4b5c_a71d_ff296201a807() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_77de06b2_d050_44a9_a61f_eabbf0f5bc79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b91ed210_50c9_49aa_8c84_ca0e25ebf86f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4492f787_f973_48f9_9d97_6acf15ee5f25() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_27f5d1ea_04c5_4e51_b8fe_1cbc24a03812() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9465b816_a70b_46e6_88e7_11519ee845b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5bd071bf_a958_4529_8dca_d29957d14faf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f322b30e_a6a9_466e_ab4d_154e420180a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_be82579e_632f_4d7b_9465_dfabd586bebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_20786f4e_be6c_475c_ad5a_8f89318c602c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9a6f6138_10fd_4f94_85d4_9fb85f798d8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7fd0f760_8b0c_41e6_bb79_3259345cf686() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3376c4ad_b3a5_47d5_bef3_7c1277636cda() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_47a037c9_e6c4_4996_b464_07dc42c87467() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5e4383d5_ebde_441d_b054_51079aa8601c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_27f5d1ea_04c5_4e51_b8fe_1cbc24a03812() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_68a71339_b039_4988_96f1_80ce9e16a0f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_81b3a83f_4d2d_4b96_ba03_db24992f5076() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2fc99be9_f034_4662_91d4_8da347ac270a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2cfe347c_1ff8_4013_a52b_2b1db527c8ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fabdec3f_c197_41a7_8e6f_e3b8df6e8f86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cfe9656d_2ed8_4cd8_b08a_fc30fe1667c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ff11ef87_f56a_4a52_b1a0_a77e655ddb92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_de4fbde4_a509_4e65_a5f4_5c14f88196e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_db41dc91_d30a_45b7_96bd_6d1e5b01f0f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7805c5e7_2fde_45f3_a132_6288aab31e9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_443564b4_fc41_43f7_9c16_208266edd110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b9376ba8_ad56_4bdf_8089_96b3d746447d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8aa5d9f7_d135_43a0_ae8c_26e0367320a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_de0c7334_bfcb_4ba6_b75f_f906484c66e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_443564b4_fc41_43f7_9c16_208266edd110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5800031c_e0af_4051_a067_00ffd62c448e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_946b09c1_01ab_4be1_bedd_c9cfb91bede9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_049146a7_63e9_408c_a936_1676299f3a07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_21d84da7_79f0_4a10_8dd5_1fc8747b1362() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0c83a13e_9eb9_464b_bf1d_0bbeaa9cac7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_293c080a_ce58_4eee_a59e_5576cb232831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9cd4a269_0ace_4bd2_a842_9550ac5204cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1bfebde5_dc19_45bd_ac0d_52db49c0983f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_30c4b6cf_935f_4662_b9ab_7b1c8355f342() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_543bced1_26b5_47e4_b303_2c5f6ff62ed2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e003fca7_283c_4186_837f_1b90e3bf815a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_68a71339_b039_4988_96f1_80ce9e16a0f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_73ebf316_16e4_4cec_8c52_053764f5c4fe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_efc9221b_9a59_4fb2_a1cc_392dffcbf985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e4d7f8b2_ee8c_4987_a1d2_10ebf442252b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_40a22024_bf6e_4e92_a99b_382e025a987f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_68a744a4_2057_4be9_b96c_da90b142a10d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_93b2d340_a97d_4eb2_a56d_3b3c4d6f9407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_81c95b98_f801_43e0_b995_9e0db2a25bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b184147d_4b43_48d5_85e7_ec433d5f5c22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c3a70715_be99_428f_a043_b6861b00fb60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_343919a2_afc7_4d94_b40c_3ed45e98c9ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4de9cf88_7ff4_46f2_a5b8_3c94c1a837db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eb9957d9_54d5_4fb7_9ecd_e3de750a701d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_de8876d7_d22a_4e7b_93e9_97c2e66b7d61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5e65b2df_a8c0_4e7e_812a_e872ca01c92c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f7486116_e56c_42d9_adfc_659982989630() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1f12f3ac_0498_4577_9525_e70d2f1b90ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_87fa3bea_38a7_45b0_b29e_0c6819faf2cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_45feb8cd_d555_4f60_953c_0f5960b964a6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_54af72f1_2ca8_4112_b42b_4d95af6a505f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e1ee52d7_ce63_4de3_8a80_146a94d54d7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d2c0f807_37f3_4299_b178_e3fd5a01a99e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ac7793f4_5fd4_42f2_a749_da5b2a9bdb6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_48f5a500_6673_478d_b279_0835c052ab15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3c46017e_8d79_4ee4_91fb_ff301c7ebd97() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b9376ba8_ad56_4bdf_8089_96b3d746447d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8cfb5c9a_a2c5_4e69_9695_47800c41a1e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_978f6943_b6d6_4b27_ac6b_426ff740ebbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6e4c8d67_12f3_457c_826e_aa25d84cdec0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_93dd0569_e20e_4082_85b3_7ea0d7b6d544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_52070785_585e_47c1_93b1_f53d9adbc0e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b3700918_c3f3_4b6b_bc5c_8fc54f658110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_06c9099f_3e13_42c9_a1c5_207e029a26f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ac89610b_50a1_42e7_a874_238ca07ceed9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eacb5181_7053_4ed0_a659_2d104c350c4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0e0055f0_9839_41c2_ab64_267ea0e23cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_049146a7_63e9_408c_a936_1676299f3a07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a0aec74b_1721_4476_8d48_2fcf030393ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c255670f_869e_4014_9719_6570b98ccd80() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fbc92126_6eb8_42a5_aa29_e292ab003c98() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3772a582_9064_4e48_bdac_2f6bed422044() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7fd0f760_8b0c_41e6_bb79_3259345cf686() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f6b3a61e_8429_4a17_a7b3_33eb4e1b5e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ac89610b_50a1_42e7_a874_238ca07ceed9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4b23450f_9567_4cab_90cf_b7402c095402() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_93dd0569_e20e_4082_85b3_7ea0d7b6d544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c17ba69b_1b73_4aad_8680_b85a7d05685e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d369afcd_e5b3_4ff5_acd8_644b94afd281() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7fd0f760_8b0c_41e6_bb79_3259345cf686() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_25a628d5_1342_4075_843b_48892138af33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2c86c608_2fbd_43b1_abc2_42c6972e5a23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_03cc8392_6c7e_4228_97f4_2de80141a4c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bd14730a_6615_4511_af69_b55f8d161ec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b3700918_c3f3_4b6b_bc5c_8fc54f658110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_30a87c3f_e9fa_44d0_ba6e_75b347a4aba8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_db41dc91_d30a_45b7_96bd_6d1e5b01f0f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_62e36c79_3c1c_49de_9e85_965c1296eeac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_41623d1c_17c6_405f_8585_c55bc79f36db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8c92d0ac_f414_4a54_951d_d3b4a8545d5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a0aec74b_1721_4476_8d48_2fcf030393ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d8c9a824_5488_4e5b_b356_fdd8b96c4fe4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_384145c1_e1b3_4f3d_8d6d_c45eb4610af6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8d9dbf51_82dd_4486_a802_d024a1e1b1fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_49dda6f5_b80c_405c_a608_ffe25a815b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_29fffe9d_c2c8_46a7_b3aa_2dc8227679f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_91b04cc8_0847_40f9_843b_16179d4d3cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a3632d17_1d76_48ba_a4e2_4e768e1c75cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b0e53dd0_e0c7_4405_ab5c_8a7298e04221() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_caf4eb30_4381_4664_98f2_6a3b7438cc49() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_982c09f7_b4bc_46de_90e1_caf3281e5c86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1ac55b3e_bae3_4326_bc70_412c198684dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_22891a6b_c527_46ce_b1d0_4bf2a9086a42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b1b912e1_f76b_433f_8200_6e71e28280c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_341d4b56_819d_475f_a678_c57cc0168cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_acf8eb51_1933_4318_b77b_8097197c1b8e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_24347d57_ab49_4fd0_8c60_6dc7adfce9cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_24347d57_ab49_4fd0_8c60_6dc7adfce9cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cae29d64_2c04_4135_a87d_adb803743720() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_07659b4d_8dc7_4907_a5eb_28e9bf9a2535() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e9781cb8_65e1_4f47_9895_0a4397bdf7e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cde81da9_cb1d_4f91_b1c1_506ba74365d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f26d39db_eb7d_4e00_a78a_ce02d2fb4244() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c7b26d06_fb84_4dc4_adfb_6c889bf354f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8d525af0_b663_49d7_a5b0_7fba9b4c6a96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f275f14a_8ec8_4a6c_9b6a_04377fd582d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_916d45a4_230a_4c77_aeec_1ebe99d705cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_87fa3bea_38a7_45b0_b29e_0c6819faf2cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e2a8499f_c9c5_4d68_a9a7_b39967ba0a0e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_61971746_2171_4c98_b6c8_147b3cb18e8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_598dcba5_529f_41dc_821a_176ed0d8449e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e57ecbcd_8d22_4ed9_828c_63a4bbd38be1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_43d020a7_4a5a_45ab_afe0_bbb22f472a36() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1443082d_7633_4e88_8337_bf8f442932ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_343919a2_afc7_4d94_b40c_3ed45e98c9ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bc40aa13_b757_41f4_a58e_201913dbf50b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0af09423_9bf9_4aba_8c74_8f636e74bf47() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3d08eec1_5a3f_4eff_9c1b_1686a8f52259() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d3988492_b47e_4f94_8793_216336ace436() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_327f8c0e_d0cc_4133_8225_64ba9d6675c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_131d16ba_039f_4664_a3c3_0de8803b0366() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3e373339_fad3_469c_8364_f3d580c30334() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9f97e933_2fe5_48d0_b6b0_1d983612a407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5555d585_9c5f_4d7a_9724_59353e58850f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_29d2b430_507e_4136_a05d_8d09cb27ec6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2174e2d3_4c99_4ed7_ad42_b8588cff69f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0fad87e0_cf98_44ea_ae21_826071bde1b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_343919a2_afc7_4d94_b40c_3ed45e98c9ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a036d823_b848_42fa_a842_55c279a84228() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7f811352_09b2_4f2f_a02b_038f9cfad8b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1ea4189c_f644_4ce5_b5a9_c134026c2441() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_56eca98b_8eb4_457c_9fc9_de9274e445e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e9781cb8_65e1_4f47_9895_0a4397bdf7e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_84559438_355e_494a_923c_0593166aef3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_20205091_ea2a_447c_ba59_0a71a4ec4825() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b0092186_cf5b_4c10_bde3_4a9c55422c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_56f5137f_2813_4bd0_8e2d_3f5be91fee0c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5aa69408_10d4_462d_9b7c_98a88b4978a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d412f9f0_4b03_4329_ab64_d637bc0e9710() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d2c0f807_37f3_4299_b178_e3fd5a01a99e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7360784b_bbef_4e86_b52c_68d16ecb239f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_dcf93475_aa45_4c5c_a2c6_9d4de7de4814() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_35e203e0_0a5d_48a1_a7cb_d8034e1f7d07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b9167fb5_6474_45c8_87a3_0cf3e7d3cf22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1131a41b_d118_4483_a309_6f297d44b401() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b0989fa3_60c9_4940_b45c_f16d9b3018eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ff349b73_a9f7_47c8_98e4_ff4252eac53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_56c65a4c_750d_4b74_99f1_fde4512b6b08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f4daba23_5099_43e4_a0fc_19f1420e31de() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8b7e2024_e370_4046_9a3d_56fbb4ec4a61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c39210eb_4926_4fff_b29f_ac4f78edb4c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5987bfe1_bc25_4913_8fc7_ddfe79c9aee7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ec82b20f_a496_489f_8388_14984c76e3fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_77862382_43cc_4703_93a9_ff846f922916() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_95203111_6f4e_4cc4_86b2_c68657bcc898() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c255670f_869e_4014_9719_6570b98ccd80() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_91f334bf_582b_4189_b073_45a67409c663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d369afcd_e5b3_4ff5_acd8_644b94afd281() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3e373339_fad3_469c_8364_f3d580c30334() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8b398875_921f_4042_b821_2ae9569a967e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fc9c68de_5572_4780_bccf_0b0534876b60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3767e847_d51b_4f17_8374_e7982b04340a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3ea03378_4432_4809_8856_df1a6f6572ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_75b19c5f_c881_4599_ad3b_a051bd2e3367() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1ad0c93b_74e1_4703_bfbc_d1c664c635ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_dbdf5f03_1752_45d3_b1b3_fb354aeb6ffd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1198fcec_5ab6_46fd_9187_c00cbb5b5e63() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_771d6ca9_ffdd_45f2_933d_fc0364e7b4e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f7b1d06d_37db_405c_9e2c_d5f00354d833() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1a213c9b_e039_47df_a259_dae441f1f5e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_95d7ef05_97df_4961_ad6a_cd5321234124() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c255670f_869e_4014_9719_6570b98ccd80() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3cc4f424_03e4_4585_893b_306373de48a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f980c964_d7cd_4110_b95a_71bb05bc5392() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7708122c_332d_4f5c_b2d4_2c2d603cbd78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_68a744a4_2057_4be9_b96c_da90b142a10d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1c317be2_cff8_43fe_ba64_9191c41e9fd6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eed83f2a_fcb4_49ad_9923_4328649709af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b6d54c89_ca44_4021_af8c_abae8cd4d1d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_00ca92bb_07c0_4061_8aea_8cfaec128004() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1466b759_9718_485a_96c3_4d77410aef8d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5c699116_a765_4b14_be73_c38d8d1f2e9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_dbe5417e_a9d4_4e33_b13e_014e032f2419() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9bcbd515_637d_46fa_9abb_efd845572db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_afc81f1b_8b8a_4988_bf26_fc7143535d42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_37f1f357_64c1_4521_8eb4_a050284cc10f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7d6ad412_7f28_4649_a3c7_f83f2c5b0768() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f2cce68e_57ef_49d7_9e27_8d02155f063c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_78c8ccea_a068_45f4_927a_619738e4f248() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5cc085ef_308a_442c_8e0e_fa049f8fe203() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0d848b32_3e13_4dd1_84c0_a5d97f5c4554() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7708122c_332d_4f5c_b2d4_2c2d603cbd78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d771411a_cf83_4392_8ccc_a8b0f429026c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c49079fd_f2c6_44bc_99df_a8b140c1075a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a3ba15c8_82f0_4415_a104_b87cbfbc5354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a36c73eb_13c2_48de_aa4d_e13321c4ebc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f86e4801_14f4_4d02_b82a_03aa2a17c624() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4702b3f0_9557_4e09_9758_074d226426b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b67bccb8_14f7_45db_9497_eafebafb30d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_954b67ac_3041_49ce_8b78_e4230aab25ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a7c49640_da40_4b6d_92e8_bc2a392d9abe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8c36546e_eae2_4abb_8281_56bedd870274() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7652e473_084e_4897_b826_0e442059a677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c3385071_2d47_4dd0_a355_fe99f9a60998() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c368c090_3527_4de7_9cf4_d9dce1bba0b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_87fa3bea_38a7_45b0_b29e_0c6819faf2cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5e8648d3_bd98_4514_9130_a545b7a02525() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_27389a54_b257_40bd_a099_11c13fba83b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9ce32e87_52fe_4d4b_849f_3a504b764ce5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bd14730a_6615_4511_af69_b55f8d161ec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4b08d22d_acfe_4e51_9e45_6af2ecad41f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6d2daa98_da35_4e29_bcb6_fb1881a13efa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_848d5a76_dbd3_4d0b_8976_e313f6b01e44() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ff349b73_a9f7_47c8_98e4_ff4252eac53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6ac66db3_ac66_43f2_9bc2_b25d784326fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d9565710_944a_4288_8404_6c8db64760c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e4fb4e5c_068a_4f89_b1e6_0b4ae9073f50() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_dbe5417e_a9d4_4e33_b13e_014e032f2419() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d29b52fc_edd7_4e0a_b7bd_972d70e16ace() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2cfe347c_1ff8_4013_a52b_2b1db527c8ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f5352cf1_0ed3_460c_b8f1_fd9cdb411cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_41cc5027_32a2_430c_ad0b_2a3c368991a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_95869828_e4d5_44f4_ab3f_85ed9705f745() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_86b853a2_d4a7_4b7b_81a4_cac8e6e2bc5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_968cedd5_b10a_47a7_9885_84f3dad4865c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3a7d6dff_f961_47d2_8455_c267e79a3689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_43306c0b_c78e_4cb5_8e15_8c1e8e661e92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_82aa11dc_7583_414c_91a4_313d0f1eab82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d3988492_b47e_4f94_8793_216336ace436() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8f7dd89c_cc11_44e5_ab6c_6e265d3e0d32() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d30a643b_d50c_44c4_9681_f2fc7858794e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3ea03378_4432_4809_8856_df1a6f6572ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0cd4ce3d_12e8_4888_85fa_ec72dd498b1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ee32b7df_a431_4e28_8f72_35cb78802c34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8d525af0_b663_49d7_a5b0_7fba9b4c6a96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5d49d1f2_2cbb_4e78_94ad_bbc1af084c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_88cc6153_4428_47eb_9759_68c2508f4afb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_17679957_b296_4f4e_b206_3c70406f2e0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_644e37fe_fe91_4396_a3d0_3ee4b972f26f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_946b09c1_01ab_4be1_bedd_c9cfb91bede9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8d9dbf51_82dd_4486_a802_d024a1e1b1fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b25fef39_a9da_46af_b9de_2f700ad1ace3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b2530638_0dfd_482e_b1b4_20fa4c495153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_de8876d7_d22a_4e7b_93e9_97c2e66b7d61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4b23450f_9567_4cab_90cf_b7402c095402() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_453cb93c_5c69_4e0d_a2ea_73517e462258() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0e9cfaf0_0ca4_4d52_a796_8240f4ef78bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bac04293_589e_4318_af23_271a33f3e1ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_74dd3d68_f657_42ac_b4ee_3b37c322f708() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_acf8eb51_1933_4318_b77b_8097197c1b8e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_47667f2f_7cb7_4bdf_abe9_1f86754532c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d369afcd_e5b3_4ff5_acd8_644b94afd281() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_079b933d_cbab_4345_8d1d_70eb5a2b93d1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d76d0f1c_669a_4b49_9fdb_ea8caea6a6e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e457abf6_b7f1_48ab_a19a_b466dd0f0b6f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_99c7dbdf_fb29_49c4_85be_3c935e926c95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_31a93a30_898d_4464_8c5f_96fc10e8ec81() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a36c73eb_13c2_48de_aa4d_e13321c4ebc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_023673c3_f730_4964_b98b_32b379342a48() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4494b7f3_4664_4bb9_9fb3_030e7f5a1ae8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8e2445f7_7857_41c1_b30a_8ae9e7dbca3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3cc4f424_03e4_4585_893b_306373de48a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_282119f6_cc7d_4fe8_b269_8d72260aa3ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eebab443_4f81_4a23_ba6b_8bd3b1aab7e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1a213c9b_e039_47df_a259_dae441f1f5e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cd615732_0796_49d2_95a7_4f4aba372269() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cd615732_0796_49d2_95a7_4f4aba372269() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9b82bcf8_15a4_4d02_a060_b8c375b65cc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f0607420_b519_4290_8073_ba20291c119f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fa9c1973_e2cd_4d74_865b_5c9f72f28cab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_57351533_50b8_4d7e_be78_fabfea4e1834() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9b82bcf8_15a4_4d02_a060_b8c375b65cc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8e31baed_4ae2_4b1c_a4b6_85b17dfef9d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ddb57b3f_c6cb_458a_b8c1_d25e2604fcc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c4fbb20b_fe4d_47b8_9aac_b6e7e6e7b53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_00ca92bb_07c0_4061_8aea_8cfaec128004() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7cf27102_2b60_444f_ad85_272d5c4a6125() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8b7f675f_cac9_41e6_897f_31736df178f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4576e5e8_97cd_4e24_be01_9e8d8cc13171() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4494b7f3_4664_4bb9_9fb3_030e7f5a1ae8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_15e2733e_fcac_4bd9_a790_305998592b5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5ee0943b_9506_47df_86e1_78d0f8f9c1cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e8f498d5_e1fe_490b_8740_8fd40cca82ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d7d0ccfa_4fd4_4740_beee_0d698890f123() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4494b7f3_4664_4bb9_9fb3_030e7f5a1ae8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d740b09b_3558_4c1f_8bf3_2194bc8a8de2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a9b4ea57_06ef_46bd_8682_0632b41e3214() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5873836d_175a_4641_892d_5be7aefd8b11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cbd56323_438b_4e7f_8d50_aa2ddde56564() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c49960ca_9aab_4c14_9f03_e33a6bb83a84() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f4679a1a_c2ef_4356_89e1_65ce82875788() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4b0aea01_6fbc_4f88_9c27_6c74989acde6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_888c1373_460a_4d3d_aae7_9caf29b8d7f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_acf8eb51_1933_4318_b77b_8097197c1b8e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eb046ca1_a069_45e3_ae25_925070d04153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_484cf906_8fcb_4f56_a544_13e3c70ccf51() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_56eca98b_8eb4_457c_9fc9_de9274e445e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cc5c8548_c51a_45d9_b8f5_a8f9222ed8c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c556bb33_73de_4695_b346_52779d9b4e29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_557cabfa_3327_41c7_9cd7_464a07306c1f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f792fb0b_b0ab_4fa2_ad16_22fd4ff31757() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c9832bba_0e1d_4d55_935c_de02c2a00172() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1ea4189c_f644_4ce5_b5a9_c134026c2441() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_24b064d6_b63e_4a05_b094_d925faee9cfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b2d75deb_f2eb_4d5e_b05b_ccbb28d40f2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_99c7dbdf_fb29_49c4_85be_3c935e926c95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0a548806_4591_4201_9546_64121bbd74e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c3b44182_7630_49ea_aec9_4d95476afb3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0d445ca7_b7cf_4fb0_9995_ca43515873e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5316daa2_bbf5_44d3_8d81_acab93e891af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_49dda6f5_b80c_405c_a608_ffe25a815b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_61971746_2171_4c98_b6c8_147b3cb18e8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e11f7b86_fd6f_4121_bf86_88832782895c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_149766e0_8416_4c2e_aff1_fb517fd75bc6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2c1896e7_8a9b_4267_adb2_aaeec0ccdffb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_41cc5027_32a2_430c_ad0b_2a3c368991a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f9ff15b4_b9b4_48e1_91a6_7ef18002e2c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3a7659c0_ccf0_4625_b4c3_427aad2b3db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_888c1373_460a_4d3d_aae7_9caf29b8d7f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fabdec3f_c197_41a7_8e6f_e3b8df6e8f86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_648c11d1_82aa_4928_b90c_c7ed8687de5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_16a1483a_6753_45f6_8ad5_74f07794ea4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f9dba577_7aaf_4306_8a58_bf8c5912a74f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e7c5899e_8d84_4f5a_8f44_e361b2e80bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5449533e_ab3b_455f_a6d0_337611f2e08c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cbf49026_ee29_46b1_90e4_c22d250da068() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6c009e11_87cf_489e_aa48_4187abfa271a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d7f7a330_7720_4370_859e_cf001c9a8ad8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f3cb170b_04a7_4888_86d9_94d841a9572c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_135abe43_29f6_476a_ad30_3d1fbb4d5495() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_02c31553_4c96_4fac_a86c_2f93d1a0cdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_90090a90_41ce_4f16_bf1b_e2250e3fd6ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_08ead59f_f3ad_492a_b3ab_b81148a8d74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c5e283f1_76e5_43ec_9e06_d12162a784f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_24b064d6_b63e_4a05_b094_d925faee9cfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d512fe67_c009_49ac_81ba_cdb73c2c8285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d7fb57bc_47bc_4401_ae2a_108856534d95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eca7e6d0_3549_4db8_bc80_eececd1fbee6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bbcc9e1a_e74f_40bf_b0bc_8e26dcbed27a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0fad87e0_cf98_44ea_ae21_826071bde1b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e4d7f8b2_ee8c_4987_a1d2_10ebf442252b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_486e539f_26ff_4a30_9f37_f00d7f1d064a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5a1a7310_e14e_4711_ab67_9b4ac8e86036() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2c1896e7_8a9b_4267_adb2_aaeec0ccdffb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b6d01139_60c2_47d0_8bd2_1bb0a02bfa19() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bbcc9e1a_e74f_40bf_b0bc_8e26dcbed27a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_956a7ca0_5844_4646_b0c1_f04159cd0b72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_de8876d7_d22a_4e7b_93e9_97c2e66b7d61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7a205394_8e80_4b61_a941_f8f60fae1354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d2c5ea4a_f7b7_400f_a093_942bbf4b9f6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_23ec91a9_848b_40f9_a2b7_b8d236e0508e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b2d75deb_f2eb_4d5e_b05b_ccbb28d40f2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d30aa814_fcf8_4a87_ad88_45f3b70078aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_356e1322_35b7_43b0_8209_d083f0a7e6d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a0f57023_382e_45be_8536_34dc98c6c4e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_858ea519_90d4_4feb_9eea_1b0979d543ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ff11ef87_f56a_4a52_b1a0_a77e655ddb92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_356e1322_35b7_43b0_8209_d083f0a7e6d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_29fffe9d_c2c8_46a7_b3aa_2dc8227679f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f980c964_d7cd_4110_b95a_71bb05bc5392() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cde81da9_cb1d_4f91_b1c1_506ba74365d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0e0407a8_73b5_42d4_ba70_579886a5f71f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_819bf7f0_5697_47ed_bb9a_2c6cd4436985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_273309b8_4431_4b1b_aa46_08c29839d212() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_31a93a30_898d_4464_8c5f_96fc10e8ec81() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_84579cf4_0c8e_4fc7_a528_5e7a7bbc88a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_58c489ac_f1e1_4de8_aab4_5d47f1319a65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0d445ca7_b7cf_4fb0_9995_ca43515873e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f6b2299e_a59d_44a2_a03d_df1d1e045b2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_815c96f2_2b49_4106_abbd_8d35a9d09409() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_98c55a1c_44fe_4fa0_9b01_a410655861c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cc5c8548_c51a_45d9_b8f5_a8f9222ed8c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5800031c_e0af_4051_a067_00ffd62c448e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_27f5d1ea_04c5_4e51_b8fe_1cbc24a03812() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2978e5d0_6913_4378_b0e8_cc0fe401658d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_188dff86_9469_4ea0_b24d_f91e5d119156() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e79ede6a_4b0b_487b_8a57_1facd0839ed0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bbef9525_a192_43e9_865c_6147135e4567() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e93976a4_2bfb_4285_9af6_71070152def9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1ac55b3e_bae3_4326_bc70_412c198684dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_57351533_50b8_4d7e_be78_fabfea4e1834() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bbef9525_a192_43e9_865c_6147135e4567() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_73afdd86_f65b_462d_ae8d_e67f718ec35f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a716cebd_c5fe_4b6a_865d_90bc5a885a05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a4c82a43_0819_4c38_8015_784f33e7687c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5987bfe1_bc25_4913_8fc7_ddfe79c9aee7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d0f4afbd_6b69_4285_b182_1013287df12c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f268be3c_5171_40d0_b067_d443f9854d15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_88cc6153_4428_47eb_9759_68c2508f4afb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d0f38e43_c473_4af9_a62e_3bf502a9cd61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8862f490_2bae_423a_97f3_e9e0f89fcf86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1cc9b519_029a_489c_bca2_61395745bf14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e9eb2e9e_368d_4209_a25a_960e8a9bb36c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_38fc052f_e08a_419b_aaca_2fc5c2050f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ff349b73_a9f7_47c8_98e4_ff4252eac53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eb2e3ad1_a534_4a43_b5ba_f54eba07eb17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_40a22024_bf6e_4e92_a99b_382e025a987f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_53e400ee_3128_460c_be24_1e671169471a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_14cfed96_7afe_4150_966d_473ff13187ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e0fff5c9_33f7_41ec_8f12_63f976699f9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_389bda97_201d_478d_88d4_8ad2635c4cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c17ba69b_1b73_4aad_8680_b85a7d05685e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7d3231d9_57a2_4d38_ade0_95bb2865e326() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e4b47bb5_68fa_4b0b_b854_8e5251d43a21() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9ce32e87_52fe_4d4b_849f_3a504b764ce5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_293c080a_ce58_4eee_a59e_5576cb232831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_71be32c5_2619_45bb_8e89_99004461b08e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d0f4afbd_6b69_4285_b182_1013287df12c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cc5c8548_c51a_45d9_b8f5_a8f9222ed8c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2bf72eff_a1f4_48f1_aa8a_30b2211528a4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e003fca7_283c_4186_837f_1b90e3bf815a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8f32a2d6_5ca1_4a3f_b4d9_6a9cc4589349() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eacb5181_7053_4ed0_a659_2d104c350c4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e9eb2e9e_368d_4209_a25a_960e8a9bb36c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_da782b7d_76d7_41a0_a2af_8778af2d9517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f81952a9_082b_429a_96a3_09f9a9ae26c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_63fad09a_d421_4b96_b440_bf23309f0f41() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_149766e0_8416_4c2e_aff1_fb517fd75bc6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3a7d6dff_f961_47d2_8455_c267e79a3689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f2cce68e_57ef_49d7_9e27_8d02155f063c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6fda086e_8a05_494a_8838_4bd443fcc09e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_80d7de7a_aacb_4780_8b1b_924aafacd4f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2e976c0c_cec3_4b63_858a_6f0fb60e3f12() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_03d88210_3c77_4e94_8a3e_baadd9fc9bdc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e3cd189c_33d5_4a24_9b00_6de7c1ef0c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_74bf63bb_3760_403e_b851_49d6ccde455e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8d9dbf51_82dd_4486_a802_d024a1e1b1fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_93b2d340_a97d_4eb2_a56d_3b3c4d6f9407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c5e283f1_76e5_43ec_9e06_d12162a784f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_319b2299_5d5a_46f6_badc_0bbdb46f82c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bf5067c6_4e39_4803_aedd_8968877b9843() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_282119f6_cc7d_4fe8_b269_8d72260aa3ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_080820dd_d38e_406f_8b3f_62fca078d0c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6862a3a9_eb18_4150_8054_c15abe6f35c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4492f787_f973_48f9_9d97_6acf15ee5f25() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4aadd8ee_4a0c_4954_917b_dffa04e57285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_71e6fef6_e96d_4087_bdd9_62203d557df3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e9eb2e9e_368d_4209_a25a_960e8a9bb36c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5cc085ef_308a_442c_8e0e_fa049f8fe203() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_52070785_585e_47c1_93b1_f53d9adbc0e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_fcd63daa_f8b0_4d90_9238_d0fc74401cc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_84579cf4_0c8e_4fc7_a528_5e7a7bbc88a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cfe9656d_2ed8_4cd8_b08a_fc30fe1667c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9952b97e_0beb_47be_81f2_971e8d7ce117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_56eca98b_8eb4_457c_9fc9_de9274e445e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ad84d376_d2e6_454c_a789_a481e05cd3f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4675e405_4b36_469c_94e5_a65e129c3f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_00ca92bb_07c0_4061_8aea_8cfaec128004() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3cc4f424_03e4_4585_893b_306373de48a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_40a22024_bf6e_4e92_a99b_382e025a987f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a9b3269b_bb63_4491_af67_7cf1c84a829c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0a5aec91_975e_4aef_8f0c_98fcd3d8b5f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d3988492_b47e_4f94_8793_216336ace436() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7e0be8d8_8a83_445e_83d5_bc21eb64751a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5e92642f_0f1f_49dc_9d3b_f2f9fabe3cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4702b3f0_9557_4e09_9758_074d226426b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_95869828_e4d5_44f4_ab3f_85ed9705f745() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2b64dbea_11d1_43c8_9f96_87fae98f98f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_44c0e1d5_c9a6_4f9e_827c_aa0ceeddb2dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_52070785_585e_47c1_93b1_f53d9adbc0e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bc5bba20_9ec9_4cb5_a7cb_ac9c6b234f72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e4d0d33b_f9a4_4611_ae0a_89571f574e5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e371e156_c8c8_417f_9e38_4617d5ccda06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6ad40f57_ebf7_4c21_a6e3_ee5b130c124c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_91349baa_fb46_4c09_ab32_ab0b049d18ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_80d7de7a_aacb_4780_8b1b_924aafacd4f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_db9a9b0e_1d51_47fd_a8a8_62c5a9425bc1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_20a93e97_8d0a_4139_8569_5126a89c835c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_26987fc1_c397_4316_b8ce_29fd9ab75aaf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b3700918_c3f3_4b6b_bc5c_8fc54f658110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ebdb48a7_4384_41a6_9236_7b49689d00a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_70c1d9a0_f874_4aec_befc_cc2fcf204117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e55eabfe_9e38_4d3b_b8e2_1c15c20b98d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_981babfd_33a6_481b_80cb_effc6f8cdcdb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ce5589cf_cfe5_4f5e_8f08_a4193c300482() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_81b3a83f_4d2d_4b96_ba03_db24992f5076() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8e25fc4b_0d10_47eb_9f78_6b2a179991d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9b7d3d0a_1b93_440f_a657_359fb4c70aca() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a6abbfe2_9960_41fa_806a_30112194afbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_dbdf5f03_1752_45d3_b1b3_fb354aeb6ffd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_799a3c17_b5ce_466f_ac19_d4072cc21a5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5501814a_b8bc_40f6_8649_054ad90acf1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5e1864f0_5f5e_489b_affb_b4a5fdca1a87() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_74e8c74d_a5b8_4b1e_b8e6_83eb5a6fe040() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_fc9c68de_5572_4780_bccf_0b0534876b60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b1b912e1_f76b_433f_8200_6e71e28280c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6d2daa98_da35_4e29_bcb6_fb1881a13efa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_765a13db_72f6_4b5c_a71d_ff296201a807() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_00b7633c_fe41_47c8_9f55_88056b0f72e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_651238f7_f68a_4ad5_8c44_100739681307() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2174e2d3_4c99_4ed7_ad42_b8588cff69f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bcfc44d4_7fa2_4f16_8b03_bceab9a3bcb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_63fad09a_d421_4b96_b440_bf23309f0f41() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_946b09c1_01ab_4be1_bedd_c9cfb91bede9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1feb5d43_9c01_4f32_aa89_02eed126dec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f5c06a80_be05_4b73_aba5_89513dbfe599() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bbcc9e1a_e74f_40bf_b0bc_8e26dcbed27a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_282119f6_cc7d_4fe8_b269_8d72260aa3ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a3632d17_1d76_48ba_a4e2_4e768e1c75cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9e4a8f4b_05b8_48d9_a997_b922d2525924() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_08ead59f_f3ad_492a_b3ab_b81148a8d74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7b661568_193a_42ee_aa53_f0f10d5cae07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ff7ed555_725d_4fe7_92d0_1630867a6399() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7d54445a_1515_4410_b5a4_d0fe6320830e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c9d172f2_9069_4e4e_9fda_7782107d6758() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ddb57b3f_c6cb_458a_b8c1_d25e2604fcc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4675e405_4b36_469c_94e5_a65e129c3f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_eb2e3ad1_a534_4a43_b5ba_f54eba07eb17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ebf201f3_0737_462d_9486_f189c789f82b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1ea4189c_f644_4ce5_b5a9_c134026c2441() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_34713c71_e2ae_4781_9b34_0e368f0ef73c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_802f758f_5a60_4091_8ec0_dbc7270c3644() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_131451d4_fcd2_4f33_80fa_28d8330aadfe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eb046ca1_a069_45e3_ae25_925070d04153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5e1864f0_5f5e_489b_affb_b4a5fdca1a87() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0e5534a6_cf6b_4852_a7cf_8b22198609e6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_de0c7334_bfcb_4ba6_b75f_f906484c66e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b2cd498a_55b3_4c9d_8828_6187d2d7b711() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_28be6abd_9d5e_41b3_b2d0_8ed8761ddbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3d456534_2e56_4069_9a85_ede872a43f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_484cf906_8fcb_4f56_a544_13e3c70ccf51() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8862f490_2bae_423a_97f3_e9e0f89fcf86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_84bd3a7d_20a5_41c9_90a4_c921f8c68b57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_fa9c1973_e2cd_4d74_865b_5c9f72f28cab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b2f28b8a_f14b_4939_8246_94d7fc917578() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4a04a7e9_8712_4597_8301_67fa108f3211() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_35b66550_9f23_460b_a7f3_5d796be5179c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1a213c9b_e039_47df_a259_dae441f1f5e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9e9e797f_aa84_499f_b831_8d165880215d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1bfebde5_dc19_45bd_ac0d_52db49c0983f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_55e70072_721d_41b8_9b43_6f6f122f5b39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7a205394_8e80_4b61_a941_f8f60fae1354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_858ea519_90d4_4feb_9eea_1b0979d543ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b3539769_b3ea_4d61_9bdc_9c1d98d61bf0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8b398875_921f_4042_b821_2ae9569a967e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3e5dd447_51ca_4372_ad67_d905f223c66f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4a04a7e9_8712_4597_8301_67fa108f3211() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_819bf7f0_5697_47ed_bb9a_2c6cd4436985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_452e3dd1_2c84_4f3a_b5d8_83de06491d60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1443082d_7633_4e88_8337_bf8f442932ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ece4c312_e317_421a_9228_6c96cad48ea7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2e9ddd36_7907_46c7_b7cf_4a0c1999dbee() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ae281160_d089_41cc_829c_c525ed3b891b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d6b3463e_9f51_431c_8168_c6d0f2957917() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7c1fdb6a_6c39_4950_9a16_f3299d177bc3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ff349b73_a9f7_47c8_98e4_ff4252eac53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_73c7112c_d111_497b_8255_8a88343b6980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1d15bb83_c832_4541_83fb_ef97a72e150d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4fce00af_2855_4d40_8524_a8b8c5871987() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_10736c77_102b_47f3_a0b7_4c7c41d3ad0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_377fde6c_2bae_44d3_b7db_7d5c61344601() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3770cdda_06cc_4c69_88de_a6aa4a28b3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0cc7a0ca_68bc_4dd6_800e_106544f855c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f9ff15b4_b9b4_48e1_91a6_7ef18002e2c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_73520caa_eeda_4410_95fc_e6294622085b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_70b52e62_d45c_4add_ba37_1ad81aa8863b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e457abf6_b7f1_48ab_a19a_b466dd0f0b6f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_233b2599_107d_464c_88c7_3b4728104103() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bac04293_589e_4318_af23_271a33f3e1ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1ba4b4bb_d587_41e7_b629_30eac2bc5c67() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_47a037c9_e6c4_4996_b464_07dc42c87467() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_644e37fe_fe91_4396_a3d0_3ee4b972f26f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_40718792_b6d1_4108_8242_b4daaf3cde61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4ccde43a_ebc8_411d_a9ef_9d2cea6be01d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f6221cbb_5ade_442e_bdfb_b33eac2912a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bf5067c6_4e39_4803_aedd_8968877b9843() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fd62fb40_693e_4a52_8439_2f7461c090d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_dbe5417e_a9d4_4e33_b13e_014e032f2419() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_90d8ea92_ba9e_4c5f_9b5c_0c6b9630fc14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2a28d249_c23c_418c_9d21_40e951dda629() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d53e0a47_1891_4b8c_87f3_776c50121e2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8b7f675f_cac9_41e6_897f_31736df178f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_fece2472_1efa_4822_ae56_056faaf1b66d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a0934cee_0ac9_438a_9db4_2a106667a735() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b67bccb8_14f7_45db_9497_eafebafb30d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f4daba23_5099_43e4_a0fc_19f1420e31de() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f89e7af5_3bbc_4ce1_8426_9e85a209f112() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5d39977b_f8ad_49de_8963_4a35ef3d2746() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_452e3dd1_2c84_4f3a_b5d8_83de06491d60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d04f8bbc_875b_48c8_a658_ba10350c46cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e4fb4e5c_068a_4f89_b1e6_0b4ae9073f50() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6deb9c1d_5d02_4813_b8ad_422cdf142888() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bc82da60_c8e7_4108_abe5_76d5c2b37bef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_465a1c7f_1d3d_418b_b0bc_f546377a09d7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_be236045_fdb1_4db6_bde6_d4f2e5133400() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_391d85cc_6a22_4747_9d05_10a35fe3dc1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fe19808b_2b7e_4d7c_9967_944d345bae7a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2bf72eff_a1f4_48f1_aa8a_30b2211528a4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4ade3008_7292_409c_b8e9_f7adfefde39d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_023673c3_f730_4964_b98b_32b379342a48() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0d445ca7_b7cf_4fb0_9995_ca43515873e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6b91dc0a_a715_46ad_a1b7_eee826255daa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8bd3139c_c6a6_42e0_9766_0a6ed2407480() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_737a537a_fc65_47c1_8e60_2f214e03438d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cfdfda29_f7cb_4f91_993e_b7b41d289473() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_37f1f357_64c1_4521_8eb4_a050284cc10f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_144196ac_f6da_4439_a1a6_f8cf6eac926e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1bfebde5_dc19_45bd_ac0d_52db49c0983f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9577eb9b_7192_4bee_9ff0_b464f4da0340() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_199dc9bb_cbba_47b2_adc1_fdece88eea1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5987bfe1_bc25_4913_8fc7_ddfe79c9aee7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cef660cd_4388_43f2_91cd_94c23a2c3831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8b7f675f_cac9_41e6_897f_31736df178f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7268cb26_dcc5_4ffb_9dd2_e38d55f1fc64() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c69203fd_d6e7_41bf_a91c_c8aec9a7d830() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_10b31e6a_4dd1_4a5a_aef9_167903e0d70a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_13dab434_f22f_4b45_9f04_c28ec63b5f79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c556bb33_73de_4695_b346_52779d9b4e29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9763d575_66e0_42a4_9e47_e0684da97d75() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a0934cee_0ac9_438a_9db4_2a106667a735() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_86b853a2_d4a7_4b7b_81a4_cac8e6e2bc5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9cd4a269_0ace_4bd2_a842_9550ac5204cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5262c358_1e40_4db2_8836_3070e98997cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9615d214_43ef_43ac_825b_2c341b289c06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3333f4b2_7489_4287_a684_cdde206549b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d3041944_c14a_4394_a340_f4edea6aab61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e3cd189c_33d5_4a24_9b00_6de7c1ef0c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4d73430e_ad45_42ba_9903_66482b7508f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_50fc240f_af80_4189_8cb6_84fd650cb9b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7bdb866e_70e9_4c05_886a_8228445416e5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_47582dd3_ada5_4870_b3b8_7e586c1fbff5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_04656934_ffea_46f4_82bd_713cf0cc77bf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bc5bba20_9ec9_4cb5_a7cb_ac9c6b234f72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0d445ca7_b7cf_4fb0_9995_ca43515873e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4ccde43a_ebc8_411d_a9ef_9d2cea6be01d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5c37a65a_2876_45fc_935f_d37c58600f94() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6e4c8d67_12f3_457c_826e_aa25d84cdec0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7b58e6c3_4f00_42f5_a6dd_a65634dcda74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e0fff5c9_33f7_41ec_8f12_63f976699f9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9adb8987_5266_4a79_ab8b_4157865ce544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_06e4bd33_4a1c_4192_bb9a_19c8348fd323() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3f751c91_c552_45fa_a989_db1fa3e9a463() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eb49788a_13ec_4c29_a3c1_d89ee835bee0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_00e3a74a_cb50_468d_8f20_26032d6fde23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f1923995_762b_47bb_a750_706e11444ccd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_25a628d5_1342_4075_843b_48892138af33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_44220939_00ab_4984_b119_21cbe6174efb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_764bf7ac_466c_4972_903d_45a003d0cbc2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6d6fa579_8817_4d43_98e7_b724de410be6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8f7dd89c_cc11_44e5_ab6c_6e265d3e0d32() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e6dc5af2_997d_4e0b_8b6f_cd6ab4d0f2fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_fa486180_84f5_4c2b_973b_6719182f636f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e55eabfe_9e38_4d3b_b8e2_1c15c20b98d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_978f6943_b6d6_4b27_ac6b_426ff740ebbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4c3ba4f3_add5_4610_b043_14df005db663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e5b13a8e_b90f_4a03_a8ab_9355b3f3dc60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eb046ca1_a069_45e3_ae25_925070d04153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8c36546e_eae2_4abb_8281_56bedd870274() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a3ba15c8_82f0_4415_a104_b87cbfbc5354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a0c9aa9b_7b77_4992_9a46_f74ee28012cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e7cd3f67_075d_410c_882a_8d45f6b10c65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6fda086e_8a05_494a_8838_4bd443fcc09e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f3006ca4_9d08_4c8a_9d63_98bf1715f027() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_afc81f1b_8b8a_4988_bf26_fc7143535d42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8cb2b342_c13e_4430_a86f_661b593def3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b417f45f_8873_4a8a_95be_d6fb892bd63e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9db0d9f8_e9b2_4806_8506_b2a85e176233() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5a1a7310_e14e_4711_ab67_9b4ac8e86036() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ec7d110c_ee49_4821_aef3_ef2d78b86cb2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_55e70072_721d_41b8_9b43_6f6f122f5b39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f23557cd_9a96_4614_99b3_fd08543d08be() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_098a6d7d_e02b_465a_8dc3_1b8fb27b65ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9e9e797f_aa84_499f_b831_8d165880215d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_131451d4_fcd2_4f33_80fa_28d8330aadfe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9fa98bef_42ab_4f62_8be8_182c94b2a1a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a55641d9_75de_4acd_8433_656036a5e891() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7a62ab24_7557_4a9a_b38d_42cb53cf52ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_10f20c6e_95f8_4fe6_b2b5_403f71fe1101() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_916d45a4_230a_4c77_aeec_1ebe99d705cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_fabdec3f_c197_41a7_8e6f_e3b8df6e8f86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_03cc8392_6c7e_4228_97f4_2de80141a4c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_91fad0d6_4ecf_499e_8d29_b9578a66d5a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2c86c608_2fbd_43b1_abc2_42c6972e5a23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_817145c8_2a36_43d5_bec7_373613e232d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a80dc3a8_f00a_48ac_8aeb_5d1bb9d019b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5ee0943b_9506_47df_86e1_78d0f8f9c1cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_31a93a30_898d_4464_8c5f_96fc10e8ec81() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3ea03378_4432_4809_8856_df1a6f6572ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c805c159_4323_4396_bac9_13ee7184106c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_88c06564_1810_4fdf_b2a3_cf91380cb954() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4bccfcf9_984d_4e4c_b7c9_64c41c650147() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4a04a7e9_8712_4597_8301_67fa108f3211() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ab6bd885_8f87_4e5d_a894_a8ba9787c0cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f1923995_762b_47bb_a750_706e11444ccd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_448ce701_7416_49c2_b190_2c2d931f1b05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ebdb48a7_4384_41a6_9236_7b49689d00a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_be7b66a2_a2a4_4322_aaf6_c6b48fd943bb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f275f14a_8ec8_4a6c_9b6a_04377fd582d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_457f717e_e9c8_4ec5_9a32_72ffd3cf373c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_715abd12_1fb6_430f_b27b_3767fcd61d2d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_728c62da_7a12_43fd_ba2e_4934cc3a55b3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_27389a54_b257_40bd_a099_11c13fba83b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a4c82a43_0819_4c38_8015_784f33e7687c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_35e203e0_0a5d_48a1_a7cb_d8034e1f7d07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7de14c72_68bd_4d2f_8a2e_2e6d7ca109e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2ff76f89_e6b5_46bb_8754_c27c2fddd7a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_98ae66a2_ab4b_4e5d_8352_74a81c86f04e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b2f28b8a_f14b_4939_8246_94d7fc917578() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e5b13a8e_b90f_4a03_a8ab_9355b3f3dc60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_02c31553_4c96_4fac_a86c_2f93d1a0cdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_af572062_5b46_4476_9b11_6e48b1d1a8d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a9fd8beb_da7d_4385_9ec1_30280af32df9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ab6bd885_8f87_4e5d_a894_a8ba9787c0cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8f7dd89c_cc11_44e5_ab6c_6e265d3e0d32() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2d3cde85_2226_4810_8d9a_1c5b6be08534() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3376c4ad_b3a5_47d5_bef3_7c1277636cda() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d99e0025_3f31_4c5a_98b5_24fc215502f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_448ce701_7416_49c2_b190_2c2d931f1b05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a6abbfe2_9960_41fa_806a_30112194afbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_82aa11dc_7583_414c_91a4_313d0f1eab82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d29b52fc_edd7_4e0a_b7bd_972d70e16ace() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4b08d22d_acfe_4e51_9e45_6af2ecad41f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5d49d1f2_2cbb_4e78_94ad_bbc1af084c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bcfc44d4_7fa2_4f16_8b03_bceab9a3bcb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d2c5ea4a_f7b7_400f_a093_942bbf4b9f6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3376c4ad_b3a5_47d5_bef3_7c1277636cda() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ffb36309_24ed_419b_9f53_91638faf834e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f820993f_009c_4d6b_96e7_307624c698e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a7dc7f7a_9c61_4201_a9df_526d85771fe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_649fc9e7_3544_4cae_b532_e072ec59f14a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1feb5d43_9c01_4f32_aa89_02eed126dec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9b718bb0_fa66_4adb_a718_cfd56478fec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9db0d9f8_e9b2_4806_8506_b2a85e176233() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_75a2adcd_402f_45c4_a00e_beca3b9af723() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_453cb93c_5c69_4e0d_a2ea_73517e462258() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cb0ac1e2_e64c_4af4_bfda_161caae77713() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cdb3dd3c_5d47_49bb_b23b_b03b5a4f8f78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8fe93fa1_0cc7_4248_b0a9_a88082bf0918() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8ee4b8f7_6900_4ad2_aa63_b63ef3aee729() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b43833a6_8576_4d24_9358_728ca31b3c60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4492f787_f973_48f9_9d97_6acf15ee5f25() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e93976a4_2bfb_4285_9af6_71070152def9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ece4c312_e317_421a_9228_6c96cad48ea7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_199dc9bb_cbba_47b2_adc1_fdece88eea1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c3b44182_7630_49ea_aec9_4d95476afb3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9763d575_66e0_42a4_9e47_e0684da97d75() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7af447ec_a277_47cf_9f80_a17da7b2c4fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8f7dd89c_cc11_44e5_ab6c_6e265d3e0d32() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_817145c8_2a36_43d5_bec7_373613e232d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_56ed38b5_bea3_4e56_915b_aa4c10a36e83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_352e9475_b5fa_4a3b_8883_6bd8ba0d8b71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_848d5a76_dbd3_4d0b_8976_e313f6b01e44() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bb4445b7_0e7d_476d_9dd0_f0d5c63258be() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cae29d64_2c04_4135_a87d_adb803743720() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_448ce701_7416_49c2_b190_2c2d931f1b05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5fc0e2f4_d7b3_49f2_82da_c01bca70c91f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e95dc24b_2e0a_43b5_b0f4_7022268b269d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cf6b24c6_3576_468a_915d_1e8f67f2fd08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_180dbf6a_6b47_44c5_88fb_17e420ef1c89() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_453cb93c_5c69_4e0d_a2ea_73517e462258() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_78eb4aa7_477f_44bd_998f_fdff7b7fbacc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_84559438_355e_494a_923c_0593166aef3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6883b9a4_b769_451e_805e_faaeb55df42c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5501814a_b8bc_40f6_8649_054ad90acf1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1630b33d_a749_4d85_a373_75e8696e30e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_03d88210_3c77_4e94_8a3e_baadd9fc9bdc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_84845dfb_d1cf_42b0_858f_301582421f54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4fce00af_2855_4d40_8524_a8b8c5871987() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a48ca183_f4be_4092_ae0d_5f0949fcacb8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_02e44a16_43ee_426b_8597_3662b722e815() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_84579cf4_0c8e_4fc7_a528_5e7a7bbc88a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_84bd3a7d_20a5_41c9_90a4_c921f8c68b57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ef38fc27_2999_4c4f_b0ca_86635c001580() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ec82b20f_a496_489f_8388_14984c76e3fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_21d84da7_79f0_4a10_8dd5_1fc8747b1362() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8e25fc4b_0d10_47eb_9f78_6b2a179991d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6c77b832_8c7c_435c_aa24_9fee67b2eb7c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_15e2733e_fcac_4bd9_a790_305998592b5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4b6fc7c6_9967_4d96_b660_9dc1e5e740f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e0fff5c9_33f7_41ec_8f12_63f976699f9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_71a1c50e_dd80_41f0_8256_d9105b4170f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_34713c71_e2ae_4781_9b34_0e368f0ef73c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_07659b4d_8dc7_4907_a5eb_28e9bf9a2535() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b6d54c89_ca44_4021_af8c_abae8cd4d1d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_caf4eb30_4381_4664_98f2_6a3b7438cc49() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_dea4b0a6_5a7d_4074_9e1b_5caa3f4c42cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_81b3a83f_4d2d_4b96_ba03_db24992f5076() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_384145c1_e1b3_4f3d_8d6d_c45eb4610af6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_465a1c7f_1d3d_418b_b0bc_f546377a09d7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e79ede6a_4b0b_487b_8a57_1facd0839ed0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_be7b66a2_a2a4_4322_aaf6_c6b48fd943bb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f86e4801_14f4_4d02_b82a_03aa2a17c624() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6883b9a4_b769_451e_805e_faaeb55df42c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2c578921_8b21_4602_bb26_f1f3aa84c74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5b10fa47_a122_47c4_93fc_7a6fe32701d0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_049146a7_63e9_408c_a936_1676299f3a07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e6dc5af2_997d_4e0b_8b6f_cd6ab4d0f2fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a7c49640_da40_4b6d_92e8_bc2a392d9abe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9b7d3d0a_1b93_440f_a657_359fb4c70aca() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b6f1b135_f855_4ce2_b34d_e088a07618bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_31ca8ecd_81d3_464f_ae5e_8d5d7c94d1ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_73520caa_eeda_4410_95fc_e6294622085b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_765a13db_72f6_4b5c_a71d_ff296201a807() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4675e405_4b36_469c_94e5_a65e129c3f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5ddb13c1_b0c3_4162_b821_1669584a7c72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f1b67d94_45f0_4b75_8dc4_2e9b1bf42f35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_00149b93_6dd8_43f5_bbd6_1b7b437b62c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_dcf93475_aa45_4c5c_a2c6_9d4de7de4814() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_956a7ca0_5844_4646_b0c1_f04159cd0b72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_80473db6_45d7_4b62_8c4e_b8f9ad11943f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b43833a6_8576_4d24_9358_728ca31b3c60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eb6e8584_9dc4_4337_9ac7_62da15c68aa4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f5c06a80_be05_4b73_aba5_89513dbfe599() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f34e2096_9ec6_4c79_b95c_592e9b2d87a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c891294b_82af_41e4_9f23_cf834346baea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_19fa8e85_d9dc_48d2_afa7_215df99e83e9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a9b3269b_bb63_4491_af67_7cf1c84a829c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8d2f7973_8123_4c69_9219_7cf84bcb2cf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e4d7f8b2_ee8c_4987_a1d2_10ebf442252b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_99c7dbdf_fb29_49c4_85be_3c935e926c95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_56c65a4c_750d_4b74_99f1_fde4512b6b08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7fbe0bb4_4457_4efc_bd9b_6a8585bf9fa9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e0ec658c_d893_4a64_9610_21d05efa1f2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9b2d75be_4cb5_4a27_abc8_2e4240d05c17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a880728b_fc44_4160_8379_16a0f413dfcd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_956a7ca0_5844_4646_b0c1_f04159cd0b72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_557cabfa_3327_41c7_9cd7_464a07306c1f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_44c0e1d5_c9a6_4f9e_827c_aa0ceeddb2dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_53e400ee_3128_460c_be24_1e671169471a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_557cabfa_3327_41c7_9cd7_464a07306c1f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6af16bf3_f4ab_4498_825d_1cfb003553eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ebdb48a7_4384_41a6_9236_7b49689d00a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_98c55a1c_44fe_4fa0_9b01_a410655861c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_21bd515b_7e56_4dd8_a7b8_e170220416c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a555f33f_d786_496e_9ece_c9960b25b780() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f5c06a80_be05_4b73_aba5_89513dbfe599() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0894e4b0_c701_49b8_8ab0_2cb14bc28c9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_56ed38b5_bea3_4e56_915b_aa4c10a36e83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5d9dcbbd_ed7e_47e8_b7fd_3e827ca0f289() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b184147d_4b43_48d5_85e7_ec433d5f5c22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_95c56fd6_ef5b_4b70_aec2_5194a1bc324e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_56f5137f_2813_4bd0_8e2d_3f5be91fee0c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d2c0f807_37f3_4299_b178_e3fd5a01a99e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8e25fc4b_0d10_47eb_9f78_6b2a179991d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_84559438_355e_494a_923c_0593166aef3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_68a744a4_2057_4be9_b96c_da90b142a10d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2449a290_0d75_41a4_b8c4_66f0da9ada8a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b8e2de44_ca18_44b3_803e_1cb22f53a26b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c318c943_cdfa_4bac_8be9_f1f6851e250b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_39a41b08_5dea_48e5_8d10_37da465a92af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c6e4239c_5de6_44b3_8e90_9b44bfd6bd4c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_70b52e62_d45c_4add_ba37_1ad81aa8863b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2fc99be9_f034_4662_91d4_8da347ac270a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3dc49209_2480_4959_9e2d_2969ea54d6e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6c77b832_8c7c_435c_aa24_9fee67b2eb7c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f4679a1a_c2ef_4356_89e1_65ce82875788() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9bcbd515_637d_46fa_9abb_efd845572db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_93dd0569_e20e_4082_85b3_7ea0d7b6d544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6ac66db3_ac66_43f2_9bc2_b25d784326fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e457abf6_b7f1_48ab_a19a_b466dd0f0b6f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_fd596678_1fc5_4ab1_a37e_982b1d1a1017() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_74e8c74d_a5b8_4b1e_b8e6_83eb5a6fe040() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1e5bb4e7_a4f9_401f_a7f9_80585e9c3bf2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cfe9656d_2ed8_4cd8_b08a_fc30fe1667c3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c9832bba_0e1d_4d55_935c_de02c2a00172() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b5292f1c_9570_4efe_8cb7_499cd3f85edc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ae281160_d089_41cc_829c_c525ed3b891b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_819bf7f0_5697_47ed_bb9a_2c6cd4436985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f34e2096_9ec6_4c79_b95c_592e9b2d87a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_be35ed86_7d35_441c_97af_75f391524552() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e003fca7_283c_4186_837f_1b90e3bf815a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cdb3dd3c_5d47_49bb_b23b_b03b5a4f8f78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4981b08f_c147_4432_ae78_4968ca05c813() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d29b52fc_edd7_4e0a_b7bd_972d70e16ace() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_188dff86_9469_4ea0_b24d_f91e5d119156() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5501814a_b8bc_40f6_8649_054ad90acf1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f82ff764_fa77_4262_b56d_51296059a3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cb5a42cb_3986_475a_a071_5eebc2fb1dfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fece2472_1efa_4822_ae56_056faaf1b66d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_978f6943_b6d6_4b27_ac6b_426ff740ebbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b3539769_b3ea_4d61_9bdc_9c1d98d61bf0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_562c8776_4913_49c9_92a6_6abc3767090a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1ba4b4bb_d587_41e7_b629_30eac2bc5c67() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eb2e3ad1_a534_4a43_b5ba_f54eba07eb17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_601848a1_86c6_46ec_8eb9_ed13cf9aeab2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fd596678_1fc5_4ab1_a37e_982b1d1a1017() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bf6f27d9_c448_454b_a53c_1c9c82e4b77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2e976c0c_cec3_4b63_858a_6f0fb60e3f12() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a8585a18_be3b_485c_bf37_5d62efc21ab3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b8e2de44_ca18_44b3_803e_1cb22f53a26b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eac4e926_4711_457e_8d65_6ca98f48f77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_48689ade_52bc_465b_b4e3_3b7c43bd1e5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f26d39db_eb7d_4e00_a78a_ce02d2fb4244() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_30d0ed00_bf64_4b42_b424_00598f4b726e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f9771953_7b9f_44a6_ba88_3a346575ccb7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2e976c0c_cec3_4b63_858a_6f0fb60e3f12() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c5e283f1_76e5_43ec_9e06_d12162a784f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_848d5a76_dbd3_4d0b_8976_e313f6b01e44() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c17ba69b_1b73_4aad_8680_b85a7d05685e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_377fde6c_2bae_44d3_b7db_7d5c61344601() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_13dab434_f22f_4b45_9f04_c28ec63b5f79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a3e4e954_a91c_4a26_8c93_3b8761e7aa34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_07659b4d_8dc7_4907_a5eb_28e9bf9a2535() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0de89018_e1cb_4099_a39b_744a1603e07d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_aa17327a_db10_4755_95db_79f82851af1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_888c1373_460a_4d3d_aae7_9caf29b8d7f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_30840940_1ccd_4c67_baa6_c4d472619f46() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2240021b_7a88_448d_9d66_ea312875174c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_92cff791_050a_4a33_8ebd_cf3e2f43116c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_29fffe9d_c2c8_46a7_b3aa_2dc8227679f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d038423e_5ef5_4131_a5ae_e3d6c7459485() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3435250a_fc84_43ca_aa53_9208ffdda6b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_18bb83b0_d68a_4110_acb6_d1e5e2113b76() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d0f38e43_c473_4af9_a62e_3bf502a9cd61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8cfb5c9a_a2c5_4e69_9695_47800c41a1e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_38f6cc21_2339_4ba9_a88a_e645ebc7c345() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_343919a2_afc7_4d94_b40c_3ed45e98c9ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b2530638_0dfd_482e_b1b4_20fa4c495153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fa20db9d_1397_40ea_9b26_06ef7b12a1aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b2f28b8a_f14b_4939_8246_94d7fc917578() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1d518114_4e5a_4dd2_a500_bcd91eef27a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6daf2ecb_df5e_4998_a076_a2beabe9b94b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_94ed1342_380e_4060_b9e8_18cf69b433cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_848d5a76_dbd3_4d0b_8976_e313f6b01e44() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bbef9525_a192_43e9_865c_6147135e4567() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b25fef39_a9da_46af_b9de_2f700ad1ace3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e93976a4_2bfb_4285_9af6_71070152def9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d04f8bbc_875b_48c8_a658_ba10350c46cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_71be32c5_2619_45bb_8e89_99004461b08e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0ac72a5a_1e86_4fdc_8065_3b6bf0cfa7b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_346fc4e4_4d4d_488a_91a6_4b54b1c9f80b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_715abd12_1fb6_430f_b27b_3767fcd61d2d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_888c1373_460a_4d3d_aae7_9caf29b8d7f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6d46619b_10f4_45f8_a486_cbb211efdb74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6862a3a9_eb18_4150_8054_c15abe6f35c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0e5534a6_cf6b_4852_a7cf_8b22198609e6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3a7d6dff_f961_47d2_8455_c267e79a3689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_38cd8e03_6667_4303_af2c_5646fc1ff07e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e0ec658c_d893_4a64_9610_21d05efa1f2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9ac08552_3d3f_442d_a240_a383f6057086() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f9dba577_7aaf_4306_8a58_bf8c5912a74f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b6f1b135_f855_4ce2_b34d_e088a07618bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f89e7af5_3bbc_4ce1_8426_9e85a209f112() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bc40aa13_b757_41f4_a58e_201913dbf50b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e11f7b86_fd6f_4121_bf86_88832782895c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_10b31e6a_4dd1_4a5a_aef9_167903e0d70a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e9781cb8_65e1_4f47_9895_0a4397bdf7e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4576e5e8_97cd_4e24_be01_9e8d8cc13171() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_56eca98b_8eb4_457c_9fc9_de9274e445e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0ba301a4_a1f0_42a0_912e_3fa3778de74e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_53ad3600_1be1_4b50_b5d1_5e12e1f4239b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7d54445a_1515_4410_b5a4_d0fe6320830e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c49960ca_9aab_4c14_9f03_e33a6bb83a84() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a716cebd_c5fe_4b6a_865d_90bc5a885a05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_56f5137f_2813_4bd0_8e2d_3f5be91fee0c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_39a41b08_5dea_48e5_8d10_37da465a92af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_30a87c3f_e9fa_44d0_ba6e_75b347a4aba8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f400232c_318b_45a2_8a24_a6f0bd66e053() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b0092186_cf5b_4c10_bde3_4a9c55422c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0af09423_9bf9_4aba_8c74_8f636e74bf47() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c2d1dd46_66c2_4a76_a0f4_f5ab644ac8f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2240021b_7a88_448d_9d66_ea312875174c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5331fd72_e650_4d28_8685_744ea51dfdf9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1198fcec_5ab6_46fd_9187_c00cbb5b5e63() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7c1fdb6a_6c39_4950_9a16_f3299d177bc3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5e92642f_0f1f_49dc_9d3b_f2f9fabe3cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_db2676fb_c002_469f_af1b_3977da0a0e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e93976a4_2bfb_4285_9af6_71070152def9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cef660cd_4388_43f2_91cd_94c23a2c3831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ebdb48a7_4384_41a6_9236_7b49689d00a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_93b2d340_a97d_4eb2_a56d_3b3c4d6f9407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5331fd72_e650_4d28_8685_744ea51dfdf9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4779c494_9510_445f_8603_d07442772956() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_832d85b3_87c9_457d_aa11_aee8fd387765() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_982c09f7_b4bc_46de_90e1_caf3281e5c86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_598dcba5_529f_41dc_821a_176ed0d8449e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_71e6fef6_e96d_4087_bdd9_62203d557df3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e41fa9b9_3c19_4d06_9a79_c609838729ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1b02acad_5de2_4868_b1a8_6b826986cc7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a0aec74b_1721_4476_8d48_2fcf030393ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_73bfbbd2_784f_47de_8cc4_f79760385689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0d848b32_3e13_4dd1_84c0_a5d97f5c4554() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d2e8d4d6_2eac_46c2_aa65_8619902d30f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8d2f7973_8123_4c69_9219_7cf84bcb2cf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6883b9a4_b769_451e_805e_faaeb55df42c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7a205394_8e80_4b61_a941_f8f60fae1354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ddbdbd1e_62b4_420f_860a_638d4ab2db29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_46630fca_69ff_440b_aaa8_f4b492c9c8ef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0e0407a8_73b5_42d4_ba70_579886a5f71f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a7c49640_da40_4b6d_92e8_bc2a392d9abe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_26bda9eb_c436_471e_a932_362b2d7db5dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_74dd3d68_f657_42ac_b4ee_3b37c322f708() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1476bd31_0862_46e0_b988_0c4b298caeef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_981babfd_33a6_481b_80cb_effc6f8cdcdb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_65d76c60_bdc7_4275_a6b1_8a434e0e6157() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9e3df6f7_a5c6_4bc3_9a78_70d9656bd16f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9e9e797f_aa84_499f_b831_8d165880215d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3435250a_fc84_43ca_aa53_9208ffdda6b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a8c45c3b_6cec_41dd_9a8f_5e03486101e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_27389a54_b257_40bd_a099_11c13fba83b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_be35ed86_7d35_441c_97af_75f391524552() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_26987fc1_c397_4316_b8ce_29fd9ab75aaf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d29b52fc_edd7_4e0a_b7bd_972d70e16ace() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_956a7ca0_5844_4646_b0c1_f04159cd0b72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_dc3a8c48_c638_4c6f_b1be_a02939e465fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3dc49209_2480_4959_9e2d_2969ea54d6e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f89e7af5_3bbc_4ce1_8426_9e85a209f112() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7c118035_cb24_4d1c_afe1_0800139c9b8f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ab6bd885_8f87_4e5d_a894_a8ba9787c0cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e11f7b86_fd6f_4121_bf86_88832782895c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9613ab2d_4c40_484d_8d2b_e505373ec6f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_acf8eb51_1933_4318_b77b_8097197c1b8e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_98ae66a2_ab4b_4e5d_8352_74a81c86f04e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_81b3a83f_4d2d_4b96_ba03_db24992f5076() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_79b7f9df_4618_442c_adb8_988a0849d517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_18d6fb39_94df_44b8_b8b7_b88d42c90458() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5555d585_9c5f_4d7a_9724_59353e58850f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b6d01139_60c2_47d0_8bd2_1bb0a02bfa19() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_94cb630c_1545_46f2_bbea_6b6bf0b1e10b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f929fede_42c7_4229_999b_bd4624380e1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4fe73fbb_9c52_4054_a7c8_28499c8de725() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8c36546e_eae2_4abb_8281_56bedd870274() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d0f38e43_c473_4af9_a62e_3bf502a9cd61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9db0d9f8_e9b2_4806_8506_b2a85e176233() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a0c9aa9b_7b77_4992_9a46_f74ee28012cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_23ec91a9_848b_40f9_a2b7_b8d236e0508e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8e2445f7_7857_41c1_b30a_8ae9e7dbca3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eb49788a_13ec_4c29_a3c1_d89ee835bee0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9f97e933_2fe5_48d0_b6b0_1d983612a407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_acf8eb51_1933_4318_b77b_8097197c1b8e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c805c159_4323_4396_bac9_13ee7184106c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bb89276e_4f30_472b_bd5b_2952d0d32e9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_389bda97_201d_478d_88d4_8ad2635c4cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a555f33f_d786_496e_9ece_c9960b25b780() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7fd0f760_8b0c_41e6_bb79_3259345cf686() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2f82ef57_b16e_42e4_85c8_301152a61901() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c49079fd_f2c6_44bc_99df_a8b140c1075a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_448ce701_7416_49c2_b190_2c2d931f1b05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d512fe67_c009_49ac_81ba_cdb73c2c8285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0de89018_e1cb_4099_a39b_744a1603e07d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e0fff5c9_33f7_41ec_8f12_63f976699f9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e7cd3f67_075d_410c_882a_8d45f6b10c65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ee32b7df_a431_4e28_8f72_35cb78802c34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_af572062_5b46_4476_9b11_6e48b1d1a8d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9b2d75be_4cb5_4a27_abc8_2e4240d05c17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4fce00af_2855_4d40_8524_a8b8c5871987() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b1b912e1_f76b_433f_8200_6e71e28280c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_68a71339_b039_4988_96f1_80ce9e16a0f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_dcf93475_aa45_4c5c_a2c6_9d4de7de4814() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_47667f2f_7cb7_4bdf_abe9_1f86754532c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ddb57b3f_c6cb_458a_b8c1_d25e2604fcc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c255670f_869e_4014_9719_6570b98ccd80() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b0989fa3_60c9_4940_b45c_f16d9b3018eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2174e2d3_4c99_4ed7_ad42_b8588cff69f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_14cfed96_7afe_4150_966d_473ff13187ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3e602e21_0802_4e6e_a73a_436b1f6c0ca5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_377fde6c_2bae_44d3_b7db_7d5c61344601() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_18bb83b0_d68a_4110_acb6_d1e5e2113b76() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_35b66550_9f23_460b_a7f3_5d796be5179c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_06e4bd33_4a1c_4192_bb9a_19c8348fd323() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cae29d64_2c04_4135_a87d_adb803743720() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_10b31e6a_4dd1_4a5a_aef9_167903e0d70a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2449a290_0d75_41a4_b8c4_66f0da9ada8a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_14ea93e7_74d8_4f7a_a7b4_05421a48728d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b5120942_451f_4df2_8b17_14830bc921cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bacc4f52_e86c_4f82_984b_1557ea99355d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_15134e1e_d87f_4463_92a0_083edd1a3dc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_25c81e45_5698_47f6_b503_f6f8cb7b627d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e0ec658c_d893_4a64_9610_21d05efa1f2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_db9a9b0e_1d51_47fd_a8a8_62c5a9425bc1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_64016e12_ad35_4222_8e63_078f5efde32f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ad84d376_d2e6_454c_a789_a481e05cd3f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_44d886fa_4a89_4684_938d_d0db2f5eaa22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8fe93fa1_0cc7_4248_b0a9_a88082bf0918() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7805c5e7_2fde_45f3_a132_6288aab31e9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f1923995_762b_47bb_a750_706e11444ccd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8b398875_921f_4042_b821_2ae9569a967e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eb6050ca_2572_450f_aba1_fafd27077288() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e371e156_c8c8_417f_9e38_4617d5ccda06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e3a10045_97e5_49ff_a6c3_1605fb7f3c43() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7d3231d9_57a2_4d38_ade0_95bb2865e326() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_53ad3600_1be1_4b50_b5d1_5e12e1f4239b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e457abf6_b7f1_48ab_a19a_b466dd0f0b6f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b184147d_4b43_48d5_85e7_ec433d5f5c22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d4c78b5a_5fd4_4419_853c_9eccb23d49d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_815c96f2_2b49_4106_abbd_8d35a9d09409() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_41623d1c_17c6_405f_8585_c55bc79f36db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eefef6e0_0ad6_4611_99e1_257901700ebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_453cb93c_5c69_4e0d_a2ea_73517e462258() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bb4445b7_0e7d_476d_9dd0_f0d5c63258be() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8d9dbf51_82dd_4486_a802_d024a1e1b1fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b3539769_b3ea_4d61_9bdc_9c1d98d61bf0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_172d1ea8_7651_42a2_9091_b403eafddf4a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_91f334bf_582b_4189_b073_45a67409c663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a0c9aa9b_7b77_4992_9a46_f74ee28012cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f980c964_d7cd_4110_b95a_71bb05bc5392() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_79b7f9df_4618_442c_adb8_988a0849d517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a8585a18_be3b_485c_bf37_5d62efc21ab3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f712bbfa_e3fe_4419_b005_5b7e3648f1db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8b293647_40c0_4601_a67d_b233f87de646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6a400c86_d29a_4f67_adbd_0be3cbf77520() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4675e405_4b36_469c_94e5_a65e129c3f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9577eb9b_7192_4bee_9ff0_b464f4da0340() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f6b3a61e_8429_4a17_a7b3_33eb4e1b5e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_df53c05c_5658_462b_ada5_a9c6f20cabf6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_94ed1342_380e_4060_b9e8_18cf69b433cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e41fa9b9_3c19_4d06_9a79_c609838729ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_327f8c0e_d0cc_4133_8225_64ba9d6675c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_28be6abd_9d5e_41b3_b2d0_8ed8761ddbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b302fbc1_5c9d_4a65_82df_1df91378bb3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_be2f7d5e_6125_4b36_b272_b067cbb76a95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1c70a157_b194_4a3c_9ec0_f6726dcda3b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_080820dd_d38e_406f_8b3f_62fca078d0c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bd12b9e4_5662_40ae_adcc_cd9bba83a0c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_81c95b98_f801_43e0_b995_9e0db2a25bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1ad0c93b_74e1_4703_bfbc_d1c664c635ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1d15bb83_c832_4541_83fb_ef97a72e150d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e6cc0b0b_75b6_44f9_8c23_2df096ddf5ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_71be32c5_2619_45bb_8e89_99004461b08e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1ac55b3e_bae3_4326_bc70_412c198684dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d04f8bbc_875b_48c8_a658_ba10350c46cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eb046ca1_a069_45e3_ae25_925070d04153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_319b2299_5d5a_46f6_badc_0bbdb46f82c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_25c81e45_5698_47f6_b503_f6f8cb7b627d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e79ede6a_4b0b_487b_8a57_1facd0839ed0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0de89018_e1cb_4099_a39b_744a1603e07d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fa20db9d_1397_40ea_9b26_06ef7b12a1aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2aefe43b_d179_404e_89b4_057d417650d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eac4e926_4711_457e_8d65_6ca98f48f77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_648c11d1_82aa_4928_b90c_c7ed8687de5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fa9c1973_e2cd_4d74_865b_5c9f72f28cab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1c317be2_cff8_43fe_ba64_9191c41e9fd6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3333f4b2_7489_4287_a684_cdde206549b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5d39977b_f8ad_49de_8963_4a35ef3d2746() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bb89276e_4f30_472b_bd5b_2952d0d32e9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_80473db6_45d7_4b62_8c4e_b8f9ad11943f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a7dc7f7a_9c61_4201_a9df_526d85771fe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_733db2e9_3d9e_4816_8c8e_59a5a5d8ddad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8fe93fa1_0cc7_4248_b0a9_a88082bf0918() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ac5eb779_00bd_4066_8031_f10d870e69a6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1ea4189c_f644_4ce5_b5a9_c134026c2441() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_caf4eb30_4381_4664_98f2_6a3b7438cc49() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9ac08552_3d3f_442d_a240_a383f6057086() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_98ae66a2_ab4b_4e5d_8352_74a81c86f04e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3dc49209_2480_4959_9e2d_2969ea54d6e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_73ebf316_16e4_4cec_8c52_053764f5c4fe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_562c8776_4913_49c9_92a6_6abc3767090a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d2cf35e9_b14c_4193_ba6b_ce0332ca6863() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b67bccb8_14f7_45db_9497_eafebafb30d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a003a6da_de30_4186_bb43_e711be9bad60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7af447ec_a277_47cf_9f80_a17da7b2c4fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4702b3f0_9557_4e09_9758_074d226426b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b956fea4_cbe4_46b8_88a8_596bbb94603d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e4326926_010b_4fb7_9813_d4a2336da9f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e1ee52d7_ce63_4de3_8a80_146a94d54d7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d369afcd_e5b3_4ff5_acd8_644b94afd281() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7360784b_bbef_4e86_b52c_68d16ecb239f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_858ea519_90d4_4feb_9eea_1b0979d543ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3da4c117_530b_4a15_9b70_770d3a81ed83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_149766e0_8416_4c2e_aff1_fb517fd75bc6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c255670f_869e_4014_9719_6570b98ccd80() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_817145c8_2a36_43d5_bec7_373613e232d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_10f20c6e_95f8_4fe6_b2b5_403f71fe1101() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_929405d6_1ddc_4e7f_b7c6_de2b7ee434e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ac7793f4_5fd4_42f2_a749_da5b2a9bdb6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cc47d1a7_0306_4b23_94a5_c2f30b4457ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_25a628d5_1342_4075_843b_48892138af33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_31a93a30_898d_4464_8c5f_96fc10e8ec81() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_30840940_1ccd_4c67_baa6_c4d472619f46() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c805c159_4323_4396_bac9_13ee7184106c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6f979d3b_1453_4829_a04b_a63c861e3e03() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cc47d1a7_0306_4b23_94a5_c2f30b4457ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c5e283f1_76e5_43ec_9e06_d12162a784f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b2cd498a_55b3_4c9d_8828_6187d2d7b711() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_049146a7_63e9_408c_a936_1676299f3a07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_03d88210_3c77_4e94_8a3e_baadd9fc9bdc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f26d39db_eb7d_4e00_a78a_ce02d2fb4244() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4b6fc7c6_9967_4d96_b660_9dc1e5e740f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3d08eec1_5a3f_4eff_9c1b_1686a8f52259() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2174e2d3_4c99_4ed7_ad42_b8588cff69f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a9793c49_2170_46bc_8913_ac5cf887abb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_75b19c5f_c881_4599_ad3b_a051bd2e3367() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8528515c_ea3a_4c97_9489_22f466a32e2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4d65b1f4_38a8_4005_afc0_2bd5f8bb9662() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_484770ca_b55b_4d3b_9481_11d168ac684c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ac7fa6a2_2a34_4265_b3ce_fa1103ad4136() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_edbff296_13ba_4548_a2d0_70387e655905() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_577be1ea_6beb_4aaf_a34b_403d373cf533() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4c03627f_8631_4190_9a2a_de12d3dffe74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_21108fa2_c652_41c2_973e_15d6737a81bc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f3cb170b_04a7_4888_86d9_94d841a9572c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0cd4ce3d_12e8_4888_85fa_ec72dd498b1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2c1896e7_8a9b_4267_adb2_aaeec0ccdffb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7c118035_cb24_4d1c_afe1_0800139c9b8f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a55641d9_75de_4acd_8433_656036a5e891() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fe6cc0dc_63c7_4a40_a3b1_aa4489c0d8e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6ad40f57_ebf7_4c21_a6e3_ee5b130c124c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f17a064e_16e2_46f0_99fb_f9644938de91() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a1f5ac59_5d2b_42cd_aaf2_0b8eeb71cb68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c5e283f1_76e5_43ec_9e06_d12162a784f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4779c494_9510_445f_8603_d07442772956() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1131a41b_d118_4483_a309_6f297d44b401() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_74e8c74d_a5b8_4b1e_b8e6_83eb5a6fe040() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a6abbfe2_9960_41fa_806a_30112194afbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d30a643b_d50c_44c4_9681_f2fc7858794e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cd615732_0796_49d2_95a7_4f4aba372269() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1a213c9b_e039_47df_a259_dae441f1f5e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b0e53dd0_e0c7_4405_ab5c_8a7298e04221() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cdb3dd3c_5d47_49bb_b23b_b03b5a4f8f78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_58c489ac_f1e1_4de8_aab4_5d47f1319a65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_484770ca_b55b_4d3b_9481_11d168ac684c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_41cc5027_32a2_430c_ad0b_2a3c368991a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_df53c05c_5658_462b_ada5_a9c6f20cabf6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e4fb4e5c_068a_4f89_b1e6_0b4ae9073f50() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0dee506b_8f43_4a7b_a420_64cf8247ee9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b966024e_c470_4be6_ac13_1a447431b12e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a9b3269b_bb63_4491_af67_7cf1c84a829c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_65d76c60_bdc7_4275_a6b1_8a434e0e6157() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_40718792_b6d1_4108_8242_b4daaf3cde61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e0fff5c9_33f7_41ec_8f12_63f976699f9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bbcc9e1a_e74f_40bf_b0bc_8e26dcbed27a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2c73e514_da6a_493c_845d_bbe24ee95753() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_13f30eaa_0792_4ca1_91dd_073ff421cdab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a8916520_faf8_48b2_b78b_3963335ae33a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_180dbf6a_6b47_44c5_88fb_17e420ef1c89() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d9565710_944a_4288_8404_6c8db64760c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_02e44a16_43ee_426b_8597_3662b722e815() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0e3aa665_c672_4a1d_a8d2_67828f036958() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7bdb866e_70e9_4c05_886a_8228445416e5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9b7d3d0a_1b93_440f_a657_359fb4c70aca() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3a7d6dff_f961_47d2_8455_c267e79a3689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2fc99be9_f034_4662_91d4_8da347ac270a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bcfc44d4_7fa2_4f16_8b03_bceab9a3bcb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_77de06b2_d050_44a9_a61f_eabbf0f5bc79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d0f38e43_c473_4af9_a62e_3bf502a9cd61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_18bb83b0_d68a_4110_acb6_d1e5e2113b76() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e2dcd15b_a8f8_4867_a1a6_87114cdcba11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b4410530_ddaa_4a6c_9467_4ca4fe9494e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8b60dbad_73eb_4a31_8850_9a9d4df42fad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_58c489ac_f1e1_4de8_aab4_5d47f1319a65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0ac72a5a_1e86_4fdc_8065_3b6bf0cfa7b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1fbfbb0f_0ddf_44a1_9642_80287d2ac0f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2c86c608_2fbd_43b1_abc2_42c6972e5a23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b5542fee_1a1f_4d38_9fd9_388bff5776c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2a39b3fe_bae7_430e_bf8c_434cb8dfe3c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0e1062cd_4d72_43c3_a032_bdcbe4d8767e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_02c31553_4c96_4fac_a86c_2f93d1a0cdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0894e4b0_c701_49b8_8ab0_2cb14bc28c9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_98ae66a2_ab4b_4e5d_8352_74a81c86f04e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9fa98bef_42ab_4f62_8be8_182c94b2a1a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2a39b3fe_bae7_430e_bf8c_434cb8dfe3c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_68256400_2280_4a91_9833_a17fa0febb57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bd12b9e4_5662_40ae_adcc_cd9bba83a0c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a1c7b368_0eee_435c_9a49_b6bc4efaf3c7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1c70a157_b194_4a3c_9ec0_f6726dcda3b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b5542fee_1a1f_4d38_9fd9_388bff5776c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_443564b4_fc41_43f7_9c16_208266edd110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7652e473_084e_4897_b826_0e442059a677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_21bd515b_7e56_4dd8_a7b8_e170220416c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9577eb9b_7192_4bee_9ff0_b464f4da0340() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_caf4eb30_4381_4664_98f2_6a3b7438cc49() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_715abd12_1fb6_430f_b27b_3767fcd61d2d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_26622fa7_e150_4a84_8321_741f0713c133() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4de9cf88_7ff4_46f2_a5b8_3c94c1a837db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9df647c2_4ace_418b_bb0e_96f2c5e2575c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_897f32e1_ecc8_40ff_9533_77612867dc00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a06b10b4_32d2_4b45_8ca8_cdb2d02c8980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_39a41b08_5dea_48e5_8d10_37da465a92af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f27e05ef_ac05_4b4f_bc51_49ae6852e3cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b5542fee_1a1f_4d38_9fd9_388bff5776c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_caa81f36_e878_4d6c_91f8_d8fe638cdd3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4576e5e8_97cd_4e24_be01_9e8d8cc13171() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1251bae7_9396_4689_a8b7_b683cd00ca78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e4fb4e5c_068a_4f89_b1e6_0b4ae9073f50() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bd70d67f_9bdc_4419_a417_b3b6c0d6bdd8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_84845dfb_d1cf_42b0_858f_301582421f54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_94ed1342_380e_4060_b9e8_18cf69b433cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6a47c0de_738b_4ca6_bb53_67fa8b9698dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d34558b5_87b4_4454_b037_fa077a57d149() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1a213c9b_e039_47df_a259_dae441f1f5e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_db2676fb_c002_469f_af1b_3977da0a0e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a3632d17_1d76_48ba_a4e2_4e768e1c75cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a3632d17_1d76_48ba_a4e2_4e768e1c75cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f35e15a1_35c5_4f2b_957a_cb270568249c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_68256400_2280_4a91_9833_a17fa0febb57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7b58e6c3_4f00_42f5_a6dd_a65634dcda74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e57ecbcd_8d22_4ed9_828c_63a4bbd38be1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f3006ca4_9d08_4c8a_9d63_98bf1715f027() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_06e4bd33_4a1c_4192_bb9a_19c8348fd323() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_889cda97_0934_4e5d_aa92_a11e6f127b45() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d30aa814_fcf8_4a87_ad88_45f3b70078aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_452e3dd1_2c84_4f3a_b5d8_83de06491d60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_38fc052f_e08a_419b_aaca_2fc5c2050f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_936c8cea_8ab0_4ff4_b53d_b57bf700b2fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7708122c_332d_4f5c_b2d4_2c2d603cbd78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_da410df7_977f_4993_847d_94d3cb013c5a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_978f6943_b6d6_4b27_ac6b_426ff740ebbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6feffe38_773a_4abe_9663_24b07f0a9c7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6862a3a9_eb18_4150_8054_c15abe6f35c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_079b933d_cbab_4345_8d1d_70eb5a2b93d1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_064cfc59_797e_4998_bdb6_3960e5fffd55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7f811352_09b2_4f2f_a02b_038f9cfad8b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_916d45a4_230a_4c77_aeec_1ebe99d705cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c556bb33_73de_4695_b346_52779d9b4e29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4b6fc7c6_9967_4d96_b660_9dc1e5e740f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e457abf6_b7f1_48ab_a19a_b466dd0f0b6f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_acf8eb51_1933_4318_b77b_8097197c1b8e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c6a516c4_9b14_4981_b3e0_a54e16b850d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9ac08552_3d3f_442d_a240_a383f6057086() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eebab443_4f81_4a23_ba6b_8bd3b1aab7e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_be82579e_632f_4d7b_9465_dfabd586bebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_06c9099f_3e13_42c9_a1c5_207e029a26f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_817145c8_2a36_43d5_bec7_373613e232d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f35e15a1_35c5_4f2b_957a_cb270568249c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_91fad0d6_4ecf_499e_8d29_b9578a66d5a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f2519f03_d430_4711_ab97_2976272b0b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_53e400ee_3128_460c_be24_1e671169471a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5e65b2df_a8c0_4e7e_812a_e872ca01c92c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_45feb8cd_d555_4f60_953c_0f5960b964a6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6e74b257_a68c_426c_ab39_bdccf273bc2f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8c36546e_eae2_4abb_8281_56bedd870274() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e3d83a75_919e_4490_a80e_99f9d70deac0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_392ae023_f7ce_469e_8144_d2fe009b8602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_06e4bd33_4a1c_4192_bb9a_19c8348fd323() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8cb2b342_c13e_4430_a86f_661b593def3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2c578921_8b21_4602_bb26_f1f3aa84c74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eacb5181_7053_4ed0_a659_2d104c350c4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_916d45a4_230a_4c77_aeec_1ebe99d705cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_815c96f2_2b49_4106_abbd_8d35a9d09409() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_be82579e_632f_4d7b_9465_dfabd586bebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_064cfc59_797e_4998_bdb6_3960e5fffd55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eed83f2a_fcb4_49ad_9923_4328649709af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_92cff791_050a_4a33_8ebd_cf3e2f43116c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f6221cbb_5ade_442e_bdfb_b33eac2912a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8b293647_40c0_4601_a67d_b233f87de646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ae438f58_e6b3_4f82_8952_5996e766ece0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_30c4b6cf_935f_4662_b9ab_7b1c8355f342() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_978f6943_b6d6_4b27_ac6b_426ff740ebbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_978f6943_b6d6_4b27_ac6b_426ff740ebbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_56f5137f_2813_4bd0_8e2d_3f5be91fee0c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_28be6abd_9d5e_41b3_b2d0_8ed8761ddbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_356e1322_35b7_43b0_8209_d083f0a7e6d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5b71c020_45d3_4392_aab9_7d25ae2aae65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e2dcd15b_a8f8_4867_a1a6_87114cdcba11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c17ba69b_1b73_4aad_8680_b85a7d05685e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c368c090_3527_4de7_9cf4_d9dce1bba0b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9e9e797f_aa84_499f_b831_8d165880215d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2c60a328_ac9b_4f33_b87d_36d54170f5c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2978e5d0_6913_4378_b0e8_cc0fe401658d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8b7e2024_e370_4046_9a3d_56fbb4ec4a61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0ac72a5a_1e86_4fdc_8065_3b6bf0cfa7b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7c1fdb6a_6c39_4950_9a16_f3299d177bc3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_56ed38b5_bea3_4e56_915b_aa4c10a36e83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a8c45c3b_6cec_41dd_9a8f_5e03486101e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f0607420_b519_4290_8073_ba20291c119f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_30c4b6cf_935f_4662_b9ab_7b1c8355f342() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cdb3dd3c_5d47_49bb_b23b_b03b5a4f8f78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9dbf02ae_f481_45a7_a72f_2b21c859cf69() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5fc0e2f4_d7b3_49f2_82da_c01bca70c91f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_79fef72a_adfe_43e8_a895_9673a16798da() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f4bec27c_cf40_4be9_b86e_b88888b11c6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d04a1619_8811_4250_98e8_074f47b6b8b4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d53e0a47_1891_4b8c_87f3_776c50121e2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_38fc052f_e08a_419b_aaca_2fc5c2050f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_39e1fdd2_23e4_443f_82d0_28cff8d868e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7b58e6c3_4f00_42f5_a6dd_a65634dcda74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b9167fb5_6474_45c8_87a3_0cf3e7d3cf22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_46630fca_69ff_440b_aaa8_f4b492c9c8ef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bd78a1e0_1ffd_42b2_a9d0_43f40526e2f7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5b2a0071_f578_4132_8356_167b34119664() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_973459a3_1068_498a_8769_2e7643be17d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b3700918_c3f3_4b6b_bc5c_8fc54f658110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_be2f7d5e_6125_4b36_b272_b067cbb76a95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c368c090_3527_4de7_9cf4_d9dce1bba0b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7ef28c35_8129_4e58_b053_afb83aee7c6c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9952b97e_0beb_47be_81f2_971e8d7ce117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_84845dfb_d1cf_42b0_858f_301582421f54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_21d84da7_79f0_4a10_8dd5_1fc8747b1362() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5c37a65a_2876_45fc_935f_d37c58600f94() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_de8876d7_d22a_4e7b_93e9_97c2e66b7d61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4aadd8ee_4a0c_4954_917b_dffa04e57285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1277b579_db7f_43ba_b985_0d0f9141277c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_fafdda9e_2135_4864_bbc3_658367d1e842() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e8d1699d_f105_4e7c_b450_51eb5d5a628e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_92f07b4f_fcf3_41af_b6c3_ba17f820abfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ece4c312_e317_421a_9228_6c96cad48ea7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ec7d110c_ee49_4821_aef3_ef2d78b86cb2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d29b52fc_edd7_4e0a_b7bd_972d70e16ace() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_929405d6_1ddc_4e7f_b7c6_de2b7ee434e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f23557cd_9a96_4614_99b3_fd08543d08be() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_391d85cc_6a22_4747_9d05_10a35fe3dc1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c009e9e5_ae84_4617_8db1_64a9298fde95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3ecdc9e2_24f5_4ac8_b7be_8689296afba0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d6b3463e_9f51_431c_8168_c6d0f2957917() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_17679957_b296_4f4e_b206_3c70406f2e0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_95c56fd6_ef5b_4b70_aec2_5194a1bc324e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_41623d1c_17c6_405f_8585_c55bc79f36db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0de89018_e1cb_4099_a39b_744a1603e07d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eebab443_4f81_4a23_ba6b_8bd3b1aab7e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6d50a7e7_8d9e_4f37_87d8_15163c901700() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4fe73fbb_9c52_4054_a7c8_28499c8de725() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e93976a4_2bfb_4285_9af6_71070152def9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7e0be8d8_8a83_445e_83d5_bc21eb64751a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1198fcec_5ab6_46fd_9187_c00cbb5b5e63() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_da7b6045_9987_4a11_9285_d694fab2eaaa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6daf2ecb_df5e_4998_a076_a2beabe9b94b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eebab443_4f81_4a23_ba6b_8bd3b1aab7e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9adb8987_5266_4a79_ab8b_4157865ce544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c0cdefd9_b247_4191_a5ef_86539f8da2f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_44220939_00ab_4984_b119_21cbe6174efb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0cd4ce3d_12e8_4888_85fa_ec72dd498b1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_38fc052f_e08a_419b_aaca_2fc5c2050f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d4c78b5a_5fd4_4419_853c_9eccb23d49d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_57351533_50b8_4d7e_be78_fabfea4e1834() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5331fd72_e650_4d28_8685_744ea51dfdf9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_38f6cc21_2339_4ba9_a88a_e645ebc7c345() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a1f5ac59_5d2b_42cd_aaf2_0b8eeb71cb68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0eb2ae46_9af9_45dd_9dce_2cab824b114a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_282119f6_cc7d_4fe8_b269_8d72260aa3ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d7d0ccfa_4fd4_4740_beee_0d698890f123() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_71e6fef6_e96d_4087_bdd9_62203d557df3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9952b97e_0beb_47be_81f2_971e8d7ce117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d7fb57bc_47bc_4401_ae2a_108856534d95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bac04293_589e_4318_af23_271a33f3e1ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f4bec27c_cf40_4be9_b86e_b88888b11c6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e4b47bb5_68fa_4b0b_b854_8e5251d43a21() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_147377f2_279e_41f8_bb61_c0821e1334f9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f792fb0b_b0ab_4fa2_ad16_22fd4ff31757() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c49079fd_f2c6_44bc_99df_a8b140c1075a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6ed33f98_4e00_4556_8a8c_8e8c7bfeb1cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6fde6c2a_5b7b_4e95_ad5d_41ae8c683ffa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_16a1483a_6753_45f6_8ad5_74f07794ea4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_63fad09a_d421_4b96_b440_bf23309f0f41() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f5c06a80_be05_4b73_aba5_89513dbfe599() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_784ba029_fa4c_44f5_bf50_a2ee6ab8a4d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cbd56323_438b_4e7f_8d50_aa2ddde56564() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a6abbfe2_9960_41fa_806a_30112194afbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_737a537a_fc65_47c1_8e60_2f214e03438d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e7c5899e_8d84_4f5a_8f44_e361b2e80bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_35b66550_9f23_460b_a7f3_5d796be5179c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a0f57023_382e_45be_8536_34dc98c6c4e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8d525af0_b663_49d7_a5b0_7fba9b4c6a96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b4410530_ddaa_4a6c_9467_4ca4fe9494e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8d1877dd_57ed_4a65_9694_6acd4372c75c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5cc085ef_308a_442c_8e0e_fa049f8fe203() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4ed73dad_08bb_4a61_8b44_37996c28de71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0a5aec91_975e_4aef_8f0c_98fcd3d8b5f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e8d1699d_f105_4e7c_b450_51eb5d5a628e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4702b3f0_9557_4e09_9758_074d226426b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2e9ddd36_7907_46c7_b7cf_4a0c1999dbee() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f275f14a_8ec8_4a6c_9b6a_04377fd582d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_95203111_6f4e_4cc4_86b2_c68657bcc898() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e4326926_010b_4fb7_9813_d4a2336da9f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7fd0f760_8b0c_41e6_bb79_3259345cf686() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9613ab2d_4c40_484d_8d2b_e505373ec6f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_273309b8_4431_4b1b_aa46_08c29839d212() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6c77b832_8c7c_435c_aa24_9fee67b2eb7c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_78eb4aa7_477f_44bd_998f_fdff7b7fbacc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9b2d75be_4cb5_4a27_abc8_2e4240d05c17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fa9c1973_e2cd_4d74_865b_5c9f72f28cab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_aa17327a_db10_4755_95db_79f82851af1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_771d6ca9_ffdd_45f2_933d_fc0364e7b4e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a3e4e954_a91c_4a26_8c93_3b8761e7aa34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4ed73dad_08bb_4a61_8b44_37996c28de71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4702b3f0_9557_4e09_9758_074d226426b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4a04a7e9_8712_4597_8301_67fa108f3211() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_486e539f_26ff_4a30_9f37_f00d7f1d064a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f2cce68e_57ef_49d7_9e27_8d02155f063c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_45feb8cd_d555_4f60_953c_0f5960b964a6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_26622fa7_e150_4a84_8321_741f0713c133() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_de0c7334_bfcb_4ba6_b75f_f906484c66e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1e5bb4e7_a4f9_401f_a7f9_80585e9c3bf2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b5542fee_1a1f_4d38_9fd9_388bff5776c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_77de06b2_d050_44a9_a61f_eabbf0f5bc79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_135abe43_29f6_476a_ad30_3d1fbb4d5495() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3e2339e3_d5fc_442a_871d_3f0216eb0c5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e3a10045_97e5_49ff_a6c3_1605fb7f3c43() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_30a87c3f_e9fa_44d0_ba6e_75b347a4aba8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8ad00223_2964_41e9_860d_51a68f7566ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0199ae7d_4204_47a6_b651_9d3024e71b28() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_598dcba5_529f_41dc_821a_176ed0d8449e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a880728b_fc44_4160_8379_16a0f413dfcd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_31ca8ecd_81d3_464f_ae5e_8d5d7c94d1ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d4c78b5a_5fd4_4419_853c_9eccb23d49d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_75b19c5f_c881_4599_ad3b_a051bd2e3367() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9615d214_43ef_43ac_825b_2c341b289c06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_af572062_5b46_4476_9b11_6e48b1d1a8d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d0d6e8d6_8072_40f4_a60c_60cfe98bf357() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7fbe0bb4_4457_4efc_bd9b_6a8585bf9fa9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_41cc5027_32a2_430c_ad0b_2a3c368991a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3770cdda_06cc_4c69_88de_a6aa4a28b3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6c77b832_8c7c_435c_aa24_9fee67b2eb7c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b966024e_c470_4be6_ac13_1a447431b12e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_042e4849_434a_4915_837c_85862c3f8c9a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_649fc9e7_3544_4cae_b532_e072ec59f14a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_35d70a05_64d5_4412_be64_819617d18e3a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b91ed210_50c9_49aa_8c84_ca0e25ebf86f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b6a6b621_28a3_46ea_87ab_05e2beba5acb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f820993f_009c_4d6b_96e7_307624c698e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_392ae023_f7ce_469e_8144_d2fe009b8602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_48a70e96_c485_49cc_a6d4_85cd741bcbf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_03cc8392_6c7e_4228_97f4_2de80141a4c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8f3bb32f_f4ce_42c9_a795_2faaa8af5523() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4702b3f0_9557_4e09_9758_074d226426b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_577708f5_af8f_4c2b_b333_13d9c2aa4787() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9465b816_a70b_46e6_88e7_11519ee845b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6f979d3b_1453_4829_a04b_a63c861e3e03() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3e2339e3_d5fc_442a_871d_3f0216eb0c5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6d2daa98_da35_4e29_bcb6_fb1881a13efa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ac5eb779_00bd_4066_8031_f10d870e69a6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e1ee52d7_ce63_4de3_8a80_146a94d54d7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_35e203e0_0a5d_48a1_a7cb_d8034e1f7d07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c318c943_cdfa_4bac_8be9_f1f6851e250b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9a6f6138_10fd_4f94_85d4_9fb85f798d8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f0122b75_2a2c_42a3_b13c_cf71fab5174b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a06b10b4_32d2_4b45_8ca8_cdb2d02c8980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b55c9346_34c4_467b_941b_1ec59c7d806a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_73bfbbd2_784f_47de_8cc4_f79760385689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6b91dc0a_a715_46ad_a1b7_eee826255daa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8b9836be_5895_4c70_a5c0_e6e77e792050() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bd78a1e0_1ffd_42b2_a9d0_43f40526e2f7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d30aa814_fcf8_4a87_ad88_45f3b70078aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_39e1fdd2_23e4_443f_82d0_28cff8d868e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c137afe4_d103_4de6_b3ff_be354c5f11dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_00ca92bb_07c0_4061_8aea_8cfaec128004() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b5292f1c_9570_4efe_8cb7_499cd3f85edc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ece4c312_e317_421a_9228_6c96cad48ea7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9a6f6138_10fd_4f94_85d4_9fb85f798d8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e2a8499f_c9c5_4d68_a9a7_b39967ba0a0e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4f2cdec6_0bdf_421e_b8a2_6a6aaec90c96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_648c11d1_82aa_4928_b90c_c7ed8687de5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_10b31e6a_4dd1_4a5a_aef9_167903e0d70a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_82aa11dc_7583_414c_91a4_313d0f1eab82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cbf49026_ee29_46b1_90e4_c22d250da068() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7cf27102_2b60_444f_ad85_272d5c4a6125() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8b9836be_5895_4c70_a5c0_e6e77e792050() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3e602e21_0802_4e6e_a73a_436b1f6c0ca5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4ed73dad_08bb_4a61_8b44_37996c28de71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8b7e2024_e370_4046_9a3d_56fbb4ec4a61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4d65b1f4_38a8_4005_afc0_2bd5f8bb9662() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1b02acad_5de2_4868_b1a8_6b826986cc7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_384145c1_e1b3_4f3d_8d6d_c45eb4610af6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1d15bb83_c832_4541_83fb_ef97a72e150d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_53ad3600_1be1_4b50_b5d1_5e12e1f4239b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7089740c_d94b_47e4_8a4f_77affab8815f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3a7659c0_ccf0_4625_b4c3_427aad2b3db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c318c943_cdfa_4bac_8be9_f1f6851e250b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5b9fbb27_9ed7_4b64_b452_b5835a226e54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3e2339e3_d5fc_442a_871d_3f0216eb0c5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8f7dd89c_cc11_44e5_ab6c_6e265d3e0d32() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5c699116_a765_4b14_be73_c38d8d1f2e9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e4d0d33b_f9a4_4611_ae0a_89571f574e5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7e0be8d8_8a83_445e_83d5_bc21eb64751a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_fc16107a_0a2c_4102_8d65_811e032b3c3c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0fad87e0_cf98_44ea_ae21_826071bde1b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fe6cc0dc_63c7_4a40_a3b1_aa4489c0d8e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_529f3d17_7478_4f74_95e4_58cf8c21c9d2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_327f8c0e_d0cc_4133_8225_64ba9d6675c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8b7e2024_e370_4046_9a3d_56fbb4ec4a61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_35e203e0_0a5d_48a1_a7cb_d8034e1f7d07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f1bda70c_6114_402d_ac23_23917a7d50f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e6dc5af2_997d_4e0b_8b6f_cd6ab4d0f2fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1a213c9b_e039_47df_a259_dae441f1f5e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_15134e1e_d87f_4463_92a0_083edd1a3dc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_24b064d6_b63e_4a05_b094_d925faee9cfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_84559438_355e_494a_923c_0593166aef3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d610dcf4_45f5_4abb_b518_168b2b76fa08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a036d823_b848_42fa_a842_55c279a84228() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c49960ca_9aab_4c14_9f03_e33a6bb83a84() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cf6b24c6_3576_468a_915d_1e8f67f2fd08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6f4ec5a0_7cd2_42b9_838c_37d7abd5a9d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_88cc6153_4428_47eb_9759_68c2508f4afb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2094ecc9_9258_4d10_9705_0f3820bdead1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5b10fa47_a122_47c4_93fc_7a6fe32701d0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5d39977b_f8ad_49de_8963_4a35ef3d2746() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e2a8499f_c9c5_4d68_a9a7_b39967ba0a0e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_79b7f9df_4618_442c_adb8_988a0849d517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b6f1b135_f855_4ce2_b34d_e088a07618bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_982c09f7_b4bc_46de_90e1_caf3281e5c86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c0696bbe_f37f_4232_91d8_5004a82ff33a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a0934cee_0ac9_438a_9db4_2a106667a735() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cef660cd_4388_43f2_91cd_94c23a2c3831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_be7b66a2_a2a4_4322_aaf6_c6b48fd943bb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_30d0ed00_bf64_4b42_b424_00598f4b726e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7089740c_d94b_47e4_8a4f_77affab8815f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b1b912e1_f76b_433f_8200_6e71e28280c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_53440f23_39f7_4987_9308_12df9c4df1e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e6cc0b0b_75b6_44f9_8c23_2df096ddf5ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9ce32e87_52fe_4d4b_849f_3a504b764ce5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d30aa814_fcf8_4a87_ad88_45f3b70078aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ac7793f4_5fd4_42f2_a749_da5b2a9bdb6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_95869828_e4d5_44f4_ab3f_85ed9705f745() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c0696bbe_f37f_4232_91d8_5004a82ff33a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4494b7f3_4664_4bb9_9fb3_030e7f5a1ae8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8fe93fa1_0cc7_4248_b0a9_a88082bf0918() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_543bced1_26b5_47e4_b303_2c5f6ff62ed2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f2519f03_d430_4711_ab97_2976272b0b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_27389a54_b257_40bd_a099_11c13fba83b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9fa98bef_42ab_4f62_8be8_182c94b2a1a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_40a22024_bf6e_4e92_a99b_382e025a987f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c5e283f1_76e5_43ec_9e06_d12162a784f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eb49788a_13ec_4c29_a3c1_d89ee835bee0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_75a2adcd_402f_45c4_a00e_beca3b9af723() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_27f5d1ea_04c5_4e51_b8fe_1cbc24a03812() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_19fa8e85_d9dc_48d2_afa7_215df99e83e9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bd70d67f_9bdc_4419_a417_b3b6c0d6bdd8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f1923995_762b_47bb_a750_706e11444ccd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_023673c3_f730_4964_b98b_32b379342a48() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e3d83a75_919e_4490_a80e_99f9d70deac0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cf6b24c6_3576_468a_915d_1e8f67f2fd08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0cbbf3db_9c10_433e_9ffa_3d7bb26f2836() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3cc4f424_03e4_4585_893b_306373de48a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_84579cf4_0c8e_4fc7_a528_5e7a7bbc88a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6daf2ecb_df5e_4998_a076_a2beabe9b94b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2c578921_8b21_4602_bb26_f1f3aa84c74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ab398215_ee03_4bb0_8ffa_cfc192fa3586() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d3041944_c14a_4394_a340_f4edea6aab61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_715abd12_1fb6_430f_b27b_3767fcd61d2d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8b60dbad_73eb_4a31_8850_9a9d4df42fad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5e92642f_0f1f_49dc_9d3b_f2f9fabe3cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_30d0ed00_bf64_4b42_b424_00598f4b726e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e5d751c8_4e99_4eae_9479_12164b7cbd72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_54d02606_f5d1_49f5_939b_3e16dcb481b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_88cc6153_4428_47eb_9759_68c2508f4afb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e5d751c8_4e99_4eae_9479_12164b7cbd72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_efc9221b_9a59_4fb2_a1cc_392dffcbf985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_78eb4aa7_477f_44bd_998f_fdff7b7fbacc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2fc99be9_f034_4662_91d4_8da347ac270a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a06b10b4_32d2_4b45_8ca8_cdb2d02c8980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0a548806_4591_4201_9546_64121bbd74e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_af572062_5b46_4476_9b11_6e48b1d1a8d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_77de06b2_d050_44a9_a61f_eabbf0f5bc79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7b677747_bf32_489e_82da_1de0791a6f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4492f787_f973_48f9_9d97_6acf15ee5f25() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_43306c0b_c78e_4cb5_8e15_8c1e8e661e92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1feb5d43_9c01_4f32_aa89_02eed126dec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3435250a_fc84_43ca_aa53_9208ffdda6b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e1956884_f3d0_4089_b278_f41ac3eebd23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6b91dc0a_a715_46ad_a1b7_eee826255daa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3a7659c0_ccf0_4625_b4c3_427aad2b3db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3767e847_d51b_4f17_8374_e7982b04340a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1d518114_4e5a_4dd2_a500_bcd91eef27a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a0c9aa9b_7b77_4992_9a46_f74ee28012cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_faa821c4_99c9_4489_8177_e2f7799eaf82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ff11ef87_f56a_4a52_b1a0_a77e655ddb92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f476256f_6732_4d99_a23e_4c338963355e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bbef9525_a192_43e9_865c_6147135e4567() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7cf27102_2b60_444f_ad85_272d5c4a6125() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1e5bb4e7_a4f9_401f_a7f9_80585e9c3bf2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bfb105fb_5bef_46ad_8832_2da1b57209e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_61f855db_36df_44a6_b4e3_8b5ca7a42b64() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5b9fbb27_9ed7_4b64_b452_b5835a226e54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_dbe5417e_a9d4_4e33_b13e_014e032f2419() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3772a582_9064_4e48_bdac_2f6bed422044() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c556bb33_73de_4695_b346_52779d9b4e29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c0696bbe_f37f_4232_91d8_5004a82ff33a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cf84eb6c_64aa_4ec6_b987_35f1337b5c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8d2f7973_8123_4c69_9219_7cf84bcb2cf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_28be6abd_9d5e_41b3_b2d0_8ed8761ddbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4fe73fbb_9c52_4054_a7c8_28499c8de725() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3e373339_fad3_469c_8364_f3d580c30334() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ddb57b3f_c6cb_458a_b8c1_d25e2604fcc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e2dcd15b_a8f8_4867_a1a6_87114cdcba11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_db2676fb_c002_469f_af1b_3977da0a0e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_43306c0b_c78e_4cb5_8e15_8c1e8e661e92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_327f8c0e_d0cc_4133_8225_64ba9d6675c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5c37a65a_2876_45fc_935f_d37c58600f94() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f7486116_e56c_42d9_adfc_659982989630() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_be8eaf97_a823_4c2b_868e_a8c2139455f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_393169b5_e2cf_441e_8fc0_e83ab22db083() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5b9fbb27_9ed7_4b64_b452_b5835a226e54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4c3ba4f3_add5_4610_b043_14df005db663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_90090a90_41ce_4f16_bf1b_e2250e3fd6ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_25a628d5_1342_4075_843b_48892138af33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6fda086e_8a05_494a_8838_4bd443fcc09e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a003a6da_de30_4186_bb43_e711be9bad60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_37c62208_ada5_44e4_b4ff_93f60d1a22fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1c70a157_b194_4a3c_9ec0_f6726dcda3b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1d15bb83_c832_4541_83fb_ef97a72e150d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c368c090_3527_4de7_9cf4_d9dce1bba0b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_35e203e0_0a5d_48a1_a7cb_d8034e1f7d07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_acf8eb51_1933_4318_b77b_8097197c1b8e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3333f4b2_7489_4287_a684_cdde206549b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2b5cdca5_8b02_41f1_80d6_1f1be69507ae() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f8f8a167_29c4_4b38_951a_8521a2edff00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_de0c7334_bfcb_4ba6_b75f_f906484c66e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6ac66db3_ac66_43f2_9bc2_b25d784326fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eefef6e0_0ad6_4611_99e1_257901700ebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8aa5d9f7_d135_43a0_ae8c_26e0367320a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_392ae023_f7ce_469e_8144_d2fe009b8602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ece4c312_e317_421a_9228_6c96cad48ea7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b2d75deb_f2eb_4d5e_b05b_ccbb28d40f2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8b293647_40c0_4601_a67d_b233f87de646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a395f910_9382_4dc3_a6f4_fed257abed20() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_562c8776_4913_49c9_92a6_6abc3767090a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1cc9b519_029a_489c_bca2_61395745bf14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6694bbb1_6237_410c_b9fe_65de03245760() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_848d5a76_dbd3_4d0b_8976_e313f6b01e44() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5d2dba73_2acb_41ef_a5f4_cd9d1f5fc292() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2c1896e7_8a9b_4267_adb2_aaeec0ccdffb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_819bf7f0_5697_47ed_bb9a_2c6cd4436985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b6a6b621_28a3_46ea_87ab_05e2beba5acb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4981b08f_c147_4432_ae78_4968ca05c813() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a716cebd_c5fe_4b6a_865d_90bc5a885a05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c17ba69b_1b73_4aad_8680_b85a7d05685e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3e602e21_0802_4e6e_a73a_436b1f6c0ca5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_37c62208_ada5_44e4_b4ff_93f60d1a22fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cde81da9_cb1d_4f91_b1c1_506ba74365d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_80473db6_45d7_4b62_8c4e_b8f9ad11943f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_577be1ea_6beb_4aaf_a34b_403d373cf533() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b966024e_c470_4be6_ac13_1a447431b12e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_dea4b0a6_5a7d_4074_9e1b_5caa3f4c42cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9a6f6138_10fd_4f94_85d4_9fb85f798d8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2b64dbea_11d1_43c8_9f96_87fae98f98f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6f4ec5a0_7cd2_42b9_838c_37d7abd5a9d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8f32a2d6_5ca1_4a3f_b4d9_6a9cc4589349() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d3988492_b47e_4f94_8793_216336ace436() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3e5dd447_51ca_4372_ad67_d905f223c66f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1443082d_7633_4e88_8337_bf8f442932ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f9dba577_7aaf_4306_8a58_bf8c5912a74f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d038423e_5ef5_4131_a5ae_e3d6c7459485() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_973459a3_1068_498a_8769_2e7643be17d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d771411a_cf83_4392_8ccc_a8b0f429026c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_91f334bf_582b_4189_b073_45a67409c663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_44d886fa_4a89_4684_938d_d0db2f5eaa22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_77862382_43cc_4703_93a9_ff846f922916() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f4679a1a_c2ef_4356_89e1_65ce82875788() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ef38fc27_2999_4c4f_b0ca_86635c001580() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e8d1699d_f105_4e7c_b450_51eb5d5a628e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d7f7a330_7720_4370_859e_cf001c9a8ad8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a8585a18_be3b_485c_bf37_5d62efc21ab3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ae438f58_e6b3_4f82_8952_5996e766ece0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d8c9a824_5488_4e5b_b356_fdd8b96c4fe4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3aa32e6e_1ce0_44b7_b7ee_626ebdb82612() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_74bf63bb_3760_403e_b851_49d6ccde455e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ebf201f3_0737_462d_9486_f189c789f82b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0c83a13e_9eb9_464b_bf1d_0bbeaa9cac7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_dea4b0a6_5a7d_4074_9e1b_5caa3f4c42cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a003a6da_de30_4186_bb43_e711be9bad60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b6d54c89_ca44_4021_af8c_abae8cd4d1d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5ee0943b_9506_47df_86e1_78d0f8f9c1cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c4fbb20b_fe4d_47b8_9aac_b6e7e6e7b53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_dea4b0a6_5a7d_4074_9e1b_5caa3f4c42cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4d73430e_ad45_42ba_9903_66482b7508f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8528515c_ea3a_4c97_9489_22f466a32e2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c6e4239c_5de6_44b3_8e90_9b44bfd6bd4c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7089740c_d94b_47e4_8a4f_77affab8815f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a8916520_faf8_48b2_b78b_3963335ae33a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f268be3c_5171_40d0_b067_d443f9854d15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_db9a9b0e_1d51_47fd_a8a8_62c5a9425bc1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_88c06564_1810_4fdf_b2a3_cf91380cb954() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c137afe4_d103_4de6_b3ff_be354c5f11dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_90d8ea92_ba9e_4c5f_9b5c_0c6b9630fc14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f476256f_6732_4d99_a23e_4c338963355e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7b677747_bf32_489e_82da_1de0791a6f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1b83514d_5d62_4247_aaf3_fca12d502335() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b5120942_451f_4df2_8b17_14830bc921cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5e1864f0_5f5e_489b_affb_b4a5fdca1a87() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d7fb57bc_47bc_4401_ae2a_108856534d95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d0d6e8d6_8072_40f4_a60c_60cfe98bf357() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e79ede6a_4b0b_487b_8a57_1facd0839ed0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7652e473_084e_4897_b826_0e442059a677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_94ed1342_380e_4060_b9e8_18cf69b433cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a3632d17_1d76_48ba_a4e2_4e768e1c75cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_819bf7f0_5697_47ed_bb9a_2c6cd4436985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_764bf7ac_466c_4972_903d_45a003d0cbc2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7b677747_bf32_489e_82da_1de0791a6f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c4fbb20b_fe4d_47b8_9aac_b6e7e6e7b53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f712bbfa_e3fe_4419_b005_5b7e3648f1db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_baff31d7_0d8b_4af3_94e6_622a9d89d5c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c9d172f2_9069_4e4e_9fda_7782107d6758() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2c578921_8b21_4602_bb26_f1f3aa84c74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a395f910_9382_4dc3_a6f4_fed257abed20() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cab7ef81_342f_4ae4_b6f3_eac7fa5b749b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_465a1c7f_1d3d_418b_b0bc_f546377a09d7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b417f45f_8873_4a8a_95be_d6fb892bd63e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9fe8637c_f817_44c4_aed8_c74f36a375f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_042e4849_434a_4915_837c_85862c3f8c9a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ce5589cf_cfe5_4f5e_8f08_a4193c300482() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_936c8cea_8ab0_4ff4_b53d_b57bf700b2fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a555f33f_d786_496e_9ece_c9960b25b780() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_00ca92bb_07c0_4061_8aea_8cfaec128004() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_02c31553_4c96_4fac_a86c_2f93d1a0cdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1c70a157_b194_4a3c_9ec0_f6726dcda3b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e6dc5af2_997d_4e0b_8b6f_cd6ab4d0f2fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_75b19c5f_c881_4599_ad3b_a051bd2e3367() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d21dc2e6_5a3d_4576_816a_95a704e3d18f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_be7b66a2_a2a4_4322_aaf6_c6b48fd943bb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f4679a1a_c2ef_4356_89e1_65ce82875788() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_36dbda3b_8fb2_43e8_aed0_4a71e9b4867a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6fda086e_8a05_494a_8838_4bd443fcc09e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_518e5f84_53bb_490a_b551_294e810bf642() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_25a628d5_1342_4075_843b_48892138af33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_84845dfb_d1cf_42b0_858f_301582421f54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bd78a1e0_1ffd_42b2_a9d0_43f40526e2f7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c2d1dd46_66c2_4a76_a0f4_f5ab644ac8f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7a62ab24_7557_4a9a_b38d_42cb53cf52ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_27389a54_b257_40bd_a099_11c13fba83b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5aa69408_10d4_462d_9b7c_98a88b4978a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2a28d249_c23c_418c_9d21_40e951dda629() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_567c1423_afe4_4701_a987_d396d0d04b65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f0607420_b519_4290_8073_ba20291c119f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cd615732_0796_49d2_95a7_4f4aba372269() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_43975c52_6994_4bbe_b9ae_26b2fa7e1646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4675e405_4b36_469c_94e5_a65e129c3f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_966b658e_7b16_472f_ae69_41114f372963() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_858ea519_90d4_4feb_9eea_1b0979d543ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_43306c0b_c78e_4cb5_8e15_8c1e8e661e92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_897f32e1_ecc8_40ff_9533_77612867dc00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2c73e514_da6a_493c_845d_bbe24ee95753() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_87fa3bea_38a7_45b0_b29e_0c6819faf2cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_73afdd86_f65b_462d_ae8d_e67f718ec35f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8b9836be_5895_4c70_a5c0_e6e77e792050() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ff7ed555_725d_4fe7_92d0_1630867a6399() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e9eb2e9e_368d_4209_a25a_960e8a9bb36c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_848d5a76_dbd3_4d0b_8976_e313f6b01e44() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_db41dc91_d30a_45b7_96bd_6d1e5b01f0f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_453cb93c_5c69_4e0d_a2ea_73517e462258() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d740b09b_3558_4c1f_8bf3_2194bc8a8de2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_edbff296_13ba_4548_a2d0_70387e655905() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_21108fa2_c652_41c2_973e_15d6737a81bc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8ba8d031_3e38_47e6_bd30_b2ce6650dcc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_98c55a1c_44fe_4fa0_9b01_a410655861c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_91349baa_fb46_4c09_ab32_ab0b049d18ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_37f1f357_64c1_4521_8eb4_a050284cc10f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_377fde6c_2bae_44d3_b7db_7d5c61344601() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_90090a90_41ce_4f16_bf1b_e2250e3fd6ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1feb5d43_9c01_4f32_aa89_02eed126dec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b67bccb8_14f7_45db_9497_eafebafb30d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b3700918_c3f3_4b6b_bc5c_8fc54f658110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c3b44182_7630_49ea_aec9_4d95476afb3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8aa5d9f7_d135_43a0_ae8c_26e0367320a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e57ecbcd_8d22_4ed9_828c_63a4bbd38be1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fe6cc0dc_63c7_4a40_a3b1_aa4489c0d8e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0c83a13e_9eb9_464b_bf1d_0bbeaa9cac7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eac4e926_4711_457e_8d65_6ca98f48f77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7de14c72_68bd_4d2f_8a2e_2e6d7ca109e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2bf72eff_a1f4_48f1_aa8a_30b2211528a4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2aefe43b_d179_404e_89b4_057d417650d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_44c0e1d5_c9a6_4f9e_827c_aa0ceeddb2dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_233b2599_107d_464c_88c7_3b4728104103() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e2dcd15b_a8f8_4867_a1a6_87114cdcba11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5e65b2df_a8c0_4e7e_812a_e872ca01c92c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f3cb170b_04a7_4888_86d9_94d841a9572c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4de9cf88_7ff4_46f2_a5b8_3c94c1a837db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b302fbc1_5c9d_4a65_82df_1df91378bb3d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_18d6fb39_94df_44b8_b8b7_b88d42c90458() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d7d0ccfa_4fd4_4740_beee_0d698890f123() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f17a064e_16e2_46f0_99fb_f9644938de91() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_be2f7d5e_6125_4b36_b272_b067cbb76a95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_352e9475_b5fa_4a3b_8883_6bd8ba0d8b71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fa20db9d_1397_40ea_9b26_06ef7b12a1aa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5873836d_175a_4641_892d_5be7aefd8b11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0af09423_9bf9_4aba_8c74_8f636e74bf47() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d53e0a47_1891_4b8c_87f3_776c50121e2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4fce00af_2855_4d40_8524_a8b8c5871987() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b6f1b135_f855_4ce2_b34d_e088a07618bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2bf72eff_a1f4_48f1_aa8a_30b2211528a4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5ee0943b_9506_47df_86e1_78d0f8f9c1cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8b7f675f_cac9_41e6_897f_31736df178f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0d445ca7_b7cf_4fb0_9995_ca43515873e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e8537e39_ed47_4cce_b92b_0fd5197406d1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ef38fc27_2999_4c4f_b0ca_86635c001580() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_81c95b98_f801_43e0_b995_9e0db2a25bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c318c943_cdfa_4bac_8be9_f1f6851e250b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5800031c_e0af_4051_a067_00ffd62c448e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d412f9f0_4b03_4329_ab64_d637bc0e9710() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_144196ac_f6da_4439_a1a6_f8cf6eac926e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2f82ef57_b16e_42e4_85c8_301152a61901() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_dbdf5f03_1752_45d3_b1b3_fb354aeb6ffd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_20a93e97_8d0a_4139_8569_5126a89c835c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d038423e_5ef5_4131_a5ae_e3d6c7459485() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_771d6ca9_ffdd_45f2_933d_fc0364e7b4e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d55eea1e_3f6a_4016_973a_65c6d5cd8ba9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_73bfbbd2_784f_47de_8cc4_f79760385689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bd70d67f_9bdc_4419_a417_b3b6c0d6bdd8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3435250a_fc84_43ca_aa53_9208ffdda6b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e6327ac2_2b7a_4aab_87b4_368e656f5936() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_543bced1_26b5_47e4_b303_2c5f6ff62ed2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c4fbb20b_fe4d_47b8_9aac_b6e7e6e7b53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f6221cbb_5ade_442e_bdfb_b33eac2912a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5ddb13c1_b0c3_4162_b821_1669584a7c72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8c92d0ac_f414_4a54_951d_d3b4a8545d5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3dc49209_2480_4959_9e2d_2969ea54d6e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a55641d9_75de_4acd_8433_656036a5e891() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1251bae7_9396_4689_a8b7_b683cd00ca78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f35e15a1_35c5_4f2b_957a_cb270568249c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_be8eaf97_a823_4c2b_868e_a8c2139455f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4c03627f_8631_4190_9a2a_de12d3dffe74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8b293647_40c0_4601_a67d_b233f87de646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7d3231d9_57a2_4d38_ade0_95bb2865e326() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b2d383dc_848c_4eb4_b444_8fef5a23a5e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6d6fa579_8817_4d43_98e7_b724de410be6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_da782b7d_76d7_41a0_a2af_8778af2d9517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_81c95b98_f801_43e0_b995_9e0db2a25bde() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8862f490_2bae_423a_97f3_e9e0f89fcf86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9df647c2_4ace_418b_bb0e_96f2c5e2575c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f3cb170b_04a7_4888_86d9_94d841a9572c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a8585a18_be3b_485c_bf37_5d62efc21ab3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_064cfc59_797e_4998_bdb6_3960e5fffd55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bb4445b7_0e7d_476d_9dd0_f0d5c63258be() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2094ecc9_9258_4d10_9705_0f3820bdead1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_91fad0d6_4ecf_499e_8d29_b9578a66d5a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d0f38e43_c473_4af9_a62e_3bf502a9cd61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7f811352_09b2_4f2f_a02b_038f9cfad8b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8b60dbad_73eb_4a31_8850_9a9d4df42fad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0a5aec91_975e_4aef_8f0c_98fcd3d8b5f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_bd78a1e0_1ffd_42b2_a9d0_43f40526e2f7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f1b67d94_45f0_4b75_8dc4_2e9b1bf42f35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c137afe4_d103_4de6_b3ff_be354c5f11dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8e31baed_4ae2_4b1c_a4b6_85b17dfef9d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_07b83101_8f30_4195_9dd5_977a3767ac72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ae281160_d089_41cc_829c_c525ed3b891b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1ad0c93b_74e1_4703_bfbc_d1c664c635ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4c03627f_8631_4190_9a2a_de12d3dffe74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7c118035_cb24_4d1c_afe1_0800139c9b8f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_44d886fa_4a89_4684_938d_d0db2f5eaa22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_293c080a_ce58_4eee_a59e_5576cb232831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1d518114_4e5a_4dd2_a500_bcd91eef27a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6daf2ecb_df5e_4998_a076_a2beabe9b94b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_39e1fdd2_23e4_443f_82d0_28cff8d868e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a8c45c3b_6cec_41dd_9a8f_5e03486101e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3767e847_d51b_4f17_8374_e7982b04340a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c6e4239c_5de6_44b3_8e90_9b44bfd6bd4c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_68a71339_b039_4988_96f1_80ce9e16a0f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6a400c86_d29a_4f67_adbd_0be3cbf77520() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f6221cbb_5ade_442e_bdfb_b33eac2912a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_be7b66a2_a2a4_4322_aaf6_c6b48fd943bb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d740b09b_3558_4c1f_8bf3_2194bc8a8de2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_41cc5027_32a2_430c_ad0b_2a3c368991a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f81952a9_082b_429a_96a3_09f9a9ae26c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f0122b75_2a2c_42a3_b13c_cf71fab5174b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_982c09f7_b4bc_46de_90e1_caf3281e5c86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_10b31e6a_4dd1_4a5a_aef9_167903e0d70a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_be8eaf97_a823_4c2b_868e_a8c2139455f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_56c65a4c_750d_4b74_99f1_fde4512b6b08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bd12b9e4_5662_40ae_adcc_cd9bba83a0c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_73ebf316_16e4_4cec_8c52_053764f5c4fe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2512f8e0_536e_4131_9ad4_76066d4ca776() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_658230ed_5713_403f_aa0f_86ad1f69fd33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_82aa11dc_7583_414c_91a4_313d0f1eab82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bd78a1e0_1ffd_42b2_a9d0_43f40526e2f7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bc40aa13_b757_41f4_a58e_201913dbf50b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6862a3a9_eb18_4150_8054_c15abe6f35c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3dc49209_2480_4959_9e2d_2969ea54d6e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0eb2ae46_9af9_45dd_9dce_2cab824b114a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a8585a18_be3b_485c_bf37_5d62efc21ab3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a0934cee_0ac9_438a_9db4_2a106667a735() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bac04293_589e_4318_af23_271a33f3e1ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_36dbda3b_8fb2_43e8_aed0_4a71e9b4867a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_29fffe9d_c2c8_46a7_b3aa_2dc8227679f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5cc085ef_308a_442c_8e0e_fa049f8fe203() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cc5c8548_c51a_45d9_b8f5_a8f9222ed8c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6deb9c1d_5d02_4813_b8ad_422cdf142888() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9ac08552_3d3f_442d_a240_a383f6057086() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d2cf35e9_b14c_4193_ba6b_ce0332ca6863() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_31ca8ecd_81d3_464f_ae5e_8d5d7c94d1ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2bf72eff_a1f4_48f1_aa8a_30b2211528a4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c9d172f2_9069_4e4e_9fda_7782107d6758() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c69203fd_d6e7_41bf_a91c_c8aec9a7d830() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7d6ad412_7f28_4649_a3c7_f83f2c5b0768() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e4d7f8b2_ee8c_4987_a1d2_10ebf442252b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8ee4b8f7_6900_4ad2_aa63_b63ef3aee729() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f6221cbb_5ade_442e_bdfb_b33eac2912a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eb046ca1_a069_45e3_ae25_925070d04153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_042e4849_434a_4915_837c_85862c3f8c9a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5e65b2df_a8c0_4e7e_812a_e872ca01c92c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_20786f4e_be6c_475c_ad5a_8f89318c602c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cbf49026_ee29_46b1_90e4_c22d250da068() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7e0be8d8_8a83_445e_83d5_bc21eb64751a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7c118035_cb24_4d1c_afe1_0800139c9b8f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3aa32e6e_1ce0_44b7_b7ee_626ebdb82612() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2a28d249_c23c_418c_9d21_40e951dda629() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_eb9957d9_54d5_4fb7_9ecd_e3de750a701d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7c118035_cb24_4d1c_afe1_0800139c9b8f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_02e44a16_43ee_426b_8597_3662b722e815() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_00b7633c_fe41_47c8_9f55_88056b0f72e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_85cb9e63_a060_4fd3_84a1_a95956ca1972() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9b82bcf8_15a4_4d02_a060_b8c375b65cc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4ed73dad_08bb_4a61_8b44_37996c28de71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ae438f58_e6b3_4f82_8952_5996e766ece0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5331fd72_e650_4d28_8685_744ea51dfdf9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_10736c77_102b_47f3_a0b7_4c7c41d3ad0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8d2f7973_8123_4c69_9219_7cf84bcb2cf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_91f334bf_582b_4189_b073_45a67409c663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ac7fa6a2_2a34_4265_b3ce_fa1103ad4136() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a7dc7f7a_9c61_4201_a9df_526d85771fe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b1b912e1_f76b_433f_8200_6e71e28280c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_95d7ef05_97df_4961_ad6a_cd5321234124() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d135a19d_b41c_4f0c_ab34_79cf59365beb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4de9cf88_7ff4_46f2_a5b8_3c94c1a837db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2b5cdca5_8b02_41f1_80d6_1f1be69507ae() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d55eea1e_3f6a_4016_973a_65c6d5cd8ba9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_90d8ea92_ba9e_4c5f_9b5c_0c6b9630fc14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8f3bb32f_f4ce_42c9_a795_2faaa8af5523() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ac7fa6a2_2a34_4265_b3ce_fa1103ad4136() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3ab0a454_f66a_4942_87d1_4a05ed0832d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e6cc0b0b_75b6_44f9_8c23_2df096ddf5ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7652e473_084e_4897_b826_0e442059a677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9ce32e87_52fe_4d4b_849f_3a504b764ce5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_37f1f357_64c1_4521_8eb4_a050284cc10f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fa486180_84f5_4c2b_973b_6719182f636f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4ade3008_7292_409c_b8e9_f7adfefde39d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a1c7b368_0eee_435c_9a49_b6bc4efaf3c7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f712bbfa_e3fe_4419_b005_5b7e3648f1db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b28a3673_4828_41c8_8ffc_fdda60f676ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6d2daa98_da35_4e29_bcb6_fb1881a13efa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8b398875_921f_4042_b821_2ae9569a967e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6fda086e_8a05_494a_8838_4bd443fcc09e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b6d54c89_ca44_4021_af8c_abae8cd4d1d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a36c73eb_13c2_48de_aa4d_e13321c4ebc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e003fca7_283c_4186_837f_1b90e3bf815a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8f7dd89c_cc11_44e5_ab6c_6e265d3e0d32() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1277b579_db7f_43ba_b985_0d0f9141277c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_889cda97_0934_4e5d_aa92_a11e6f127b45() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cde81da9_cb1d_4f91_b1c1_506ba74365d5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ebf201f3_0737_462d_9486_f189c789f82b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d412f9f0_4b03_4329_ab64_d637bc0e9710() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1630b33d_a749_4d85_a373_75e8696e30e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cb0ac1e2_e64c_4af4_bfda_161caae77713() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2e9ddd36_7907_46c7_b7cf_4a0c1999dbee() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a06b10b4_32d2_4b45_8ca8_cdb2d02c8980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9dbf02ae_f481_45a7_a72f_2b21c859cf69() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_30c4b6cf_935f_4662_b9ab_7b1c8355f342() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_557cabfa_3327_41c7_9cd7_464a07306c1f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bac04293_589e_4318_af23_271a33f3e1ea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b3539769_b3ea_4d61_9bdc_9c1d98d61bf0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_baff31d7_0d8b_4af3_94e6_622a9d89d5c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_080820dd_d38e_406f_8b3f_62fca078d0c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1630b33d_a749_4d85_a373_75e8696e30e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d04a1619_8811_4250_98e8_074f47b6b8b4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1f12f3ac_0498_4577_9525_e70d2f1b90ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a8916520_faf8_48b2_b78b_3963335ae33a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cf84eb6c_64aa_4ec6_b987_35f1337b5c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_144196ac_f6da_4439_a1a6_f8cf6eac926e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_172d1ea8_7651_42a2_9091_b403eafddf4a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b2d75deb_f2eb_4d5e_b05b_ccbb28d40f2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0cbbf3db_9c10_433e_9ffa_3d7bb26f2836() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3a7659c0_ccf0_4625_b4c3_427aad2b3db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c2d1dd46_66c2_4a76_a0f4_f5ab644ac8f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ebf201f3_0737_462d_9486_f189c789f82b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_de8876d7_d22a_4e7b_93e9_97c2e66b7d61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4f2cdec6_0bdf_421e_b8a2_6a6aaec90c96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3f751c91_c552_45fa_a989_db1fa3e9a463() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8c36546e_eae2_4abb_8281_56bedd870274() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b956fea4_cbe4_46b8_88a8_596bbb94603d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_327f8c0e_d0cc_4133_8225_64ba9d6675c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4a04a7e9_8712_4597_8301_67fa108f3211() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cf84eb6c_64aa_4ec6_b987_35f1337b5c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_20a93e97_8d0a_4139_8569_5126a89c835c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b6a6b621_28a3_46ea_87ab_05e2beba5acb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d76d0f1c_669a_4b49_9fdb_ea8caea6a6e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ec7d110c_ee49_4821_aef3_ef2d78b86cb2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_832d85b3_87c9_457d_aa11_aee8fd387765() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a9fd8beb_da7d_4385_9ec1_30280af32df9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_567c1423_afe4_4701_a987_d396d0d04b65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_92f07b4f_fcf3_41af_b6c3_ba17f820abfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e8d1699d_f105_4e7c_b450_51eb5d5a628e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9cd4a269_0ace_4bd2_a842_9550ac5204cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ee32b7df_a431_4e28_8f72_35cb78802c34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_30c4b6cf_935f_4662_b9ab_7b1c8355f342() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_30a87c3f_e9fa_44d0_ba6e_75b347a4aba8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_26987fc1_c397_4316_b8ce_29fd9ab75aaf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2b5cdca5_8b02_41f1_80d6_1f1be69507ae() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2ff76f89_e6b5_46bb_8754_c27c2fddd7a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d34558b5_87b4_4454_b037_fa077a57d149() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5987bfe1_bc25_4913_8fc7_ddfe79c9aee7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9615d214_43ef_43ac_825b_2c341b289c06() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3376c4ad_b3a5_47d5_bef3_7c1277636cda() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_24b064d6_b63e_4a05_b094_d925faee9cfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cfdfda29_f7cb_4f91_993e_b7b41d289473() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6c009e11_87cf_489e_aa48_4187abfa271a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_dea4b0a6_5a7d_4074_9e1b_5caa3f4c42cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_23ec91a9_848b_40f9_a2b7_b8d236e0508e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_efc9221b_9a59_4fb2_a1cc_392dffcbf985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1d518114_4e5a_4dd2_a500_bcd91eef27a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_caa81f36_e878_4d6c_91f8_d8fe638cdd3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7fbe0bb4_4457_4efc_bd9b_6a8585bf9fa9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_36f7c8ab_53f6_4b8c_bb74_bcc51f0e5da7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e3a10045_97e5_49ff_a6c3_1605fb7f3c43() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8f7dd89c_cc11_44e5_ab6c_6e265d3e0d32() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6d46619b_10f4_45f8_a486_cbb211efdb74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f17a064e_16e2_46f0_99fb_f9644938de91() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d04a1619_8811_4250_98e8_074f47b6b8b4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0af09423_9bf9_4aba_8c74_8f636e74bf47() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4492f787_f973_48f9_9d97_6acf15ee5f25() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_049146a7_63e9_408c_a936_1676299f3a07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_131d16ba_039f_4664_a3c3_0de8803b0366() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6deb9c1d_5d02_4813_b8ad_422cdf142888() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_648c11d1_82aa_4928_b90c_c7ed8687de5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3ea03378_4432_4809_8856_df1a6f6572ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_93b2d340_a97d_4eb2_a56d_3b3c4d6f9407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6d6fa579_8817_4d43_98e7_b724de410be6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1438602f_1564_4368_a920_55cc5f8f05d0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ab6bd885_8f87_4e5d_a894_a8ba9787c0cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cd868a28_4c2a_4803_8e04_e9463a1bb477() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_273309b8_4431_4b1b_aa46_08c29839d212() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9f97e933_2fe5_48d0_b6b0_1d983612a407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_233b2599_107d_464c_88c7_3b4728104103() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1251bae7_9396_4689_a8b7_b683cd00ca78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c9832bba_0e1d_4d55_935c_de02c2a00172() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b2d383dc_848c_4eb4_b444_8fef5a23a5e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4ae984dd_ca89_4ce0_9f7e_ea7ac3f6e9f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3ecdc9e2_24f5_4ac8_b7be_8689296afba0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_72d98adb_b859_4f50_8b02_daf69f81dc34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d2cf35e9_b14c_4193_ba6b_ce0332ca6863() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eb49788a_13ec_4c29_a3c1_d89ee835bee0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0589fd8d_7e71_4cc5_a4bc_a6ce6805e546() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_356e1322_35b7_43b0_8209_d083f0a7e6d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ab398215_ee03_4bb0_8ffa_cfc192fa3586() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1438602f_1564_4368_a920_55cc5f8f05d0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3772a582_9064_4e48_bdac_2f6bed422044() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_651238f7_f68a_4ad5_8c44_100739681307() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d21dc2e6_5a3d_4576_816a_95a704e3d18f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0e9cfaf0_0ca4_4d52_a796_8240f4ef78bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_334e9a1a_6bd6_41c6_88cf_bfedc531c7af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_48689ade_52bc_465b_b4e3_3b7c43bd1e5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c49079fd_f2c6_44bc_99df_a8b140c1075a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5ddb13c1_b0c3_4162_b821_1669584a7c72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a86207d2_8334_42c4_8f6c_2a880883dbe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1630b33d_a749_4d85_a373_75e8696e30e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_14ea93e7_74d8_4f7a_a7b4_05421a48728d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e4d0d33b_f9a4_4611_ae0a_89571f574e5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6af16bf3_f4ab_4498_825d_1cfb003553eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_95c56fd6_ef5b_4b70_aec2_5194a1bc324e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_da410df7_977f_4993_847d_94d3cb013c5a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cdb3dd3c_5d47_49bb_b23b_b03b5a4f8f78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_44220939_00ab_4984_b119_21cbe6174efb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6f979d3b_1453_4829_a04b_a63c861e3e03() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1198fcec_5ab6_46fd_9187_c00cbb5b5e63() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4b08d22d_acfe_4e51_9e45_6af2ecad41f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_04656934_ffea_46f4_82bd_713cf0cc77bf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d412f9f0_4b03_4329_ab64_d637bc0e9710() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b8e2de44_ca18_44b3_803e_1cb22f53a26b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b5542fee_1a1f_4d38_9fd9_388bff5776c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5944db08_12a1_4b7c_997d_b75da5ae3602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e2dcd15b_a8f8_4867_a1a6_87114cdcba11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2f82ef57_b16e_42e4_85c8_301152a61901() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a0c9aa9b_7b77_4992_9a46_f74ee28012cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_faa821c4_99c9_4489_8177_e2f7799eaf82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8c9210a5_048a_404c_91c8_f9854ab4ad6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_35b66550_9f23_460b_a7f3_5d796be5179c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5e4383d5_ebde_441d_b054_51079aa8601c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4f2cdec6_0bdf_421e_b8a2_6a6aaec90c96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c3385071_2d47_4dd0_a355_fe99f9a60998() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d29b52fc_edd7_4e0a_b7bd_972d70e16ace() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0e0407a8_73b5_42d4_ba70_579886a5f71f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_18bb83b0_d68a_4110_acb6_d1e5e2113b76() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8ad00223_2964_41e9_860d_51a68f7566ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eca7e6d0_3549_4db8_bc80_eececd1fbee6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_44220939_00ab_4984_b119_21cbe6174efb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_334e9a1a_6bd6_41c6_88cf_bfedc531c7af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_577708f5_af8f_4c2b_b333_13d9c2aa4787() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f6b2299e_a59d_44a2_a03d_df1d1e045b2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_954b67ac_3041_49ce_8b78_e4230aab25ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_90090a90_41ce_4f16_bf1b_e2250e3fd6ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_73ebf316_16e4_4cec_8c52_053764f5c4fe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7268cb26_dcc5_4ffb_9dd2_e38d55f1fc64() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f9dba577_7aaf_4306_8a58_bf8c5912a74f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_03d88210_3c77_4e94_8a3e_baadd9fc9bdc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e2a8499f_c9c5_4d68_a9a7_b39967ba0a0e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_658230ed_5713_403f_aa0f_86ad1f69fd33() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1ac55b3e_bae3_4326_bc70_412c198684dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cc47d1a7_0306_4b23_94a5_c2f30b4457ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9fa98bef_42ab_4f62_8be8_182c94b2a1a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_10736c77_102b_47f3_a0b7_4c7c41d3ad0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fc9c68de_5572_4780_bccf_0b0534876b60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2094ecc9_9258_4d10_9705_0f3820bdead1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0cbbf3db_9c10_433e_9ffa_3d7bb26f2836() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c0cdefd9_b247_4191_a5ef_86539f8da2f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5e4383d5_ebde_441d_b054_51079aa8601c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_94cb630c_1545_46f2_bbea_6b6bf0b1e10b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_02e44a16_43ee_426b_8597_3662b722e815() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_648c11d1_82aa_4928_b90c_c7ed8687de5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1ebc60b4_9b0c_4bac_bbf1_9c307800c173() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_da410df7_977f_4993_847d_94d3cb013c5a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8aa5d9f7_d135_43a0_ae8c_26e0367320a8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bf8ae449_21c3_4f13_a5bf_0f6a3467dbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b55c9346_34c4_467b_941b_1ec59c7d806a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0e3aa665_c672_4a1d_a8d2_67828f036958() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8e31baed_4ae2_4b1c_a4b6_85b17dfef9d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ae281160_d089_41cc_829c_c525ed3b891b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d610dcf4_45f5_4abb_b518_168b2b76fa08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e41fa9b9_3c19_4d06_9a79_c609838729ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2b64dbea_11d1_43c8_9f96_87fae98f98f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a4b447cd_1580_42a3_9233_d9cde72be9a5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a880728b_fc44_4160_8379_16a0f413dfcd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_26987fc1_c397_4316_b8ce_29fd9ab75aaf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5e8648d3_bd98_4514_9130_a545b7a02525() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8fe93fa1_0cc7_4248_b0a9_a88082bf0918() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_180dbf6a_6b47_44c5_88fb_17e420ef1c89() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a9b4ea57_06ef_46bd_8682_0632b41e3214() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_15e2733e_fcac_4bd9_a790_305998592b5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d610dcf4_45f5_4abb_b518_168b2b76fa08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3772a582_9064_4e48_bdac_2f6bed422044() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_56c65a4c_750d_4b74_99f1_fde4512b6b08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3d08eec1_5a3f_4eff_9c1b_1686a8f52259() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_78c8ccea_a068_45f4_927a_619738e4f248() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6c009e11_87cf_489e_aa48_4187abfa271a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9e4a8f4b_05b8_48d9_a997_b922d2525924() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4fce00af_2855_4d40_8524_a8b8c5871987() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d9565710_944a_4288_8404_6c8db64760c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ce5589cf_cfe5_4f5e_8f08_a4193c300482() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_715abd12_1fb6_430f_b27b_3767fcd61d2d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7cf27102_2b60_444f_ad85_272d5c4a6125() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_43975c52_6994_4bbe_b9ae_26b2fa7e1646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a716cebd_c5fe_4b6a_865d_90bc5a885a05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e8d1699d_f105_4e7c_b450_51eb5d5a628e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7177cc50_c33a_46de_b2b6_e8899c954f10() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_973459a3_1068_498a_8769_2e7643be17d8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5e8648d3_bd98_4514_9130_a545b7a02525() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_50fc240f_af80_4189_8cb6_84fd650cb9b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_334e9a1a_6bd6_41c6_88cf_bfedc531c7af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d04f8bbc_875b_48c8_a658_ba10350c46cb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d9565710_944a_4288_8404_6c8db64760c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_098a6d7d_e02b_465a_8dc3_1b8fb27b65ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f4bec27c_cf40_4be9_b86e_b88888b11c6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f17a064e_16e2_46f0_99fb_f9644938de91() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4b23450f_9567_4cab_90cf_b7402c095402() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_889cda97_0934_4e5d_aa92_a11e6f127b45() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_43306c0b_c78e_4cb5_8e15_8c1e8e661e92() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_88cc6153_4428_47eb_9759_68c2508f4afb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_384145c1_e1b3_4f3d_8d6d_c45eb4610af6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eebab443_4f81_4a23_ba6b_8bd3b1aab7e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cd615732_0796_49d2_95a7_4f4aba372269() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_eb046ca1_a069_45e3_ae25_925070d04153() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_70c1d9a0_f874_4aec_befc_cc2fcf204117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e4b47bb5_68fa_4b0b_b854_8e5251d43a21() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_56ed38b5_bea3_4e56_915b_aa4c10a36e83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_24b064d6_b63e_4a05_b094_d925faee9cfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eefef6e0_0ad6_4611_99e1_257901700ebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ad84d376_d2e6_454c_a789_a481e05cd3f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7652e473_084e_4897_b826_0e442059a677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_346fc4e4_4d4d_488a_91a6_4b54b1c9f80b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e8537e39_ed47_4cce_b92b_0fd5197406d1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0589fd8d_7e71_4cc5_a4bc_a6ce6805e546() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_10f20c6e_95f8_4fe6_b2b5_403f71fe1101() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_be35ed86_7d35_441c_97af_75f391524552() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8cfb5c9a_a2c5_4e69_9695_47800c41a1e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b6d01139_60c2_47d0_8bd2_1bb0a02bfa19() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e0fff5c9_33f7_41ec_8f12_63f976699f9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_70c1d9a0_f874_4aec_befc_cc2fcf204117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9db0d9f8_e9b2_4806_8506_b2a85e176233() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9fa98bef_42ab_4f62_8be8_182c94b2a1a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_79b7f9df_4618_442c_adb8_988a0849d517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f268be3c_5171_40d0_b067_d443f9854d15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bd14730a_6615_4511_af69_b55f8d161ec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ffb36309_24ed_419b_9f53_91638faf834e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3333f4b2_7489_4287_a684_cdde206549b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8b7f675f_cac9_41e6_897f_31736df178f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_29d2b430_507e_4136_a05d_8d09cb27ec6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5d9dcbbd_ed7e_47e8_b7fd_3e827ca0f289() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4675e405_4b36_469c_94e5_a65e129c3f68() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_70b52e62_d45c_4add_ba37_1ad81aa8863b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d771411a_cf83_4392_8ccc_a8b0f429026c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_817145c8_2a36_43d5_bec7_373613e232d4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fc9c68de_5572_4780_bccf_0b0534876b60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1c70a157_b194_4a3c_9ec0_f6726dcda3b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_293c080a_ce58_4eee_a59e_5576cb232831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1feb5d43_9c01_4f32_aa89_02eed126dec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6deb9c1d_5d02_4813_b8ad_422cdf142888() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_71be32c5_2619_45bb_8e89_99004461b08e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0e5534a6_cf6b_4852_a7cf_8b22198609e6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bc40aa13_b757_41f4_a58e_201913dbf50b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5449533e_ab3b_455f_a6d0_337611f2e08c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_19fa8e85_d9dc_48d2_afa7_215df99e83e9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a36c73eb_13c2_48de_aa4d_e13321c4ebc8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6883b9a4_b769_451e_805e_faaeb55df42c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_13bf467d_c9fd_4202_9fd5_f5eacebbdaa0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0d848b32_3e13_4dd1_84c0_a5d97f5c4554() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_832d85b3_87c9_457d_aa11_aee8fd387765() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_dea4b0a6_5a7d_4074_9e1b_5caa3f4c42cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f5352cf1_0ed3_460c_b8f1_fd9cdb411cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_98c55a1c_44fe_4fa0_9b01_a410655861c5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_caf4eb30_4381_4664_98f2_6a3b7438cc49() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6ed33f98_4e00_4556_8a8c_8e8c7bfeb1cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_17679957_b296_4f4e_b206_3c70406f2e0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9ce32e87_52fe_4d4b_849f_3a504b764ce5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9b718bb0_fa66_4adb_a718_cfd56478fec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_21d84da7_79f0_4a10_8dd5_1fc8747b1362() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_23ec91a9_848b_40f9_a2b7_b8d236e0508e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d53e0a47_1891_4b8c_87f3_776c50121e2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5d2dba73_2acb_41ef_a5f4_cd9d1f5fc292() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2c09f8f1_4da7_4434_8512_c9c36189ac77() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1cc9b519_029a_489c_bca2_61395745bf14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_62e36c79_3c1c_49de_9e85_965c1296eeac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a9fd8beb_da7d_4385_9ec1_30280af32df9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_73520caa_eeda_4410_95fc_e6294622085b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4ccde43a_ebc8_411d_a9ef_9d2cea6be01d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5944db08_12a1_4b7c_997d_b75da5ae3602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9952b97e_0beb_47be_81f2_971e8d7ce117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_728c62da_7a12_43fd_ba2e_4934cc3a55b3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0ab887b4_93dc_4f6a_a1ab_eea1d7408dab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c805c159_4323_4396_bac9_13ee7184106c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_293c080a_ce58_4eee_a59e_5576cb232831() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ebf201f3_0737_462d_9486_f189c789f82b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4ed73dad_08bb_4a61_8b44_37996c28de71() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2cfe347c_1ff8_4013_a52b_2b1db527c8ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b9167fb5_6474_45c8_87a3_0cf3e7d3cf22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_21bd515b_7e56_4dd8_a7b8_e170220416c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_8cb2b342_c13e_4430_a86f_661b593def3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7d3231d9_57a2_4d38_ade0_95bb2865e326() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e5b13a8e_b90f_4a03_a8ab_9355b3f3dc60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f82ff764_fa77_4262_b56d_51296059a3a3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8bd3139c_c6a6_42e0_9766_0a6ed2407480() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_244f18e0_2f2c_4880_a04c_647e809f1ac6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e6dc5af2_997d_4e0b_8b6f_cd6ab4d0f2fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_74dd3d68_f657_42ac_b4ee_3b37c322f708() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a8c45c3b_6cec_41dd_9a8f_5e03486101e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_84845dfb_d1cf_42b0_858f_301582421f54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a0f57023_382e_45be_8536_34dc98c6c4e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cb5a42cb_3986_475a_a071_5eebc2fb1dfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2094ecc9_9258_4d10_9705_0f3820bdead1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0894e4b0_c701_49b8_8ab0_2cb14bc28c9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8d9dbf51_82dd_4486_a802_d024a1e1b1fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4ac72fd2_feca_44f5_9208_cb5be5788d5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0c112c8b_d728_49bc_843a_35d2f5e789ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0e9cfaf0_0ca4_4d52_a796_8240f4ef78bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4ade3008_7292_409c_b8e9_f7adfefde39d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1e5bb4e7_a4f9_401f_a7f9_80585e9c3bf2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_341d4b56_819d_475f_a678_c57cc0168cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_2b64dbea_11d1_43c8_9f96_87fae98f98f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9b7d3d0a_1b93_440f_a657_359fb4c70aca() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cf84eb6c_64aa_4ec6_b987_35f1337b5c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c137afe4_d103_4de6_b3ff_be354c5f11dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_7a62ab24_7557_4a9a_b38d_42cb53cf52ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e6cc0b0b_75b6_44f9_8c23_2df096ddf5ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_79fef72a_adfe_43e8_a895_9673a16798da() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_244f18e0_2f2c_4880_a04c_647e809f1ac6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_fa486180_84f5_4c2b_973b_6719182f636f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7d54445a_1515_4410_b5a4_d0fe6320830e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9b2d75be_4cb5_4a27_abc8_2e4240d05c17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_68256400_2280_4a91_9833_a17fa0febb57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_65f86296_3812_4c97_ac99_b991bc6e2046() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1277b579_db7f_43ba_b985_0d0f9141277c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bb89276e_4f30_472b_bd5b_2952d0d32e9b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d30a643b_d50c_44c4_9681_f2fc7858794e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1251bae7_9396_4689_a8b7_b683cd00ca78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b2d75deb_f2eb_4d5e_b05b_ccbb28d40f2c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eefef6e0_0ad6_4611_99e1_257901700ebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f400232c_318b_45a2_8a24_a6f0bd66e053() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6e74b257_a68c_426c_ab39_bdccf273bc2f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f3cb170b_04a7_4888_86d9_94d841a9572c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_377fde6c_2bae_44d3_b7db_7d5c61344601() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f8f8a167_29c4_4b38_951a_8521a2edff00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_90d8ea92_ba9e_4c5f_9b5c_0c6b9630fc14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1fbfbb0f_0ddf_44a1_9642_80287d2ac0f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5d9dcbbd_ed7e_47e8_b7fd_3e827ca0f289() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4bccfcf9_984d_4e4c_b7c9_64c41c650147() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4de9cf88_7ff4_46f2_a5b8_3c94c1a837db() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_448ce701_7416_49c2_b190_2c2d931f1b05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f81952a9_082b_429a_96a3_09f9a9ae26c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_457f717e_e9c8_4ec5_9a32_72ffd3cf373c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7089740c_d94b_47e4_8a4f_77affab8815f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f8f8a167_29c4_4b38_951a_8521a2edff00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fa9c1973_e2cd_4d74_865b_5c9f72f28cab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8f32a2d6_5ca1_4a3f_b4d9_6a9cc4589349() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_815c96f2_2b49_4106_abbd_8d35a9d09409() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_765a13db_72f6_4b5c_a71d_ff296201a807() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f275f14a_8ec8_4a6c_9b6a_04377fd582d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2a28d249_c23c_418c_9d21_40e951dda629() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8ad00223_2964_41e9_860d_51a68f7566ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_85cb9e63_a060_4fd3_84a1_a95956ca1972() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ec82b20f_a496_489f_8388_14984c76e3fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_40718792_b6d1_4108_8242_b4daaf3cde61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d512fe67_c009_49ac_81ba_cdb73c2c8285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ab6bd885_8f87_4e5d_a894_a8ba9787c0cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f792fb0b_b0ab_4fa2_ad16_22fd4ff31757() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bd12b9e4_5662_40ae_adcc_cd9bba83a0c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e8f498d5_e1fe_490b_8740_8fd40cca82ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a7dc7f7a_9c61_4201_a9df_526d85771fe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_84bd3a7d_20a5_41c9_90a4_c921f8c68b57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f792fb0b_b0ab_4fa2_ad16_22fd4ff31757() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7c1fdb6a_6c39_4950_9a16_f3299d177bc3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ec7d110c_ee49_4821_aef3_ef2d78b86cb2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_53e400ee_3128_460c_be24_1e671169471a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_484770ca_b55b_4d3b_9481_11d168ac684c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d2e8d4d6_2eac_46c2_aa65_8619902d30f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e9781cb8_65e1_4f47_9895_0a4397bdf7e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6f979d3b_1453_4829_a04b_a63c861e3e03() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_70b52e62_d45c_4add_ba37_1ad81aa8863b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bfb105fb_5bef_46ad_8832_2da1b57209e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6deb9c1d_5d02_4813_b8ad_422cdf142888() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5d49d1f2_2cbb_4e78_94ad_bbc1af084c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5ddb13c1_b0c3_4162_b821_1669584a7c72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3e602e21_0802_4e6e_a73a_436b1f6c0ca5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_30a87c3f_e9fa_44d0_ba6e_75b347a4aba8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_99c7dbdf_fb29_49c4_85be_3c935e926c95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d2e8d4d6_2eac_46c2_aa65_8619902d30f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_715abd12_1fb6_430f_b27b_3767fcd61d2d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_da7b6045_9987_4a11_9285_d694fab2eaaa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9e3df6f7_a5c6_4bc3_9a78_70d9656bd16f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_518e5f84_53bb_490a_b551_294e810bf642() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5b71c020_45d3_4392_aab9_7d25ae2aae65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_098a6d7d_e02b_465a_8dc3_1b8fb27b65ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_14ea93e7_74d8_4f7a_a7b4_05421a48728d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_954b67ac_3041_49ce_8b78_e4230aab25ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b417f45f_8873_4a8a_95be_d6fb892bd63e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f929fede_42c7_4229_999b_bd4624380e1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_10f20c6e_95f8_4fe6_b2b5_403f71fe1101() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2240021b_7a88_448d_9d66_ea312875174c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_78eb4aa7_477f_44bd_998f_fdff7b7fbacc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0079db44_07cb_4037_94bd_b9d7455bd2ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e8f498d5_e1fe_490b_8740_8fd40cca82ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fe6cc0dc_63c7_4a40_a3b1_aa4489c0d8e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b8e2de44_ca18_44b3_803e_1cb22f53a26b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_00149b93_6dd8_43f5_bbd6_1b7b437b62c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6e4c8d67_12f3_457c_826e_aa25d84cdec0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4c03627f_8631_4190_9a2a_de12d3dffe74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7089740c_d94b_47e4_8a4f_77affab8815f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8ee4b8f7_6900_4ad2_aa63_b63ef3aee729() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_da782b7d_76d7_41a0_a2af_8778af2d9517() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2c1896e7_8a9b_4267_adb2_aaeec0ccdffb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_513a847a_dd49_4386_9a5a_a96daff77bf7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_64016e12_ad35_4222_8e63_078f5efde32f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9b718bb0_fa66_4adb_a718_cfd56478fec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d740b09b_3558_4c1f_8bf3_2194bc8a8de2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_65d76c60_bdc7_4275_a6b1_8a434e0e6157() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6694bbb1_6237_410c_b9fe_65de03245760() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_22891a6b_c527_46ce_b1d0_4bf2a9086a42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1ea4189c_f644_4ce5_b5a9_c134026c2441() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_16a1483a_6753_45f6_8ad5_74f07794ea4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f17a064e_16e2_46f0_99fb_f9644938de91() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8f3bb32f_f4ce_42c9_a795_2faaa8af5523() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_13f30eaa_0792_4ca1_91dd_073ff421cdab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d2c0f807_37f3_4299_b178_e3fd5a01a99e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5873836d_175a_4641_892d_5be7aefd8b11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1438602f_1564_4368_a920_55cc5f8f05d0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_47582dd3_ada5_4870_b3b8_7e586c1fbff5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_cd33d417_1a47_4431_9017_159a7a02e68c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_453cb93c_5c69_4e0d_a2ea_73517e462258() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0de89018_e1cb_4099_a39b_744a1603e07d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bb4445b7_0e7d_476d_9dd0_f0d5c63258be() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6d46619b_10f4_45f8_a486_cbb211efdb74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_24b064d6_b63e_4a05_b094_d925faee9cfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_389bda97_201d_478d_88d4_8ad2635c4cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d2e8d4d6_2eac_46c2_aa65_8619902d30f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7cf27102_2b60_444f_ad85_272d5c4a6125() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2a39b3fe_bae7_430e_bf8c_434cb8dfe3c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4ac72fd2_feca_44f5_9208_cb5be5788d5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_799a3c17_b5ce_466f_ac19_d4072cc21a5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3da4c117_530b_4a15_9b70_770d3a81ed83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_eefef6e0_0ad6_4611_99e1_257901700ebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_2d3db99d_1b46_42d7_b66e_8335cfaf7ec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_65d76c60_bdc7_4275_a6b1_8a434e0e6157() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_16a1483a_6753_45f6_8ad5_74f07794ea4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_3ff11ab2_e307_466c_85d8_13382a6aca03() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fd62fb40_693e_4a52_8439_2f7461c090d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a555f33f_d786_496e_9ece_c9960b25b780() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_17679957_b296_4f4e_b206_3c70406f2e0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_50fc240f_af80_4189_8cb6_84fd650cb9b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d0f4afbd_6b69_4285_b182_1013287df12c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_180dbf6a_6b47_44c5_88fb_17e420ef1c89() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d7f7a330_7720_4370_859e_cf001c9a8ad8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_77de06b2_d050_44a9_a61f_eabbf0f5bc79() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_aa17327a_db10_4755_95db_79f82851af1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b1b912e1_f76b_433f_8200_6e71e28280c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d7d0ccfa_4fd4_4740_beee_0d698890f123() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cb0ac1e2_e64c_4af4_bfda_161caae77713() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1cc9b519_029a_489c_bca2_61395745bf14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2174e2d3_4c99_4ed7_ad42_b8588cff69f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_79fef72a_adfe_43e8_a895_9673a16798da() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6ad40f57_ebf7_4c21_a6e3_ee5b130c124c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c1910f78_83ac_40d2_89f7_8611bea0bdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_de4fbde4_a509_4e65_a5f4_5c14f88196e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5e4383d5_ebde_441d_b054_51079aa8601c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6af16bf3_f4ab_4498_825d_1cfb003553eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_eb9957d9_54d5_4fb7_9ecd_e3de750a701d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_188dff86_9469_4ea0_b24d_f91e5d119156() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0d445ca7_b7cf_4fb0_9995_ca43515873e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_981babfd_33a6_481b_80cb_effc6f8cdcdb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a86207d2_8334_42c4_8f6c_2a880883dbe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d99e0025_3f31_4c5a_98b5_24fc215502f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_dc3a8c48_c638_4c6f_b1be_a02939e465fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_70b52e62_d45c_4add_ba37_1ad81aa8863b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_da7b6045_9987_4a11_9285_d694fab2eaaa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_341d4b56_819d_475f_a678_c57cc0168cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_95c56fd6_ef5b_4b70_aec2_5194a1bc324e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ab398215_ee03_4bb0_8ffa_cfc192fa3586() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_784ba029_fa4c_44f5_bf50_a2ee6ab8a4d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3e5dd447_51ca_4372_ad67_d905f223c66f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b8e2de44_ca18_44b3_803e_1cb22f53a26b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b0e53dd0_e0c7_4405_ab5c_8a7298e04221() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_31ca8ecd_81d3_464f_ae5e_8d5d7c94d1ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5d2dba73_2acb_41ef_a5f4_cd9d1f5fc292() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cbd56323_438b_4e7f_8d50_aa2ddde56564() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0dee506b_8f43_4a7b_a420_64cf8247ee9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f8f8a167_29c4_4b38_951a_8521a2edff00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ac89610b_50a1_42e7_a874_238ca07ceed9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_042e4849_434a_4915_837c_85862c3f8c9a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eacb5181_7053_4ed0_a659_2d104c350c4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0e0055f0_9839_41c2_ab64_267ea0e23cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_649fc9e7_3544_4cae_b532_e072ec59f14a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_966b658e_7b16_472f_ae69_41114f372963() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_34444986_4eaa_4bd2_b4d5_f029458eb969() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d0f4afbd_6b69_4285_b182_1013287df12c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_da410df7_977f_4993_847d_94d3cb013c5a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_c3a70715_be99_428f_a043_b6861b00fb60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c368c090_3527_4de7_9cf4_d9dce1bba0b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4ccde43a_ebc8_411d_a9ef_9d2cea6be01d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_48689ade_52bc_465b_b4e3_3b7c43bd1e5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b5542fee_1a1f_4d38_9fd9_388bff5776c4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c3a70715_be99_428f_a043_b6861b00fb60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_68256400_2280_4a91_9833_a17fa0febb57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0eb2ae46_9af9_45dd_9dce_2cab824b114a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0cd4ce3d_12e8_4888_85fa_ec72dd498b1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2e976c0c_cec3_4b63_858a_6f0fb60e3f12() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ff349b73_a9f7_47c8_98e4_ff4252eac53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0e5534a6_cf6b_4852_a7cf_8b22198609e6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_cf6b24c6_3576_468a_915d_1e8f67f2fd08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9b5e21e6_037b_4b86_930e_4af283c4a93a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7a205394_8e80_4b61_a941_f8f60fae1354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_73afdd86_f65b_462d_ae8d_e67f718ec35f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_728c62da_7a12_43fd_ba2e_4934cc3a55b3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d2cf35e9_b14c_4193_ba6b_ce0332ca6863() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9ac08552_3d3f_442d_a240_a383f6057086() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fece2472_1efa_4822_ae56_056faaf1b66d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cc47d1a7_0306_4b23_94a5_c2f30b4457ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ddbdbd1e_62b4_420f_860a_638d4ab2db29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_601848a1_86c6_46ec_8eb9_ed13cf9aeab2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_03d88210_3c77_4e94_8a3e_baadd9fc9bdc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f9dba577_7aaf_4306_8a58_bf8c5912a74f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_88c06564_1810_4fdf_b2a3_cf91380cb954() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ec7d110c_ee49_4821_aef3_ef2d78b86cb2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b417f45f_8873_4a8a_95be_d6fb892bd63e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d369afcd_e5b3_4ff5_acd8_644b94afd281() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_53440f23_39f7_4987_9308_12df9c4df1e8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_98ae66a2_ab4b_4e5d_8352_74a81c86f04e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_43975c52_6994_4bbe_b9ae_26b2fa7e1646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8ad00223_2964_41e9_860d_51a68f7566ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f0122b75_2a2c_42a3_b13c_cf71fab5174b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9b82bcf8_15a4_4d02_a060_b8c375b65cc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e5d751c8_4e99_4eae_9479_12164b7cbd72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1277b579_db7f_43ba_b985_0d0f9141277c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bc82da60_c8e7_4108_abe5_76d5c2b37bef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6af16bf3_f4ab_4498_825d_1cfb003553eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e4d7f8b2_ee8c_4987_a1d2_10ebf442252b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_889cda97_0934_4e5d_aa92_a11e6f127b45() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d5348ae9_bc1b_44a1_a9c8_df4c2ad358cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_651238f7_f68a_4ad5_8c44_100739681307() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_13bf467d_c9fd_4202_9fd5_f5eacebbdaa0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f7b1d06d_37db_405c_9e2c_d5f00354d833() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_936c8cea_8ab0_4ff4_b53d_b57bf700b2fb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e4326926_010b_4fb7_9813_d4a2336da9f8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_598dcba5_529f_41dc_821a_176ed0d8449e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a036d823_b848_42fa_a842_55c279a84228() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b43833a6_8576_4d24_9358_728ca31b3c60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_48a70e96_c485_49cc_a6d4_85cd741bcbf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_81b3a83f_4d2d_4b96_ba03_db24992f5076() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7a62ab24_7557_4a9a_b38d_42cb53cf52ac() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d30a643b_d50c_44c4_9681_f2fc7858794e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a1c7b368_0eee_435c_9a49_b6bc4efaf3c7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bd14730a_6615_4511_af69_b55f8d161ec3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_37c62208_ada5_44e4_b4ff_93f60d1a22fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a9fd8beb_da7d_4385_9ec1_30280af32df9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_34444986_4eaa_4bd2_b4d5_f029458eb969() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fcd63daa_f8b0_4d90_9238_d0fc74401cc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7ef28c35_8129_4e58_b053_afb83aee7c6c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_10b31e6a_4dd1_4a5a_aef9_167903e0d70a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_efc9221b_9a59_4fb2_a1cc_392dffcbf985() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1ebc60b4_9b0c_4bac_bbf1_9c307800c173() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0c112c8b_d728_49bc_843a_35d2f5e789ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9dbf02ae_f481_45a7_a72f_2b21c859cf69() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3a7d6dff_f961_47d2_8455_c267e79a3689() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7089740c_d94b_47e4_8a4f_77affab8815f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_78c8ccea_a068_45f4_927a_619738e4f248() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_26622fa7_e150_4a84_8321_741f0713c133() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1b83514d_5d62_4247_aaf3_fca12d502335() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0dee506b_8f43_4a7b_a420_64cf8247ee9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eacb5181_7053_4ed0_a659_2d104c350c4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ddbdbd1e_62b4_420f_860a_638d4ab2db29() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_10736c77_102b_47f3_a0b7_4c7c41d3ad0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fabdec3f_c197_41a7_8e6f_e3b8df6e8f86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_802f758f_5a60_4091_8ec0_dbc7270c3644() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_17679957_b296_4f4e_b206_3c70406f2e0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_389bda97_201d_478d_88d4_8ad2635c4cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_149766e0_8416_4c2e_aff1_fb517fd75bc6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b966024e_c470_4be6_ac13_1a447431b12e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5e8648d3_bd98_4514_9130_a545b7a02525() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f0122b75_2a2c_42a3_b13c_cf71fab5174b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b2f28b8a_f14b_4939_8246_94d7fc917578() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9e9e797f_aa84_499f_b831_8d165880215d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_929405d6_1ddc_4e7f_b7c6_de2b7ee434e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9adb8987_5266_4a79_ab8b_4157865ce544() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cbf49026_ee29_46b1_90e4_c22d250da068() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8d2f7973_8123_4c69_9219_7cf84bcb2cf4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_71e6fef6_e96d_4087_bdd9_62203d557df3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e9eb2e9e_368d_4209_a25a_960e8a9bb36c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_577708f5_af8f_4c2b_b333_13d9c2aa4787() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_518e5f84_53bb_490a_b551_294e810bf642() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f4bec27c_cf40_4be9_b86e_b88888b11c6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_562c8776_4913_49c9_92a6_6abc3767090a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f929fede_42c7_4229_999b_bd4624380e1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_a4c93ee4_8ff5_4ee1_a954_46a9e140925e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_91349baa_fb46_4c09_ab32_ab0b049d18ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_566f1ef9_5ea4_4bdd_89e0_7eeb62b52d55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_70b52e62_d45c_4add_ba37_1ad81aa8863b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d7fb57bc_47bc_4401_ae2a_108856534d95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_19fa8e85_d9dc_48d2_afa7_215df99e83e9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d135a19d_b41c_4f0c_ab34_79cf59365beb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5a1a7310_e14e_4711_ab67_9b4ac8e86036() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_1b83514d_5d62_4247_aaf3_fca12d502335() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_02c31553_4c96_4fac_a86c_2f93d1a0cdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_90d8ea92_ba9e_4c5f_9b5c_0c6b9630fc14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0199ae7d_4204_47a6_b651_9d3024e71b28() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_56cdb17b_754f_42ce_88f7_d2a028ae5e39() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_88c06564_1810_4fdf_b2a3_cf91380cb954() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_37f1f357_64c1_4521_8eb4_a050284cc10f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8ad00223_2964_41e9_860d_51a68f7566ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_44c0e1d5_c9a6_4f9e_827c_aa0ceeddb2dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_07659b4d_8dc7_4907_a5eb_28e9bf9a2535() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2978e5d0_6913_4378_b0e8_cc0fe401658d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d8c9a824_5488_4e5b_b356_fdd8b96c4fe4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9e4a8f4b_05b8_48d9_a997_b922d2525924() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f820993f_009c_4d6b_96e7_307624c698e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4c3ba4f3_add5_4610_b043_14df005db663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e0ec658c_d893_4a64_9610_21d05efa1f2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b8e2de44_ca18_44b3_803e_1cb22f53a26b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a4b447cd_1580_42a3_9233_d9cde72be9a5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_968cedd5_b10a_47a7_9885_84f3dad4865c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3da4c117_530b_4a15_9b70_770d3a81ed83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bf6f27d9_c448_454b_a53c_1c9c82e4b77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_ee32b7df_a431_4e28_8f72_35cb78802c34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_73afdd86_f65b_462d_ae8d_e67f718ec35f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_199dc9bb_cbba_47b2_adc1_fdece88eea1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_29fffe9d_c2c8_46a7_b3aa_2dc8227679f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bfb105fb_5bef_46ad_8832_2da1b57209e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4779c494_9510_445f_8603_d07442772956() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_cfdfda29_f7cb_4f91_993e_b7b41d289473() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_0e9cfaf0_0ca4_4d52_a796_8240f4ef78bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f2cce68e_57ef_49d7_9e27_8d02155f063c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_38fc052f_e08a_419b_aaca_2fc5c2050f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_69ef6e23_bc3f_4218_bdc7_78134019f677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_38cd8e03_6667_4303_af2c_5646fc1ff07e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0894e4b0_c701_49b8_8ab0_2cb14bc28c9c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9b2d75be_4cb5_4a27_abc8_2e4240d05c17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_733db2e9_3d9e_4816_8c8e_59a5a5d8ddad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_346fc4e4_4d4d_488a_91a6_4b54b1c9f80b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8e2445f7_7857_41c1_b30a_8ae9e7dbca3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2c86c608_2fbd_43b1_abc2_42c6972e5a23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1ad0c93b_74e1_4703_bfbc_d1c664c635ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_180dbf6a_6b47_44c5_88fb_17e420ef1c89() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f6b3a61e_8429_4a17_a7b3_33eb4e1b5e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8cb2b342_c13e_4430_a86f_661b593def3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b0e53dd0_e0c7_4405_ab5c_8a7298e04221() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5e65b2df_a8c0_4e7e_812a_e872ca01c92c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_566f1ef9_5ea4_4bdd_89e0_7eeb62b52d55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9bcbd515_637d_46fa_9abb_efd845572db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_513a847a_dd49_4386_9a5a_a96daff77bf7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_00149b93_6dd8_43f5_bbd6_1b7b437b62c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_63fad09a_d421_4b96_b440_bf23309f0f41() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_b55c9346_34c4_467b_941b_1ec59c7d806a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_edbff296_13ba_4548_a2d0_70387e655905() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a0aec74b_1721_4476_8d48_2fcf030393ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0a548806_4591_4201_9546_64121bbd74e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0199ae7d_4204_47a6_b651_9d3024e71b28() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2b64dbea_11d1_43c8_9f96_87fae98f98f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_00149b93_6dd8_43f5_bbd6_1b7b437b62c1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_35d70a05_64d5_4412_be64_819617d18e3a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_65d76c60_bdc7_4275_a6b1_8a434e0e6157() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3e5dd447_51ca_4372_ad67_d905f223c66f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6b91dc0a_a715_46ad_a1b7_eee826255daa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9cd4a269_0ace_4bd2_a842_9550ac5204cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3ff11ab2_e307_466c_85d8_13382a6aca03() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_21108fa2_c652_41c2_973e_15d6737a81bc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b966024e_c470_4be6_ac13_1a447431b12e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f820993f_009c_4d6b_96e7_307624c698e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b6a6b621_28a3_46ea_87ab_05e2beba5acb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_389bda97_201d_478d_88d4_8ad2635c4cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3da4c117_530b_4a15_9b70_770d3a81ed83() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4d73430e_ad45_42ba_9903_66482b7508f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f0122b75_2a2c_42a3_b13c_cf71fab5174b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_1476bd31_0862_46e0_b988_0c4b298caeef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c009e9e5_ae84_4617_8db1_64a9298fde95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9ac08552_3d3f_442d_a240_a383f6057086() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_21bd515b_7e56_4dd8_a7b8_e170220416c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_36dbda3b_8fb2_43e8_aed0_4a71e9b4867a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5a1a7310_e14e_4711_ab67_9b4ac8e86036() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3c46017e_8d79_4ee4_91fb_ff301c7ebd97() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f3006ca4_9d08_4c8a_9d63_98bf1715f027() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_caf4eb30_4381_4664_98f2_6a3b7438cc49() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3ab0a454_f66a_4942_87d1_4a05ed0832d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b6f1b135_f855_4ce2_b34d_e088a07618bd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0cbbf3db_9c10_433e_9ffa_3d7bb26f2836() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_07b83101_8f30_4195_9dd5_977a3767ac72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d2c0f807_37f3_4299_b178_e3fd5a01a99e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_71a1c50e_dd80_41f0_8256_d9105b4170f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4ae984dd_ca89_4ce0_9f7e_ea7ac3f6e9f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5316daa2_bbf5_44d3_8d81_acab93e891af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9b718bb0_fa66_4adb_a718_cfd56478fec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8bd3139c_c6a6_42e0_9766_0a6ed2407480() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_53e400ee_3128_460c_be24_1e671169471a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_bc82da60_c8e7_4108_abe5_76d5c2b37bef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f35e15a1_35c5_4f2b_957a_cb270568249c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6d50a7e7_8d9e_4f37_87d8_15163c901700() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_858ea519_90d4_4feb_9eea_1b0979d543ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a395f910_9382_4dc3_a6f4_fed257abed20() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fabdec3f_c197_41a7_8e6f_e3b8df6e8f86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_d9565710_944a_4288_8404_6c8db64760c8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5316daa2_bbf5_44d3_8d81_acab93e891af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5555d585_9c5f_4d7a_9724_59353e58850f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f275f14a_8ec8_4a6c_9b6a_04377fd582d6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f4daba23_5099_43e4_a0fc_19f1420e31de() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_5262c358_1e40_4db2_8836_3070e98997cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b966024e_c470_4be6_ac13_1a447431b12e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4b4b2b60_23c1_492c_b19e_5b94b711661d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_453cb93c_5c69_4e0d_a2ea_73517e462258() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9bcbd515_637d_46fa_9abb_efd845572db3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a80dc3a8_f00a_48ac_8aeb_5d1bb9d019b0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4b6fc7c6_9967_4d96_b660_9dc1e5e740f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_6feffe38_773a_4abe_9663_24b07f0a9c7e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_47a037c9_e6c4_4996_b464_07dc42c87467() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eb2e3ad1_a534_4a43_b5ba_f54eba07eb17() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c7b26d06_fb84_4dc4_adfb_6c889bf354f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1476bd31_0862_46e0_b988_0c4b298caeef() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e1ee52d7_ce63_4de3_8a80_146a94d54d7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_21d84da7_79f0_4a10_8dd5_1fc8747b1362() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_149766e0_8416_4c2e_aff1_fb517fd75bc6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9613ab2d_4c40_484d_8d2b_e505373ec6f4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9dbf02ae_f481_45a7_a72f_2b21c859cf69() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e41fa9b9_3c19_4d06_9a79_c609838729ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_577708f5_af8f_4c2b_b333_13d9c2aa4787() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f476256f_6732_4d99_a23e_4c338963355e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_eed83f2a_fcb4_49ad_9923_4328649709af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_a9b4ea57_06ef_46bd_8682_0632b41e3214() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eb6e8584_9dc4_4337_9ac7_62da15c68aa4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2c09f8f1_4da7_4434_8512_c9c36189ac77() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0e0055f0_9839_41c2_ab64_267ea0e23cbc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_696f0df2_17ab_4dc4_a4e8_f99b0cd4bc26() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_dcf93475_aa45_4c5c_a2c6_9d4de7de4814() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_93b2d340_a97d_4eb2_a56d_3b3c4d6f9407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5b2a0071_f578_4132_8356_167b34119664() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7652e473_084e_4897_b826_0e442059a677() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_54d02606_f5d1_49f5_939b_3e16dcb481b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5944db08_12a1_4b7c_997d_b75da5ae3602() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c9d172f2_9069_4e4e_9fda_7782107d6758() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5e8648d3_bd98_4514_9130_a545b7a02525() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7708122c_332d_4f5c_b2d4_2c2d603cbd78() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_44220939_00ab_4984_b119_21cbe6174efb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c009e9e5_ae84_4617_8db1_64a9298fde95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0a5aec91_975e_4aef_8f0c_98fcd3d8b5f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e9781cb8_65e1_4f47_9895_0a4397bdf7e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0e3aa665_c672_4a1d_a8d2_67828f036958() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_48689ade_52bc_465b_b4e3_3b7c43bd1e5b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5501814a_b8bc_40f6_8649_054ad90acf1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c6e4239c_5de6_44b3_8e90_9b44bfd6bd4c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d3988492_b47e_4f94_8793_216336ace436() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d0d6e8d6_8072_40f4_a60c_60cfe98bf357() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_91fad0d6_4ecf_499e_8d29_b9578a66d5a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1d15bb83_c832_4541_83fb_ef97a72e150d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_cb0ac1e2_e64c_4af4_bfda_161caae77713() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8c92d0ac_f414_4a54_951d_d3b4a8545d5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_dc3a8c48_c638_4c6f_b1be_a02939e465fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4fce00af_2855_4d40_8524_a8b8c5871987() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_7805c5e7_2fde_45f3_a132_6288aab31e9f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_fafdda9e_2135_4864_bbc3_658367d1e842() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_147377f2_279e_41f8_bb61_c0821e1334f9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_2c578921_8b21_4602_bb26_f1f3aa84c74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7fbe0bb4_4457_4efc_bd9b_6a8585bf9fa9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_db41dc91_d30a_45b7_96bd_6d1e5b01f0f1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a9793c49_2170_46bc_8913_ac5cf887abb3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8d1877dd_57ed_4a65_9694_6acd4372c75c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9577eb9b_7192_4bee_9ff0_b464f4da0340() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_34713c71_e2ae_4781_9b34_0e368f0ef73c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a86207d2_8334_42c4_8f6c_2a880883dbe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cc5c8548_c51a_45d9_b8f5_a8f9222ed8c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b2d383dc_848c_4eb4_b444_8fef5a23a5e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_651238f7_f68a_4ad5_8c44_100739681307() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_27f5d1ea_04c5_4e51_b8fe_1cbc24a03812() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_07659b4d_8dc7_4907_a5eb_28e9bf9a2535() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1b02acad_5de2_4868_b1a8_6b826986cc7f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5b9fbb27_9ed7_4b64_b452_b5835a226e54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d76d0f1c_669a_4b49_9fdb_ea8caea6a6e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5fc0e2f4_d7b3_49f2_82da_c01bca70c91f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7268cb26_dcc5_4ffb_9dd2_e38d55f1fc64() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0eb2ae46_9af9_45dd_9dce_2cab824b114a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e2a8499f_c9c5_4d68_a9a7_b39967ba0a0e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_68256400_2280_4a91_9833_a17fa0febb57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d7fb57bc_47bc_4401_ae2a_108856534d95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6df7c3e6_0608_46ba_9666_18d0ea6458c6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_94cb630c_1545_46f2_bbea_6b6bf0b1e10b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a48ca183_f4be_4092_ae0d_5f0949fcacb8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0e0407a8_73b5_42d4_ba70_579886a5f71f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9e4a8f4b_05b8_48d9_a997_b922d2525924() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_5bd071bf_a958_4529_8dca_d29957d14faf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_20a93e97_8d0a_4139_8569_5126a89c835c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5d39977b_f8ad_49de_8963_4a35ef3d2746() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_eed83f2a_fcb4_49ad_9923_4328649709af() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_90d8ea92_ba9e_4c5f_9b5c_0c6b9630fc14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1277b579_db7f_43ba_b985_0d0f9141277c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f7b1d06d_37db_405c_9e2c_d5f00354d833() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ffb36309_24ed_419b_9f53_91638faf834e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5b2a0071_f578_4132_8356_167b34119664() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_48f5a500_6673_478d_b279_0835c052ab15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8d1877dd_57ed_4a65_9694_6acd4372c75c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3ff11ab2_e307_466c_85d8_13382a6aca03() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_3333f4b2_7489_4287_a684_cdde206549b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_4b08d22d_acfe_4e51_9e45_6af2ecad41f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9465b816_a70b_46e6_88e7_11519ee845b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e3d83a75_919e_4490_a80e_99f9d70deac0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e4b47bb5_68fa_4b0b_b854_8e5251d43a21() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_61971746_2171_4c98_b6c8_147b3cb18e8b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_40718792_b6d1_4108_8242_b4daaf3cde61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_4f2cdec6_0bdf_421e_b8a2_6a6aaec90c96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_91f334bf_582b_4189_b073_45a67409c663() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ffb36309_24ed_419b_9f53_91638faf834e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d3041944_c14a_4394_a340_f4edea6aab61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_16a1483a_6753_45f6_8ad5_74f07794ea4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a716cebd_c5fe_4b6a_865d_90bc5a885a05() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_74e8c74d_a5b8_4b1e_b8e6_83eb5a6fe040() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a003a6da_de30_4186_bb43_e711be9bad60() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3e2339e3_d5fc_442a_871d_3f0216eb0c5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_715abd12_1fb6_430f_b27b_3767fcd61d2d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_68256400_2280_4a91_9833_a17fa0febb57() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_eb6050ca_2572_450f_aba1_fafd27077288() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_e6dc5af2_997d_4e0b_8b6f_cd6ab4d0f2fc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_bf8ae449_21c3_4f13_a5bf_0f6a3467dbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eca7e6d0_3549_4db8_bc80_eececd1fbee6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_70c1d9a0_f874_4aec_befc_cc2fcf204117() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_530ed63b_d8db_4e39_b293_c6cb77c993b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1ad0c93b_74e1_4703_bfbc_d1c664c635ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a395f910_9382_4dc3_a6f4_fed257abed20() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_0ba301a4_a1f0_42a0_912e_3fa3778de74e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_49dda6f5_b80c_405c_a608_ffe25a815b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_30840940_1ccd_4c67_baa6_c4d472619f46() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f820993f_009c_4d6b_96e7_307624c698e3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_cab7ef81_342f_4ae4_b6f3_eac7fa5b749b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_10f20c6e_95f8_4fe6_b2b5_403f71fe1101() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4b0aea01_6fbc_4f88_9c27_6c74989acde6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b2f28b8a_f14b_4939_8246_94d7fc917578() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0de89018_e1cb_4099_a39b_744a1603e07d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_e3cd189c_33d5_4a24_9b00_6de7c1ef0c42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f0607420_b519_4290_8073_ba20291c119f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_22891a6b_c527_46ce_b1d0_4bf2a9086a42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_8528515c_ea3a_4c97_9489_22f466a32e2a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_147377f2_279e_41f8_bb61_c0821e1334f9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_38cd8e03_6667_4303_af2c_5646fc1ff07e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_ab398215_ee03_4bb0_8ffa_cfc192fa3586() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0e1062cd_4d72_43c3_a032_bdcbe4d8767e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5aa69408_10d4_462d_9b7c_98a88b4978a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_644e37fe_fe91_4396_a3d0_3ee4b972f26f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_4aadd8ee_4a0c_4954_917b_dffa04e57285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d68ad771_5a5c_4fd3_b753_f1966591bf55() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_c0cdefd9_b247_4191_a5ef_86539f8da2f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d3041944_c14a_4394_a340_f4edea6aab61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_21d84da7_79f0_4a10_8dd5_1fc8747b1362() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ed84b4c2_6654_4408_9063_eb4c8e5b57e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9df647c2_4ace_418b_bb0e_96f2c5e2575c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_91fad0d6_4ecf_499e_8d29_b9578a66d5a1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_08ead59f_f3ad_492a_b3ab_b81148a8d74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0079db44_07cb_4037_94bd_b9d7455bd2ce() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_080820dd_d38e_406f_8b3f_62fca078d0c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_84579cf4_0c8e_4fc7_a528_5e7a7bbc88a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_529f3d17_7478_4f74_95e4_58cf8c21c9d2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_9465b816_a70b_46e6_88e7_11519ee845b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_aa17327a_db10_4755_95db_79f82851af1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_fbc92126_6eb8_42a5_aa29_e292ab003c98() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_cd33d417_1a47_4431_9017_159a7a02e68c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f929fede_42c7_4229_999b_bd4624380e1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_95203111_6f4e_4cc4_86b2_c68657bcc898() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_fc16107a_0a2c_4102_8d65_811e032b3c3c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a9fd8beb_da7d_4385_9ec1_30280af32df9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a8585a18_be3b_485c_bf37_5d62efc21ab3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_f23557cd_9a96_4614_99b3_fd08543d08be() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_63fad09a_d421_4b96_b440_bf23309f0f41() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e2dcd15b_a8f8_4867_a1a6_87114cdcba11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a48ca183_f4be_4092_ae0d_5f0949fcacb8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_be2f7d5e_6125_4b36_b272_b067cbb76a95() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a55641d9_75de_4acd_8433_656036a5e891() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e6cc0b0b_75b6_44f9_8c23_2df096ddf5ab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cd33d417_1a47_4431_9017_159a7a02e68c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_a3ba15c8_82f0_4415_a104_b87cbfbc5354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f4daba23_5099_43e4_a0fc_19f1420e31de() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3e5dd447_51ca_4372_ad67_d905f223c66f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6f4ec5a0_7cd2_42b9_838c_37d7abd5a9d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bf8ae449_21c3_4f13_a5bf_0f6a3467dbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1131a41b_d118_4483_a309_6f297d44b401() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4bccfcf9_984d_4e4c_b7c9_64c41c650147() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_8cb2b342_c13e_4430_a86f_661b593def3b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_13f30eaa_0792_4ca1_91dd_073ff421cdab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_e003fca7_283c_4186_837f_1b90e3bf815a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_1ad0c93b_74e1_4703_bfbc_d1c664c635ad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_71a1c50e_dd80_41f0_8256_d9105b4170f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_cae29d64_2c04_4135_a87d_adb803743720() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5d39977b_f8ad_49de_8963_4a35ef3d2746() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_c891294b_82af_41e4_9f23_cf834346baea() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_644e37fe_fe91_4396_a3d0_3ee4b972f26f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_40a22024_bf6e_4e92_a99b_382e025a987f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_443564b4_fc41_43f7_9c16_208266edd110() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6a47c0de_738b_4ca6_bb53_67fa8b9698dd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_6ed33f98_4e00_4556_8a8c_8e8c7bfeb1cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_771d6ca9_ffdd_45f2_933d_fc0364e7b4e2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_852a20cc_9531_4bd6_9c62_04de4a936251() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d8c9a824_5488_4e5b_b356_fdd8b96c4fe4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3ab0a454_f66a_4942_87d1_4a05ed0832d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7360784b_bbef_4e86_b52c_68d16ecb239f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_eb6050ca_2572_450f_aba1_fafd27077288() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_d2c5ea4a_f7b7_400f_a093_942bbf4b9f6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_28be6abd_9d5e_41b3_b2d0_8ed8761ddbcb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_765a13db_72f6_4b5c_a71d_ff296201a807() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0e5534a6_cf6b_4852_a7cf_8b22198609e6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_946b09c1_01ab_4be1_bedd_c9cfb91bede9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f1b67d94_45f0_4b75_8dc4_2e9b1bf42f35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_f322b30e_a6a9_466e_ab4d_154e420180a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6d46619b_10f4_45f8_a486_cbb211efdb74() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7b5ef3a4_7856_44bb_94b2_a3f9dc936ede() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0eb2ae46_9af9_45dd_9dce_2cab824b114a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_15e2733e_fcac_4bd9_a790_305998592b5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_282119f6_cc7d_4fe8_b269_8d72260aa3ec() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_0ab887b4_93dc_4f6a_a1ab_eea1d7408dab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3d08eec1_5a3f_4eff_9c1b_1686a8f52259() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2b64dbea_11d1_43c8_9f96_87fae98f98f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_92f07b4f_fcf3_41af_b6c3_ba17f820abfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_8e2445f7_7857_41c1_b30a_8ae9e7dbca3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_929405d6_1ddc_4e7f_b7c6_de2b7ee434e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b2d383dc_848c_4eb4_b444_8fef5a23a5e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_4bccfcf9_984d_4e4c_b7c9_64c41c650147() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b0092186_cf5b_4c10_bde3_4a9c55422c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_afc81f1b_8b8a_4988_bf26_fc7143535d42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e8537e39_ed47_4cce_b92b_0fd5197406d1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_82aa11dc_7583_414c_91a4_313d0f1eab82() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_74dd3d68_f657_42ac_b4ee_3b37c322f708() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b0989fa3_60c9_4940_b45c_f16d9b3018eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b956fea4_cbe4_46b8_88a8_596bbb94603d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_38f6cc21_2339_4ba9_a88a_e645ebc7c345() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_6d2daa98_da35_4e29_bcb6_fb1881a13efa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e8537e39_ed47_4cce_b92b_0fd5197406d1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c2d1dd46_66c2_4a76_a0f4_f5ab644ac8f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_36dbda3b_8fb2_43e8_aed0_4a71e9b4867a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_9fe8637c_f817_44c4_aed8_c74f36a375f0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_144196ac_f6da_4439_a1a6_f8cf6eac926e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d6b3463e_9f51_431c_8168_c6d0f2957917() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_be82579e_632f_4d7b_9465_dfabd586bebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_73ebf316_16e4_4cec_8c52_053764f5c4fe() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_7b5ef3a4_7856_44bb_94b2_a3f9dc936ede() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_29fffe9d_c2c8_46a7_b3aa_2dc8227679f6() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_dcf93475_aa45_4c5c_a2c6_9d4de7de4814() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_d6b3463e_9f51_431c_8168_c6d0f2957917() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a9b4ea57_06ef_46bd_8682_0632b41e3214() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_180dbf6a_6b47_44c5_88fb_17e420ef1c89() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0ac72a5a_1e86_4fdc_8065_3b6bf0cfa7b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_3d456534_2e56_4069_9a85_ede872a43f1b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_c1910f78_83ac_40d2_89f7_8611bea0bdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_fafdda9e_2135_4864_bbc3_658367d1e842() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_3aa32e6e_1ce0_44b7_b7ee_626ebdb82612() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ad84d376_d2e6_454c_a789_a481e05cd3f2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_50fc240f_af80_4189_8cb6_84fd650cb9b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_982c09f7_b4bc_46de_90e1_caf3281e5c86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_6ed33f98_4e00_4556_8a8c_8e8c7bfeb1cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_54d02606_f5d1_49f5_939b_3e16dcb481b7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_30d0ed00_bf64_4b42_b424_00598f4b726e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4aadd8ee_4a0c_4954_917b_dffa04e57285() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_644e37fe_fe91_4396_a3d0_3ee4b972f26f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_1dafe03a_cb28_4306_9083_d7fff28acdfa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4494b7f3_4664_4bb9_9fb3_030e7f5a1ae8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_58c489ac_f1e1_4de8_aab4_5d47f1319a65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_6fda086e_8a05_494a_8838_4bd443fcc09e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_db9a9b0e_1d51_47fd_a8a8_62c5a9425bc1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8b60dbad_73eb_4a31_8850_9a9d4df42fad() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_40a22024_bf6e_4e92_a99b_382e025a987f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3ea03378_4432_4809_8856_df1a6f6572ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_25c81e45_5698_47f6_b503_f6f8cb7b627d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ffb36309_24ed_419b_9f53_91638faf834e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_fabdec3f_c197_41a7_8e6f_e3b8df6e8f86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_90d8ea92_ba9e_4c5f_9b5c_0c6b9630fc14() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9b82bcf8_15a4_4d02_a060_b8c375b65cc7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a4b447cd_1580_42a3_9233_d9cde72be9a5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_48f5a500_6673_478d_b279_0835c052ab15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_bbef9525_a192_43e9_865c_6147135e4567() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_bacc4f52_e86c_4f82_984b_1557ea99355d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_44d886fa_4a89_4684_938d_d0db2f5eaa22() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_9e9e797f_aa84_499f_b831_8d165880215d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_af572062_5b46_4476_9b11_6e48b1d1a8d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_7a205394_8e80_4b61_a941_f8f60fae1354() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_e4d0d33b_f9a4_4611_ae0a_89571f574e5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_53e400ee_3128_460c_be24_1e671169471a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f9ff15b4_b9b4_48e1_91a6_7ef18002e2c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_131d16ba_039f_4664_a3c3_0de8803b0366() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_0199ae7d_4204_47a6_b651_9d3024e71b28() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_be35ed86_7d35_441c_97af_75f391524552() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_18d6fb39_94df_44b8_b8b7_b88d42c90458() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_31ca8ecd_81d3_464f_ae5e_8d5d7c94d1ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_9df647c2_4ace_418b_bb0e_96f2c5e2575c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bbcc9e1a_e74f_40bf_b0bc_8e26dcbed27a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2f82ef57_b16e_42e4_85c8_301152a61901() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a06b10b4_32d2_4b45_8ca8_cdb2d02c8980() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5e4383d5_ebde_441d_b054_51079aa8601c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f1b67d94_45f0_4b75_8dc4_2e9b1bf42f35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_f2519f03_d430_4711_ab97_2976272b0b54() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_68a71339_b039_4988_96f1_80ce9e16a0f3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_815c96f2_2b49_4106_abbd_8d35a9d09409() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1a213c9b_e039_47df_a259_dae441f1f5e7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_bf6f27d9_c448_454b_a53c_1c9c82e4b77d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_b0989fa3_60c9_4940_b45c_f16d9b3018eb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_d771411a_cf83_4392_8ccc_a8b0f429026c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_20205091_ea2a_447c_ba59_0a71a4ec4825() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_6fde6c2a_5b7b_4e95_ad5d_41ae8c683ffa() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_5bd071bf_a958_4529_8dca_d29957d14faf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_d771411a_cf83_4392_8ccc_a8b0f429026c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_c4fbb20b_fe4d_47b8_9aac_b6e7e6e7b53f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_15134e1e_d87f_4463_92a0_083edd1a3dc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9b718bb0_fa66_4adb_a718_cfd56478fec5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_fe19808b_2b7e_4d7c_9967_944d345bae7a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_b2d383dc_848c_4eb4_b444_8fef5a23a5e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_91b04cc8_0847_40f9_843b_16179d4d3cdd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_9b5e21e6_037b_4b86_930e_4af283c4a93a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_86b853a2_d4a7_4b7b_81a4_cac8e6e2bc5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_56c65a4c_750d_4b74_99f1_fde4512b6b08() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_db2676fb_c002_469f_af1b_3977da0a0e02() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_30840940_1ccd_4c67_baa6_c4d472619f46() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_08ead59f_f3ad_492a_b3ab_b81148a8d74b() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0ba301a4_a1f0_42a0_912e_3fa3778de74e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_5b71c020_45d3_4392_aab9_7d25ae2aae65() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_530ed63b_d8db_4e39_b293_c6cb77c993b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_dbe5417e_a9d4_4e33_b13e_014e032f2419() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ac7fa6a2_2a34_4265_b3ce_fa1103ad4136() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c7b26d06_fb84_4dc4_adfb_6c889bf354f5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9ce32e87_52fe_4d4b_849f_3a504b764ce5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_de8876d7_d22a_4e7b_93e9_97c2e66b7d61() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_7b5ef3a4_7856_44bb_94b2_a3f9dc936ede() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_47582dd3_ada5_4870_b3b8_7e586c1fbff5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_ac89610b_50a1_42e7_a874_238ca07ceed9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2f82ef57_b16e_42e4_85c8_301152a61901() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_84579cf4_0c8e_4fc7_a528_5e7a7bbc88a9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7d54445a_1515_4410_b5a4_d0fe6320830e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_43975c52_6994_4bbe_b9ae_26b2fa7e1646() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_a6abbfe2_9960_41fa_806a_30112194afbd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_00e3a74a_cb50_468d_8f20_26032d6fde23() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f89e7af5_3bbc_4ce1_8426_9e85a209f112() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_10736c77_102b_47f3_a0b7_4c7c41d3ad0d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_966b658e_7b16_472f_ae69_41114f372963() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_696f0df2_17ab_4dc4_a4e8_f99b0cd4bc26() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_25c81e45_5698_47f6_b503_f6f8cb7b627d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1e5bb4e7_a4f9_401f_a7f9_80585e9c3bf2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_34444986_4eaa_4bd2_b4d5_f029458eb969() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_966b658e_7b16_472f_ae69_41114f372963() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_c49960ca_9aab_4c14_9f03_e33a6bb83a84() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_e9781cb8_65e1_4f47_9895_0a4397bdf7e4() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6c009e11_87cf_489e_aa48_4187abfa271a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_f27e05ef_ac05_4b4f_bc51_49ae6852e3cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f1923995_762b_47bb_a750_706e11444ccd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_e5d751c8_4e99_4eae_9479_12164b7cbd72() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_8d1877dd_57ed_4a65_9694_6acd4372c75c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_15134e1e_d87f_4463_92a0_083edd1a3dc5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_1438602f_1564_4368_a920_55cc5f8f05d0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_caa81f36_e878_4d6c_91f8_d8fe638cdd3f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_4fce00af_2855_4d40_8524_a8b8c5871987() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c368c090_3527_4de7_9cf4_d9dce1bba0b1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_5873836d_175a_4641_892d_5be7aefd8b11() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_ed84b4c2_6654_4408_9063_eb4c8e5b57e1() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_858ea519_90d4_4feb_9eea_1b0979d543ff() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c1910f78_83ac_40d2_89f7_8611bea0bdd0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_a86207d2_8334_42c4_8f6c_2a880883dbe7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_a4c82a43_0819_4c38_8015_784f33e7687c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_43d020a7_4a5a_45ab_afe0_bbb22f472a36() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_03cc8392_6c7e_4228_97f4_2de80141a4c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_601848a1_86c6_46ec_8eb9_ed13cf9aeab2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_457f717e_e9c8_4ec5_9a32_72ffd3cf373c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_44c0e1d5_c9a6_4f9e_827c_aa0ceeddb2dc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_080820dd_d38e_406f_8b3f_62fca078d0c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f27e05ef_ac05_4b4f_bc51_49ae6852e3cc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_de4fbde4_a509_4e65_a5f4_5c14f88196e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_3435250a_fc84_43ca_aa53_9208ffdda6b2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_5501814a_b8bc_40f6_8649_054ad90acf1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_75a2adcd_402f_45c4_a00e_beca3b9af723() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_f8f8a167_29c4_4b38_951a_8521a2edff00() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_29d2b430_507e_4136_a05d_8d09cb27ec6e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_64016e12_ad35_4222_8e63_078f5efde32f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_d29b52fc_edd7_4e0a_b7bd_972d70e16ace() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_8c92d0ac_f414_4a54_951d_d3b4a8545d5c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_391d85cc_6a22_4747_9d05_10a35fe3dc1d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_95203111_6f4e_4cc4_86b2_c68657bcc898() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_982c09f7_b4bc_46de_90e1_caf3281e5c86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_2c73e514_da6a_493c_845d_bbe24ee95753() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_35e203e0_0a5d_48a1_a7cb_d8034e1f7d07() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_982c09f7_b4bc_46de_90e1_caf3281e5c86() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_bacc4f52_e86c_4f82_984b_1557ea99355d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_03cc8392_6c7e_4228_97f4_2de80141a4c9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_f9771953_7b9f_44a6_ba88_3a346575ccb7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_7268cb26_dcc5_4ffb_9dd2_e38d55f1fc64() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_9cd4a269_0ace_4bd2_a842_9550ac5204cd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_54af72f1_2ca8_4112_b42b_4d95af6a505f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_3e373339_fad3_469c_8364_f3d580c30334() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_37f1f357_64c1_4521_8eb4_a050284cc10f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_1e5bb4e7_a4f9_401f_a7f9_80585e9c3bf2() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_1b83514d_5d62_4247_aaf3_fca12d502335() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_ff7ed555_725d_4fe7_92d0_1630867a6399() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_8d525af0_b663_49d7_a5b0_7fba9b4c6a96() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_be82579e_632f_4d7b_9465_dfabd586bebb() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_7d6ad412_7f28_4649_a3c7_f83f2c5b0768() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_b0092186_cf5b_4c10_bde3_4a9c55422c35() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_95d7ef05_97df_4961_ad6a_cd5321234124() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_b2d383dc_848c_4eb4_b444_8fef5a23a5e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_fece2472_1efa_4822_ae56_056faaf1b66d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_4779c494_9510_445f_8603_d07442772956() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_2240021b_7a88_448d_9d66_ea312875174c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_afc81f1b_8b8a_4988_bf26_fc7143535d42() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_eacb5181_7053_4ed0_a659_2d104c350c4d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_39e1fdd2_23e4_443f_82d0_28cff8d868e0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_5aa69408_10d4_462d_9b7c_98a88b4978a0() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_35d70a05_64d5_4412_be64_819617d18e3a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_2c73e514_da6a_493c_845d_bbe24ee95753() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_4ac72fd2_feca_44f5_9208_cb5be5788d5f() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_b5120942_451f_4df2_8b17_14830bc921cf() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_d30a643b_d50c_44c4_9681_f2fc7858794e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_c9832bba_0e1d_4d55_935c_de02c2a00172() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_784ba029_fa4c_44f5_bf50_a2ee6ab8a4d9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_f268be3c_5171_40d0_b067_d443f9854d15() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_2512f8e0_536e_4131_9ad4_76066d4ca776() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0ab887b4_93dc_4f6a_a1ab_eea1d7408dab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_ee32b7df_a431_4e28_8f72_35cb78802c34() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_648c11d1_82aa_4928_b90c_c7ed8687de5e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_b28a3673_4828_41c8_8ffc_fdda60f676ed() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_47582dd3_ada5_4870_b3b8_7e586c1fbff5() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ac89610b_50a1_42e7_a874_238ca07ceed9() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_0d848b32_3e13_4dd1_84c0_a5d97f5c4554() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_3767e847_d51b_4f17_8374_e7982b04340a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_5_562c8776_4913_49c9_92a6_6abc3767090a() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)23l, (long)32l))));
+    assertEquals(23, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_6c77b832_8c7c_435c_aa24_9fee67b2eb7c() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_0ab887b4_93dc_4f6a_a1ab_eea1d7408dab() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_0ac72a5a_1e86_4fdc_8065_3b6bf0cfa7b8() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_737a537a_fc65_47c1_8e60_2f214e03438d() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_e55eabfe_9e38_4d3b_b8e2_1c15c20b98d3() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_06e4bd33_4a1c_4192_bb9a_19c8348fd323() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_6_a4c93ee4_8ff5_4ee1_a954_46a9e140925e() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)13l, (long)2l, (long)9l))));
+    assertEquals(3, result);
+}
+
+    @Test
+    public void test_solution_Problem_2_57351533_50b8_4d7e_be78_fabfea4e1834() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)30l, (long)13l, (long)24l, (long)321l))));
+    assertEquals(0, result);
+}
+
+    @Test
+    public void test_solution_Problem_0_ec82b20f_a496_489f_8388_14984c76e3fd() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)8l, (long)7l, (long)1l))));
+    assertEquals(12, result);
+}
+
+    @Test
+    public void test_solution_Problem_3_9f97e933_2fe5_48d0_b6b0_1d983612a407() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)5l, (long)9l))));
+    assertEquals(5, result);
+}
+
+    @Test
+    public void test_solution_Problem_1_513a847a_dd49_4386_9a5a_a96daff77bf7() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)3l, (long)3l, (long)3l, (long)3l, (long)3l))));
+    assertEquals(9, result);
+}
+
+    @Test
+    public void test_solution_Problem_4_92f07b4f_fcf3_41af_b6c3_ba17f820abfc() {
+    int result = solution((new ArrayList<Long>(Arrays.asList((long)2l, (long)4l, (long)8l))));
+    assertEquals(0, result);
+}
+
+}
